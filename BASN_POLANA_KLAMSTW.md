@@ -81,25 +81,111 @@ Gdy wrócili do domu Adamowo 8, Wilk poczuł ulgę. Przez pierwsze kilka dni wsz
 
 *Może to zadziała. Może wreszcie będzie normalnie.*
 
-Ale tego samego wieczora, gdy Wilk wyjechał do Holandii na kolejny kontrakt, Wiedźma Adamowska podeszła do swojego **Kotła Krzywd**. W kuchni, pod starą lampą naftową, Kocioł bulgotał lekko – nigdy nie gasł całkowicie. Zawsze coś w nim wrzało: stare urazy, pretensje, niedopowiedzenia.
+---
 
-Wiedźma złapała za chochlę. Jej twarz stężała w grymasie determinacji. Oczy błyszczały jak u drapieżnika, który właśnie zobaczył słabość ofiary.
+**Tego samego wieczora – Kocioł Krzywd**
 
-Zaczęła mieszać.
+Barbara stała przy oknie kuchni, patrząc na reflektory samochodu Dariusza znikające w ciemności drogi leśnej. Powrót do Holandii. Kolejny kontrakt. Kolejne miesiące nieobecności.
 
-Pierwsze bąble goryczy wypłynęły na powierzchnię. Dodała do Kotła świeży składnik: **„Zapis o służebności"**. Zapis, który Wilk uważał za podarunek, dla niej był prowokacją. *„Dał nam cały dom? Ale nie dał władzy. Nie dał kontroli. Nadal to ON jest właścicielem. Nadal to ON decyduje. To nie wystarczy."*
+*Jedzie. Już go nie ma.*
 
-Wiedźma wiedziała, że akt darowizny dał synowi własność, a im jedynie prawo do zamieszkiwania. Nie mogła tego znieść. Utrata dominującej pozycji w rodzinie uruchomiła w niej coś mrocznego, obsesyjnego.
+Odwróciła się. Kuchnia była pusta i cicha. Sylwester spał już w sypialni – zmęczony, bezużyteczny. Dom należał teraz tylko do niej.
 
-Dodała do Kotła kolejny składnik: **„Zemsta"**.
+Podeszła do szafki, sięgnęła na najwyższą półkę i wyciągnęła gruby, w twardej oprawie notatnik. Jej **Kalendarz**. Już teraz, w 2017 roku, miał kilkadziesiąt zapisanych stron.
 
-Jej długoterminowy plan właśnie się rozpoczął.
+Ale dziś nie pisała.
 
-**Osiem lat** miało minąć, zanim pętla się zamknie. Osiem lat bulgotania, mieszania, gromadzenia. **Dom Adamowo nr 8**. **Osiem lat** walki. **Ósemka** jako nieskończona pętla – Uroboros pożerający własny ogon.
+Dziś tylko... myślała.
 
-Wilk w Holandii zasypał spokojnie tej nocy, wierząc, że dom jest bezpieczny, że rodzina będzie szczęśliwa.
+Usiadła przy stole. Rozpaliła ogień pod starym kotłem – tym samym, w którym kiedyś gotowała obiady dla całej rodziny. Teraz był pusty, ale dla Barbary nigdy nie przestał działać. Kocioł zawsze coś gotował.
 
-Wiedźma w Adamowie czuwała nad Kotłem do późnej nocy, planując.
+Wrzucała do niego myśli. Urazy. Pretensje.
+
+*„Dał nam cały dom? Służebność dożywotnia?"*
+
+Jej palce zacisnęły się na krawędzi stołu.
+
+*„Ale to nadal ON jest właścicielem. ON decyduje. ON ma władzę."*
+
+Nie chodziło o dom. Nigdy nie chodziło o dom.
+
+Chodziło o **kontrolę**.
+
+Przez trzydzieści lat małżeństwa Barbara była tą, która decydowała. Sylwester był jej cieniem – wykonywał polecenia, kiw ał głową, nigdy nie sprzeciwiał się. Dzieci dorastały pod jej ręką – karmiła je, ubierała, wychowywała według swoich reguł.
+
+To **ona** była osią tego domu. Centrum grawitacji. Wszystko kręciło się wokół niej.
+
+A teraz? Teraz syn wrócił z Holandii z pieniędzmi, z planami, z pomysłami. Zaczął remonty bez pytania jej o zdanie. Montował solary, wymieniał dachy, budował coś swojego.
+
+*I ludzie mówią: „Jaki wspaniały syn! Jak dba o rodziców!"*
+
+Barbara czuła, jak coś w niej pęka.
+
+Nie zazdrość. Nie gniew.
+
+**Strach**.
+
+Strach przed tym, że staje się... *niepotrzebna*. Że dom, który był jej królestwem przez całe życie, przestaje jej należeć. Że Dariusz stanie się właścicielem nie tylko na papierze, ale w oczach ludzi.
+
+*„A ja? Co ja będę? Gościem we własnym domu?"*
+
+Nie mogła tego znieść.
+
+Wiedziała, że Dariusz nie jest zły. Wiedziała, że płaci rachunki, inwestuje, pomaga. Ale to nie miało znaczenia.
+
+Bo on **nie pytał jej o zgodę**. A brak zgody to brak szacunku. A brak szacunku to... utrata władzy.
+
+Barbara otworzyła Kalendarz na pustej stronie. Data: **7 lipca 2017**.
+
+Napisała tylko jedno zdanie, małymi literami, niemal nieczytelnie:
+
+> *„Dzisiaj stracił am swój dom."*
+
+Zamknęła notatnik. Odetchnęła głęboko.
+
+A potem – w głowie, jak echo – usłyszała głos. Nie jej własny. Głos jej matki, która umarła dwadzieścia lat temu.
+
+*„Nikt nie zabierze ci tego, co twoje. Musisz walczyć. Zawsze walczyć."*
+
+Barbara skinęła głową.
+
+*Tak. Muszę walczyć.*
+
+Ale jak?
+
+Darowizna była prawomocna. Dom należał do Dariusza. Ona i Sylwester mieli tylko prawo do mieszkania.
+
+*Chyba że...*
+
+Myśl przyszła powoli, ale wyraźnie.
+
+*Chyba że Dariusz okaże się... niewdzięczny. Rażąco niewdzięczny.*
+
+Westchnęła, czując dziwne ukłucie w sercu. Nie radość. Nie satysfakcję. Coś innego.
+
+Poczucie *misji*.
+
+*„Jestem matką. Mam obowiązek pokazać mu, że nie można tak traktować rodziców. Muszę go czegoś nauczyć."*
+
+I w tej myśli – w tej zaburzonej, choreg racjonalizacji – Barbara znalazła usprawiedliwienie dla wszystkiego, co miało nadejść.
+
+Wstała. Podeszła do kotła. Wrzuciła do niego kilka starych suchych gałązek. Ogień buchnął mocniej.
+
+Patrzyła na płomienie.
+
+*Osiem lat*, pomyślała, nie wiedząc dlaczego. *Osiem lat, zanim dom wróci do mnie.*
+
+Sylwester poruszył się przez sen w sąsiednim pokoju, mamrocząc coś niezrozumiale.
+
+Barbara zignorowała go.
+
+Zamknęła oczy i wyobraziła sobie przyszłość: dom z powrotem w jej rękach. Dariusz daleko. Może nawet bez kontaktu. Cisza. Spokój. Kontrola.
+
+*Tak będzie lepiej. Dla wszystkich.*
+
+Zgasiła światło i poszła spać.
+
+Kocioł bulgotał przez całą noc.
 
 Siódemki, które miały przynieść szczęście, stały się pieczęcią klątwy. Darowizna z 7.07.2017 otworzyła historię nie w nadziei, ale w iluzji. A iluzja, jak wszystko na Polanie Kłamstw, nie trwa długo.
 
@@ -321,39 +407,123 @@ W jej umyśle Julia nie była osobą. Była **zagrożeniem**.
 
 **Noc z 9 na 10 Lutego: Wtargnięcie (2:30)**
 
-To, co wydarzyło się w nocy z 9 na 10 lutego, miało charakter symboliczny. Wiedźma, dręczona obsesją i niezdolna do dalszego czekania, postanowiła **zaatakować**.
+Noc była tak cicha, że słyszał tylko bicie własnego serca i cichy oddech Julii obok. Dariusz leżał na wznak, wpatrując się w sufit. Nie mógł zasnąć – ta sama myśl krążyła w jego głowie od godzin: *Czy ona nas zostawi w spokoju?*
 
-O **2:30 w nocy** – godzina, gdy nawet las śpi – Wiedźma wstała z łóżka. Nie zapaliła światła. Szła po ciemku, znając każdą deskę w podłodze. Stanęła przed drzwiami pokoju Dariusza.
+Zegar na ścianie pokazywał 2:27. Trzy minuty do pół do trzeciej. Godzina, gdy nawet las śpi.
 
-Nie zapukała.
+Julia poruszyła się obok, mamrocząc coś przez sen. Jej dłoń spoczywała na jego ramieniu. Po raz pierwszy od tygodni czuła się na tyle bezpiecznie, by zasnąć naprawdę.
 
-Otworzyła drzwi z impetem.
+Dariusz właśnie zamykał oczy, gdy usłyszał to.
 
-Światło z korytarza wdarło się do pokoju jak ostrze noża. Wilk i Sarenka leżeli w łóżku, przykryci kołdrą, ubrani, śpiący. Obudzili się w szoku.
+*Skrzypnięcie deski.*
 
-Wilk poderwał się, oszołomiony, przerażony.
+Zatrzymał oddech. Cisza. Może mu się zdawało?
 
-– *Co...?! Co ty robisz?!*
+*Drugie skrzypnięcie.* Bliżej.
 
-Wiedźma stała w progu, z rękami skrzyżowanymi na piersi, z triumfem w oczach.
+Ktoś szedł korytarzem. Po ciemku. Powoli. Celowo cicho.
 
-– *Wiedziałam! Wiedziałam, że tutaj jest! Franco cholerna!*
+Serce waliło mu teraz jak młot. *Ona. To ona.*
 
-Julia skuliła się pod kołdrą, przerażona. Wilk wstał z łóżka, zasłaniając ją przed matką.
+*Trzecie skrzypnięcie.* Tuż przed drzwiami.
 
-– ***Wynoś się! To MOJA nora!*** – krzyknął, łamiącym się głosem. To nie był krzyk agresji. To był krzyk rozpaczy, wołanie o autonomię, o ostatni skrawek prywatności we własnym domu.
+Dariusz uniósł się na łokciu. Julia nadal spała. Patrzył na klamkę, modląc się w duchu: *Nie. Proszę, nie. Zostaw nas w spokoju.*
 
-Ale Wiedźma dostała to, czego chciała.
+Cisza.
 
-Jej oczy lśniły. Triumf. Wilk krzyczy. Wilk jest agresorem. Wilk **atakuje** swoją matkę.
+Może odeszła? Może tylko sprawdzała, czy światło jest zgaszone?
 
-Odwróciła się i wyszła, nie mówiąc ani słowa więcej.
+A potem – nie pukanie, nie ostrzeżenie – ale **TRZASK**.
 
-Następnego dnia, 10 lutego, rano, Wiedźma usiadła przy kuchennym stole i otworzyła Kalendarz. Jej ręka była spokojna, pewna. Pisała jak prawnik układający akt oskarżenia:
+Drzwi uderzyły o ścianę z taką siłą, że drewniana rama zadrżała. Zamek, który Dariusz myślał, że zabezpieczył, ustąpił. Zatrzask pękł pod naporem, a metalowe elementy zatrzeszczały przeraźliwie.
 
-> *„10 lutego, 2:30 – wtargnęłam do pokoju Dariusza. Spał z tą francą cholerną. Kiedy go obudziłam, zaczął na mnie krzyczeć. Groził mi. Wyrzucał mnie z MOJEGO WŁASNEGO DOMU. To było przerażające."*
+Oślepiło go światło.
 
-Ani słowa o tym, że to ona wtargnęła bez pukania. Ani słowa o tym, że to ona naruszyła granice. Ani słowa o tym, że Wilk bronił się, a nie atakował.
+Zmrużył oczy, zasłaniając twarz ręką. Przez palce widział tylko sylwetkę matki w progu – czarną, wielką, nieruchomą na tle jarzącego się korytarza. Jej ręce opierały się na biodrach. Oddychała ciężko, jak ktoś, kto właśnie wspinał się po schodach. Albo jak ktoś, kto przygotowywał się do ataku.
+
+– *Co...?!* – Głos uwiązł mu w gardle.
+
+Obok Julia wrzasnęła – wysoki, ostry dźwięk czystego przerażenia. Skuliła się pod kołdrą, jej ciało drżało.
+
+Barbara stała w progu, nieruchoma jak posąg. Ale jej oczy – te oczy – płonęły triumfem.
+
+– *Wiedziałam!* – Jej głos był niski, powolny, niemal śpiewny. Cieszyła się z tego. – *Wiedziałam, że tutaj jest! Franco cholerna!*
+
+Coś w Dariuszu pękło.
+
+Nie strach. Nie złość. Tylko czysta, pierwotna potrzeba obrony. *To mój pokój. To moja przestrzeń. To jest wszystko, co mi zostało.*
+
+Zerwał się z łóżka, nagi do pasa. Zimne powietrze z korytarza uderzyło w jego skórę, ale on czuł tylko wrzącą krew. Stanął między matką a Julią, zasłaniając dziewczynę własnym ciałem.
+
+– *Wynoś się!* – Jego głos był obcy. Nigdy wcześniej tak nie krzyczał. Gardło piekło, a słowa wydobywały się z głębi brzucha. – *Słyszysz?! To jest MOJA nora! MOJA!*
+
+Barbara nie drgnęła. Nie cofnęła się ani o centymetr. Przeciwnie – jej usta wygięły się w ledwo widoczny uśmiech.
+
+*Mam cię*, powiedziały jej oczy.
+
+– *WYNOŚ SIĘ!* – wrzasnął ponownie, a w jego głosie była już tylko rozpacz. – *WYNNOŚ SIĘ STĄD!*
+
+Za nim Julia płakała – ciche, stłumione szlochy w poduszkę.
+
+Barbara odwróciła się powoli, demonstracyjnie. Nie spieszyła się. Robiła to ze spokojem kogoś, kto właśnie wygrał partię szachów.
+
+Zatrzymała się w progu, nie odwracając głowy.
+
+– *Będziesz tego żałował* – powiedziała cicho, ale wyraźnie.
+
+I wyszła.
+
+Drzwi zamknęły się z cichym kliknięciem. Światło zniknęło. Zostały tylko ciemność i echo jego własnego krzyk u, odbijające się od ścian pokoju.
+
+Dariusz stał w miejscu, drżąc. Jego ręce zacisnęły się w pięści tak mocno, że paznokcie wbiły się w dłonie. Oddychał ciężko, nieregularnie.
+
+*Co ja zrobiłem. Co ja właśnie zrobiłem.*
+
+Wiedział. Głęboko w środku wiedział, że to właśnie było jej celem. Sprowokowała go. A on dał jej dokładnie to, czego chciała.
+
+Julia płakała za jego plecami.
+
+– *Przepraszam* – wyszeptał w ciemność. Nie wiedział, czy mówi do niej, czy do siebie. – *Tak mi przykro.*
+
+---
+
+**Następnego ranka: Kalendarz Wiedźmy**
+
+Barbara obudziła się o szóstej. Nie spała zbyt długo po incydencie – nie z powodu strachu czy szoku. Po prostu adrenalin a utrzymywała ją w stanie czuwania przez resztę nocy.
+
+Ale nie była zmęczona. Czuła się... ożywiona.
+
+Usiadła przy kuchennym stole, zaparzyła kawę i otworzyła swój Kalendarz – gruby, w twardej oprawie notatnik, który kryła w szufladzie pod fartuchami. Każda stronica była wypełniona równym, aptekarskim pismem.
+
+Przewróciła do najnowszego wpisu – wczoraj zapisała tylko datę i godzinę, czekając na rozwój sytuacji.
+
+Teraz mogła dokończyć.
+
+Wzięła długopis. Jej ręka była spokojna, pewna. Żadnego drżenia. Pisała metodycznie, starannie dobierając każde słowo – jak prawnik układający akt oskarżenia:
+
+> *10 lutego 2021, godzina 2:30 w nocy*
+>
+> *Nie mogłam spać. Słyszałam szepty dobiega jące z pokoju Dariusza. Wiedziałam, że ta kobieta tam jest. Postanowiłam sprawdzić – to w końcu mój dom.*
+>
+> *Otworzyłam drzwi do jego pokoju. Spał z tą francą cholerną w jednym łóżku. Kiedy go obudziłam, stał się agresywny. Zaczął na mnie krzyczeć. Groził mi. Wyrzucał mnie z MOJEGO WŁASNEGO DOMU. Bałam się, że coś mi zrobi.*
+>
+> *To było przerażające.*
+
+Odłożyła długopis. Przeczytała wpis raz, drugi. Kiwnęła głową z zadowoleniem.
+
+Żadnego słowa o wyważonych drzwiach. Żadnego słowa o tym, że ona wtargnęła bez pukania, bez ostrzeżenia, o drugiej trzydzieści w nocy. Żadnego słowa o tym, że Dariusz bronił się, a nie atakował.
+
+Ale nie to było ważne.
+
+Ważne było to, że miała **dowód**. Zapisany, datowany, gotowy do użycia.
+
+Zamknęła Kalendarz i schowała go z powrotem do szuflady. Wzięła łyk kawy. Była już zimna, ale nie przeszkadzało jej to.
+
+Za oknem las budził się do życia. Świtało.
+
+Barbara siedziała przy stole, patrząc w przestrzeń, i po raz pierwszy od tygodni pozwoliła sobie na mały, prawdziwy uśmiech.
+
+*Mam go. Wreszcie mam prawdziwy dowód.*
 
 ---
 
@@ -651,73 +821,155 @@ Pozostało tylko sprowokować sytuację, w której Wilk wyciągnie urządzenie. 
 
 **Noc Prowokacji: Wyłączenie Prądu**
 
-Pewnej marcowej nocy, gdy Wilk pracował w warsztacie, Wiedźma usłyszała muzykę dobiegającą z budynku gospodarczego. Nie była głośna – warsztat stał kilkadziesiąt metrów od domu. Ale Wiedźma potrzebowała pretekstu.
+Marzec przyniósł chłodne wieczory. Dariusz pracował w warsztacie do późna – spawał, naprawiał stare narzędzia, próbował zajmować umysł czymkolwiek innym niż napięcie w domu.
 
-Wyszła z domu i podeszła do **skrzynki z bezpiecznikami** – głównej skrzynki elektrycznej zasilającej całą posesję.
+Włączył radio. Stara rockowa stacja. Muzyka płynęła cicho – ledwo słyszalna nawet w warsztacie, a co dopiero z daleka.
 
-Celowo wyłączyła główny bezpiecznik.
+Była 22:47. Za oknem ciemność.
 
-Cały dom pogrążył się w ciemności. Warsztat również zgasł. Muzyka ucichła.
+---
 
-Wiedźma wróciła do domu i czekała.
+W domu Barbara siedziała przy kuchennym stole, udając, że czyta gazetę. Ale tak naprawdę nasłuchiwała.
+
+Słyszała muzykę. Ledwo, ale słyszała.
+
+*Pracuje. Znowu tam siedzi, jakby to był jego świat. Jakbym ja nie istniała.*
+
+Odłożyła gazetę. Podeszła do okna. Przez szybę widać było światło w oknie warsztatu.
+
+*Trzeba go stamtąd wyciągnąć. Trzeba sprawdzić, czy ta latarka z paralizatorem naprawdę tam jest. Widziałam ją raz, na półce. Ale nie miałam dowodu.*
+
+Założyła kurtkę. Wyszła na dwór. Mróz szczyp ał w twarz.
+
+Skrzynka z bezpiecznikami wisiała na ścianie domu, tuż obok drzwi wejściowych. Otworzyła metalową klapkę. W środku rząd przełączników – główny bezpiecznik na górze.
+
+Spojrzała w stronę warsztatu. Światło paliło się.
+
+Podniosła rękę. Zawahała się przez ułamek sekundy.
+
+*To prowokacja. Wiem, że to prowokacja. Ale muszę wiedzieć, co ma w ręku, gdy wyjdzie.*
+
+Pstryknęła.
+
+**KLIK.**
+
+Całe podwórze pogrążyło się w ciemności. Dom. Warsztat. Wszystko.
+
+Muzyka ucichła.
+
+Barbara zamknęła skrzynkę i wróciła do domu. Stanęła przy oknie kuchni, patrząc w ciemność.
+
+Czekała.
 
 ---
 
 **Wilk Wychodzi z Latarką**
 
-W warsztacie Wilk siedział w ciemnościach. Muzyka z głośnika ucichła. Światło zgasło. Maszyny przestały pracować.
+W warsztacie panowała całkowita ciemność.
 
-*Znowu. Znowu coś wyłączyła.*
+Dariusz zamarł, trzymając spawarkę. Nagle wszystko zgasło – światło, radio, ogrzewacz.
 
-Wiedział, że to prowokacja. Ale nie mógł ignorować sytuacji – bez prądu nie mógł pracować, nie mógł ogrzać warsztatu (zimny marcowy wieczór), nie mógł naładować telefonu.
+*Co teraz?*
+
+Odłożył spawarkę i spojrzał przez okno. Dom też był ciemny.
+
+*Bezpiecznik. Albo zwarcie.*
+
+Ale wiedział. Głęboko w środku wiedział, że to nie było zwarcie.
+
+*Ona wyłączyła prąd.*
+
+Westchnął. Mógł zostać w warsztacie, czekać do rana. Ale bez prądu nie mógł nic zrobić. A marzec był zimny – bez ogrzewacza temperatura spadłaby do zera w ciągu godziny.
 
 Musiał włączyć bezpiecznik.
 
-Wziął latarkę – tę z funkcją paralizatora – i wyszedł z warsztatu. Nie włączył funkcji paralizatora. Używał jej wyłącznie jako **latarki** – potrzebował światła, by znaleźć skrzynkę bezpieczników w ciemności.
+Rozejrzał się po ciemnym warsztacie. Gdzie położył latarkę?
 
-Szedł przez podwórko, oświetlając drogę snopem światła. Dotarł do skrzynki. Otworzył ją. Zobaczył wyłączony bezpiecznik.
+*Tam. Na półce obok drzwi.*
 
-*Oczywiście. Wyłączyła celowo.*
+Wymacał urządzenie. Latarka z funkcją paralizatora – kupiona tydzień temu po SMS-ie od brata Barbary. Nigdy jej nie użył. Trzymał ją jako zabezpieczenie, na wypadek gdyby ktoś rzeczywiście przyszedł go zaatakować.
 
-Włączył bezpiecznik. Światła w domu i warsztacie zapaliły się.
+Włączył ją. Silny snop światła rozjaśnił warsztat.
 
-I wtedy usłyszał głos za sobą.
+Wyszedł na dwór.
+
+Zimno. Oddech tworzył chm urki pary. Szedł przez podwórko w stronę domu, oświetlając drogę latarką. Kałuże na ziemi były pokryte cienką skorupą lodu.
+
+Skrzynka z bezpiecznikami była przy drzwiach wejściowych. Otworzył klapkę.
+
+Główny bezpiecznik – wyłączony.
+
+*Oczywiście.*
+
+Sięgnął, żeby go włączyć.
+
+I wtedy usłyszał za sobą głos.
 
 ---
 
-**Przebiegły Dialog: Pułapka Wiedźmy**
+**Pułapka Wiedźmy: Dialog w Ciemności**
 
-Wiedźma stała kilka metrów za nim, w cieniu. Czekała. Obserwowała.
+– Znowu gdzieś włazisz.
 
-– *Znowu gdzieś włazisz* – powiedziała chłodno. – *Co to masz w ręce?*
+Dariusz zamarł. Odwrócił się powoli.
 
-Wilk odwrócił się, oświetlając ją latarką.
+Barbara stała trzy metry za nim. Wyszła z domu bez słowa, bez światła. Musiała czekać tuż za drzwiami.
 
-– *Latarkę. Musiałem włączyć bezpiecznik.*
+Snop latarki padł na jej twarz. Zmrużyła oczy, ale nie cofnęła się.
 
-Wiedźma przysunęła się bliżej, mrużąc oczy.
+– Musiałem włączyć bezpiecznik – powiedział Dariusz, starając się zachować spokój. – Prąd wyłączony.
 
-– *To tylko latarka?*
+– Wiem. – Jej głos był płaski, pozbawiony emocji. – Co to masz w ręce?
 
-Wilk zawahał się. Mógł skłamać. Mógł powiedzieć „tak" i odejść. Ale wiedział, że kłamstwo da jej jeszcze większą broń. Więc powiedział prawdę.
+Dariusz spojrzał na latarkę. Serce zabiło mu szybciej.
 
-– *Ma funkcję paralizatora. Ale jej nie używam. To tylko latarka.*
+*To pułapka. Ona wie. Dlatego wyłączyła prąd. Żeby zobaczyć, z czym wyjdę.*
 
-Wiedźma nie zareagowała strachem.
+Mógł skłamać. Mógł powiedzieć „latarka" i nic więcej. Ale ona już wiedziała. Widziała to urządzenie wcześniej, w warsztacie.
 
-Jej twarz nie wyraziła ani paniki, ani przerażenia. Zamiast tego – w jej oczach błysnęło coś innego.
+– Latarka – powiedział.
 
-**Radość**.
+– *Tylko* latarka? – Barbara zrobiła krok do przodu. Teraz była może dwa metry od niego. Wystarczająco blisko, by widzieć szczegóły.
 
-*Dostałam go.*
+Dariusz zacisnął szczękę.
 
-– *Aha* – powiedziała spokojnie. – *Rozumiem.*
+– Ma funkcję paralizatora. Na wypadek... – przerwał.
 
-I odwróciła się, wracając do domu.
+– Na wypadek *czego*? – Jej głos był ostry jak brzytwa.
 
-Wilk stał w ciemności, trzymając latarkę, czując rosnący niepokój. *Coś jest nie tak. Dlaczego nie krzyczała? Dlaczego nie uciekła?*
+– Na wypadek gdyby ktoś mnie zaatakował. Twój brat przysłał mi SMS-a. Groził, że... – Zamilkł, wiedząc, że to bez sensu. Każde słowo jest bronią w jej rękach.
 
-Ale nie wiedział jeszcze, co się wydarzy.
+Barbara nie odpowiedziała od razu. Stała nieruchomo, patrząc na niego. A potem – na ułamek sekundy – Dariusz zobaczył to.
+
+Błysk w jej oczach. Nie strach. Nie przerażenie.
+
+**Satysfakcja.**
+
+*Dostałam cię.*
+
+– Aha. – Jej głos był teraz spokojny, niemal obojętny. – Rozumiem.
+
+I odwróciła się. Bez pośpiechu. Bez słowa więcej.
+
+Wróciła do domu. Drzwi zamknęły się za nią z cichym kliknięciem.
+
+Dariusz stał na podwórku, trzymając latarkę. Ręce drżały mu lekko – nie z zimna, ale z adrenaliny.
+
+*Co się właśnie stało? Dlaczego się nie przestraszyła? Dlaczego... czemu była taka spokojna?*
+
+Włączył bezpiecznik. Światła w domu i warsztacie zapaliły się.
+
+Ale Dariusz czuł, że coś się zmieniło. Coś nieodwracalnego.
+
+Wrócił do warsztatu, zamknął drzwi na klucz i usiadł na starym krześle, wpatrując się w latarkę w swoich dłoniach.
+
+*To była pułapka. Ona sprowokowała całą sytuację. Wyłączyła prąd, żeby zobaczyć, z czym wyjdę.*
+
+I teraz miała to, czego chciała.
+
+**Dowód.**
+
+Tej nocy Dariusz nie wrócił do pracy. Siedział w ciemnym, zimnym warsztacie, czując, jak pętla zaciska się wokół jego szyi.
 
 ---
 
@@ -1167,57 +1419,117 @@ I wtedy pojawił się Domek.
 
 **5 Minut Przed Rozprawą: Wymuszenie**
 
-Aleksander Domek podszedł do Wilka z poważną miną.
+Korytarz przed salą rozpraw był zimny i pachniał starym linoleum. Dariusz siedział na plastikowym krześle, zaciskając dłonie na krawędzi teczki z dokumentami. W środku miał wszystko – zdjęcia inwestycji, wydruki przelewów, SMS-y od brata Barbary z groźbami pobicia.
 
-– *Musimy porozmawiać. Pilnie.*
+*Wreszcie*, pomyślał. *Wreszcie będę mógł powiedzieć prawdę.*
 
-Wilk wstał, zaniepokojony.
+Zegar na ścianie pokazywał 9:25. Pięć minut do rozprawy.
 
-– *Co się stało?*
+Woźny sądowy właśnie otwierał drzwi sali, gdy usłyszał szybkie kroki za sobą.
 
-Domek spojrzał na niego chłodno.
+Odwrócił się.
 
-– *Słuchaj. Ta sprawa... to jest bez sensu ją prowadzić. Matka ma kalendarz, zeznania, Niebieską Kartę. Sąd uwierzy jej, nie tobie.*
+Aleksander Domek szedł korytarzem z poważną miną, niosąc swoją skórzaną teczkę. Jego buty stukały głośno o podłogę – miarowo, pewnie, jak krokmierz odmierzający czas.
 
-Wilk poczuł, jak ziemia usuwa mu się spod nóg.
+– Musimy porozmawiać – rzucił bez powitania. – Pilnie.
 
-– *Ale... ale mamy dowody! Kamery pokazują, że to ona prowokuje! Kalendarz jest pełen kłamstw!*
+Dariusz wstał, czując nagły ucisk w żołądku.
 
-Domek machnął ręką lekceważąco.
+– Teraz? Prokurator już jest w sali. Co się stało?
 
-– *To nie ma znaczenia. Sąd widzi starą kobietę i młodego faceta z paralizatorem. Kto wygra w oczach sędziego?*
+Domek złapał go za łokieć i pociągnął w kąt korytarza, z dala od innych ludzi. Jego uchwyt był mocny, niemal bolesny.
 
-Wilk milczał, przerażony.
+Stanęli przy oknie. Za szybą widać było parking i szare niebo listopada.
 
-Domek nachylił się bliżej, obniżając głos.
+– Słuchaj uważnie – Domek mówił cicho, ale wyraźnie. Nie patrzył Dariuszowi w oczy. Wpatrywał się w swoje paznokcie, jakby sprawdzał, czy są idealnie przystrzyżone. – Ta sprawa jest bez sensu.
 
-– *Zaufaj mi. Przyznaj się do winy. Powiedz, że żałujesz. Dostaniesz symboliczny wyrok, może nawet w trybie nakazowym – bez rozprawy. I sprawa będzie zamknięta. Koniec. Święty spokój.*
+– Co? – Dariusz poczuł, jak tętno przyspiesza. – Przecież mówiłeś, że mamy mocne argumenty...
 
-– *Ale... to kłamstwo!* – wykrzyknął Wilk. – *Ja się nie znęcałem!*
+– *Argumenty*. – Domek wypluł to słowo jak pestką. – Chłopcze, twoja matka ma kalendarz pełen konkretnych dat. Ma zeznania policji. Ma Niebieską Kartę. A ty? Masz zdjęcia solarów i wydruki przelewów. – Machnął ręką lekceważąco. – Sąd to gówno obchodzi.
 
-Domek westchnął, jakby miał do czynienia z nierozumnym dzieckiem.
+Dariusz cofnął się o krok, jakby dostał w twarz.
 
-– *Dariuszu. Posłuchaj. Jeśli będziesz walczył, ta sprawa przeciągnie się na miesiące. Matka wezwie świadków. Przedstawi setki stron kalendarza. Sąd cię skaże i tak. A wyrok będzie cięższy. Zaufaj mi – **przyznaj się, a sprawa będzie zamknięta**.*
+– Ale... kamery. Nagrania pokazują, że to ona prowokowała. Wyłączała prąd. Wtargnęła do mojego pokoju o drugiej w nocy!
 
-Wilk stał w korytarzu, oszołomiony. Jego umysł krzyczał: *NIE! To pułapka!* Ale był wyczerpany. Psychicznie złamany. Miesiące walki z Wiedźmą, Niebieska Karta, oskarżenie karne – wszystko to zmiażdżyło go.
+Domek w końcu na niego spojrzał. Jego oczy były zimne jak lód, a w kącikach ust czaił się cień uśmiechu.
 
-Domek dodał jeszcze jedno kłamstwo – najgorsze ze wszystkich:
+– Widzisz siebie? – Wskazał na niego palcem. – Młody, zdrowy facet. Metr osiemdziesiąt. Paralizator w ręce. – Potem wskazał w stronę sali rozpraw. – A tam siedzi siedemdziesięcioletnia kobieta, która mówi, że boi się własnego syna. Sędzia już wie, kogo uwierzy.
 
-– *I jeszcze jedno: ten wyrok będzie **bezwartościowy w sprawie o dom**. Matka nie będzie mogła go użyć przeciwko tobie w sądzie cywilnym. To tylko formalne zamknięcie sprawy karnej.*
+– Ale to nieprawda! – głos Dariusza się łamał. – Ja jej nie skrzywdziłem!
 
-Wilk, desperacki, łapiący się ostatniej deski ratunku, uwierzył.
+– Nieważne, co jest prawdą. – Domek nachylił się bliżej. Teraz jego głos był niemal szeptem, intymny i jadowity zarazem. – Ważne, co sędzia *widzi*. A sędzia widzi starą, drżącą kobietę i paranoicznego syna z kamerami wszędzie.
 
-– *...naprawdę?*
+Cisza. Tylko tykanie zegara na ścianie. 9:27.
 
-– *Naprawdę. Zaufaj mi.*
+Dariusz poczuł, jak nogi mu miękną.
 
-Wilk skinął głową, łamiąc się.
+– Co... co mam zrobić?
 
-– *Dobrze. Zrobię to.*
+A Domek już wiedział, że wygrał. Zobaczył to w oczach klienta – tę kapitulację, tę rezygnację. Jak hiena zwietrzająca krew.
 
-Hiena się uśmiechnęła.
+– Przyznaj się – powiedział łagodnie, niemal ojcowsko. – Powiedz sędziemu, że żałujesz. Że straciłeś panowanie nad sobą, ale rozumiesz, jak to było dla niej trudne. Dostaniesz symboliczną karę, tryb nakazowy, bez dalszych rozpraw. – Klepnął go po ramieniu. – I będzie po wszystkim. Wrócisz do Holandii. Zaczniesz od nowa.
 
-*Dostałem go.*
+– Ale... – Dariusz patrzył na teczkę w swoich rękach. Miesią ce pracy. Setki godzin zbierania dowodów. – To kłamstwo. Nie mogę kłamać przed sądem.
+
+– *Kłamstwo*? – Domek prychnął. – Posłuchaj. Jeśli będziesz walczył, sprawa przeciągnie się na pół roku. Twoja matka wezwie świadków. Całą rodzinę. Wszystkich sąsiadów. Przedstawi ten jej kalendarz – setki stron szczegółowych oskarżeń. – Przerwał, dając słowom zabrzmieć. – A sąd cię skaże i tak. Tylko wtedy wyrok będzie cięższy. Może kara więzienia. Może zakaz zbliżania się. Chcesz tego?
+
+Dariusz pokręcił głową, czując, jak świat zaczyna wirować.
+
+– Nie... ale...
+
+– Nie ma „ale". – Domek przeszedł do sedna. Teraz mówił szybko, jak sprzedawca zamykający transakcję. – Masz dwie opcje. Walczysz i tracisz wszystko. Albo przyznaje sz się, dostaj esz grzywnę i zamykamy sprawę. Dziś. Teraz.
+
+– Grzywna... – Dariusz powtórzył mechanicznie.
+
+– I jeszcze jedno. – Domek obniżył głos do konspiracyjnego szeptu. Nachylił się tak blisko, że Dariusz poczuł zapach jego wody kolońskiej – ostry, chemiczny. – Ten wyrok będzie *bezwartościowy* w sprawie o dom.
+
+Dariusz podniósł głowę.
+
+– Co?
+
+– Matka nie będzie mogła użyć go przeciwko tobie w sądzie cywilnym. Sprawy karne i cywilne to zupełnie odrębne tory. Ten wyrok to tylko formalność. Aby zamknąć Niebieską Kartę. – Domek patrzył mu prosto w oczy, nie mrugając. – Zaufaj mi. Robię to dwadzieścia lat. Wiem, jak działa system.
+
+W głowie Dariusza kłębiły się myśli. *Bezwartościowy w sprawie o dom. Tylko zamknięcie sprawy karnej. Grzywna i koniec.*
+
+Chciał w to uwierzyć. Desperacko chciał uwierzyć, że istnieje proste wyjście z tego koszmaru.
+
+– ...naprawdę? – wyszeptał.
+
+– Naprawdę. – Domek wyciągnął rękę, kładąc ją na ramieniu Dariusza. Gest niemal przyjacielsk i. – Zaufaj mi, Darek. Jestem po twojej stronie.
+
+Zegar wybił 9:28.
+
+Dariusz skinął głową. Bardzo powoli, jak automat.
+
+– Dobrze. Zrobię to.
+
+W oczach Domka błysnęło coś szybkiego – triumf, satysfakcja – ale zanikło równie szybko.
+
+– Świetna decyzja. – Uśmiechnął się szeroko, pokazując białe, idealnie równe zęby. – Nie pożałujesz.
+
+Ale zanim ruszyli w stronę sali, Domek sięgnął do teczki i wyciągnął... kawałek tektury. Zwykły, beżowy kartonik, jak ten, który wyrzuca się po rozpakowaniu koszul.
+
+– Jeszcze jedna formalność. – Podał Dariuszowi długopis. – Napisz tu: „Nie będę wracał do sprawy. Nie będę dochodził roszczeń za nakłady w nieruchomość."
+
+Dariusz patrzył na kartonik.
+
+– Co to jest?
+
+– Zabezpieczenie. Dla twojego dobra. – Domek mówił lekkim, niedbałym tonem. – Żebyś nie miał pokus y wrócić do tego piekła. Czysta karta. Nowy start.
+
+Ręka Dariusza drżała, gdy brała długopis. W jego głowie krzyczał wewnętrzny głos: *NIE! To pułapka!*
+
+Ale był tak zmęczony. Tak strasznie zmęczony.
+
+Napisał. Litery wychodziły krzywe, jakby pisało dziecko.
+
+*„Nie będę wracał do sprawy. Nie będę dochodził roszczeń za nakłady w nieruchomość."*
+
+Domek zabrał kartonik, złożył go starannie i schował do wewnętrznej kieszeni marynarki.
+
+– Świetnie. – Poklepał go po plecach. – Teraz chodźmy. Pora skończyć ten koszmar.
+
+I poprowadził Dariusza do sali rozpraw – jak rzeźnik prowadzi baranka na rzeź.
 
 ---
 
@@ -1243,29 +1555,119 @@ Domek schował kartonik do teczki.
 
 **Farsa na Sali: Scenka Pojednania**
 
-Na sali rozpraw Domek zainscenizował **teatr pojednania**.
+Sala rozpraw była mała, duszna, z wysokim sufitem i oknem zakratowanym. Za stołem sędziowskim siedziała sędzia – kobieta po pięćdziesiątce, w okularach, z wyrazem zmęczenia na twarzy. Prokurator przeglądał akta, ziewając dyskretnie.
 
-Przed sędzią, w obecności prokuratora i Barbary, Domek kazał Wilkowi:
+Barbara siedziała po lewej stronie, w pierwszym rzędzie, w ciemnej sukience i z torebką na kolanach. Wyglądała jak każda siedemdziesięcioletnia kobieta – drobna, krucha, niegroźna.
 
-– *Podejdź do matki. Przytul ją. Powiedz, że żałujesz.*
+Dariusz stanął przed sędzią. Gardło miał ściśnięte jak w imadle.
 
-Wilk, jak automat, podszedł do Wiedźmy. Stanął przed nią. Spojrzał w jej oczy – zimne, triumfujące.
+Sędzia spojrzała na niego przez okulary.
 
-Objął ją. Czuł, jak jego dusza umiera.
+– Pan Dariusz Adamski?
 
-– *Przepraszam* – wyszeptał.
+– Tak.
 
-Wiedźma uśmiechnęła się.
+– Przyznaje się pan do zarzucanego czynu?
 
-*Wygrałam.*
+Domek, siedzący tuż za nim, szturchnął go dyskretnie w plecy.
 
-Sędzia patrzył na scenę z zadowoleniem. *Ach, jak pięknie. Rodzina się godzi.*
+– ...Tak. Przyznaj ę się.
 
-Prokur
+Sędzia skinęła głową, robiąc notat kę.
 
-ator kiwnął głową.
+– Czy rozumie pan, że przyznanie się do winy będzie miało wpływ na wymiar kary?
 
-Domek siedział z tyłu sali, z zadowoloną miną.
+– Tak.
+
+– Czy ma pan coś do dodania?
+
+Cisza. Dariusz otworzył usta, ale żadne słowo nie chciało wyjść. W głowie miał chaos – tysiące rzeczy do powiedzenia, a jednocześnie pustkę.
+
+Domek wstał z miejsca, zbliżając się do barierki.
+
+– Pani Sędziu, jeśli wolno – mój klient chciałby wyrazić skruchę. Jest gotów publicznie przeprosić matkę i pogodzić się z nią.
+
+Sędzia uniosła brew, wyraźnie zaskoczona i... zadowolona.
+
+– To godne pochwały. Proszę bardzo.
+
+Domek skinął na Dariusza, wskazując na Barbarę.
+
+– Darek. Podejdź do mamusi. – Jego głos był ciepły, zachęcający, jak nauczyciela prowadzącego dziecko przez przedstawienie szkolne.
+
+Dariusz stał jak sparaliżowany.
+
+*Nie. Tylko nie to.*
+
+Domek pochylił się i szepnął mu do ucha, tak cicho, że nikt inny nie słyszał:
+
+– Podejdziesz. Przytulisz. I powiesz „przepraszam". Głośno. Tak, żeby sędzia słyszała. – Przerwał na ułamek sekundy. – Albo idziemy na rozprawę i dostajesz zakaz zbliżania się. Wybór należy do ciebie.
+
+Dariusz czuł, jak nogi go nie trzymają. Jak świat zamienia się w koszmar, w którym nie ma już wyjścia.
+
+Ruszył. Powoli. Każdy krok był jak marsz na szafot.
+
+Barbara siedziała nieruchomo, patrząc na niego. Jej twarz była kamienna, nieprzenikniona. Ale oczy... oczy płonęły triumfem.
+
+Stanął przed nią.
+
+Spojrzał w te zimne, stalowe oczy – oczy kobiety, która zniszczyła jego życie metodycznie, cierpliwie, jak chirurg preparujący zwłoki.
+
+I wyciągnął ręce.
+
+Objął ją.
+
+Jej ciało było sztywne, chłodne. Pachniała starymi perfumami i czymś kwaśnym – potem? Lękiem? A może satysfakcją?
+
+Poczuł, jak jego dusza pęka. Coś w środku – coś fundamentalnego, co trzymało go przy życiu przez wszystkie te miesiące – właśnie się rozpadło.
+
+– Przepraszam – wyszeptał.
+
+Ale słowo uwiązło gdzieś w połowie drogi, ledwo słyszalne.
+
+Domek za jego plecami podniósł głos:
+
+– Pani Sędziu, mój klient przeprasza swoją matkę. Czyni to szczerze i z głębi serca.
+
+Barbara, nadal nieruchoma w uścisku, powiedziała cicho – ale wystarczająco głośno, by sędzia usłyszała:
+
+– Wybaczam ci, synu.
+
+Dariusz poczuł, jak jej dłoń unosi się i klepie go po plecach. Dwa razy. Mechanicznie.
+
+I wtedy – przez ułamek sekundy – Barbara odwróciła głowę tak, by sędzia nie mogła widzieć jej twarzy.
+
+I uśmiechnęła się.
+
+Szeroko. Triumfalnie. Jak drapieżnik, który właśnie zamknął szczęki na szyi ofiary.
+
+*Wygrałam*, mówiły jej oczy.
+
+Sędzia poprawiła okulary, wyraźnie wzruszona sceną.
+
+– To bardzo piękne – powiedziała cicho. – Rodzina powinna być razem. Cieszy mnie, że pan to zrozumiał.
+
+Prokurator kiwnął głową, zadowolony.
+
+Domek usiadł z powrotem, krzyżując ręce na piersi. Uśmiechnął się lekko.
+
+Dariusz puścił matkę i cofnął się, chwiejąc lekko. Czuł pustkę. Oszołomienie.
+
+*Co ja właśnie zrobiłem.*
+
+Sędzia wróciła do akt.
+
+– Wobec przyznania się do winy oraz widocznej skruchy, sąd orzeka karę grzywny w trybie nakazowym. Sprawa zostaje zamknięta.
+
+Uderzenie młotkiem.
+
+**Trzask.**
+
+I w tym dźwięku – w tym suchym, metalicznym trzasku młotka o blat – zamknęła się pętla.
+
+Wyrok prawomocny.
+
+Kłamstwo stało się prawdą.
 
 ---
 
