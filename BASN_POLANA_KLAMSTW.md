@@ -265,23 +265,176 @@ I ta iskra nadeszła w **lutym 2021 roku** – w miesiącu, gdy świat jeszcze t
 Iskrą była **Sarenka z Polany**.
 
 ---
-
-
 ## CZĘŚĆ II – NADEJŚCIE BURZY
 
 ### Rozdział 3: Pojawienie się Sarenki (Luty 2021)
 
-Pewnego lutowego poranka, gdy Polana Kłamstw tonęła w śniegu, na jej skraju pojawiła się **Sarenka** (Julia). Młoda, delikatna, z oczami pełnymi nadziei, była kuzynką Wilka. Przyjechała szukając schronienia. Po trudnych przejściach życiowych, w tym traumie i leczeniu psychiatrycznym, potrzebowała bezpiecznego miejsca, by wrócić do nauki online. Wilk, w akcie dobrej woli, zaoferował jej pomoc. Na początku byli tylko dwojgiem samotnych istot, które znalazły w sobie ciche towarzystwo, dzieląc się milczeniem i wzajemnym zrozumieniem.
+Luty 2021 przyniósł mroźne poranki i krótkie dni. Polana Kłamstw tonęła w śniegu, a zimowy wiatr wyłudował między gołymi drzewami. Wszystko było białe, czyste, nieskazitelne – jak fałszywa obietnica nowego początku.
 
-Jednak ta niewinność rozwścieczyła Wiedźmę. Zagrożeniem nie była sama Sarenka, ale fakt, że istniała poza jej kontrolą. Wilk spędzał z nią czas, a to odciągało od niej jego uwagę, co w jej oczach było zamachem na jej władzę w domu. Wiedźma nie mogła znieść myśli, że ktoś zabiera jej syna, którego traktowała nie jak dziecko, lecz jak własność. Rozpoczęła obsesyjną inwigilację, notując w kalendarzu każdy ich ruch.
+Pewnego lutowego poranka, gdy słońce ledwo przedzierało się przez szare chmury, na skraju Polany pojawiła się **Sarenka** (Julia). Młoda, może dwadzieścia kilka lat, z wielkimi, przestraszonymi oczami i plecakiem przewieszonym przez ramię. Jej oddech tworzył chmurki pary w mroźnym powietrzu, gdy szła drogą prowadzącą do Dziupli nr 8.
 
-Jej nieustanne podglądanie, wtargnięcia i agresja stworzyły atmosferę oblężenia, która doprowadziła do samospełniającej się przepowiedni. Działania Wiedźmy aktywnie zmusiły Wilka i Sarenkę do zbliżenia się do siebie. W obliczu wspólnego wroga, szukając wsparcia i schronienia, ich ciche towarzystwo przekształciło się w bliższą, obronną więź.
+Julia była kuzynką Wilka. Przybyła z daleka, szukając schronienia. Po trudnych przejściach życiowych, w tym traumie i leczeniu psychiatrycznym, potrzebowała bezpiecznego miejsca, by wrócić do nauki online i odbudować swoje życie. Wilk, który sam wielokrotnie czuł się samotny i odrzucony, w akcie dobrej woli zaoferował jej pomoc.
 
-To Wiedźma, swoją obsesją, stworzyła związek, którego tak nienawidziła.
+– *Możesz tu zostać, póki nie staniesz na nogi* – powiedział, prowadząc ją do gościnnego pokoju. – *Nikt cię nie będzie niepokoił. Masz spokój.*
 
-Ich desperacka manifestacja niezależności nadeszła **14 lutego – w Walentynki**. Tego dnia upiekli razem ciasteczka i ogłosili związek na Facebooku. Dla Wiedźmy był to akt zdrady, zamach na jej domową pozycję, zemsta. Podeszła do Kotła Krzywd i zaczęła warzyć zemstę, dodając nowe składniki – gorycz utraty kontroli i wściekłość bezsilności.
+Julia skinęła głową z wdzięcznością. Po raz pierwszy od miesięcy poczuła, że może odetchnąć.
 
 ---
+
+**Pierwsze Dni: Ciche Towarzystwo**
+
+Na początku byli tylko dwojgiem samotnych istot, które znalazły w sobie ciche towarzystwo. Wilk pracował w warsztacie, naprawiając maszyny. Julia siedziała w pokoju, ucząc się przez internet. Wieczorami czasem rozmawiali przy herbacie – krótkimi zdaniami, bez zbędnych pytań.
+
+Nie było w tym nic romantycznego. Byli jak dwoje rannych zwierząt, które dzielą jedną kryjówkę, szanując nawzajem swoją przestrzeń. Milczeli razem, bo oboje rozumieli, że cisza czasem jest lepsza niż słowa.
+
+Wiedźma obserwowała.
+
+Od pierwszego dnia przybycia Julii Wiedźma czuła niepokój. To nie była zazdrość w tradycyjnym sensie – to była **obsesja kontroli**. Ktoś obcy wszedł na jej teren, w jej dom, i co gorsza – Wilk spędzał z tą osobą czas. Czas, który powinien należeć do Wiedźmy.
+
+W nocy 8 lutego, gdy Julia była w domu już prawie tydzień, Wiedźma otworzyła Kalendarz. Jej ręka drżała lekko, gdy pisała:
+
+> *„8 lutego. Ta dziewczyna jest już tydzień. Dariusz z nią rozmawia. Widzę, jak patrzy na nią. To niemoralne. To prowokacja."*
+
+Nie było żadnego dowodu na romans. Byli tylko dwojgiem ludzi, którzy dzielili przestrzeń. Ale Wiedźma nie potrzebowała dowodów – potrzebowała pretekstu.
+
+---
+
+**Inwigilacja: Obsesja Wiedźmy**
+
+Wiedźma zaczęła obserwować każdy ich ruch. Ile czasu spędzają razem. O której Julia wychodzi z pokoju. O której Dariusz wraca z warsztatu. Czy jedzą razem. Czy rozmawiają.
+
+Każda interakcja była notowana. Każdy uśmiech, każde spojrzenie.
+
+*9 lutego, wieczór* – Wiedźma stała pod drzwiami pokoju Dariusza, nasłuchując. Cisza. Przycupnęła, patrząc przez szparę pod drzwiami, szukając cienia, ruchu, czegokolwiek. Nic.
+
+Ale w Kalendarzu zapisała:
+
+> *„9 lutego, wieczór. Zamknęli się w pokoju. Nie wychodzą. Wiem, co robią."*
+
+Każdego ranka Wiedźma sprawdzała, czy światło w pokoju Dariusza było zapalone w nocy. Każdego wieczoru przyglądała się, czy Julia i Dariusz siedzą razem przy stole.
+
+Jej obsesja rosła z każdym dniem. Nie mogła znieść myśli, że **ktoś zabiera jej syna** – syna, którego traktowała nie jak dziecko, lecz jak **własność**, przedłużenie samej siebie.
+
+W jej umyśle Julia nie była osobą. Była **zagrożeniem**.
+
+---
+
+**Noc z 9 na 10 Lutego: Wtargnięcie (2:30)**
+
+To, co wydarzyło się w nocy z 9 na 10 lutego, miało charakter symboliczny. Wiedźma, dręczona obsesją i niezdolna do dalszego czekania, postanowiła **zaatakować**.
+
+O **2:30 w nocy** – godzina, gdy nawet las śpi – Wiedźma wstała z łóżka. Nie zapaliła światła. Szła po ciemku, znając każdą deskę w podłodze. Stanęła przed drzwiami pokoju Dariusza.
+
+Nie zapukała.
+
+Otworzyła drzwi z impetem.
+
+Światło z korytarza wdarło się do pokoju jak ostrze noża. Wilk i Sarenka leżeli w łóżku, przykryci kołdrą, ubrani, śpiący. Obudzili się w szoku.
+
+Wilk poderwał się, oszołomiony, przerażony.
+
+– *Co...?! Co ty robisz?!*
+
+Wiedźma stała w progu, z rękami skrzyżowanymi na piersi, z triumfem w oczach.
+
+– *Wiedziałam! Wiedziałam, że tutaj jest! Franco cholerna!*
+
+Julia skuliła się pod kołdrą, przerażona. Wilk wstał z łóżka, zasłaniając ją przed matką.
+
+– ***Wynoś się! To MOJA nora!*** – krzyknął, łamiącym się głosem. To nie był krzyk agresji. To był krzyk rozpaczy, wołanie o autonomię, o ostatni skrawek prywatności we własnym domu.
+
+Ale Wiedźma dostała to, czego chciała.
+
+Jej oczy lśniły. Triumf. Wilk krzyczy. Wilk jest agresorem. Wilk **atakuje** swoją matkę.
+
+Odwróciła się i wyszła, nie mówiąc ani słowa więcej.
+
+Następnego dnia, 10 lutego, rano, Wiedźma usiadła przy kuchennym stole i otworzyła Kalendarz. Jej ręka była spokojna, pewna. Pisała jak prawnik układający akt oskarżenia:
+
+> *„10 lutego, 2:30 – wtargnęłam do pokoju Dariusza. Spał z tą francą cholerną. Kiedy go obudziłam, zaczął na mnie krzyczeć. Groził mi. Wyrzucał mnie z MOJEGO WŁASNEGO DOMU. To było przerażające."*
+
+Ani słowa o tym, że to ona wtargnęła bez pukania. Ani słowa o tym, że to ona naruszyła granice. Ani słowa o tym, że Wilk bronił się, a nie atakował.
+
+---
+
+**Samospełniająca się Przepowiednia**
+
+Paradoksalnie, to **obsesja Wiedźmy** stworzyła to, czego najbardziej się obawiała.
+
+Przed nocnym wtargnięciem Wilk i Julia byli tylko współlokatorami, dwojgiem samotnych ludzi dzielących przestrzeń. Nie było między nimi romansu.
+
+Ale gdy Wiedźma zaatakowała, gdy zaczęła inwigilować, prowokować, wkraczać – Julia i Dariusz znaleźli się w obliczu **wspólnego wroga**. I w obliczu tego wroga zaczęli szukać wsparcia. W sobie nawzajem.
+
+Ich ciche towarzystwo przekształciło się w **obronną więź**.
+
+Wiedźma, swoją obsesją, stworzyła związek, którego tak nienawidziła.
+
+To była **samospełniająca się przepowiednia** – przepowiedziała romans, a potem swoim działaniem go wywołała.
+
+---
+
+**14 Lutego – Walentynki: Manifest Niezależności**
+
+Nadeszła **14 lutego – Walentynki**. Dzień, który tradycyjnie należy do zakochanych, ale dla Wilka i Sarenki był czymś więcej – był **manifestem**.
+
+Tego poranka, gdy Wiedźma wyszła do sklepu, Wilk i Julia postanowili zrobić coś symbolicznego. Coś, co powie: *„Żyjemy. Istniejemy. Mamy prawo do szczęścia, mimo ciebie."*
+
+Upiekli ciasteczka.
+
+Prosta czynność. Mąka, cukier, masło, jajka. Mieszanie ciasta, wycinanie kształtów, zapach wanilii wypełniający kuchnię. To była chwila normalności w domu, który od lat tonął w toksyczności.
+
+Kiedy ciasteczka były gotowe, Wilk wyciągnął telefon.
+
+– *Zróbmy zdjęcie* – zaproponował.
+
+Julia uśmiechnęła się – pierwszy prawdziwy uśmiech od tygodni.
+
+Zdjęcie trafiło na Facebooka. Pod nim napis:
+
+> *„Szczęśliwych Walentynek! 💕"*
+
+Dla świata zewnętrznego był to zwykły, słodki post. Dla Wiedźmy był to **akt zdrady**.
+
+---
+
+**Reakcja Wiedźmy: Kocioł Wrze**
+
+Gdy Wiedźma wróciła do domu i zobaczyła post na Facebooku (Sroka Dorota od razu przysłała jej screenshota), poczuła, jakby ktoś uderzył ją w twarz.
+
+*Zemsta. To zemsta na mnie. Ogłaszają związek, żeby mnie zranić.*
+
+Podeszła do Kotła Krzywd. Chochla drżała w jej ręce. Przez lata Kocioł bulgotał spokojnie, na małym ogniu. Teraz Wiedźma przekręciła pokrętło na maksimum.
+
+Dodała nowe składniki:
+
+- **Gorycz utraty kontroli**
+- **Wściekłość bezsilności**
+- **Żądzę zemsty**
+
+Kocioł zawrzał. Bąble wyskakiwały na powierzchnię, pryskając na boki. Para wypełniała kuchnię.
+
+Tego wieczoru Wiedźma zapisała w Kalendarzu:
+
+> *„14 lutego – ogłosili związek na Facebooku. Walentynki. To zemsta na mnie. Pokazują mi, że mnie lekceważą. Dariusz robi to celowo. Chce mnie zniszczyć."*
+
+Plan zemsty właśnie nabrał ostatecznego kształtu.
+
+Przez cztery lata Wiedźma gromadziła amunicję. Teraz miała pretekst do ataku. **Sarenka** była iskrą. Ale to **Wiedźma** podłożyła ogień.
+
+---
+
+**Koniec Niewinności**
+
+Luty 2021 był ostatnim miesiącem, w którym konflik
+
+t pozostawał w sferze prywatnej. Za kilka tygodni, w marcu, Wiedźma przekroczy kolejną granicę. W lipcu uruchomi procedury. W sierpniu wezwie armię.
+
+Ale wszystko zaczęło się od Sarenki – delikatnego zwierzęcia, które przybyło szukając schronienia, a znalazło pole bitwy.
+
+Wilk próbował ją chronić. Ale Polana Kłamstw nie jest miejscem dla sarnek.
+
+---
+
 
 ### Rozdział 4: Nocne Wtargnięcie (2:30 w nocy)
 
