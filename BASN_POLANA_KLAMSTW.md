@@ -1,5 +1,5 @@
 # POLANA KŁAMSTW
-## Kronika Ósmego Kręgu
+## Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 *Baśń współczesna o tym, jak echo może być silniejsze niż głos,*
 *a wolność cenniejsza niż majątek.*

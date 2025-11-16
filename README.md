@@ -20,16 +20,16 @@
 │   └── POLANA_KLAMSTW_KOMPLETNA_KRONIKA.md (przykład integracji)
 │
 ├── 📖 DOKUMENTY NARRACYJNE (oryginalne)
-│   ├── Kronika Ósmego Kręgu (literacka baśń)
-│   ├── Anatomia Rodzinnej Tragedii (analityczne studium)
-│   └── Przewodnik po Świecie (archetypy i symbole)
+│   ├── Polana_Klamstw_Kronika_Osmego_Kregu.md (literacka baśń)
+│   ├── Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md (analityczne studium)
+│   └── Polana_Klamstw_Przewodnik_po_Swiecie_Postaciach_i_Motywach.md (archetypy i symbole)
 │
 └── 📄 MATERIAŁY ŹRÓDŁOWE (oryginalne)
-    ├── kontekst 1 (postacie drugoplanowe)
-    ├── kontekst 2 (Barbara Adamska)
-    ├── kontekst 3 (chronologia i dowody)
-    ├── kontekst 4 (analiza systemowa)
-    └── kontekst 5 (materiały uzupełniające)
+    ├── kontekst_1.md (postacie drugoplanowe)
+    ├── kontekst_2.md (Barbara Adamska)
+    ├── kontekst_3.md (chronologia i dowody)
+    ├── kontekst_4.md (analiza systemowa)
+    └── kontekst_5.md (materiały uzupełniające)
 ```
 
 ## Struktura Dokumentacji
@@ -77,53 +77,53 @@
 
 ### Dokumenty Główne – Narracja i Analiza (Oryginalne)
 
-7. **[Polana Kłamstw: Kronika Ósmego Kręgu](./Polana%20Kłamstw%3A%20Kronika%20Ósmego%20Kręgu)**
+7. **[Polana Kłamstw: Kronika Ósmego Kręgu](./Polana_Klamstw_Kronika_Osmego_Kregu.md)**
    - Literacka kronika wydarzeń w formie baśni
    - Narracja chronologiczna konfliktu
    - Symbolika i metafory (Wiedźma, Wilk, Kocioł Krzywd)
    - Epilog i morał
 
-8. **[Kronika Polany Kłamstw: Anatomia Rodzinnej Tragedii](./Kronika%20Polany%20Kłamstw%3A%20Anatomia%20Rodzinnej%20Tragedii)**
+8. **[Kronika Polany Kłamstw: Anatomia Rodzinnej Tragedii](./Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md)**
    - Analityczne podejście do wydarzeń
    - Dramatis Personae – szczegółowe profile postaci
    - Chronologia kluczowych aktów dramatu
    - Systemowa analiza porażki sprawiedliwości
 
-9. **[Polana Kłamstw: Przewodnik po Świecie, Postaciach i Motywach](./Polana%20Kłamstw%3A%20Przewodnik%20po%20Świecie%2C%20Postaciach%20i%20Motywach)**
+9. **[Polana Kłamstw: Przewodnik po Świecie, Postaciach i Motywach](./Polana_Klamstw_Przewodnik_po_Swiecie_Postaciach_i_Motywach.md)**
    - Kompleksowy przewodnik po uniwersum opowieści
    - Prawa rządzące Polaną Adamowo
    - Archetypy postaci i ich symboliczne znaczenie
    - Kluczowe symbole i motywy
-   - Morał i paradoks zwycięstwa
+   - Morał i paradoks zwycięstwo
 
 ### Materiały Źródłowe – Kontekst i Dowody (Oryginalne)
 
-10. **kontekst 1** – Analiza postaci drugoplanowych
+10. **[kontekst_1.md](./kontekst_1.md)** – Analiza postaci drugoplanowych
     - Profil psychologiczny Hieny Domkowej (adwokat Aleksander Domek)
     - Sylwester Adamski jako "Papesmerf" – tragiczna marionetka
     - Sarna Sarnecki – bierna ucieczka przed odpowiedzialnością
     - Sprawca-ofiara – mechanizmy konfliktu
 
-11. **kontekst 2** – Szczegółowa analiza Barbary Adamskiej
+11. **[kontekst_2.md](./kontekst_2.md)** – Szczegółowa analiza Barbary Adamskiej
     - Profil psychologiczny "Wiedźmy Adamowskiej"
     - Mechanizmy manipulacji i kontroli
     - Kalendarz Wiedźmy – broń procesowa
     - Kłamstwa i sprzeczności
     - Pyrrusowe zwycięstwo
 
-12. **kontekst 3** – Chronologia i dowody
+12. **[kontekst_3.md](./kontekst_3.md)** – Chronologia i dowody
     - Szczegółowa oś czasu wydarzeń
     - Kluczowe incydenty i daty
     - Dokumentacja prawna i policyjna
     - Analiza procedur i interwencji
 
-13. **kontekst 4** – Analiza systemowa
+13. **[kontekst_4.md](./kontekst_4.md)** – Analiza systemowa
     - Rola instytucji w konflikcie
     - Instrumentalizacja procedur prawnych
     - Bierność systemu
     - Konflikt interesów w systemie prawnym
 
-14. **kontekst 5** – Uzupełniające materiały
+14. **[kontekst_5.md](./kontekst_5.md)** – Uzupełniające materiały
     - Dodatkowe dowody i świadectwa
     - Kontekst rodzinny i społeczny
     - Długoterminowe konsekwencje
@@ -192,15 +192,15 @@
 ### 📚 Dla pełnego zrozumienia historii zaleca się:
 
 1. **Wprowadzenie**: Start od [QUICK_START.md](./QUICK_START.md) lub tego README
-2. **Kontekst**: "Przewodnik po Świecie, Postaciach i Motywach"
-3. **Narracja**: "Kronika Ósmego Kręgu" dla pełnego obrazu literackiego
-4. **Analiza**: "Anatomia Rodzinnej Tragedii" dla głębszej analizy
-5. **Szczegóły**: Pliki "kontekst 1-5" dla dowodów (nawiguj przez INDEKS)
+2. **Kontekst**: [Przewodnik po Świecie, Postaciach i Motywach](./Polana_Klamstw_Przewodnik_po_Swiecie_Postaciach_i_Motywach.md)
+3. **Narracja**: [Kronika Ósmego Kręgu](./Polana_Klamstw_Kronika_Osmego_Kregu.md) dla pełnego obrazu literackiego
+4. **Analiza**: [Anatomia Rodzinnej Tragedii](./Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md) dla głębszej analizy
+5. **Szczegóły**: Pliki kontekst_1.md - kontekst_5.md dla dowodów (nawiguj przez INDEKS)
 
 ### 🔍 Dla badaczy i analityków:
 
 1. **[INDEKS_TEMATYCZNY.md](./INDEKS_TEMATYCZNY.md)** – znajdź konkretne tematy, postacie, daty
-2. **Materiały źródłowe** – kontekst 1-5 (szczegółowe dowody i analizy)
+2. **Materiały źródłowe** – kontekst_1.md - kontekst_5.md (szczegółowe dowody i analizy)
 3. **[SYNTEZA_I_PROPOZYCJA_WYKORZYSTANIA.md](./SYNTEZA_I_PROPOZYCJA_WYKORZYSTANIA.md)** – strategie integracji
 
 ### 🛠️ Dla twórców i edytorów:
@@ -221,15 +221,17 @@ Ten zbiór dokumentów przedstawia literacką i analityczną interpretację wyda
 ### Dokumenty Utworzone:
 - ✅ **6 nowych dokumentów pomocniczych** (QUICK_START, README, INDEKS, SYNTEZA, PODSUMOWANIE, KOMPLETNA_KRONIKA)
 - ✅ **3 dokumenty narracyjne** ukończone (Kronika, Anatomia, Przewodnik)
-- ✅ **5 materiałów źródłowych** zebrane (kontekst 1-5)
+- ✅ **5 materiałów źródłowych** zebrane (kontekst_1-5)
 - ✅ Struktura zintegrowana i zindeksowana
 - ✅ System nawigacyjny kompletny
+- ✅ **Wszystkie pliki ustandaryzowane** z rozszerzeniem .md i spójną konwencją nazewnictwa
 
 ### Gotowe do Użycia:
 - ✅ Czytanie w obecnej strukturze wielodokumentowej
 - ✅ Nawigacja przez indeks tematyczny
 - ✅ Integracja według szczegółowego planu (SYNTEZA)
 - ✅ Rozwój multimedialny (plan w SYNTEZA)
+- ✅ Poprawiona spójność i czytelność struktury plików
 
 ### Następne Kroki (opcjonalnie):
 - ⏳ Ukończenie Master Dokumentu (160-210 stron) według planu
@@ -249,14 +251,14 @@ Ten zbiór dokumentów przedstawia literacką i analityczną interpretację wyda
 | 4 | **INDEKS_TEMATYCZNY.md** | Nawigacyjny | ~18 KB | Narzędzie | Wyszukiwanie postaci, dat, tematów |
 | 5 | **SYNTEZA_I_PROPOZYCJA_WYKORZYSTANIA.md** | Analityczny | ~23 KB | 45-60 min | Strategie integracji materiałów |
 | 6 | **POLANA_KLAMSTW_KOMPLETNA_KRONIKA.md** | Analityczny | ~25 KB | 60-90 min | Przykład integracji (częściowy) |
-| 7 | **Kronika Ósmego Kręgu** | Narracyjny | - | 1-2 godz | Literacka baśń, alegoryczna |
-| 8 | **Anatomia Rodzinnej Tragedii** | Narracyjny | - | 1-2 godz | Analityczne studium przypadku |
-| 9 | **Przewodnik po Świecie** | Narracyjny | - | 1-2 godz | Archetypy, symbole, uniwersalia |
-| 10 | **kontekst 1** | Źródłowy | - | Ref | Postacie drugoplanowe |
-| 11 | **kontekst 2** | Źródłowy | - | Ref | Barbara Adamska (profil) |
-| 12 | **kontekst 3** | Źródłowy | - | Ref | Chronologia i dowody |
-| 13 | **kontekst 4** | Źródłowy | - | Ref | Analiza systemowa |
-| 14 | **kontekst 5** | Źródłowy | - | Ref | Materiały uzupełniające |
+| 7 | **Polana_Klamstw_Kronika_Osmego_Kregu.md** | Narracyjny | ~21 KB | 1-2 godz | Literacka baśń, alegoryczna |
+| 8 | **Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md** | Narracyjny | ~17 KB | 1-2 godz | Analityczne studium przypadku |
+| 9 | **Polana_Klamstw_Przewodnik_po_Swiecie_Postaciach_i_Motywach.md** | Narracyjny | ~17 KB | 1-2 godz | Archetypy, symbole, uniwersalia |
+| 10 | **kontekst_1.md** | Źródłowy | ~50 KB | Ref | Postacie drugoplanowe |
+| 11 | **kontekst_2.md** | Źródłowy | ~85 KB | Ref | Barbara Adamska (profil) |
+| 12 | **kontekst_3.md** | Źródłowy | ~95 KB | Ref | Chronologia i dowody |
+| 13 | **kontekst_4.md** | Źródłowy | ~80 KB | Ref | Analiza systemowa |
+| 14 | **kontekst_5.md** | Źródłowy | ~84 KB | Ref | Materiały uzupełniające |
 
 **Legenda:**
 - **Pomocniczy** - dokumenty ułatwiające orientację
@@ -264,6 +266,34 @@ Ten zbiór dokumentów przedstawia literacką i analityczną interpretację wyda
 - **Analityczny** - głęboka analiza i synteza
 - **Narracyjny** - opowieści i studia (oryginalne)
 - **Źródłowy** - materiały dowodowe (oryginalne)
+
+---
+
+## 📝 Dodatkowe Materiały Robocze
+
+Repozytorium zawiera również dodatkowe materiały robocze i analityczne, które mogą być przydatne dla badaczy i twórców kontynuujących projekt:
+
+### Dokumenty Strategiczne i Koncepcyjne:
+- **Koniec_raportu.md** - Raport koncepcji projektu (mechanika narracyjna, symbolika)
+- **Koniec_raportu_Czesc_II.md** - Rozszerzenie strategiczne (pozycja narracyjna, system postaci)
+- **Koniec_raportu_Czesc_III.md** - Kontynuacja analizy strategicznej
+- **KONIEC_RAPORTU_FINALNEGO.md** - Część finalna raportu strategicznego
+- **Instrukcje_dla_kontekstu.md** - Instrukcje dla AI dotyczące stylu i zasad pisania
+
+### Materiały Analityczne:
+- **analiza_psychologiczna.md** - Analiza psychologiczna sprzeczności
+- **notice.md** - Zestawienie kluczowych sprzeczności i absurdów
+- **wskazowki.md** - Wskazówki dotyczące rozbudowy baśni
+- **zdrada_adwokata.md** - Analiza roli adwokata w konflikcie
+- **konflikt_rodzinny.md** - Dokumentacja konfliktu rodzinnego
+- **Plan_Barbary.md** - Analiza strategii Barbary Adamskiej
+
+### Materiały Źródłowe:
+- **basn.md** - Wersja robocza baśni
+- **analizy.md** - Zbiorcze analizy
+- **Bohaterowie_Polany_Klamstw_Przewodnik_po_Postaciach.md** - Przewodnik po postaciach
+
+**Uwaga:** Te materiały mają charakter roboczy i są udostępniane jako kontekst dla pełniejszego zrozumienia procesu twórczego. Główna struktura dokumentacji znajduje się w 14 dokumentach wymienionych w tabeli powyżej.
 
 ---
 

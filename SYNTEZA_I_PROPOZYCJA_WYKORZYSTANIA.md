@@ -8,16 +8,16 @@
 Projekt "Polana Kłamstw" składa się z **8 głównych dokumentów**, które można podzielić na dwie kategorie:
 
 ### MATERIAŁY NARRACYJNE (3 dokumenty):
-1. **Kronika Ósmego Kręgu** - literacka baśń w stylu alegorycznym
-2. **Anatomia Rodzinnej Tragedii** - analityczne studium przypadku
+1. **Polana_Klamstw_Kronika_Osmego_Kregu.md** - literacka baśń w stylu alegorycznym
+2. **Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md** - analityczne studium przypadku
 3. **Przewodnik po Świecie** - kompleksowy przewodnik po uniwersum
 
-### MATERIAŁY ŹRÓDŁOWE (5 dokumentów kontekst 1-5):
-4. **kontekst 1** - szczegółowa analiza postaci drugoplanowych
-5. **kontekst 2** - profil psychologiczny Barbary Adamskiej
-6. **kontekst 3** - chronologia, dowody, dokumentacja
-7. **kontekst 4** - analiza systemowa i prawna
-8. **kontekst 5** - materiały uzupełniające
+### MATERIAŁY ŹRÓDŁOWE (5 dokumentów kontekst_1.md-5):
+4. **kontekst_1.md** - szczegółowa analiza postaci drugoplanowych
+5. **kontekst_2.md** - profil psychologiczny Barbary Adamskiej
+6. **kontekst_3.md** - chronologia, dowody, dokumentacja
+7. **kontekst_4.md** - analiza systemowa i prawna
+8. **kontekst_5.md** - materiały uzupełniające
 
 ### NOWO UTWORZONE DOKUMENTY INTEGRACYJNE:
 9. **README.md** - mapa projektu i przewodnik nawigacyjny

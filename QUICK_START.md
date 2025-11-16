@@ -71,19 +71,19 @@ Ten przewodnik pomoże Ci szybko zorientować się w materiałach i wybrać, co 
 
 **Masz 3 oryginalne dokumenty narracyjne:**
 
-1. **[Polana Kłamstw: Kronika Ósmego Kręgu](./Polana%20Kłamstw%3A%20Kronika%20Ósmego%20Kręgu)**
+1. **[Polana Kłamstw: Kronika Ósmego Kręgu](./Polana_Klamstw_Kronika_Osmego_Kregu.md)**
    - ✨ Literacka baśń, styl alegoryczny
    - 📚 ~20,000 słów
    - 🎭 Narracja chronologiczna
    - ⏱️ 1-2 godziny
 
-2. **[Kronika Polany Kłamstw: Anatomia Rodzinnej Tragedii](./Kronika%20Polany%20Kłamstw%3A%20Anatomia%20Rodzinnej%20Tragedii)**
+2. **[Kronika Polany Kłamstw: Anatomia Rodzinnej Tragedii](./Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md)**
    - 🔬 Analityczne studium przypadku
    - 📚 ~17,000 słów
    - 📊 Profile postaci, chronologia, system
    - ⏱️ 1-2 godziny
 
-3. **[Polana Kłamstw: Przewodnik po Świecie, Postaciach i Motywach](./Polana%20Kłamstw%3A%20Przewodnik%20po%20Świecie%2C%20Postaciach%20i%20Motywach)**
+3. **[Polana Kłamstw: Przewodnik po Świecie, Postaciach i Motywach](./Polana_Klamstw_Przewodnik_po_Swiecie_Postaciach_i_Motywach.md)**
    - 🗺️ Kompleksowy przewodnik
    - 📚 ~17,000 słów
    - 🎯 Archetypy, symbole, morały
@@ -119,11 +119,11 @@ Ten przewodnik pomoże Ci szybko zorientować się w materiałach i wybrać, co 
 
 **Masz 5 plików kontekstowych z materiałami źródłowymi:**
 
-- **kontekst 1** - Analiza postaci drugoplanowych (Hiena, Papesmerf, Sarna)
-- **kontekst 2** - Profil psychologiczny Barbary Adamskiej
-- **kontekst 3** - Chronologia, dowody, dokumentacja prawna
-- **kontekst 4** - Analiza systemowa i błędy prawne
-- **kontekst 5** - Materiały uzupełniające
+- **[kontekst_1.md](./kontekst_1.md)** - Analiza postaci drugoplanowych (Hiena, Papesmerf, Sarna)
+- **[kontekst_2.md](./kontekst_2.md)** - Profil psychologiczny Barbary Adamskiej
+- **[kontekst_3.md](./kontekst_3.md)** - Chronologia, dowody, dokumentacja prawna
+- **[kontekst_4.md](./kontekst_4.md)** - Analiza systemowa i błędy prawne
+- **[kontekst_5.md](./kontekst_5.md)** - Materiały uzupełniające
 
 **Nawigacja:** Użyj [INDEKS_TEMATYCZNY.md](./INDEKS_TEMATYCZNY.md) aby znaleźć konkretne tematy w tych plikach.
 
@@ -133,38 +133,38 @@ Ten przewodnik pomoże Ci szybko zorientować się w materiałach i wybrać, co 
 
 ### Ścieżka 1: "Chcę być poruszony" (emocje + historia)
 ```
-1. Kronika Ósmego Kręgu (literacka baśń)
+1. Polana_Klamstw_Kronika_Osmego_Kregu.md (literacka baśń)
 2. README.md (kontekst)
-3. Przewodnik (symbole i znaczenie)
+3. Polana_Klamstw_Przewodnik_po_Swiecie_Postaciach_i_Motywach.md (symbole i znaczenie)
 ```
 ⏱️ **Łącznie:** 3-4 godziny
 
 ### Ścieżka 2: "Chcę zrozumieć mechanizmy" (analiza + fakty)
 ```
-1. PODSUMOWANIE (szybki przegląd)
-2. Anatomia Rodzinnej Tragedii (studium przypadku)
-3. kontekst 2, 3, 4 (dowody i szczegóły)
+1. PODSUMOWANIE_WYKONANEJ_PRACY.md (szybki przegląd)
+2. Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md (studium przypadku)
+3. kontekst_2.md, kontekst_3.md, kontekst_4.md (dowody i szczegóły)
 ```
 ⏱️ **Łącznie:** 4-5 godzin
 
 ### Ścieżka 3: "Chcę wszystko" (kompletny obraz)
 ```
 1. README.md (mapa)
-2. PODSUMOWANIE (przegląd)
-3. Przewodnik (kontekst)
-4. Kronika (narracja)
-5. Anatomia (analiza)
-6. konteksty 1-5 (szczegóły)
-7. SYNTEZA (jak to połączyć)
+2. PODSUMOWANIE_WYKONANEJ_PRACY.md (przegląd)
+3. Polana_Klamstw_Przewodnik_po_Swiecie_Postaciach_i_Motywach.md (kontekst)
+4. Polana_Klamstw_Kronika_Osmego_Kregu.md (narracja)
+5. Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md (analiza)
+6. kontekst_1.md - kontekst_5.md (szczegóły)
+7. SYNTEZA_I_PROPOZYCJA_WYKORZYSTANIA.md (jak to połączyć)
 ```
 ⏱️ **Łącznie:** 8-10 godzin
 
 ### Ścieżka 4: "Pracuję nad projektem" (integracja)
 ```
 1. README.md (orientacja)
-2. SYNTEZA (strategia)
-3. POLANA_KLAMSTW_KOMPLETNA_KRONIKA (przykład)
-4. INDEKS (nawigacja)
+2. SYNTEZA_I_PROPOZYCJA_WYKORZYSTANIA.md (strategia)
+3. POLANA_KLAMSTW_KOMPLETNA_KRONIKA.md (przykład)
+4. INDEKS_TEMATYCZNY.md (nawigacja)
 5. Wszystkie źródła według potrzeb
 ```
 ⏱️ **Według potrzeb**
@@ -225,10 +225,11 @@ Ten przewodnik pomoże Ci szybko zorientować się w materiałach i wybrać, co 
 
 ## 📊 STATYSTYKI PROJEKTU
 
-**Dokumenty:** 14 razem
+**Dokumenty:** 14 głównych + 14 roboczych
 - 6 nowych dokumentów pomocniczych (QUICK_START, README, INDEKS, SYNTEZA, PODSUMOWANIE, KOMPLETNA_KRONIKA)
 - 3 dokumenty narracyjne oryginalne (Kronika, Anatomia, Przewodnik)
-- 5 plików kontekstowych (kontekst 1-5)
+- 5 plików kontekstowych (kontekst_1.md - kontekst_5.md)
+- 14 materiałów roboczych i analitycznych
 
 **Łączna objętość:** ~200,000+ słów  
 **Nowe dokumenty:** ~80,000+ słów  

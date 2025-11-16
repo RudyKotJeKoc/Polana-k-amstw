@@ -17,7 +17,7 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 - ✅ **Instrukcje sarkastyczne** do wzmocnienia narracji
 - ✅ **Konteksty prawne, psychologiczne i medyczne**
 
-**KLUCZOWE ODKRYCIE:** Istnieje już **kompletna, profesjonalna baśń** w pliku *"Polana Kłamstw: Kronika Ósmego Kręgu"*, która spełnia wszystkie wymagania literackie.
+**KLUCZOWE ODKRYCIE:** Istnieje już **kompletna, profesjonalna baśń** w pliku *"Polana Kłamstw: Polana_Klamstw_Kronika_Osmego_Kregu.md"*, która spełnia wszystkie wymagania literackie.
 
 ---
 
@@ -27,9 +27,9 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 
 | Plik | Typ | Rozmiar | Przeznaczenie | Status |
 |------|-----|---------|---------------|--------|
-| **Polana Kłamstw: Kronika Ósmego Kręgu** | Baśń literacka | ~183 linie | **KOMPLETNA BAŚŃ** z Prologiem, 4 Częściami, 12 Rozdziałami i Epilogiem | ✅ Gotowe |
-| **Polana Kłamstw: Przewodnik po Świecie, Postaciach i Motywach** | Przewodnik | ~120 linii | Przewodnik po świecie baśni, prawach Polany, archetypach postaci, symbolice | ✅ Gotowe |
-| **Kronika Polany Kłamstw: Anatomia Rodzinnej Tragedii** | Kronika | ~103 linie | Chronologiczna analiza wydarzeń z głęboką analizą psychologiczną postaci | ✅ Gotowe |
+| **Polana Kłamstw: Polana_Klamstw_Kronika_Osmego_Kregu.md** | Baśń literacka | ~183 linie | **KOMPLETNA BAŚŃ** z Prologiem, 4 Częściami, 12 Rozdziałami i Epilogiem | ✅ Gotowe |
+| **Polana Kłamstw: Polana_Klamstw_Przewodnik_po_Swiecie_Postaciach_i_Motywach.md, Postaciach i Motywach** | Przewodnik | ~120 linii | Przewodnik po świecie baśni, prawach Polany, archetypach postaci, symbolice | ✅ Gotowe |
+| **Kronika Polany Kłamstw: Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md** | Kronika | ~103 linie | Chronologiczna analiza wydarzeń z głęboką analizą psychologiczną postaci | ✅ Gotowe |
 | **Bohaterowie Polany Kłamstw: Przewodnik po Postaciach** | Przewodnik postaci | ~142 linie | Szczegółowe charakterystyki wszystkich postaci z mapą relacji | ✅ Gotowe |
 
 ### 2.2. PLIKI POMOCNICZE - ANALIZY I KONTEKSTY
@@ -37,9 +37,9 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 | Plik | Zawartość | Wartość dla projektu |
 |------|-----------|----------------------|
 | **wskazówki** | Instrukcje sarkastyczne: Puszczyk, Szlemierz, Smerfy, Klątwa Wiedźmy, Kluczyk Pokémona | Wskazówki jak wzmocnić ironię i sarkazm |
-| **kontekst 1** | Analizy: Sarna Sarnecki, Papesmerf, Sroka Dorota, Borsuk, Bociany, Smerfy, Wilk, Julia, mapa relacji | Kompletne profile psychologiczne postaci |
-| **kontekst 2** | Szczegółowa analiza Barbary Adamskiej (Wiedźma): prowokacje, kalendarz, instrumentalizacja | Głęboka analiza głównej antagonistki |
-| **kontekst 4** | Raport dla psychologa, kontekst traumy systemowej, zdrada adwokatów | Kontekst medyczny i psychologiczny |
+| **kontekst_1.md** | Analizy: Sarna Sarnecki, Papesmerf, Sroka Dorota, Borsuk, Bociany, Smerfy, Wilk, Julia, mapa relacji | Kompletne profile psychologiczne postaci |
+| **kontekst_2.md** | Szczegółowa analiza Barbary Adamskiej (Wiedźma): prowokacje, kalendarz, instrumentalizacja | Głęboka analiza głównej antagonistki |
+| **kontekst_4.md** | Raport dla psychologa, kontekst traumy systemowej, zdrada adwokatów | Kontekst medyczny i psychologiczny |
 | **analizy** | Raport kliniczny, analiza psychologiczna, wielowarstwowa traumatyzacja | Fundament psychologiczny postaci Wilka |
 | **basn** | Notatki z tworzenia baśni, bestiariusz, dyskusje o symbolice | Historia procesu twórczego |
 
@@ -47,8 +47,8 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 
 | Plik | Opis |
 |------|------|
-| **kontekst 3** | Wymaga dalszej analizy (plik zbyt duży) |
-| **kontekst 5** | Wymaga dalszej analizy (plik zbyt duży) |
+| **kontekst_3.md** | Wymaga dalszej analizy (plik zbyt duży) |
+| **kontekst_5.md** | Wymaga dalszej analizy (plik zbyt duży) |
 
 ---
 
@@ -192,7 +192,7 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 ### 7.2. Strategia Działania
 
 **OPCJA A: Wykorzystanie Istniejącej Baśni (REKOMENDOWANE)**
-- ✅ Plik "Polana Kłamstw: Kronika Ósmego Kręgu" jest **kompletny i gotowy**
+- ✅ Plik "Polana Kłamstw: Polana_Klamstw_Kronika_Osmego_Kregu.md" jest **kompletny i gotowy**
 - ✅ Spełnia wszystkie wymogi literackie
 - ✅ Ma pełną strukturę narracyjną
 - 📝 Wymaga tylko **drobnych uzupełnień** zgodnie z instrukcjami
@@ -203,7 +203,7 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 
 ### 7.3. Plan Wykorzystania Zasobów
 
-1. **Baśń główna:** "Kronika Ósmego Kręgu" jako podstawa
+1. **Baśń główna:** "Polana_Klamstw_Kronika_Osmego_Kregu.md" jako podstawa
 2. **Wzmocnienia:** Wykorzystać wskazówki sarkastyczne z pliku "wskazówki"
 3. **Dodatki:** Stworzyć appendix z przewodników postaci
 4. **Spis treści:** Połączyć wszystkie elementy w spójną całość
@@ -231,4 +231,4 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 
 ---
 
-**Konkluzja:** Repozytorium zawiera **skarb literacki**. Istniejąca baśń "Kronika Ósmego Kręgu" jest profesjonalnym dziełem gotowym do publikacji. Wymaga tylko drobnych uzupełnień i sformatowania do pełnej, kompletnej wersji.
+**Konkluzja:** Repozytorium zawiera **skarb literacki**. Istniejąca baśń "Polana_Klamstw_Kronika_Osmego_Kregu.md" jest profesjonalnym dziełem gotowym do publikacji. Wymaga tylko drobnych uzupełnień i sformatowania do pełnej, kompletnej wersji.

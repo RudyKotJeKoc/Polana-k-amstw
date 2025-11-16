@@ -1,4 +1,4 @@
-# MASTER PLAN: POLANA KŁAMSTW - Kronika Ósmego Kręgu
+# MASTER PLAN: POLANA KŁAMSTW - Polana_Klamstw_Kronika_Osmego_Kregu.md
 ## Plan Masterowy Kompletnej Baśni Literackiej
 
 **Wersja:** 1.0
@@ -9,7 +9,7 @@
 
 ## DECYZJA STRATEGICZNA
 
-Na podstawie analizy zasobów w repozytorium **wykorzystamy istniejącą baśń** "Polana Kłamstw: Kronika Ósmego Kręgu" jako **fundament**, wzbogacając ją o elementy z:
+Na podstawie analizy zasobów w repozytorium **wykorzystamy istniejącą baśń** "Polana Kłamstw: Polana_Klamstw_Kronika_Osmego_Kregu.md" jako **fundament**, wzbogacając ją o elementy z:
 - Wskazówek sarkastycznych
 - Analiz postaci
 - Przewodników tematycznych
@@ -23,7 +23,7 @@ Na podstawie analizy zasobów w repozytorium **wykorzystamy istniejącą baśń*
 ### 1.1. Architektura Dzieła
 
 ```
-POLANA KŁAMSTW: Kronika Ósmego Kręgu
+POLANA KŁAMSTW: Polana_Klamstw_Kronika_Osmego_Kregu.md
 │
 ├── PROLOG: Cisza przed Burzą
 │   └── Wprowadzenie do świata, prezentacja postaci
@@ -758,10 +758,10 @@ WILK SAMOTNIK
 ## 8. PLAN IMPLEMENTACJI
 
 ### Etap 1: Przepisanie i Strukturyzacja
-- [x] Skopiować istniejącą baśń "Kronika Ósmego Kręgu"
+- [x] Skopiować istniejącą baśń "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 - [ ] Uzupełnić o brakujące elementy z innych źródeł
 - [ ] Dodać elementy sarkastyczne z "wskazówek"
-- [ ] Wzmocnić charakterystyki postaci z "kontekst 1"
+- [ ] Wzmocnić charakterystyki postaci z "kontekst_1.md"
 
 ### Etap 2: Wzbogacenie Literackie
 - [ ] Dodać bezpośrednie dialogi i cytaty
@@ -811,7 +811,7 @@ WILK SAMOTNIK
 
 ## 10. ZAKOŃCZENIE PLANU
 
-Ten Master Plan stanowi **kompletną mapę drogową** do stworzenia profesjonalnej, literackiej baśni "Polana Kłamstw: Kronika Ósmego Kręgu".
+Ten Master Plan stanowi **kompletną mapę drogową** do stworzenia profesjonalnej, literackiej baśni "Polana Kłamstw: Polana_Klamstw_Kronika_Osmego_Kregu.md".
 
 **Kluczowe decyzje:**
 1. ✅ Wykorzystanie istniejącej baśni jako fundamentu

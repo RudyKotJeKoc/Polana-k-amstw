@@ -17,16 +17,16 @@
 Przeanalizowano **8 dokumentów źródłowych**:
 
 #### Materiały Narracyjne (3):
-- ✅ **Kronika Polany Kłamstw: Anatomia Rodzinnej Tragedii** - analityczne studium
-- ✅ **Polana Kłamstw: Kronika Ósmego Kręgu** - literacka baśń
+- ✅ **Kronika Polany Kłamstw: Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md** - analityczne studium
+- ✅ **Polana Kłamstw: Polana_Klamstw_Kronika_Osmego_Kregu.md** - literacka baśń
 - ✅ **Polana Kłamstw: Przewodnik po Świecie, Postaciach i Motywach** - kompleksowy przewodnik
 
 #### Materiały Źródłowe (5):
-- ✅ **kontekst 1** - analiza postaci drugoplanowych (Hiena, Papesmerf, Sarna)
-- ✅ **kontekst 2** - szczegółowy profil psychologiczny Barbary Adamskiej
-- ✅ **kontekst 3** - chronologia, dowody, dokumentacja prawna
-- ✅ **kontekst 4** - analiza systemowa i błędy prawne
-- ✅ **kontekst 5** - materiały uzupełniające
+- ✅ **kontekst_1.md** - analiza postaci drugoplanowych (Hiena, Papesmerf, Sarna)
+- ✅ **kontekst_2.md** - szczegółowy profil psychologiczny Barbary Adamskiej
+- ✅ **kontekst_3.md** - chronologia, dowody, dokumentacja prawna
+- ✅ **kontekst_4.md** - analiza systemowa i błędy prawne
+- ✅ **kontekst_5.md** - materiały uzupełniające
 
 ### 2. IDENTYFIKACJA KLUCZOWYCH ELEMENTÓW
 
