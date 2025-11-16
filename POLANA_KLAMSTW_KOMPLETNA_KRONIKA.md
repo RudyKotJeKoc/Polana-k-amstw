@@ -656,7 +656,7 @@ Ten dokument jest częścią kompleksowej kroniki. Pełna treść zawiera:
 
 Ze względu na objętość, dokument jest prezentowany w sekcjach. Aby kontynuować, sięgnij do:
 - Oryginalne dokumenty narracyjne
-- Pliki kontekstowe (kontekst 1-5)
+- Pliki kontekstowe (kontekst_1.md-5)
 - README.md dla mapy całości
 
 ---

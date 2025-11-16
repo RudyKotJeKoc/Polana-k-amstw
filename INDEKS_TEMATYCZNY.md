@@ -12,14 +12,14 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### BARBARA ADAMSKA ("Wiedźma Adamowska")
 **Dokumenty główne:**
-- Kronika Ósmego Kręgu - Rozdziały: Prolog, 4, 5, 6, 7
-- Anatomia Rodzinnej Tragedii - Sekcja I.1, II (wszystkie akty)
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdziały: Prolog, 4, 5, 6, 7
+- Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.1, II (wszystkie akty)
 - Przewodnik - Sekcja 3.1
 
 **Materiały źródłowe:**
-- kontekst 2 (cała treść) - szczegółowa analiza psychologiczna
-- kontekst 1 - mechanizmy sprawca-ofiara
-- kontekst 3 - chronologia działań
+- kontekst_2.md (cała treść) - szczegółowa analiza psychologiczna
+- kontekst_1.md - mechanizmy sprawca-ofiara
+- kontekst_3.md - chronologia działań
 
 **Kluczowe tematy:**
 - Obsesyjna kontrola
@@ -31,14 +31,14 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### DARIUSZ ADAMSKI ("Wilk Samotnik")
 **Dokumenty główne:**
-- Kronika Ósmego Kręgu - Rozdziały: 1, 2, 5, 6, 7, 11, Epilog
-- Anatomia Rodzinnej Tragedii - Sekcja I.2, II.5
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdziały: 1, 2, 5, 6, 7, 11, Epilog
+- Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.2, II.5
 - Przewodnik - Sekcja 3.2
 
 **Materiały źródłowe:**
-- kontekst 1 - analiza roli ofiary
-- kontekst 3 - inwestycje w nieruchomość
-- kontekst 4 - reakcje obronne
+- kontekst_1.md - analiza roli ofiary
+- kontekst_3.md - inwestycje w nieruchomość
+- kontekst_4.md - reakcje obronne
 
 **Kluczowe tematy:**
 - Inwestycje w dom (160,000-255,000 zł)
@@ -51,14 +51,14 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### SYLWESTER ADAMSKI ("Stary Jeleń", "Papesmerf")
 **Dokumenty główne:**
-- Kronika Ósmego Kręgu - Rozdziały: 1, 9
-- Anatomia Rodzinnej Tragedii - Sekcja I.3
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdziały: 1, 9
+- Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.3
 - Przewodnik - Sekcja 3.3
 
 **Materiały źródłowe:**
-- kontekst 1 (cała treść pierwsza część) - szczegółowa analiza
-- kontekst 2 - instrumentalizacja
-- kontekst 3 - sprzeczności zeznań
+- kontekst_1.md (cała treść pierwsza część) - szczegółowa analiza
+- kontekst_2.md - instrumentalizacja
+- kontekst_3.md - sprzeczności zeznań
 
 **Kluczowe tematy:**
 - Stan zdrowia (wylew, I grupa inwalidzka)
@@ -70,13 +70,13 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### JULIA KOWALSKA ("Sarenka z Polany")
 **Dokumenty główne:**
-- Kronika Ósmego Kręgu - Rozdział 3
-- Anatomia Rodzinnej Tragedii - Sekcja I.4
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 3
+- Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.4
 - Przewodnik - brak dedykowanej sekcji
 
 **Materiały źródłowe:**
-- kontekst 1 - rola katalizatora
-- kontekst 3 - chronologia pojawienia się
+- kontekst_1.md - rola katalizatora
+- kontekst_3.md - chronologia pojawienia się
 
 **Kluczowe tematy:**
 - Pojawienie się w lutym 2021
@@ -89,13 +89,13 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### ALEKSANDER DOMEK ("Hiena Domkowa")
 **Dokumenty główne:**
-- Kronika Ósmego Kręgu - Rozdział 8
-- Anatomia Rodzinnej Tragedii - Sekcja I.5
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 8
+- Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.5
 - Przewodnik - Sekcja 3.4
 
 **Materiały źródłowe:**
-- kontekst 1 (cała treść) - szczegółowa analiza zdrady
-- kontekst 4 - konflikt interesów
+- kontekst_1.md (cała treść) - szczegółowa analiza zdrady
+- kontekst_4.md - konflikt interesów
 
 **Kluczowe tematy:**
 - Zdrada klienta (13.10.2021)
@@ -107,12 +107,12 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### MICHAŁ SARNECKI ("Sarna Sarnecki")
 **Dokumenty główne:**
-- Anatomia Rodzinnej Tragedii - Sekcja I.5
+- Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.5
 - Przewodnik - Sekcja 3.4
 
 **Materiały źródłowe:**
-- kontekst 1 (końcowa część) - analiza bierności
-- kontekst 4 - zaniechania procesowe
+- kontekst_1.md (końcowa część) - analiza bierności
+- kontekst_4.md - zaniechania procesowe
 
 **Kluczowe tematy:**
 - Brak inicjatywy
@@ -123,13 +123,13 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### SĘDZIA ("Puszczyk Halager")
 **Dokumenty główne:**
-- Kronika Ósmego Kręgu - Rozdział 10
-- Anatomia Rodzinnej Tragedii - Sekcja II.4
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 10
+- Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja II.4
 - Przewodnik - Sekcja 3.6
 
 **Materiały źródłowe:**
-- kontekst 3 - analiza błędów sądowych
-- kontekst 4 - systemowa porażka
+- kontekst_3.md - analiza błędów sądowych
+- kontekst_4.md - systemowa porażka
 
 **Kluczowe tematy:**
 - Oddalenie wniosków dowodowych
@@ -142,13 +142,13 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### DOROTA KOWALSKA ("Sroka Dorota")
 **Dokumenty główne:**
-- Kronika Ósmego Kręgu - Prolog, różne rozdziały
-- Anatomia Rodzinnej Tragedii - Sekcja I.5
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Prolog, różne rozdziały
+- Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.5
 - Przewodnik - Sekcja 3.5
 
 **Materiały źródłowe:**
-- kontekst 1 - rola strategicznej doradczyni
-- kontekst 2 - "megafon" Barbary
+- kontekst_1.md - rola strategicznej doradczyni
+- kontekst_2.md - "megafon" Barbary
 
 **Kluczowe tematy:**
 - Strategiczna doradczyni
@@ -158,12 +158,12 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### RODZEŃSTWO ("Bociany z Odciętymi Skrzydłami")
 **Dokumenty główne:**
-- Anatomia Rodzinnej Tragedii - Sekcja I.5
+- Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.5
 - Przewodnik - Sekcja 3.5
 
 **Materiały źródłowe:**
-- kontekst 1 - chór rodzinny
-- kontekst 2 - powielanie narracji
+- kontekst_1.md - chór rodzinny
+- kontekst_2.md - powielanie narracji
 
 **Kluczowe tematy:**
 - Artur, Monika, Michał
@@ -173,13 +173,13 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### ANTONI BOGDASZEWSKI ("Borsuk Bogdaszewski")
 **Dokumenty główne:**
-- Kronika Ósmego Kręgu - Rozdział 7
-- Anatomia Rodzinnej Tragedii - Sekcja I.5
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 7
+- Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.5
 - Przewodnik - Sekcja 3.6
 
 **Materiały źródłowe:**
-- kontekst 1 - bierni obserwatorzy
-- kontekst 3 - notatki policyjne
+- kontekst_1.md - bierni obserwatorzy
+- kontekst_3.md - notatki policyjne
 
 **Kluczowe tematy:**
 - Dzielnicowy
@@ -195,9 +195,9 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 ### 2017 - Pieczęć Przeznaczenia
 
 **7.07.2017 - Darowizna**
-- Kronika Ósmego Kręgu - Rozdział 1
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 1
 - Anatomia - Sekcja II.1
-- kontekst 3 - dokumentacja prawna
+- kontekst_3.md - dokumentacja prawna
 
 **Kluczowe elementy:**
 - Akt darowizny
@@ -208,8 +208,8 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 ### 2017-2020 - Życie pod Cieniem
 
 **Okres przygotowań**
-- Kronika Ósmego Kręgu - Rozdział 2
-- kontekst 2 - gromadzenie amunicji
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 2
+- kontekst_2.md - gromadzenie amunicji
 
 **Kluczowe elementy:**
 - Inwestycje Dariusza w nieruchomość
@@ -219,14 +219,14 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 ### 2021 - LUTY - Iskra
 
 **Luty 2021 - Pojawienie się Julii**
-- Kronika Ósmego Kręgu - Rozdział 3
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 3
 - Anatomia - Sekcja II.1
-- kontekst 1 - katalizator
+- kontekst_1.md - katalizator
 
 **10.02.2021, 2:30 - Nocne Wtargnięcie**
-- Kronika Ósmego Kręgu - Rozdział 4
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 4
 - Anatomia - Sekcja II.1
-- kontekst 2 - prowokacja
+- kontekst_2.md - prowokacja
 
 **Kluczowe elementy:**
 - Wtargnięcie do pokoju Dariusza i Julii
@@ -235,8 +235,8 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Start eskalacji
 
 **14.02.2021 - Walentynki**
-- Kronika Ósmego Kręgu - Rozdział 3
-- kontekst 3
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 3
+- kontekst_3.md
 
 **Kluczowe elementy:**
 - Ogłoszenie związku na Facebooku
@@ -246,9 +246,9 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 ### 2021 - MARZEC-MAJ - Eskalacja
 
 **Marzec 2021 - Inscenizacja z Paralizatorem**
-- Kronika Ósmego Kręgu - Rozdział 6
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 6
 - Anatomia - Sekcja II.2
-- kontekst 2 - prowokacje
+- kontekst_2.md - prowokacje
 
 **Kluczowe elementy:**
 - Groźby od brata Barbary
@@ -257,9 +257,9 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Fałszywy zapis: "groził paralizatorem"
 
 **Marzec-Maj 2021 - Zaspawana Prawda**
-- Kronika Ósmego Kręgu - Rozdział 5
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 5
 - Anatomia - Sekcja II.2
-- kontekst 1 - symbol
+- kontekst_1.md - symbol
 
 **Kluczowe elementy:**
 - Ucieczka do warsztatu
@@ -268,9 +268,9 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Manifest gnijącej prawdy
 
 **21.05.2021 - Odwrócony Triaż**
-- Kronika Ósmego Kręgu - Rozdział 6 (koniec)
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 6 (koniec)
 - Anatomia - Sekcja I.1
-- kontekst 2 - cynizm
+- kontekst_2.md - cynizm
 
 **Kluczowe elementy:**
 - Zły stan zdrowia Sylwestra
@@ -281,9 +281,9 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 ### 2021 - LIPIEC-SIERPIEŃ - Atak Prawny
 
 **17-18.07.2021 - Noc Ósmego Kręgu**
-- Kronika Ósmego Kręgu - Rozdział 7
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 7
 - Anatomia - Sekcja II.3
-- kontekst 3 - przejście
+- kontekst_3.md - przejście
 
 **Kluczowe elementy:**
 - Wezwanie policji
@@ -292,9 +292,9 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Symboliczne przejście do Ósmego Kręgu
 
 **19.07.2021 - Pełnomocnictwo**
-- Kronika Ósmego Kręgu - Rozdział 9
-- kontekst 1 - instrumentalizacja
-- kontekst 2
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 9
+- kontekst_1.md - instrumentalizacja
+- kontekst_2.md
 
 **Kluczowe elementy:**
 - 2 dni po Niebieskiej Karcie!
@@ -303,11 +303,11 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Strategiczne zabezpieczenie
 
 **27.07.2021 - Zawiadomienie o Przestępstwie**
-- kontekst 3 - eskalacja prawna
+- kontekst_3.md - eskalacja prawna
 
 **3.08.2021 - Sprzeczność (część 1)**
-- Kronika Ósmego Kręgu - Rozdział 9
-- kontekst 1 - diamentowa sprzeczność
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 9
+- kontekst_1.md - diamentowa sprzeczność
 
 **Kluczowe elementy:**
 - Zeznanie Sylwestra na policji
@@ -315,8 +315,8 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Deklaracja Barbary: "chcę powrotu syna"
 
 **6.08.2021 - Sprzeczność (część 2)**
-- Kronika Ósmego Kręgu - Rozdział 9
-- kontekst 1 - manipulacja
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 9
+- kontekst_1.md - manipulacja
 
 **Kluczowe elementy:**
 - 3 dni później!
@@ -328,9 +328,9 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 ### 2021 - PAŹDZIERNIK - Zdrada
 
 **13.10.2021 - Korytarz Sądowy**
-- Kronika Ósmego Kręgu - Rozdział 8
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 8
 - Anatomia - Sekcja II.3
-- kontekst 1 - Hiena Domkowa
+- kontekst_1.md - Hiena Domkowa
 
 **Kluczowe elementy:**
 - 5 minut przed rozprawą
@@ -342,10 +342,10 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 ### 2022-2025 - Farsa Sprawiedliwości
 
 **Proces Cywilny**
-- Kronika Ósmego Kręgu - Rozdział 10
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 10
 - Anatomia - Sekcja II.4
-- kontekst 3 - błędy sądowe
-- kontekst 4 - systemowa porażka
+- kontekst_3.md - błędy sądowe
+- kontekst_4.md - systemowa porażka
 
 **Kluczowe elementy:**
 - Oddalenie wniosków dowodowych
@@ -366,7 +366,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 ### 2025 - Paradoks Wolności
 
 **Rezygnacja z Apelacji**
-- Kronika Ósmego Kręgu - Rozdział 11
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 11
 - Anatomia - Sekcja II.5
 - Przewodnik - Sekcja 5.0
 
@@ -377,7 +377,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Wybór zdrowia psychicznego
 
 **Emigracja do Holandii**
-- Kronika Ósmego Kręgu - Rozdział 11, Epilog
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 11, Epilog
 - Anatomia - Sekcja II.5
 
 **Kluczowe elementy:**
@@ -387,7 +387,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Wolność
 
 **Pusta Polana**
-- Kronika Ósmego Kręgu - Rozdział 12
+- Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 12
 - Anatomia - Sekcja III
 - Przewodnik - Sekcja 5.0
 
@@ -407,7 +407,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 #### Kocioł Krzywd
 - Kronika - Prolog, Rozdział 2
 - Przewodnik - Sekcja 4.0
-- kontekst 2
+- kontekst_2.md
 
 **Gdzie szukać:**
 - Definicja i składniki
@@ -418,7 +418,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Kronika - Rozdział 2, 4, 6
 - Anatomia - Sekcja I.1
 - Przewodnik - Sekcja 4.0
-- kontekst 2
+- kontekst_2.md
 
 **Gdzie szukać:**
 - Broń procesowa
@@ -429,7 +429,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 #### Zaspawana Prawda
 - Kronika - Rozdział 5
 - Przewodnik - Sekcja 4.0
-- kontekst 1
+- kontekst_1.md
 
 **Gdzie szukać:**
 - Symbolika
@@ -452,7 +452,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 #### Obsesyjna Kontrola
 - Anatomia - Sekcja I.1
 - Przewodnik - całość
-- kontekst 2
+- kontekst_2.md
 
 **Gdzie szukać:**
 - Profil Barbary
@@ -461,7 +461,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Reakcja na utratę władzy
 
 #### Gaslighting i Odwracanie Ról
-- kontekst 2 - szczegółowa analiza
+- kontekst_2.md - szczegółowa analiza
 - Anatomia - Sekcja I.1
 
 **Gdzie szukać:**
@@ -481,7 +481,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### Samospełniająca się Przepowiednia
 - Anatomia - Sekcja I.4
-- kontekst 1
+- kontekst_1.md
 
 **Gdzie szukać:**
 - Obsesja Barbary o Julię
@@ -492,7 +492,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### Instrumentalizacja Procedur
 - Anatomia - Sekcja I.1, I.5
-- kontekst 3, 4
+- kontekst_3.md, 4
 
 **Gdzie szukać:**
 - Niebieska Karta jako narzędzie
@@ -502,8 +502,8 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### Konflikt Interesów
 - Kronika - Rozdział 8
-- kontekst 1 - Hiena i Sarna
-- kontekst 4
+- kontekst_1.md - Hiena i Sarna
+- kontekst_4.md
 
 **Gdzie szukać:**
 - WDS Legal konsorcjum
@@ -515,7 +515,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Kronika - Rozdział 10
 - Anatomia - Sekcja II.4
 - Przewodnik - Sekcja 3.6
-- kontekst 4
+- kontekst_4.md
 
 **Gdzie szukać:**
 - Oddalenie wniosków
@@ -525,7 +525,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 #### Prejudykat
 - Kronika - Rozdział 8
-- kontekst 1, 4
+- kontekst_1.md, 4
 
 **Gdzie szukać:**
 - Wyrok karny jako dowód w sprawie cywilnej
@@ -538,7 +538,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 #### Toksyczna Rodzina
 - Przewodnik - całość
 - Anatomia - całość
-- kontekst 2
+- kontekst_2.md
 
 **Gdzie szukać:**
 - Destrukcyjne wzorce
@@ -593,13 +593,13 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 ### "Jej zeznania są moimi zeznaniami"
 - Kronika - Rozdział 9
 - Anatomia - Sekcja I.3
-- kontekst 1
+- kontekst_1.md
 - POLANA_KLAMSTW_KOMPLETNA_KRONIKA - Sekcja 6.4
 
 ### "Już nie rozumiał, co się dzieje. Byłam jego głosem"
 - Kronika - Rozdział 9
 - Anatomia - Sekcja I.3
-- kontekst 1
+- kontekst_1.md
 - POLANA_KLAMSTW_KOMPLETNA_KRONIKA - Sekcja 6.4
 
 ### "Opłata za wolność"
@@ -609,17 +609,17 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 ### "Dariusz mnie nie obraża, nie wyzywa. On mnie ignoruje"
 - Kronika - Rozdział 9
-- kontekst 1
+- kontekst_1.md
 - POLANA_KLAMSTW_KOMPLETNA_KRONIKA - Sekcja 6.3
 
 ### "Wynoś się! To MOJA nora!"
 - Kronika - Rozdział 4
-- kontekst 2
+- kontekst_2.md
 - POLANA_KLAMSTW_KOMPLETNA_KRONIKA - Sekcja 5.4
 
 ### "Sprawczyni własnej samotności"
 - Anatomia - Sekcja III
-- kontekst 2
+- kontekst_2.md
 - README
 
 ### "Niech zgnije. Prawda, która nie może wyjść, gnije w środku"
@@ -639,73 +639,73 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 **Akt Darowizny (7.07.2017)**
 - Kronika - Rozdział 1
-- kontekst 3
+- kontekst_3.md
 - Kluczowe zapisy: służebność osobista
 
 **Pełnomocnictwo (19.07.2021)**
 - Kronika - Rozdział 9
-- kontekst 1, 2
+- kontekst_1.md, 2
 - Zakres: totalny
 
 **List Odwołujący Darowiznę (6.08.2021)**
 - Kronika - Rozdział 9
-- kontekst 1
+- kontekst_1.md
 - Kluczowa adnotacja o świadomości
 
 **Niebieska Karta (17-18.07.2021)**
 - Kronika - Rozdział 7
-- kontekst 3
+- kontekst_3.md
 - Instrumentalne wykorzystanie
 
 **Wyrok Karny (II K 568/21)**
 - Kronika - Rozdział 8
-- kontekst 1, 4
+- kontekst_1.md, 4
 - Wymuszony, wadliwy
 
 **Wyrok Cywilny (29.08.2025)**
 - Kronika - Rozdział 10
-- kontekst 3, 4
+- kontekst_3.md, 4
 - Błędny prawnie
 
 ### Procedury i Instytucje
 
 **Policja**
-- kontekst 1, 3
+- kontekst_1.md, 3
 - Borsuk Bogdaszewski
 - Rutynowe procedury
 
 **Prokuratura**
-- kontekst 3, 4
+- kontekst_3.md, 4
 - Dochodzenie karne
 
 **Sąd Karny**
 - Kronika - Rozdział 8
-- kontekst 4
+- kontekst_4.md
 
 **Sąd Cywilny**
 - Kronika - Rozdział 10
 - Anatomia - Sekcja II.4
-- kontekst 3, 4
+- kontekst_3.md, 4
 
 ### Błędy Systemu
 
 **Oddalenie Wniosków**
-- kontekst 4
+- kontekst_4.md
 - Anatomia - Sekcja II.4
 - Lista oddalonych wniosków
 
 **Błąd Prawny (służebność ≠ dożywocie)**
 - Kronika - Rozdział 10
 - Anatomia - Sekcja I.5
-- kontekst 4
+- kontekst_4.md
 
 **Konflikt Interesów**
-- kontekst 1, 4
+- kontekst_1.md, 4
 - WDS Legal
 
 **Brak Ochrony Ofiary Manipulacji**
 - Sylwester
-- kontekst 1
+- kontekst_1.md
 
 ---
 
@@ -730,24 +730,24 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 ### Dla Cytatów i Dowodów:
 1. Sekcja 4 - kluczowe cytaty
 2. Sekcja 5 - dokumenty prawne
-3. Zawsze weryfikuj w materiałach źródłowych (kontekst 1-5)
+3. Zawsze weryfikuj w materiałach źródłowych (kontekst_1.md-5)
 
 ---
 
 ## 7. SKRÓTY I OZNACZENIA
 
 **Dokumenty główne:**
-- **Kronika** = Polana Kłamstw: Kronika Ósmego Kręgu
-- **Anatomia** = Kronika Polany Kłamstw: Anatomia Rodzinnej Tragedii
+- **Kronika** = Polana Kłamstw: Polana_Klamstw_Kronika_Osmego_Kregu.md
+- **Anatomia** = Kronika Polany Kłamstw: Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md
 - **Przewodnik** = Polana Kłamstw: Przewodnik po Świecie, Postaciach i Motywach
 - **Kompletna** = POLANA_KLAMSTW_KOMPLETNA_KRONIKA.md
 
 **Materiały źródłowe:**
-- **k1** = kontekst 1
-- **k2** = kontekst 2
-- **k3** = kontekst 3
-- **k4** = kontekst 4
-- **k5** = kontekst 5
+- **k1** = kontekst_1.md
+- **k2** = kontekst_2.md
+- **k3** = kontekst_3.md
+- **k4** = kontekst_4.md
+- **k5** = kontekst_5.md
 
 ---
 
