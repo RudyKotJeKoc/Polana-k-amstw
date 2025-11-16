@@ -1089,18 +1089,279 @@ Triumf Wiedźmy był całkowity. Pętla zaczęła się zamykać.
 
 ### Rozdział 8: Hiena Domkowa i Zdrada na Sądowym Korytarzu
 
-W obliczu oskarżenia karnego, wyczerpany Wilk poszukał pomocy u adwokata, Aleksandra Domka. Okazał się on **Hieną Domkową** – drapieżnikiem o zimnych oczach i fałszywym uśmiechu, który nie bronił sprawiedliwości, lecz żywił się konfliktem i szybkim zyskiem.
+**Sierpień-październik 2021** były miesiącami, w których Wilk, oznaczony już jako sprawca przez Niebieską Kartę, desperacko szukał obrony. Został oskarżony o znęcanie się psychiczne nad rodzicami (**art. 207 § 1 k.k.**). Sprawa karna **II K 568/21** ruszyła jak lawina.
 
-Do zdrady doszło na korytarzu sądowym, pięć minut przed rozprawą karną. Hiena, wykorzystując stan psychicznego załamania Wilka, namówiła go do przyznania się do winy. Złożył fałszywą obietnicę:
+Wilk potrzebował pomocy. Potrzebował kogoś, kto go obroni, kto powie prawdę, kto pokaże sądowi, że to on jest ofiarą, a nie sprawcą.
 
-*„Zaufaj mi. Przyznaj się, a sprawa zostanie zamknięta. Ten wyrok będzie bezwartościowy w sprawie o dom – ona nie będzie mogła go użyć przeciwko tobie."*
+Znalazł **Hienę Domkową**.
 
-Wilk, pragnąc jedynie końca koszmaru, zgodził się.
-
-Rozprawa była farsą. **Wyrok nakazowy (II K 568/21)** zapadł wyłącznie na podstawie wymuszonego przyznania się. Ten wyrok karny stał się „koronnym dowodem" Wiedźmy w sprawie cywilnej o odebranie domu. Później okazało się, że Hiena Domkowa działała w konflikcie interesów, kontaktując się ze stroną przeciwną. Po otrzymaniu zapłaty zniknęła, zostawiając Wilka ze zdradą i papierowym wyrokiem, który przypieczętował jego los.
+A raczej – Hiena znalazła jego.
 
 ---
 
+**Aleksander Domek: Zimne Oczy, Fałszywy Uśmiech**
+
+**Adwokat Aleksander Domek** z kancelarii **WDS Legal** przedstawił się Wilkowi jako doświadczony obrońca w sprawach karnych. Elegancki, pewny siebie, z portfoliem pełnym wygranych spraw.
+
+– *To sprawa prosta* – powiedział podczas pierwszego spotkania. – *Matka prowokuje, ty reagujesz. Mamy dowody: kamery, nagrania, jej własny kalendarz pełen sprzeczności. Bez problemu to rozwalimy.*
+
+Wilk poczuł ulgę. Wreszcie ktoś, kto rozumie. Ktoś, kto widzi prawdę.
+
+Podpisał umowę. Zapłacił zaliczkę – **kilkanaście tysięcy złotych**. Wszystkie oszczędności.
+
+Domek uśmiechnął się. Zimno. Jak hiena, która właśnie zwietrzła padlinę.
+
+---
+
+**Pierwsze Tygodnie: Iluzja Obrony**
+
+Przez pierwsze tygodnie współpracy Domek sprawiał wrażenie, że pracuje. Dzwonił do Wilka, pytał o szczegóły, prosił o dokumenty.
+
+Wilk dostarczał wszystko:
+- Zdjęcia inwestycji w dom (fotowoltaika, solary, dachy)
+- Dowody wpłat (18 tys. zł na KRUS, media, utrzymanie)
+- Kalendarz Barbary (pełen sprzeczności i prowokacji)
+- SMS-y od brata Wiedźmy (groźby pobicia – uzasadnienie zakupu paralizatora)
+
+Domek przyjmował dokumenty, kiw
+
+ając głową.
+
+– *Świetnie. To wszystko użyjemy. Zbudujemy obronę na faktach, nie na emocjach.*
+
+Ale tygodnie mijały. Domek nie przygotowywał pism. Nie składał wniosków dowodowych. Nie kontaktował się z sądem.
+
+Wilk dzwonił, pytając o postęp.
+
+– *Spokojnie* – odpowiadał Domek. – *Wszystko pod kontrolą. Zaufaj mi.*
+
+I Wilk ufał. Bo co innego mógł zrobić?
+
+---
+
+**Kontakt z Wiedźmą: Konflikt Interesów**
+
+Tego, czego Wilk nie wiedział, było jedno: **Domek kontaktował się z Barbarą**.
+
+W trakcie prowadzenia sprawy adwokat Wilka utrzymywał kontakt ze stroną przeciwną. Rozmawiał z Wiedźmą. Słuchał jej wersji. I... **uwierzył jej**.
+
+Dla Domka było to proste: stara kobieta, drżąca, przerażona, z kalendarzem pełnym oskarżeń vs. młody mężczyzna, agresywny, zaspawał toaletę, miał paralizator.
+
+Domek wybrał swoją wersję prawdy. I była to wersja Wiedźmy.
+
+To był **rażący konflikt interesów** – naruszenie **Art. 12 Kodeksu Etyki Adwokackiej**. Ale Hiena nie przejmowała się etyką. Przejmowała się szybkim zyskiem i zamknięciem sprawy.
+
+---
+
+**13 Października 2021: Korytarz Zdrady**
+
+Nadszedł **13 października 2021** – dzień rozprawy karnej. **Cyfra 13** – dzień sądu ostatecznego.
+
+Wilk przyjechał do sądu zestresowany, ale pełen nadziei. *Wreszcie. Wreszcie będę mógł powiedzieć prawdę. Sędzia wysłucha faktów. Kalendarz Wiedźmy zostanie obnażony jako manipulacja.*
+
+Czekał na korytarzu przed salą rozpraw. Rozprawa miała się rozpocząć za **5 minut**.
+
+I wtedy pojawił się Domek.
+
+---
+
+**5 Minut Przed Rozprawą: Wymuszenie**
+
+Aleksander Domek podszedł do Wilka z poważną miną.
+
+– *Musimy porozmawiać. Pilnie.*
+
+Wilk wstał, zaniepokojony.
+
+– *Co się stało?*
+
+Domek spojrzał na niego chłodno.
+
+– *Słuchaj. Ta sprawa... to jest bez sensu ją prowadzić. Matka ma kalendarz, zeznania, Niebieską Kartę. Sąd uwierzy jej, nie tobie.*
+
+Wilk poczuł, jak ziemia usuwa mu się spod nóg.
+
+– *Ale... ale mamy dowody! Kamery pokazują, że to ona prowokuje! Kalendarz jest pełen kłamstw!*
+
+Domek machnął ręką lekceważąco.
+
+– *To nie ma znaczenia. Sąd widzi starą kobietę i młodego faceta z paralizatorem. Kto wygra w oczach sędziego?*
+
+Wilk milczał, przerażony.
+
+Domek nachylił się bliżej, obniżając głos.
+
+– *Zaufaj mi. Przyznaj się do winy. Powiedz, że żałujesz. Dostaniesz symboliczny wyrok, może nawet w trybie nakazowym – bez rozprawy. I sprawa będzie zamknięta. Koniec. Święty spokój.*
+
+– *Ale... to kłamstwo!* – wykrzyknął Wilk. – *Ja się nie znęcałem!*
+
+Domek westchnął, jakby miał do czynienia z nierozumnym dzieckiem.
+
+– *Dariuszu. Posłuchaj. Jeśli będziesz walczył, ta sprawa przeciągnie się na miesiące. Matka wezwie świadków. Przedstawi setki stron kalendarza. Sąd cię skaże i tak. A wyrok będzie cięższy. Zaufaj mi – **przyznaj się, a sprawa będzie zamknięta**.*
+
+Wilk stał w korytarzu, oszołomiony. Jego umysł krzyczał: *NIE! To pułapka!* Ale był wyczerpany. Psychicznie złamany. Miesiące walki z Wiedźmą, Niebieska Karta, oskarżenie karne – wszystko to zmiażdżyło go.
+
+Domek dodał jeszcze jedno kłamstwo – najgorsze ze wszystkich:
+
+– *I jeszcze jedno: ten wyrok będzie **bezwartościowy w sprawie o dom**. Matka nie będzie mogła go użyć przeciwko tobie w sądzie cywilnym. To tylko formalne zamknięcie sprawy karnej.*
+
+Wilk, desperacki, łapiący się ostatniej deski ratunku, uwierzył.
+
+– *...naprawdę?*
+
+– *Naprawdę. Zaufaj mi.*
+
+Wilk skinął głową, łamiąc się.
+
+– *Dobrze. Zrobię to.*
+
+Hiena się uśmiechnęła.
+
+*Dostałem go.*
+
+---
+
+**Tekturka Domkowa: Zabezpieczenie Zdrajcy**
+
+Ale Domek nie skończył. Wyciągnął kartonik – kawałek tektury – i długopis.
+
+– *Jeszcze jedno. Napisz to: „Nie będę wracał do sprawy. Nie będę dochodził roszczeń za nakłady w nieruchomość."*
+
+Wilk, w trans
+
+ie, napisał. Jego ręka drżała, ale pisał.
+
+**Tekturka Domkowa** – oświadczenie, które zabezpieczyło Hienę przed przyszłymi roszczeniami. Gdyby Wilk kiedykolwiek próbował pozwać Domka za wadliwą obronę lub dochodz
+
+ić zwrotu nakładów w nieruchomość – ta tekturka była tarczą zdrajcy.
+
+Domek schował kartonik do teczki.
+
+– *Świetnie. Teraz chodź. Wchodzimy na salę.*
+
+---
+
+**Farsa na Sali: Scenka Pojednania**
+
+Na sali rozpraw Domek zainscenizował **teatr pojednania**.
+
+Przed sędzią, w obecności prokuratora i Barbary, Domek kazał Wilkowi:
+
+– *Podejdź do matki. Przytul ją. Powiedz, że żałujesz.*
+
+Wilk, jak automat, podszedł do Wiedźmy. Stanął przed nią. Spojrzał w jej oczy – zimne, triumfujące.
+
+Objął ją. Czuł, jak jego dusza umiera.
+
+– *Przepraszam* – wyszeptał.
+
+Wiedźma uśmiechnęła się.
+
+*Wygrałam.*
+
+Sędzia patrzył na scenę z zadowoleniem. *Ach, jak pięknie. Rodzina się godzi.*
+
+Prokur
+
+ator kiwnął głową.
+
+Domek siedział z tyłu sali, z zadowoloną miną.
+
+---
+
+**Wyrok Nakazowy II K 568/21: Pergamin Zdrady**
+
+Rozprawa trwała kilkanaście minut. Wilk przyznał się do winy. Nie było potrzeby przesłuchiwać świadków, przedstawiać dowodów, badać faktów.
+
+Sąd wydał **wyrok nakazowy**:
+
+**Dariusz Adamski został uznany za winnego znęcania się psychicznego nad rodzicami (art. 207 § 1 k.k.).**
+
+Kara symboliczna – grzywna, ewentualnie kara ograniczenia wolności. Ale to nie kara była ważna.
+
+Ważne było **ustalenie winy**.
+
+Wyrok stał się **prawomocny**. A prawomocny wyrok karny to, zgodnie z **Art. 11 k.p.c.**, **prejudykat** w sprawie cywilnej.
+
+**Koronny dowód Wiedźmy** właśnie został wyłożony na srebrnej tacy.
+
+---
+
+**Konsekwencje: Zdrada Zamienia się w Broń**
+
+Wilk wyszedł z sądu w transie. Domek poklepał go po ramieniu.
+
+– *Widzisz? Mówiłem. Sprawa zamknięta. Teraz możesz żyć spokojnie.*
+
+Ale Wilk nie czuł spokoju. Czuł pustkę.
+
+Domek zniknął po otrzymaniu zapłaty. Telefony nie były odbierane. E-maile pozostawały bez odpowiedzi. **Hiena Domkowa** przeniosła się na inne padliny.
+
+A kilka miesięcy później, **w lutym 2022**, Wilk dowiedział się prawdy:
+
+Wiedźma złożyła **pozew cywilny o cofnięcie darowizny** (sprawa **I C 634/22**). I jako **koronny dowód** przedstawiła... wyrok karny II K 568/21.
+
+*„Darczyńca (Sylwester) został poddany psychicznemu znęcaniu się przez obdarowanego (Dariusza), co zostało prawomocnie ustalone wyrokiem sądu karnego."*
+
+**Prejudykat**. Sąd cywilny musiał przyjąć ustalenia wyroku karnego jako prawdę. Puszczyk Halager nie mógł badać, czy wyrok był słuszny, ani jak powstał.
+
+Kłamstwo Hieny – *„Ten wyrok będzie bezwartościowy w sprawie o dom"* – okazało się dokładnie **odwrotne**.
+
+Wyrok karny stał się **fundamentem** i **koronnym dowodem** w sprawie cywilnej.
+
+Domek zdradził Wilka. Sprzedał go za kilkanaście tysięcy złotych i dał Wiedźmie pergamin, który zniszczył Wilka całkowicie.
+
+---
+
+**Sarna Sarnecki: Bierna Obrona Chroniąca Hienę**
+
+Gdy sprawa cywilna ruszyła, Wilk potrzebował nowego adwokata. Ktoś polecił mu **Michała Sarneckiego** – kolegi Domka z tej samej kancelarii **WDS Legal**.
+
+Sarnecki zgodził się prowadzić obronę. Ale od pierwszego dnia było jasne, że nie zamierza **naprawdę** walczyć.
+
+**Brak odpowiedzi na pozew** – zaniechanie, które mogło skutkować uznaniem twierdzeń powódki za przyznane (art. 230 k.p.c.)
+
+**Brak zgłoszenia dowodów** – nie przedstawił dokumentacji inwestycji Dariusza (160-255 tys. zł)
+
+**Brak powołania świadków** – nie wezwał kluczowego świadka: **Aleksandra Domka**. Dlaczego? Bo to obnaży
+
+łoby okoliczności powstania wyroku karnego. A Sarna chronił kolegę z konsorcjum.
+
+**Bierna postawa** – Sarnecki był obecny na rozprawach, ale milczał. Prosił innych adwokatów o wykonanie jego pracy. Uciekał przed odpowiedzialnością.
+
+**Sarna Sarnecki** – postać pozornie elegancka, formalna, uprzejma. Ale w momencie wymagającym podjęcia konkretnej decyzji – wycofuje się i ceduje odpowiedzialność na innych.
+
+Chronił WDS Legal. Chronił Hienę Domkową. Nie chronił Wilka.
+
+---
+
+**Zdrada Systemowa: Konsorcjum Ponad Klientem**
+
+Hiena i Sarna działali w ramach jednego konsorcjum – **WDS Legal**. Ich lojalność była wobec siebie, nie wobec klienta.
+
+Domek stworzył wyrok karny, który zniszczył Wilka.
+
+Sarnecki chronił Domka, prowadząc bierną, iluzoryczną obronę w sprawie cywilnej.
+
+Obaj zarobili. Obaj wyszli bezkarnie.
+
+Wilk stracił wszystko.
+
+---
+
+Rozdział 8 był rozdziałem **systemowej zdrady**. Nie chodziło już tylko o Wiedźmę i jej manipulacje. Chodziło o to, że **system, który miał chronić – zdradził**.
+
+Adwokat, który miał bronić – sprzedał.
+
+Kolejny adwokat, który miał naprawić – chronił zdrajcę.
+
+Wilk został sam. Z wyrokiem karnym, który był kłamstwem. Z długami. Z pustką.
+
+Ale najgorsze dopiero nadchodziło.
+
+Bo teraz Wiedźma miała wszystko, czego potrzebowała, by zaatakować w sądzie cywilnym.
+
+I w tym sądzie czekał **Puszczyk Halager** – sędzia, która patrzyła tylko na papier.
 ### Rozdział 9: Stary Jeleń – Papesmerf z Czerwoną Czapką
 
 W centrum tej historii stała postać tragiczna – **Stary Jeleń Sylwester**, Papesmerf z czerwoną czapką. Po przebytym wylewie, z pierwszą grupą inwalidzką i poważnymi ograniczeniami poznawczymi, stał się całkowicie zależny od Wiedźmy. Czerwona czapka, którą nosił, nie była znakiem władzy, lecz symbolem wylewu krwi do mózgu – pieczęcią niewoli.
