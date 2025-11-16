@@ -225,8 +225,12 @@ Ten przewodnik pomoże Ci szybko zorientować się w materiałach i wybrać, co 
 
 ## 📊 STATYSTYKI PROJEKTU
 
-**Dokumenty:** 13 (8 oryginalnych + 5 nowych)  
-**Łączna objętość:** ~120,000+ słów  
+**Dokumenty:** 14 razem
+- 6 nowych dokumentów pomocniczych (QUICK_START, README, INDEKS, SYNTEZA, PODSUMOWANIE, KOMPLETNA_KRONIKA)
+- 3 dokumenty narracyjne oryginalne (Kronika, Anatomia, Przewodnik)
+- 5 plików kontekstowych (kontekst 1-5)
+
+**Łączna objętość:** ~200,000+ słów  
 **Nowe dokumenty:** ~80,000+ słów  
 **Postacie:** 10+ głównych  
 **Okres czasu:** 2017-2025 (8 lat)  
