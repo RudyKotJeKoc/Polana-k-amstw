@@ -20,16 +20,16 @@
 │   └── POLANA_KLAMSTW_KOMPLETNA_KRONIKA.md (przykład integracji)
 │
 ├── 📖 DOKUMENTY NARRACYJNE (oryginalne)
-│   ├── Kronika Ósmego Kręgu (literacka baśń)
-│   ├── Anatomia Rodzinnej Tragedii (analityczne studium)
-│   └── Przewodnik po Świecie (archetypy i symbole)
+│   ├── Polana_Klamstw_Kronika_Osmego_Kregu.md (literacka baśń)
+│   ├── Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md (analityczne studium)
+│   └── Polana_Klamstw_Przewodnik_po_Swiecie_Postaciach_i_Motywach.md (archetypy i symbole)
 │
 └── 📄 MATERIAŁY ŹRÓDŁOWE (oryginalne)
-    ├── kontekst 1 (postacie drugoplanowe)
-    ├── kontekst 2 (Barbara Adamska)
-    ├── kontekst 3 (chronologia i dowody)
-    ├── kontekst 4 (analiza systemowa)
-    └── kontekst 5 (materiały uzupełniające)
+    ├── kontekst_1.md (postacie drugoplanowe)
+    ├── kontekst_2.md (Barbara Adamska)
+    ├── kontekst_3.md (chronologia i dowody)
+    ├── kontekst_4.md (analiza systemowa)
+    └── kontekst_5.md (materiały uzupełniające)
 ```
 
 ## Struktura Dokumentacji
@@ -221,15 +221,17 @@ Ten zbiór dokumentów przedstawia literacką i analityczną interpretację wyda
 ### Dokumenty Utworzone:
 - ✅ **6 nowych dokumentów pomocniczych** (QUICK_START, README, INDEKS, SYNTEZA, PODSUMOWANIE, KOMPLETNA_KRONIKA)
 - ✅ **3 dokumenty narracyjne** ukończone (Kronika, Anatomia, Przewodnik)
-- ✅ **5 materiałów źródłowych** zebrane (kontekst 1-5)
+- ✅ **5 materiałów źródłowych** zebrane (kontekst_1-5)
 - ✅ Struktura zintegrowana i zindeksowana
 - ✅ System nawigacyjny kompletny
+- ✅ **Wszystkie pliki ustandaryzowane** z rozszerzeniem .md i spójną konwencją nazewnictwa
 
 ### Gotowe do Użycia:
 - ✅ Czytanie w obecnej strukturze wielodokumentowej
 - ✅ Nawigacja przez indeks tematyczny
 - ✅ Integracja według szczegółowego planu (SYNTEZA)
 - ✅ Rozwój multimedialny (plan w SYNTEZA)
+- ✅ Poprawiona spójność i czytelność struktury plików
 
 ### Następne Kroki (opcjonalnie):
 - ⏳ Ukończenie Master Dokumentu (160-210 stron) według planu
@@ -264,6 +266,34 @@ Ten zbiór dokumentów przedstawia literacką i analityczną interpretację wyda
 - **Analityczny** - głęboka analiza i synteza
 - **Narracyjny** - opowieści i studia (oryginalne)
 - **Źródłowy** - materiały dowodowe (oryginalne)
+
+---
+
+## 📝 Dodatkowe Materiały Robocze
+
+Repozytorium zawiera również dodatkowe materiały robocze i analityczne, które mogą być przydatne dla badaczy i twórców kontynuujących projekt:
+
+### Dokumenty Strategiczne i Koncepcyjne:
+- **Koniec_raportu.md** - Raport koncepcji projektu (mechanika narracyjna, symbolika)
+- **Koniec_raportu_Czesc_II.md** - Rozszerzenie strategiczne (pozycja narracyjna, system postaci)
+- **Koniec_raportu_Czesc_III.md** - Kontynuacja analizy strategicznej
+- **KONIEC_RAPORTU_FINALNEGO.md** - Część finalna raportu strategicznego
+- **Instrukcje_dla_kontekstu.md** - Instrukcje dla AI dotyczące stylu i zasad pisania
+
+### Materiały Analityczne:
+- **analiza_psychologiczna.md** - Analiza psychologiczna sprzeczności
+- **notice.md** - Zestawienie kluczowych sprzeczności i absurdów
+- **wskazowki.md** - Wskazówki dotyczące rozbudowy baśni
+- **zdrada_adwokata.md** - Analiza roli adwokata w konflikcie
+- **konflikt_rodzinny.md** - Dokumentacja konfliktu rodzinnego
+- **Plan_Barbary.md** - Analiza strategii Barbary Adamskiej
+
+### Materiały Źródłowe:
+- **basn.md** - Wersja robocza baśni
+- **analizy.md** - Zbiorcze analizy
+- **Bohaterowie_Polany_Klamstw_Przewodnik_po_Postaciach.md** - Przewodnik po postaciach
+
+**Uwaga:** Te materiały mają charakter roboczy i są udostępniane jako kontekst dla pełniejszego zrozumienia procesu twórczego. Główna struktura dokumentacji znajduje się w 14 dokumentach wymienionych w tabeli powyżej.
 
 ---
 
