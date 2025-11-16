@@ -225,10 +225,11 @@ Ten przewodnik pomoże Ci szybko zorientować się w materiałach i wybrać, co 
 
 ## 📊 STATYSTYKI PROJEKTU
 
-**Dokumenty:** 14 razem
+**Dokumenty:** 14 głównych + 14 roboczych
 - 6 nowych dokumentów pomocniczych (QUICK_START, README, INDEKS, SYNTEZA, PODSUMOWANIE, KOMPLETNA_KRONIKA)
 - 3 dokumenty narracyjne oryginalne (Kronika, Anatomia, Przewodnik)
-- 5 plików kontekstowych (kontekst 1-5)
+- 5 plików kontekstowych (kontekst_1.md - kontekst_5.md)
+- 14 materiałów roboczych i analitycznych
 
 **Łączna objętość:** ~200,000+ słów  
 **Nowe dokumenty:** ~80,000+ słów  
