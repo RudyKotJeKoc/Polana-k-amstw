@@ -28,7 +28,7 @@ Wokół niej krążyły inne leśne stworzenia:
 * **Sroka Doroty** (Dorota Kowalska), najgłośniejsza plotkarka, która latała od drzewa do drzewa, niosąc informacje, które zmyślała, przekręcała i ozdabiała.
 * **Borsuk Bogdaszewski** (Antoni Bogdaszewski), stary strażnik lasu, zmęczony cudzymi wojnami. Wolał zakopywać problemy w ziemi, niż je rozwiązywać.
 * **Smerfy z Posterunku** (policjanci), małe, niebieskie istoty działające automatycznie i zawsze dziesięć minut za późno.
-* **Stary Jeleń Sylwester** (Sylwester), kiedyś król zagajnika, teraz cień prowadzony za nos, sparaliżowany strachem. Nosił czerwoną czapkę – znak wylewu, który odebrał mu wolę.
+* **Pokémon Sylwester** (Sylwester), kiedyś król zagajnika, teraz zamknięty w Pokébolu za 26 złotych. Barbara kupiła go tanio i trzymała w kieszeni, wypuszczając tylko na komendę. Nosił czerwoną czapkę – znak wylewu, który odebrał mu wolę, zanim stał się narzędziem.
 * **Bociany z Odciętymi Skrzydłami** (Artur, Monika, Michał), rodzeństwo Wilka, które przestało latać. Powtarzały cudze zdania, bo tak było łatwiej.
 * **Puszczyk Halager** (sędzia), dostojny ptak siedzący wysoko na gałęzi. Nigdy nie schodził na ziemię, widział tylko dokumenty, które były odbiciem kłamstw, nie rzeczywistości.
 
@@ -1256,7 +1256,13 @@ Od tej chwili Wiedźma mogła:
 
 **Barbara otrzymała dokument, który dawał jej absolutną władzę.**
 
-Stary Jeleń, z I grupą inwalidzką po wylewie, z deficytami poznawczymi, stał się **marionetką**. Jego formalna rola jako darczyńcy i powoda w przyszłej sprawie cywilnej była zachowana, ale jego rzeczywista wola zgasła.
+Ale pełnomocnictwo to był tylko papier. Barbara potrzebowała czegoś więcej.
+
+Tego samego dnia, w kancelarii, kupiła **Pokéballa za 26 złotych**. Czerwono-biała kula, tania podróbka. Ale wystarczająca.
+
+I zamknęła w nim Sylwestra.
+
+Od tej chwili **Pokémon Sylwester**, z I grupą inwalidzką po wylewie, z deficytami poznawczymi, istniał tylko na komendę. Jego formalna rola jako darczyńcy i powoda w przyszłej sprawie cywilnej była zachowana, ale jego rzeczywista wola została zamknięta w Pokébolu.
 
 **Timing był perfekcyjny:**
 
@@ -1297,7 +1303,7 @@ Cyfry pamiętają wszystko:
 - **8** (Adamowo 8, 8 lat, 17→18.07.2021) – pętla bez końca, nieskończony Uroboros
 - **13** (13.10.2021 - nadejdzie w kolejnym rozdziale) – dzień sądu ostatecznego
 
-Wiedźma była w połowie drogi. Armia została wezwana. Procedury uruchomione. Stary Jeleń związany pełnomocnictwem.
+Wiedźma była w połowie drogi. Armia została wezwana. Procedury uruchomione. Pokémon Sylwester zamknięty w Pokébolu.
 
 Pozostało tylko zdobyć **wyrok karny** – i wtedy droga do odebrania domu będzie otwarta.
 
@@ -1764,11 +1770,13 @@ Ale najgorsze dopiero nadchodziło.
 Bo teraz Wiedźma miała wszystko, czego potrzebowała, by zaatakować w sądzie cywilnym.
 
 I w tym sądzie czekał **Puszczyk Halager** – sędzia, która patrzyła tylko na papier.
-### Rozdział 9: Stary Jeleń – Tragiczna Marionetka
+### Rozdział 9: Pokémon Sylwester – Zamknięty za 26 Złotych
 
-W centrum tej historii stała postać tragiczna – **Stary Jeleń Sylwester**. Był ofiarą, ale nie w taki sposób, jak przedstawiała to Wiedźma. Był ofiarą **manipulacji**, **zawłaszczenia tożsamości** i **przemocy psychicznej** ze strony własnej żony.
+W centrum tej historii stała postać tragiczna – **Pokémon Sylwester**. Kiedyś był **Starym Jeleniem**, królem zagajnika. Potem stał się pokémonem — zamkniętym w Pokébolu za 26 złotych.
 
-Historia Starego Jelenia była historią **stopniowej utraty siebie**.
+Był ofiarą, ale nie w taki sposób, jak przedstawiała to Wiedźma. Był ofiarą **manipulacji**, **zawłaszczenia tożsamości** i **przemocy psychicznej** ze strony własnej żony.
+
+Historia Pokémona Sylwestra była historią **stopniowej utraty siebie** — aż do momentu, w którym Barbara kupiła Pokéballa i zamknęła go na zawsze.
 
 ---
 
@@ -1906,17 +1914,31 @@ Pytanie pierwsze:
 
 Cisza.
 
-Stary Jeleń patrzył na sędzię. Czerwona czapka zsunęła się lekko na bok. Oczy puste, zagubione.
+Pokémon Sylwester patrzył na sędzię. Czerwona czapka zsunęła się lekko na bok. Oczy puste, zagubione. Otworzył usta, ale nic nie wyszło.
+
+Barbara sięgnęła do kieszeni. Wyjęła Pokéballa — dyskretnie, pod stołem. Nacisnęła przycisk.
+
+**Klik.**
+
+Sylwester powiedział:
 
 – *...nie pamiętam.*
 
+Głos był jego. Ale wychodził z Pokéballa.
+
 Puszczyk zapisała w protokole: **„Świadek nie potrafi przypomnieć sobie własnego wieku."**
+
+Nie zauważyła, że Barbara trzymała coś w ręce.
 
 Pytanie drugie:
 
 – *Czy rozumie pan, dlaczego jesteśmy tutaj? Czego dotyczy ta sprawa?*
 
-Sylwester spojrzał na Barbarę, jakby szukał odpowiedzi w jej oczach. Barbara skinęła głową delikatnie, zachęcająco.
+Pokémon Sylwester spojrzał na Barbarę, jakby szukał odpowiedzi w jej oczach. Barbara skinęła głową delikatnie, zachęcająco.
+
+I nacisnęła przycisk.
+
+**Klik.**
 
 Sylwester powiedział:
 
@@ -1950,25 +1972,33 @@ Odpowiedź była prosta: **nie mógł**.
 
 Barbara była jego głosem. Barbara była jego wolą. Barbara była jego tożsamością prawną.
 
-Sylwester był tylko **narzędziem** — marionetką w rękach Wiedźmy.
+Pokémon Sylwester był tylko **narzędziem** — pokémonem w rękach Wiedźmy.
 
 ---
 
-**Pełnomocnictwo jako Narzędzie Kontroli**
+**Pokéball: Pełnomocnictwo za 26 Złotych**
 
-Barbara miała **pełnomocnictwo z 19 lipca 2021**.
+Barbara miała **pełnomocnictwo z 19 lipca 2021** — ale to był tylko dokument.
 
-Dokument leżał w szufladzie biurka. Zwykły papier, standardowa czcionka, notarialna pieczątka. Ale od 19 lipca miał inny ciężar.
+Prawdziwe narzędzie kontroli było inne.
 
-Nie fizyczny — magiczno-realistyczny. Jakby dokument pamiętał podpis Sylwestra. Jakby przechowywał w sobie fragment jego woli, którą Barbara przejęła.
+**Pokéball.**
 
-Gdy potrzebowała Sylwestra jako powoda w sprawie cywilnej — sięgała po dokument.
-Gdy potrzebowała jego podpisu — sięgała po dokument.
-Gdy potrzebowała jego zeznań — mówiła jego ustami, a dokument milczał w szufladzie, legitymizując każde słowo.
+Kupiła go za 26 złotych. Tyle samo co opłata notarialna. Czerwono-biała kula, tania podróbka z plastiku. Ale wystarczająca.
+
+Pokéball leżał w jej kieszeni. Zawsze. Lekki, ale obecny. Jak pilot. Jak klucz.
+
+W środku był Sylwester. Nie fizycznie — fizycznie siedział w fotelu, nosił czerwoną czapkę, patrzył przez okno. Ale jego **wola**, jego **głos**, jego **zdolność do mówienia "nie"** — wszystko to było zamknięte w Pokébolu.
+
+Gdy Barbara potrzebowała Sylwestra jako powoda w sprawie cywilnej — sięgała do kieszeni, naciskała przycisk. **Klik.** Sylwester mówił.
+
+Gdy potrzebowała jego podpisu — **klik.** Ręka się podnosiła, długopis dotykał papieru.
+
+Gdy potrzebowała jego zeznań — **klik.** Głos wychodził z Pokéballa, nie z gardła.
 
 *„Jej zeznania są moimi zeznaniami."*
 
-Sylwester nie miał własnej woli. Miał tylko czerwoną czapkę — znak tego, że kiedyś był sobą.
+Pokémon Sylwester nie miał własnej woli. Miał tylko czerwoną czapkę — znak tego, że kiedyś był człowiekiem.
 
 ---
 
@@ -1998,7 +2028,7 @@ Sylwester stracił:
 - Umysł (wylew)
 - Wolę (pełnomocnictwo)
 - Głos (Barbara mówiła jego ustami)
-- Tożsamość (stał się narzędziem w rękach żony)
+- Tożsamość (stał się pokémonem zamkniętym w Pokébolu za 26 złotych)
 
 A sąd? Sąd patrzył tylko na papier. I na papierze Sylwester był **powodem**. Więc sąd traktował go jako stronę zdolną do procesu.
 
@@ -2010,9 +2040,35 @@ Rozdział 9 był rozdziałem **Starego Jelenia** – tragicznej postaci, która 
 
 Czerwona czapka została. Ale człowiek pod nią zniknął.
 
-Pozostała tylko marionetka — z formalnym autorytetem, ale bez duszy.
+Pozostał tylko **Pokémon** — z formalnym autorytetem, ale bez duszy.
 
-A pełnomocnictwo, które dawało Wiedźmie władzę nad nim, leżało w szufladzie. Ciepłe. Ciężkie. Pamiętające.
+A Pokéball, który dawał Wiedźmie absolutną władzę nad nim, leżał w jej kieszeni. Lekki. Plastikowy. Za 26 złotych.
+
+---
+
+### Pokémon nie ucieka
+
+Pokémony w grach mogą uciec z Pokéballa. Mogą się buntować. Mogą odmówić posłuszeństwa.
+
+Ale Pokémon Sylwester nie miał tej opcji.
+
+Był zamknięty **całkowicie**.
+
+Barbara kupiła najtańszego Pokéballa — podróbkę za 26 złotych. Ale wystarczył.
+
+Bo Sylwester nie był już na tyle silny, by się opierać.
+
+Wylew zabrał mu umysł. Barbara zabrała mu wolę. Pokéball zabrał mu głos.
+
+I pozostała tylko czerwona czapka.
+
+Symbol tego, że kiedyś był królem zagajnika.
+
+Teraz był tylko pokémonem.
+
+Zamkniętym.
+
+Czekającym na komendę.
 ### Rozdział 10: Puszczyk Halager i Sąd Papieru
 
 **SSR Małgorzata Halager** – Puszczyk z sądu w Jarocinie. Ptak nocny, który widzi tylko w ciemności, a ślepnie w świetle prawdy.
@@ -3093,7 +3149,7 @@ Jest tylko **cisza własnego zwycięstwa**.
 
 **Stary Jeleń: Cień we Własnym Życiu**
 
-**Stary Jeleń Sylwester**, marionetka w czerwonej czapce, zgasł emocjonalnie.
+**Pokémon Sylwester**, zamknięty w Pokébolu za 26 złotych, zgasł emocjonalnie.
 
 Siedzi w fotelu. Patrzy w przestrzeń. Czasem mamrocze coś do siebie. Czasem pyta: *„Gdzie jest Dariusz?"*
 
