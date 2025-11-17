@@ -319,7 +319,7 @@ W Kalendarzu Wiedźmy ten dzień został zapisany jako:
 
 Brak słowa o tym, że to Wiedźma zablokowała wezwanie pogotowia. Brak słowa o tym, że Wilk odebrał ojca ze szpitala. Brak słowa o tym, że priorytetem Barbary nie było zdrowie męża, ale **zdobycie dowodu** na „rażącą niewdzięczność" syna.
 
-To był **Odwrócony Triaż Priorytetów**: cel procesowy > zdrowie Papesmerfa.
+To był **Odwrócony Triaż Priorytetów**: cel procesowy > zdrowie męża.
 
 ---
 
@@ -1238,7 +1238,7 @@ Najprościej było zakopać problem głęboko w ziemi, pod etykietą „sprawa o
 
 ---
 
-**19 Lipca – Dwa Dni Później: Kluczyk do Pokémona**
+**19 Lipca – Dwa Dni Później: Pełnomocnictwo za 26 Złotych**
 
 **19 lipca 2021** – zaledwie **dwa dni** po uruchomieniu Niebieskiej Karty – wydarzyło się coś kluczowego.
 
@@ -1254,7 +1254,7 @@ Od tej chwili Wiedźma mogła:
 - Zarządzać jego majątkiem
 - Występować jako pełnomocnik w sprawach procesowych
 
-**Barbara otrzymała „kluczyk do swojego Pokémona".**
+**Barbara otrzymała dokument, który dawał jej absolutną władzę.**
 
 Stary Jeleń, z I grupą inwalidzką po wylewie, z deficytami poznawczymi, stał się **marionetką**. Jego formalna rola jako darczyńcy i powoda w przyszłej sprawie cywilnej była zachowana, ale jego rzeczywista wola zgasła.
 
@@ -1265,7 +1265,7 @@ Stary Jeleń, z I grupą inwalidzką po wylewie, z deficytami poznawczymi, stał
 
 Przypadek? Nie. **Premedytacja**.
 
-Wiedźma planowała każdy krok. Najpierw oficjalna pieczęć prawna (NK jako dowód przemocy). Potem formalne narzędzie kontroli (pełnomocnictwo jako klucz do Papesmerfa).
+Wiedźma planowała każdy krok. Najpierw oficjalna pieczęć prawna (NK jako dowód przemocy). Potem formalne narzędzie kontroli (pełnomocnictwo jako dokument władzy).
 
 ---
 
@@ -1297,7 +1297,7 @@ Cyfry pamiętają wszystko:
 - **8** (Adamowo 8, 8 lat, 17→18.07.2021) – pętla bez końca, nieskończony Uroboros
 - **13** (13.10.2021 - nadejdzie w kolejnym rozdziale) – dzień sądu ostatecznego
 
-Wiedźma była w połowie drogi. Armia została wezwana. Procedury uruchomione. Papesmerf zakuty w łańcuchy pełnomocnictwa.
+Wiedźma była w połowie drogi. Armia została wezwana. Procedury uruchomione. Stary Jeleń związany pełnomocnictwem.
 
 Pozostało tylko zdobyć **wyrok karny** – i wtedy droga do odebrania domu będzie otwarta.
 
@@ -1333,7 +1333,7 @@ Na miejsce przybył **Borsuk Bogdaszewski**, strażnik lasu. Zmarszczył nos, cz
 
 Wszczęcie **procedury Niebieskiej Karty** było momentem, w którym prywatna manipulacja uzyskała oficjalną, prawną pieczęć. Wilk został formalnie oznaczony jako sprawca przemocy, a Wiedźma zdobyła kluczowy, papierowy dowód, na którym mogła zbudować dalszą walkę.
 
-Zaledwie **dwa dni później, 19 lipca 2021**, Stary Jeleń Sylwester podpisał szerokie pełnomocnictwo dla Barbary. Kluczyk do Pokémona został przekazany. Czerwona czapka formalnego autorytetu spoczęła na głowie marionetki.
+Zaledwie **dwa dni później, 19 lipca 2021**, Stary Jeleń Sylwester podpisał szerokie pełnomocnictwo dla Barbary. Dokument przeszedł w jej ręce. Władza nad nim została sformalizowana.
 
 Triumf Wiedźmy był całkowity. Pętla zaczęła się zamykać.
 
@@ -1764,9 +1764,9 @@ Ale najgorsze dopiero nadchodziło.
 Bo teraz Wiedźma miała wszystko, czego potrzebowała, by zaatakować w sądzie cywilnym.
 
 I w tym sądzie czekał **Puszczyk Halager** – sędzia, która patrzyła tylko na papier.
-### Rozdział 9: Stary Jeleń – Papesmerf z Czerwoną Czapką
+### Rozdział 9: Stary Jeleń – Tragiczna Marionetka
 
-W centrum tej historii stała postać tragiczna – **Stary Jeleń Sylwester**, Papesmerf z czerwoną czapką. Był ofiarą, ale nie w taki sposób, jak przedstawiała to Wiedźma. Był ofiarą **manipulacji**, **zawłaszczenia tożsamości** i **przemocy psychicznej** ze strony własnej żony.
+W centrum tej historii stała postać tragiczna – **Stary Jeleń Sylwester**. Był ofiarą, ale nie w taki sposób, jak przedstawiała to Wiedźma. Był ofiarą **manipulacji**, **zawłaszczenia tożsamości** i **przemocy psychicznej** ze strony własnej żony.
 
 Historia Starego Jelenia była historią **stopniowej utraty siebie**.
 
@@ -1800,15 +1800,17 @@ Barbara stała się jego opiekunką.
 
 I jego więzieniem.
 
-Sylwester wrócił do domu z **czerwoną czapką** na głowie – nosił ją codziennie, żeby chronić poranioną głowę przed zimnem. Ale czerwona czapka stała się **symbolem**.
+Sylwester wrócił do domu z **czerwoną czapką** na głowie – nosił ją codziennie, żeby chronić poranioną głowę przed zimnem. Ale czerwona czapka stała się czymś więcej niż materiałem.
 
-Symbolem krwi rozlanej w mózgu. Symbolem utraconej wolności. Symbolem tego, że Stary Jeleń stał się **Papesmerfem** – Papieżem Smerfów, formalnie najwyższym autorytetem, ale w rzeczywistości marionetką trzymaną na sznurkach przez Gargamela.
+Kolor czerwieni był dziwny — głębszy niż tkanina, z której czapka została uszyta. Jakby wchłonęła coś z dnia, w którym krew rozlała się w mózgu. Jakby pamiętała.
+
+Od tego dnia Stary Jeleń był tylko cieniem. Formalnie darczyńcą, formalnie głową rodziny. Ale w rzeczywistości — marionetką.
 
 Barbara trzymała sznurki.
 
 ---
 
-**19 Lipca 2021: Kluczyk do Pokémona**
+**19 Lipca 2021: Pełnomocnictwo — 26 Złotych**
 
 Data **19 lipca 2021** była kluczowa. Dwa dni po uruchomieniu Niebieskiej Karty, cztery dni po inscenizacji z paralizatorem – Barbara zabrała Sylwestra do kancelarii notarialnej.
 
@@ -1834,9 +1836,15 @@ Podpisał.
 
 **Efekt: całkowite zawłaszczenie tożsamości prawnej.**
 
-Barbara wyszła z kancelarii z **kluczykiem do swojego Pokémona**. Od teraz mogła używać Sylwestra w każdej sprawie. Jego podpis. Jego autorytet jako darczyńcy. Jego rola jako powoda w przyszłej sprawie cywilnej.
+Barbara wyszła z kancelarii. Pełnomocnictwo leżało w jej torebce — ciepłe, choć to był tylko papier. Ciężkie, choć ważyło tyle co kartka. Od teraz mogła używać Sylwestra w każdej sprawie. Jego podpis. Jego autorytet jako darczyńcy. Jego rola jako powoda w przyszłej sprawie cywilnej.
 
 Ale jego wola? Zgasła.
+
+---
+
+**26 złotych** — to była cena. Notariusz wydał resztę. Barbara schowała monety do portmonetki. Usłyszała ich dźwięk — metaliczny, ostry, zimny.
+
+Będzie słyszeć ten dźwięk przez miesiące. Za każdym razem, gdy otworzy portmonetkę. Jakby monety pamiętały.
 
 ---
 
@@ -1878,11 +1886,11 @@ Trzy dni później: *„Kieruje wyzwiska wobec mnie."*
 
 Sylwester nie napisał tego listu. Sylwester nie pamiętał, że taki list został wysłany.
 
-Ale jego podpis był na dole. Bo Barbara miała **kluczyk**.
+Ale jego podpis był na dole. Bo Barbara miała **pełnomocnictwo**.
 
-Pełnomocnictwo z 19 lipca pozwalało jej działać w jego imieniu. Mogła składać oświadczenia woli, reprezentować go w sądzie, podpisywać dokumenty.
+Dokument z 19 lipca pozwalał jej działać w jego imieniu. Mogła składać oświadczenia woli, reprezentować go w sądzie, podpisywać dokumenty.
 
-Pokémon z czerwoną czapką wykonał polecenie trenera. Nie dlatego, że chciał. Ale dlatego, że **nie miał wyboru**.
+Stary Jeleń wykonał polecenie. Nie dlatego, że chciał. Ale dlatego, że **nie miał wyboru**.
 
 ---
 
@@ -1942,49 +1950,49 @@ Odpowiedź była prosta: **nie mógł**.
 
 Barbara była jego głosem. Barbara była jego wolą. Barbara była jego tożsamością prawną.
 
-Sylwester był tylko **narzędziem** – Pokémonem w rękach trenera z kluczykiem.
+Sylwester był tylko **narzędziem** — marionetką w rękach Wiedźmy.
 
 ---
 
-**Czerwona Czapka: Symbol Niewoli**
+**Pełnomocnictwo jako Narzędzie Kontroli**
 
-Czerwona czapka, którą Stary Jeleń nosił codziennie, stała się **symbolem jego niewoli**.
+Barbara miała **pełnomocnictwo z 19 lipca 2021**.
 
-Czerwień – kolor krwi rozlanej w mózgu podczas wylewu.
+Dokument leżał w szufladzie biurka. Zwykły papier, standardowa czcionka, notarialna pieczątka. Ale od 19 lipca miał inny ciężar.
 
-Czapka – osłona głowy, która miała chronić, ale stała się więzieniem.
+Nie fizyczny — magiczno-realistyczny. Jakby dokument pamiętał podpis Sylwestra. Jakby przechowywał w sobie fragment jego woli, którą Barbara przejęła.
 
-Papesmerf – formalnie najwyższy autorytet w Wiosce Smerfów, ale w rzeczywistości marionetkowy władca bez realnej władzy.
-
-Gargamel trzymał go w klatce. A kluczyk do tej klatki miała Barbara.
-
-Symbolika była jasna: **Sylwester utracił siebie**. Wylew zabrał mu umysł. Barbara zabrała mu wolę. Pełnomocnictwo zabrało mu tożsamość.
-
-Pozostała tylko **czerwona czapka** – znak tego, że kiedyś był królem zagajnika, ale teraz jest tylko cieniem samego siebie.
-
----
-
-**Pokémon z Czerwoną Czapką**
-
-Metafora Pokémona była brutalna, ale trafna.
-
-W grze Pokémon trener łapie stworzenia, zamyka je w Pokéballach i wywołuje, gdy potrzebuje ich mocy. Pokémon nie ma wyboru. Musi słuchać. Bo trener ma **kluczyk** – Pokéball.
-
-Barbara miała **pełnomocnictwo z 19 lipca 2021** – swój Pokéball.
-
-Gdy potrzebowała Sylwestra jako powoda w sprawie cywilnej – wywoływała go. Gdy potrzebowała jego podpisu – wywoływała go. Gdy potrzebowała jego zeznań – wywoływała go i mówiła jego ustami.
+Gdy potrzebowała Sylwestra jako powoda w sprawie cywilnej — sięgała po dokument.
+Gdy potrzebowała jego podpisu — sięgała po dokument.
+Gdy potrzebowała jego zeznań — mówiła jego ustami, a dokument milczał w szufladzie, legitymizując każde słowo.
 
 *„Jej zeznania są moimi zeznaniami."*
 
-Sylwester nie miał własnej woli. Miał tylko czerwoną czapkę – symbol tego, że kiedyś był sobą.
+Sylwester nie miał własnej woli. Miał tylko czerwoną czapkę — znak tego, że kiedyś był sobą.
+
+---
+
+**Czerwona Czapka**
+
+Sylwester nosił czerwoną czapkę codziennie — miała chronić głowę po wylewie. Ale kolor czerwieni był dziwny. Głębszy niż materiał, z którego czapka została uszyta. Jakby wchłonęła coś z dnia, w którym krew rozlała się w mózgu.
+
+Barbara widziała tę czapkę każdego dnia. Czasami, gdy Sylwester siedział przy stole, światło padało na czerwień w taki sposób, że wydawała się świecić. Nie jasno — tylko inaczej. Jakby pamiętała.
+
+Wiedźma nigdy nie dotykała tej czapki. Nie musiała. Miała pełnomocnictwo.
 
 ---
 
 **Tragedia Starego Jelenia**
 
+**Sylwester utracił siebie.** Wylew zabrał mu umysł. Barbara zabrała mu wolę. Pełnomocnictwo zabrało mu tożsamość.
+
+Pozostała tylko **czerwona czapka** — znak tego, że kiedyś był królem zagajnika, ale teraz jest tylko cieniem samego siebie.
+
+---
+
 Stary Jeleń był ofiarą. Ale nie w taki sposób, jak twierdziła Barbara.
 
-Nie był ofiarą „psychicznego znęcania się" ze strony Dariusza. Był ofiarą **przemocy strukturalnej** ze strony Barbary – przemocy, która nie pozostawiała siniaków, ale unicestwiała tożsamość.
+Nie był ofiarą „psychicznego znęcania się" ze strony Wilka. Był ofiarą **przemocy strukturalnej** ze strony Wiedźmy – przemocy, która nie pozostawiała siniaków, ale unicestwiała tożsamość.
 
 Sylwester stracił:
 - Umysł (wylew)
@@ -1994,7 +2002,7 @@ Sylwester stracił:
 
 A sąd? Sąd patrzył tylko na papier. I na papierze Sylwester był **powodem**. Więc sąd traktował go jako stronę zdolną do procesu.
 
-Nikt nie zbadał, czy czerwona czapka kryje umysł zdolny do świadomych decyzji. Nikt nie zapytał, czy Pokémon może być stroną procesu, jeśli cały czas trzyma go w ręku trener z kluczykiem.
+Nikt nie zbadał, czy mężczyzna w czerwonej czapce, który nie pamięta własnego wieku, może być stroną świadomie występującą w procesie. Nikt nie zapytał, czy człowiek mówiący „jej zeznania są moimi zeznaniami" jest w stanie odwołać darowiznę z własnej woli.
 
 ---
 
@@ -2002,9 +2010,9 @@ Rozdział 9 był rozdziałem **Starego Jelenia** – tragicznej postaci, która 
 
 Czerwona czapka została. Ale człowiek pod nią zniknął.
 
-Pozostał tylko Papesmerf – marionetka z formalnym autorytetem, ale bez duszy.
+Pozostała tylko marionetka — z formalnym autorytetem, ale bez duszy.
 
-I kluczyk do niego trzymała Wiedźma.
+A pełnomocnictwo, które dawało Wiedźmie władzę nad nim, leżało w szufladzie. Ciepłe. Ciężkie. Pamiętające.
 ### Rozdział 10: Puszczyk Halager i Sąd Papieru
 
 **SSR Małgorzata Halager** – Puszczyk z sądu w Jarocinie. Ptak nocny, który widzi tylko w ciemności, a ślepnie w świetle prawdy.
@@ -3085,7 +3093,7 @@ Jest tylko **cisza własnego zwycięstwa**.
 
 **Stary Jeleń: Cień we Własnym Życiu**
 
-**Stary Jeleń Sylwester**, Papesmerf z czerwoną czapką, zgasł emocjonalnie.
+**Stary Jeleń Sylwester**, marionetka w czerwonej czapce, zgasł emocjonalnie.
 
 Siedzi w fotelu. Patrzy w przestrzeń. Czasem mamrocze coś do siebie. Czasem pyta: *„Gdzie jest Dariusz?"*
 
