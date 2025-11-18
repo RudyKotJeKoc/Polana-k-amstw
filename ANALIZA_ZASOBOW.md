@@ -17,7 +17,9 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 - ✅ **Instrukcje sarkastyczne** do wzmocnienia narracji
 - ✅ **Konteksty prawne, psychologiczne i medyczne**
 
-**KLUCZOWE ODKRYCIE:** Istnieje już **kompletna, profesjonalna baśń** w pliku *"Polana Kłamstw: Polana_Klamstw_Kronika_Osmego_Kregu.md"*, która spełnia wszystkie wymagania literackie.
+**KLUCZOWE ODKRYCIE:** Istnieje już **kompletna, profesjonalna baśń** w pliku *"BASN_POLANA_KLAMSTW.md"* (3567 linii), która spełnia wszystkie wymagania literackie i jest najpełniejszą wersją dzieła.
+
+**UWAGA (aktualizacja 18.11.2025):** Wcześniej wskazywany plik `Polana_Klamstw_Kronika_Osmego_Kregu.md` to krótsza wersja (182 linie). Został przeniesiony do `_archive/duplicates/`.
 
 ---
 
@@ -27,7 +29,7 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 
 | Plik | Typ | Rozmiar | Przeznaczenie | Status |
 |------|-----|---------|---------------|--------|
-| **Polana Kłamstw: Polana_Klamstw_Kronika_Osmego_Kregu.md** | Baśń literacka | ~183 linie | **KOMPLETNA BAŚŃ** z Prologiem, 4 Częściami, 12 Rozdziałami i Epilogiem | ✅ Gotowe |
+| **BASN_POLANA_KLAMSTW.md** | Baśń literacka | 3567 linii / 157K | **KOMPLETNA BAŚŃ** z Prologiem, 4 Częściami, 12 Rozdziałami i Epilogiem | ✅ Gotowe - KANONICZNY |
 | **Polana Kłamstw: Polana_Klamstw_Przewodnik_po_Swiecie_Postaciach_i_Motywach.md, Postaciach i Motywach** | Przewodnik | ~120 linii | Przewodnik po świecie baśni, prawach Polany, archetypach postaci, symbolice | ✅ Gotowe |
 | **Kronika Polany Kłamstw: Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md** | Kronika | ~103 linie | Chronologiczna analiza wydarzeń z głęboką analizą psychologiczną postaci | ✅ Gotowe |
 | **Bohaterowie Polany Kłamstw: Przewodnik po Postaciach** | Przewodnik postaci | ~142 linie | Szczegółowe charakterystyki wszystkich postaci z mapą relacji | ✅ Gotowe |
@@ -192,9 +194,10 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 ### 7.2. Strategia Działania
 
 **OPCJA A: Wykorzystanie Istniejącej Baśni (REKOMENDOWANE)**
-- ✅ Plik "Polana Kłamstw: Polana_Klamstw_Kronika_Osmego_Kregu.md" jest **kompletny i gotowy**
+- ✅ Plik "BASN_POLANA_KLAMSTW.md" jest **kompletny i gotowy** (3567 linii)
 - ✅ Spełnia wszystkie wymogi literackie
 - ✅ Ma pełną strukturę narracyjną
+- ✅ Jest najpełniejszą i najbardziej rozbudowaną wersją (20x dłuższa od wersji skróconej)
 - 📝 Wymaga tylko **drobnych uzupełnień** zgodnie z instrukcjami
 
 **OPCJA B: Napisanie Nowej Baśni**
@@ -203,7 +206,7 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 
 ### 7.3. Plan Wykorzystania Zasobów
 
-1. **Baśń główna:** "Polana_Klamstw_Kronika_Osmego_Kregu.md" jako podstawa
+1. **Baśń główna:** "BASN_POLANA_KLAMSTW.md" jako podstawa (wersja kanoniczny)
 2. **Wzmocnienia:** Wykorzystać wskazówki sarkastyczne z pliku "wskazówki"
 3. **Dodatki:** Stworzyć appendix z przewodników postaci
 4. **Spis treści:** Połączyć wszystkie elementy w spójną całość
