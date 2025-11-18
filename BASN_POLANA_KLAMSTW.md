@@ -520,6 +520,8 @@ W jej umyśle Julia nie była osobą. Była **zagrożeniem**.
 
 ---
 
+### Rozdział 4: Nocne Wtargnięcie (2:30 w nocy)
+
 **Noc z 9 na 10 Lutego: Wtargnięcie (2:30)**
 
 Noc była tak cicha, że słyszał tylko bicie własnego serca i cichy oddech Julii obok. Dariusz leżał na wznak, wpatrując się w sufit. Nie mógł zasnąć – ta sama myśl krążyła w jego głowie od godzin: *Czy ona nas zostawi w spokoju?*
@@ -1448,24 +1450,6 @@ Później jej strona przedstawiła dwie sprzeczne wersje tego wydarzenia: jedną
 
 ---
 
-## CZĘŚĆ III – ZDRADA I FARSA
-
-### Rozdział 7: Przejście do Ósmego Kręgu (Noc 17/18 Lipca)
-
-Noc z **17 na 18 lipca 2021** roku była symbolicznym przejściem z siódemki w ósemkę, z resztek nadziei w otchłań rozpaczy. Była wejściem do **Ósmego Kręgu** Dantego – kręgu oszustów i manipulatorów. To była **chwila graniczna, brama między siódemką a ósemką**. Siódemka z kalendarza spłynęła krwią na ósemkę – nieskończoną pętlę, Uroborosa pożerającego własny ogon.
-
-Wiedźma, z kalendarzem pełnym starannie przygotowanych „dowodów", wykonała telefon na policję. Zgłosiła fałszywy atak, choć Wilk w tym czasie przebywał w swoim warsztacie, odizolowany od domu.
-
-Na miejsce przybył **Borsuk Bogdaszewski**, strażnik lasu. Zmarszczył nos, czując woń sprzeczności w powietrzu, gdy notował roztrzęsioną opowieść Wiedźmy o wyłączeniu prądu. Ale była to woń cudzych kłopotów, a jego nora była głęboka i ciepła. Wzruszył więc ramionami i wrócił do kopania, bo najprostszym sposobem na rozwiązanie problemu jest zakopanie go głęboko w ziemi, pod etykietą „rodzinna sprawa".
-
-Wszczęcie **procedury Niebieskiej Karty** było momentem, w którym prywatna manipulacja uzyskała oficjalną, prawną pieczęć. Wilk został formalnie oznaczony jako sprawca przemocy, a Wiedźma zdobyła kluczowy, papierowy dowód, na którym mogła zbudować dalszą walkę.
-
-Zaledwie **dwa dni później, 19 lipca 2021**, Stary Jeleń Sylwester podpisał szerokie pełnomocnictwo dla Barbary. Dokument przeszedł w jej ręce. Władza nad nim została sformalizowana.
-
-Triumf Wiedźmy był całkowity. Pętla zaczęła się zamykać.
-
----
-
 ### Rozdział 8: Hiena Domkowa i Zdrada na Sądowym Korytarzu
 
 **Sierpień-październik 2021** były miesiącami, w których Wilk, oznaczony już jako sprawca przez Niebieską Kartę, desperacko szukał obrony. Został oskarżony o znęcanie się psychiczne nad rodzicami (**art. 207 § 1 k.k.**). Sprawa karna **II K 568/21** ruszyła jak lawina.
@@ -1891,7 +1875,7 @@ Ale najgorsze dopiero nadchodziło.
 Bo teraz Wiedźma miała wszystko, czego potrzebowała, by zaatakować w sądzie cywilnym.
 
 I w tym sądzie czekał **Puszczyk Halager** – sędzia, która patrzyła tylko na papier.
-### Rozdział 9: Pokémon Sylwester – Zamknięty za 26 Złotych
+### Rozdział 9: Stary Jeleń – Marionetka
 
 W centrum tej historii stała postać tragiczna – **Pokémon Sylwester**. Kiedyś był **Starym Jeleniem**, królem zagajnika. Potem stał się pokémonem — zamkniętym w Pokébolu za 26 złotych.
 
