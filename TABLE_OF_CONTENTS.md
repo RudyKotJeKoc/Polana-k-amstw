@@ -1,6 +1,8 @@
 # POLANA KŁAMSTW: Kronika Ósmego Kręgu
 ## Spis Treści
 
+**Uwaga:** Główna baśń znajduje się w pliku `BASN_POLANA_KLAMSTW.md` (3567 linii, kompletna wersja literacka)
+
 ---
 
 ### 📖 STRUKTURA DZIEŁA

@@ -1,20 +1,22 @@
-# MASTER PLAN: POLANA KŁAMSTW - Polana_Klamstw_Kronika_Osmego_Kregu.md
+# MASTER PLAN: POLANA KŁAMSTW - BASN_POLANA_KLAMSTW.md
 ## Plan Masterowy Kompletnej Baśni Literackiej
 
-**Wersja:** 1.0
-**Data:** 15 listopada 2025
+**Wersja:** 2.0 (zaktualizowana)
+**Data:** 18 listopada 2025
 **Status:** W realizacji
 
 ---
 
 ## DECYZJA STRATEGICZNA
 
-Na podstawie analizy zasobów w repozytorium **wykorzystamy istniejącą baśń** "Polana Kłamstw: Polana_Klamstw_Kronika_Osmego_Kregu.md" jako **fundament**, wzbogacając ją o elementy z:
+Na podstawie analizy zasobów w repozytorium **wykorzystamy kompletną baśń** "BASN_POLANA_KLAMSTW.md" jako **główne dzieło literackie**, wzbogacając ją o elementy z:
 - Wskazówek sarkastycznych
 - Analiz postaci
 - Przewodników tematycznych
 
-**Uzasadnienie:** Istniejąca baśń jest **profesjonalna, kompletna i gotowa do publikacji**. Wymaga tylko uzupełnień i formatowania.
+**Uzasadnienie:** `BASN_POLANA_KLAMSTW.md` jest **najbardziej kompletna i rozbudowana wersja** (3567 linii, 20x dłuższa od wcześniej wskazywanej). Jest to profesjonalne dzieło literackie gotowe do publikacji.
+
+**Uwaga:** Krótsza wersja `Polana_Klamstw_Kronika_Osmego_Kregu.md` została przeniesiona do archiwum (`_archive/duplicates/`).
 
 ---
 
@@ -23,7 +25,7 @@ Na podstawie analizy zasobów w repozytorium **wykorzystamy istniejącą baśń*
 ### 1.1. Architektura Dzieła
 
 ```
-POLANA KŁAMSTW: Polana_Klamstw_Kronika_Osmego_Kregu.md
+POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 │
 ├── PROLOG: Cisza przed Burzą
 │   └── Wprowadzenie do świata, prezentacja postaci
