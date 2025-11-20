@@ -13,22 +13,3 @@ W obliczu oskarżenia karnego, wyczerpany Wilk poszukał pomocy u adwokata, Alek
 Do zdrady doszło na korytarzu sądowym, pięć minut przed rozprawą karną. Hiena, wykorzystując stan psychicznego załamania Wilka, namówiła go do przyznania się do winy. Złożył fałszywą obietnicę: „Zaufaj mi. Przyznaj się, a sprawa zostanie zamknięta. Ten wyrok będzie bezwartościowy w sprawie o dom – ona nie będzie mogła go użyć przeciwko tobie.” Wilk, pragnąc jedynie końca koszmaru, zgodził się.
 
 Rozprawa była farsą. Wyrok nakazowy (II K 568/21) zapadł wyłącznie na podstawie wymuszonego przyznania się. Ten wyrok karny stał się „koronnym dowodem” Wiedźmy w sprawie cywilnej o odebranie domu. Później okazało się, że Hiena Domkowa działała w konflikcie interesów, kontaktując się ze stroną przeciwną. Po otrzymaniu zapłaty zniknęła, zostawiając Wilka ze zdradą i papierowym wyrokiem, który przypieczętował jego los.
-
-
----
-
-**[UWAGA - WYMAGA AKTUALIZACJI Z NOWYM KANONEM]**
-
-Ten rozdział wymaga uzupełnienia o fakty z nowego kanonu Bobra:
-- Bóbr (Dariusz) jako pracownik Bonenkamp (era przed 2017)
-- Powrót Bobra na Polanę Kłamstw po wylewie Jelenia (~2019)
-- Zamieszkanie w dziupli nr 8
-- Opieka nad rannym Starym Jeleniem
-- Budowanie tam emocjonalnych, ignorowanie czarów Wiedźmy
-- [SCENA WYMAGA UZUPEŁNIENIA: Ostatnie Zanurzenie Bobra]
-- [SCENA WYMAGA UZUPEŁNIENIA: Ratunek przez Anioła z Drzewa (Ewa)]
-- [SCENA WYMAGA UZUPEŁNIENIA: Noc w hotelu - opieka]
-- Transformacja Bóbr → Duch Wilka
-- Narodziny Watahy
-
-Zob. polana/bestiariusz/postacie/bobr-z-duchem-wilka.md dla pełnego kanonu.

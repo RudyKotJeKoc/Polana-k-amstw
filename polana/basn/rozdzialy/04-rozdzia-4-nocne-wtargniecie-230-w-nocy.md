@@ -17,22 +17,3 @@ Następnego dnia w swoim kalendarzu przekręciła fakty, tworząc narrację, kt�
 „10 lutego, 2:30 – wtargnęłam do pokoju Dariusza. Spał z tą francą cholerną. Kiedy go obudziłam, zaczął na mnie krzyczeć. Groził mi. Wyrzucał mnie z MOJEGO WŁASNEGO DOMU. To było przerażające."
 
 To wydarzenie zmusiło Wilka do przyjęcia taktyki całkowitego milczenia, jedynej formy obrony, jaka mu pozostała. Wiedźma jednak i to zinterpretowała po swojemu, zapisując w kalendarzu: „Dariusz mnie ignoruje. To psychiczne znęcanie”. Wilk został zamknięty w pułapce bez wyjścia: przegrywał, krzycząc, i przegrywał, milcząc.
-
-
----
-
-**[UWAGA - WYMAGA AKTUALIZACJI Z NOWYM KANONEM]**
-
-Ten rozdział wymaga uzupełnienia o fakty z nowego kanonu Bobra:
-- Bóbr (Dariusz) jako pracownik Bonenkamp (era przed 2017)
-- Powrót Bobra na Polanę Kłamstw po wylewie Jelenia (~2019)
-- Zamieszkanie w dziupli nr 8
-- Opieka nad rannym Starym Jeleniem
-- Budowanie tam emocjonalnych, ignorowanie czarów Wiedźmy
-- [SCENA WYMAGA UZUPEŁNIENIA: Ostatnie Zanurzenie Bobra]
-- [SCENA WYMAGA UZUPEŁNIENIA: Ratunek przez Anioła z Drzewa (Ewa)]
-- [SCENA WYMAGA UZUPEŁNIENIA: Noc w hotelu - opieka]
-- Transformacja Bóbr → Duch Wilka
-- Narodziny Watahy
-
-Zob. polana/bestiariusz/postacie/bobr-z-duchem-wilka.md dla pełnego kanonu.

@@ -13,22 +13,3 @@ Noc z 17 na 18 lipca 2021 roku była symbolicznym przejściem z siódemki w óse
 Na miejsce przybył Borsuk Bogdaszewski, strażnik lasu. Zmarszczył nos, czując woń sprzeczności w powietrzu, gdy notował roztrzęsioną opowieść Wiedźmy o wyłączeniu prądu. Ale była to woń cudzych kłopotów, a jego nora była głęboka i ciepła. Wzruszył więc ramionami i wrócił do kopania, bo najprostszym sposobem na rozwiązanie problemu jest zakopanie go głęboko w ziemi, pod etykietą „rodzinna sprawa”.
 
 Wszczęcie procedury Niebieskiej Karty było momentem, w którym prywatna manipulacja uzyskała oficjalną, prawną pieczęć. Wilk został formalnie oznaczony jako sprawca przemocy, a Wiedźma zdobyła kluczowy, papierowy dowód, na którym mogła zbudować dalszą walkę. Jej triumf był całkowity.
-
-
----
-
-**[UWAGA - WYMAGA AKTUALIZACJI Z NOWYM KANONEM]**
-
-Ten rozdział wymaga uzupełnienia o fakty z nowego kanonu Bobra:
-- Bóbr (Dariusz) jako pracownik Bonenkamp (era przed 2017)
-- Powrót Bobra na Polanę Kłamstw po wylewie Jelenia (~2019)
-- Zamieszkanie w dziupli nr 8
-- Opieka nad rannym Starym Jeleniem
-- Budowanie tam emocjonalnych, ignorowanie czarów Wiedźmy
-- [SCENA WYMAGA UZUPEŁNIENIA: Ostatnie Zanurzenie Bobra]
-- [SCENA WYMAGA UZUPEŁNIENIA: Ratunek przez Anioła z Drzewa (Ewa)]
-- [SCENA WYMAGA UZUPEŁNIENIA: Noc w hotelu - opieka]
-- Transformacja Bóbr → Duch Wilka
-- Narodziny Watahy
-
-Zob. polana/bestiariusz/postacie/bobr-z-duchem-wilka.md dla pełnego kanonu.
