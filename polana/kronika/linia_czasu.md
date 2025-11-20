@@ -226,6 +226,54 @@ Duch Wilka nie pozostał samotną świadomością.
 - Staje się teatrem, inscenizacją, iluzją
 - Wataha to widownia, która widzi prawdę
 
+---
+
+## SYMBOLICZNY EPILOG: Wygnanie Służącego przez Wiedźmę BaraBary
+
+**Data symboliczna:** Po wyroku 29.08.2025 (lub wcześniej, w warstwie mitycznej)
+
+**Wydarzenie:**
+
+W baśniowej warstwie Polany Kłamstw pojawia się **Wiedźma BaraBary** – symboliczny archetyp Barbary Adamowskiej, jej mityczne echo.
+
+**Pergamin Służącego:**
+- BaraBary odkrywa (lub pisze) pergamin z jednym słowem: „SŁUŻĄCY"
+- Interpretuje go jako dowód, że Wilk jest jej służącym
+- Dom numer 8 staje się jej tronem
+- Pergamin staje się uzasadnieniem jej władzy
+
+**Fałszywe obowiązki:**
+- Wiedźma wierzy, że Wilk ma obowiązki wobec niej
+- Nie widzi, że prawdziwe obowiązki spoczywają na tym, kto korzysta z całego Domu
+- Służebność osobista ≠ służenie Pani Domu
+- Odwrócona logika: budowniczy nazwany służącym
+
+**Wyrok wygnania:**
+- BaraBary wydaje wyrok: „Wypędzam cię z Domu! Niech wolność będzie twoją karą!"
+- Wierzy, że wygnanie to najwyższa kara dla służącego
+- Nie rozumie, że „służący" nigdy nim nie był
+- Kara okazuje się wyzwoleniem
+
+**Paradoks:**
+> *"Służący, który nigdy służącym nie był, został wypędzony z Domu, który nigdy nie był tronem. I w tym wypędzeniu znalazł wolność."*
+
+**Milczenie Domu:**
+- Dom numer 8 milczy – nie potwierdza interpretacji Wiedźmy
+- Cisza jest wyrokiem, nie zgodą
+- Pergamin rozsypuje się w kurz
+- Prawda ujawnia się po odejściu Wilka
+
+**Symbolika:**
+- **Wiedźma BaraBary** = baśniowy archetyp fałszywej władzy
+- **Pergamin** = manipulacja interpretacją, fałszywy dokument
+- **Wygnanie** = wyzwolenie zamiast kary
+- **Niewidoczne obowiązki** = ciężar Domu spada na tego, kto z niego korzysta
+
+**Finał:**
+Po odejściu Wilka Wiedźma BaraBary siedzi na pustym tronie w pustym Domu. Pergamin leży w kurzu. Niewidoczne obowiązki (bomba zegarowa spłaty 160-255 tys. zł) stają się widoczne.
+
+> *"Tron okazał się ciężarem. Służący okazał się budowniczym. A Pani Domu odkryła, że była tylko lokatorką cudzej inwestycji."*
+
 ## 2025
 
 - **2025-08-29** – Wyrok w sprawie cywilnej. Puszczyk Halager (sędzia) oddala wszystkie wnioski Wilka i opiera wyrok na Kalendarzu Wiedźmy oraz wadliwym wyroku karnym. Fundamentalny błąd prawny: utożsamienie służebności osobistej z umową dożywocia.
