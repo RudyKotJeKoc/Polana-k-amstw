@@ -86,6 +86,44 @@ I to doprowadzało Wiedźmę do coraz większej frustracji.
 --------------------------------------------------------------------------------
 
 
+## Światło w Izdebce
+
+Nie wszystko na Polanie Kłamstw było ciemne.
+
+Była **Izdebka Adamowa** – małe pomieszczenie, w którym dało się jeszcze przysiąść bez krzyków. Nie było wielkie, nie było luksusowe. Ale było **ciepłe**.
+
+Jej królestwo: **Jaskółka Martynka**, ośmioletnia dziewczynka, dziecko światła.
+
+Martynka układała miseczki dla kotów, rysowała patykiem po podłodze, liczyła krople spływające z dachu. Tworzyła własny porządek w świecie, który bywał głośny i trudny. W Izdebce świat na chwilę stawał się normalny.
+
+Był też **Kocidomek** – sanktuarium progu. Drewniana budka za domem, dom kotów, miejsce zabaw, schronienie. Martynka bawiła się tam godzinami: układała planszówki pod drzewem, karmiła koty, siedziała cicho i patrzyła, jak Zuza i Lotka mruczą.
+
+**Zuza i Lotka** – kocie duchy progu – wiedziały, kto ma czyste serce. Koty nie dają się oszukać. Nie mruczą dla każdego.
+
+Ale dla Jaskółki mruczały zawsze.
+
+Ich mruczenie uciszało burzę. Gdy Martynka siedziała przy Kocidomku, koty przychodziły, kładły się obok bez słowa. Ich obecność mówiła: *"Tu jest bezpiecznie."*
+
+### Planszówki pod Dębem – Krąg Czasu
+
+Były też chwile, gdy Bóbr (czy może już wtedy Wilk?) siadał z Martynką pod drzewem. Układali chińczyka, warcaby, domino. Czasem tworzyła własne gry z kamieni i patyków.
+
+Chwile spokoju. Czułej obecności.
+
+W tych momentach Polana Kłamstw przestawała być polem bitwy. Stawała się po prostu miejscem, gdzie dziadek (czy wuj?) i dziewczynka grają w chińczyka.
+
+Jaskółka nie zadawała trudnych pytań. Nie oceniała. Po prostu **była**.
+
+I w tej obecności było coś, co przypominało o tym, że mimo wszystkich tragedii – **dobro istnieje i warto je chronić**.
+
+---
+
+Ale to światło nie mogło trwać wiecznie. Ciemność Polany Kłamstw zaczęła otaczać nawet Izdebkę.
+
+
+--------------------------------------------------------------------------------
+
+
 CZĘŚĆ II – NADEJŚCIE BURZY
 
 
