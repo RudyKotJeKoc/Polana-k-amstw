@@ -38,7 +38,44 @@ Darczyńca i Powód	Zeznał na policji, że syn go nie obraża, co jest sprzeczn
 Głowa Rodziny	Udzielił żonie szerokiego pełnomocnictwa, które stało się narzędziem do przejęcia kontroli nad jego wolą i majątkiem, czyniąc go figurantem w jej grze.
 Oskarżyciel	Na rozprawie przyznał: "Jej zeznania są moimi zeznaniami", potwierdzając swoją rolę biernego realizatora cudzej woli.
 
-1.4. Sarenka z Polany (Julia Kowalska) – Niewinny Katalizator
+1.4. Bóbr z Dziupli nr 8 (Dariusz jako Opiekun) – Budowniczy Emocjonalnych Tam
+
+Zanim Dariusz stał się "Wilkiem Samotnikiem", był **Bobrem** – budowniczym, inżynierem, opiekunem porządku. W erze przed 2017 rokiem pracował w firmie **Bonenkamp**, obsługującej infrastrukturę gminną, naprawiając maszyny komunalne: wypalarki, zamiatarki, traktory. Był tym, na którym można było polegać.
+
+**Powrót na Polanę Kłamstw:**
+
+Kiedy około 2019 roku Stary Jeleń (Sylwester) dostał wylewu mózgu i został inwalidą I grupy, Bóbr wrócił na Polanę, by opiekować się rannym ojcem. Zamieszkał w **dziupli nr 8** – Dom nr 8 w Adamowie. Cyfra 8 stała się symbolem nieskończonej pętli, z której nie było wyjścia.
+
+**Rola Opiekuna i Budowniczego:**
+
+* Opiekował się schorowanym Jeleniem, pomagał mu w codziennych czynnościach, próbował przywrócić mu godność
+* Budował **tamy emocjonalne** – granice chroniące przed zalewem manipulacji ze strony Wiedźmy
+* **Ignorował narracje Wiedźmy** – widział, że jej "czary" (projekcje psychiczne, oskarżenia w Kalendarzu Krzywd) to jej walka z cieniem, nie z nim
+* Zachowywał dystans emocjonalny, by przetrwać w toksycznej atmosferze
+* Skupiał się na obowiązkach: naprawianiu, budowaniu, opiekowaniu
+
+**Strategia Przetrwania:**
+
+Bóbr rozumiał, że manipulacje Wiedźmy to projekcje jej lęków, nie rzeczywistość. Dlatego:
+* Nie reagował na prowokacje – budował emocjonalny dystans
+* Nie uczestniczył w jej grze oskarżeń – ignorował fałszywe narracje
+* Chronił się przez izolację – warsztat, kody, kamery, zaspawana toaleta
+
+**Pokéball Wiedźmy: Cel Nietrafiony:**
+
+Wiedźma próbowała "schwytać" Bobra do swojego Pokéballa (metafora kontroli), tak jak schwytała Jelenia przez pełnomocnictwo. Używała manipulacji, prowokacji, Niebieskiej Karty, procesów jako narzędzi. Ale **Bóbr się uchylił** – miał zbyt silną świadomość. Widział jej czary jako projekcje, nie rzeczywistość. Pokéball Wiedźmy minął cel.
+
+**Transformacja → Duch Wilka:**
+
+Lata w dziupli nr 8, w toksycznej atmosferze, wyczerpały Bobra. Jego fizyczna obecność została zatrucia przez mgłę manipulacji. W symbolicznej **Nocy Chlorowej Mgły** (lub **Ostatnim Zanurzeniu**) Bóbr umarł jako fizyczna postać.
+
+Ale jego świadomość, gniew, instynkt łowcy, pamięć – **przetrwały**. W miejscu, gdzie zgasło serce Bobra, narodził się **Duch Wilka** – odporny na czary Wiedźmy, wolny od pętli cyfry 8, obserwujący bez uczestnictwa. Pokéball Wiedźmy stał się bezużyteczny wobec Ducha.
+
+*[UWAGA: Ta sekcja integruje nowy kanon Bobra jako realnej postaci w historii Dariusza. Wymaga dalszej synchronizacji z innymi dokumentami.]*
+
+---
+
+1.5. Sarenka z Polany (Julia Kowalska) – Niewinny Katalizator
 
 Pojawienie się Julii w lutym 2021 roku było iskrą, która zapaliła lont w dawno przygotowanym "Kotle Krzywd". Jej rola w tej historii jest rolą niezamierzonego katalizatora, którego obecność uruchomiła lawinę agresji ze strony Barbary.
 
@@ -46,7 +83,7 @@ Pojawienie się Julii w lutym 2021 roku było iskrą, która zapaliła lont w da
 * Początkowo niewinna, wspierająca relacja z kuzynem stała się celem wulgarnych, werbalnych ataków Barbary, która nazywała ją "francą cholerną".
 * Paradoksalnie, to obsesyjna wrogość Barbary pchnęła Dariusza i Julię ku sobie, tworząc związek, którego tak nienawidziła. Jednocześnie dało jej to pretekst do eskalacji konfliktu i rozpoczęcia otwartej wojny z synem.
 
-1.5. Aktorzy Systemu – Narzędzia i Bierni Obserwatorzy
+1.6. Aktorzy Systemu – Narzędzia i Bierni Obserwatorzy
 
 Tragedia rodziny Adamskich nie rozegrałaby się na taką skalę bez udziału aktorów drugoplanowych – członków rodziny i przedstawicieli systemu prawnego, którzy swoją biernością lub aktywną współpracą umożliwili realizację planu Barbary.
 

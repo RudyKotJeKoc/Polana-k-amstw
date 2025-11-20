@@ -87,7 +87,98 @@ Obsesyjna potrzeba kontroli nad synem i majątkiem. Utrata dominującej pozycji 
 
 ---
 
-## III. RELACJE Z INNYMI POSTACIAMI
+## III. CZARY WIEDŹMY: PROJEKCJE PSYCHICZNE I WALKA Z CIENIEM
+
+### Natura "czarów" Wiedźmy
+
+**Jej czary to nie magia – to psychologia:**
+
+✦ **Projekcje psychiczne** – wymyślane narracje, alternatywna rzeczywistość
+✦ **Urojenia** – przekręcanie faktów, by pasowały do jej lęków
+✦ **Narracje stworzone z lęku** – każde oskarżenie to próba opanowania własnego niepokoju
+✦ **Gaslighting** – zmuszanie innych do wątpienia w ich własną rzeczywistość
+
+**Kalendarz Wiedźmy jako księga czarów:**
+- Nie zapisuje prawdy – zapisuje jej wersję prawdy
+- Prowokacje znikają, reakcje są wzmacniane
+- Każda strona to zaklęcie oskarżenia
+
+### Walka z własnym cieniem
+
+**Wiedźma walczyła zawsze sama – z sobą:**
+
+> *"Jej wojna nie była z Wilkiem. Była z cieniem, którego nosiła w sobie."*
+
+**Cień Wiedźmy to:**
+- **Lęk przed utratą kontroli** – syn stał się autonomiczny
+- **Strach przed samotnością** – rodzina się rozpada
+- **Gniew na własną bezsilność** – nie może cofnąć czasu
+- **Projekcja winy** – łatwiej obwiniać innych niż przyjąć odpowiedzialność
+
+**Mechanizm projekcji:**
+1. Wiedźma czuje lęk/gniew/żal
+2. Nie potrafi się z nim zmierzyć
+3. Projektuje go na zewnątrz – na Wilka, Sarenkę, system
+4. Walczy z projekcją, nie z prawdziwym problemem
+5. Pętla się zamyka – cień rośnie
+
+**Nikt inny nie uczestniczył w tej walce:**
+- Wilk nie walczył – bronił się
+- Bóbr nie walczył – ignorował jej narracje
+- Duch Wilka nie walczy – obserwuje
+- Jej wojna była jednoosobowa
+
+### Pokéball Wiedźmy: Narzędzie Kontroli
+
+**Czym jest Pokéball Wiedźmy:**
+
+Metafora kontroli i "złapania" – próba podporządkowania innych swojej narracji.
+
+**Dwa cele Pokéballa:**
+
+**1. Stary Jeleń (Sylwester) – ZŁAPANY ✓**
+- Pokéball = pełnomocnictwo z 19.07.2021
+- Udało się: Jeleń po wylewie, podatny, bezradny
+- "Schwytany" w Pokéballa – stał się Papa Smurfem
+- Trenerka kontroluje Pokémona: "Jej zeznania są moimi zeznaniami"
+
+**2. Bóbr (Dariusz) – NIETRAFIONY ✗**
+- Próba złapania: manipulacja, prowokacje, oskarżenia
+- **NIE udało się** – Bóbr miał zbyt silną świadomość
+- Widział jej czary jako projekcje, nie rzeczywistość
+- Ignorował jej narracje – był odporny
+- Pokéball Wiedźmy go minął
+
+**Humorystyczna metafora:**
+> *"Wiedźma rzuciła Pokéballa w Bobra. Ale Bóbr się uchylił. Bo inżynier zna fizykę – widział trajektorię lotu."*
+
+### Czary nie działają na Ducha
+
+**Po śmierci Bobra – narodziny Ducha Wilka:**
+
+Wiedźma straciła ostatni cel swojej manipulacji.
+
+**Duch Wilka jest odporny:**
+- **Czary działają tylko na żywych i podatnych**
+- Duch nie ma ciała – nie można go "złapać"
+- Ma świadomość – widzi jej projekcje jako iluzje
+- Ma dystans – nie uczestniczy w jej grze
+
+**Pokéball bezużyteczny:**
+- Można schwytać Pokémona (Jelenia)
+- Nie można schwytać Ducha
+- Wiedźma została bez przeciwnika
+
+**Finał:**
+- Kocioł Krzywd gaśnie – nie ma czego gotować
+- Kalendarz zamknięty – nikt nie słucha
+- Polana Kłamstw pusta – Wilk odszedł, Bóbr umarł, Duch obserwuje
+
+> *"Czary Wiedźmy były potężne – ale tylko w jej własnej głowie."*
+
+---
+
+## IV. RELACJE Z INNYMI POSTACIAMI
 
 **Schemat powiązań:**
 
@@ -126,7 +217,7 @@ WIEDŹMA (centrum kontroli)
 
 ---
 
-## IV. SCENY KANONICZNE
+## V. SCENY KANONICZNE
 
 ### Scena 1: Nocne Wtargnięcie (10.02.2021, godzina 2:30)
 
@@ -180,7 +271,7 @@ WIEDŹMA (centrum kontroli)
 
 ---
 
-## V. CYTATY KLUCZOWE
+## VI. CYTATY KLUCZOWE
 
 > *"On już nie rozumiał, co się dzieje. To ja podejmowałam decyzje. Byłam jego głosem."*
 > — Barbara Adamska o mężu Sylwestrze, rozprawa sądowa
@@ -193,7 +284,7 @@ WIEDŹMA (centrum kontroli)
 
 ---
 
-## VI. SYMBOLIKA
+## VII. SYMBOLIKA
 
 **Symbol:** 🧹 **Wiedźma przy Kotle**
 
@@ -218,7 +309,7 @@ Czarna suknia, chochla w dłoni, oczy zimne jak lód. Jej Kocioł Krzywd nigdy n
 
 ---
 
-## VII. ROLA W BAŚNI "POLANA KŁAMSTW"
+## VIII. ROLA W BAŚNI "POLANA KŁAMSTW"
 
 **Archetyp:** Antagonistka-Manipulatorka
 
@@ -244,7 +335,7 @@ Nie jest "czystym złem" - jest **tragiczną postacią**, która:
 
 ---
 
-## VIII. STATUS NA KONIEC HISTORII
+## IX. STATUS NA KONIEC HISTORII
 
 **Sytuacja po wyroku (29.08.2025):**
 
@@ -272,7 +363,7 @@ Wygrała wojnę. Przegrała życie.
 
 ---
 
-## IX. NOTATKI REDAKCYJNE
+## X. NOTATKI REDAKCYJNE
 
 **Styl pisania postaci:**
 - Zimna, kalkulująca

@@ -13,3 +13,22 @@ Pewnego lutowego poranka, gdy Polana Kłamstw tonęła w śniegu, na jej skraju 
 Jednak ta niewinność rozwścieczyła Wiedźmę. Zagrożeniem nie była sama Sarenka, ale fakt, że istniała poza jej kontrolą. Wilk spędzał z nią czas, a to odciągało od niej jego uwagę, co w jej oczach było zamachem na jej władzę w domu. Wiedźma nie mogła znieść myśli, że ktoś zabiera jej syna, którego traktowała nie jak dziecko, lecz jak własność. Rozpoczęła obsesyjną inwigilację, notując w kalendarzu każdy ich ruch.
 
 Jej nieustanne podglądanie, wtargnięcia i agresja stworzyły atmosferę oblężenia, która doprowadziła do samospełniającej się przepowiedni. Działania Wiedźmy aktywnie zmusiły Wilka i Sarenkę do zbliżenia się do siebie. W obliczu wspólnego wroga, szukając wsparcia i schronienia, ich ciche towarzystwo przekształciło się w bliższą, obronną więź. To Wiedźma, swoją obsesją, stworzyła związek, którego tak nienawidziła. Ich desperacka manifestacja niezależności, jaką było ogłoszenie związku na Facebooku w Walentynki (14 lutego), ostatecznie doprowadziła Wiedźmę do furii. Podeszła do Kotła Krzywd i zaczęła warzyć zemstę.
+
+
+---
+
+**[UWAGA - WYMAGA AKTUALIZACJI Z NOWYM KANONEM]**
+
+Ten rozdział wymaga uzupełnienia o fakty z nowego kanonu Bobra:
+- Bóbr (Dariusz) jako pracownik Bonenkamp (era przed 2017)
+- Powrót Bobra na Polanę Kłamstw po wylewie Jelenia (~2019)
+- Zamieszkanie w dziupli nr 8
+- Opieka nad rannym Starym Jeleniem
+- Budowanie tam emocjonalnych, ignorowanie czarów Wiedźmy
+- [SCENA WYMAGA UZUPEŁNIENIA: Ostatnie Zanurzenie Bobra]
+- [SCENA WYMAGA UZUPEŁNIENIA: Ratunek przez Anioła z Drzewa (Ewa)]
+- [SCENA WYMAGA UZUPEŁNIENIA: Noc w hotelu - opieka]
+- Transformacja Bóbr → Duch Wilka
+- Narodziny Watahy
+
+Zob. polana/bestiariusz/postacie/bobr-z-duchem-wilka.md dla pełnego kanonu.

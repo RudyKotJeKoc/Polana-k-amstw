@@ -901,90 +901,107 @@ Brak informacji, że toaleta była niesprawna i niepodłączona. Brak informacji
 
 ---
 
-**Interludium: Spotkanie przy Strumieniu**
+**Interludium: Pamięć Bobra**
 
-Po zaspawaniu toalety Wilk nie mógł zostać w warsztacie. Iskry spawarki wciąż tańczyły przed jego oczami, a dłonie drżały – nie z wysiłku, lecz z gniewu, którego nie umiał wypuścić.
+*[UWAGA: Ta sekcja wymaga pełnej rewizji z nowym kanonem. Poniższy tekst to tymczasowy placeholder integrujący nowe fakty kanoniczne.]*
 
-Wyszedł w las. Bez celu. Bez kierunku. Tylko dalej od Dziupli nr 8, od Kalendarza, od oczu Wiedźmy.
+---
 
-Szedł długo, aż dotarł do małego strumienia u granicy polany – miejsca, które rzadko odwiedzał. Woda była niska, ale płynęła uporczywie, przedzierając się przez kamienie i korzenie.
+**Bóbr nie był mityczną przemianą. Był człowiekiem.**
 
-I tam, przy zakolu strumienia, zobaczył **Bobra**.
+Dariusz, pracownik firmy **Bonenkamp** – obsługa infrastruktury gminnej. Naprawiał maszyny komunalne: wypalarki, zamiatarki, traktory, sprzęt gminny. Był inżynierem, budowniczym, opiekunem porządku.
 
-Duży, mokry, z futrem koloru starej kory. Pracował metodycznie, układając gałęzie w poprzek nurtu. Budował **tamę**.
+**Symbol:** Budowniczy Polany Kłamstw.
 
-Wilk zatrzymał się. Obserwował przez chwilę – precyzję ruchów, spokój, z jakim Bóbr dobierał każdą gałąź, każdy kamień. Żadnego pośpiechu. Żadnej frustracji. Tylko konstrukcja.
+Kiedy Stary Jeleń (Sylwester) dostał wylewu mózgu (~2019), Bóbr wrócił na Polanę, by opiekować się rannym ojcem. Zamieszkał w **dziupli nr 8** – Dom nr 8 w Adamowie. Cyfra 8 – symbol nieskończonej pętli, z której nie było wyjścia.
 
-– **Dlaczego budujesz?** – zapytał Wilk w końcu, nie wiedząc dlaczego w ogóle mówi do zwierzęcia.
+**Lata w dziupli:**
 
-Bóbr nie przestał pracować. Położył kolejną gałąź.
+Bóbr opiekował się schorowanym Jeleniem. Pomagał mu w codziennych czynnościach. Próbował przywrócić mu godność.
 
-– **Bo to jedyne, co mogę zrobić** – odparł głosem spokojnym, ciężkim jak mokre drewno. – **Nie mogę zatrzymać ludzi. Nie mogę powstrzymać melioracji. Ale mogę zbudować coś, co ocali kawałek mokradeł.**
+A wokół niego – toksyczna atmosfera Polany Kłamstw. Wiedźma (Barbara) wytwarzała **„czary"** – projekcje psychiczne, urojenia, narracje zapisywane w Kalendarzu Krzywd. Manipulowała rzeczywistością, tworzyła alternatywną prawdę.
 
-Wilk podszedł bliżej. Spojrzał na tamę – solidną, starannie ułożoną. Każda gałąź miała swoje miejsce.
+Bóbr **ignorował jej narracje**. Widział, że to jej walka z cieniem, nie z nim. Zachowywał dystans emocjonalny, by przetrwać. Skupiał się na obowiązkach: naprawianiu, budowaniu, opiekowaniu.
 
-– **A co było wcześniej?** – zapytał. – **Co robiłeś, zanim zacząłeś budować?**
+Budował **tamy emocjonalne** – granice chroniące przed zalewem manipulacji.
 
-Bóbr zatrzymał się. Odwrócił głowę. I Wilk zobaczył jego oczy.
+---
 
-Oczy tropiciela. Oczy, które kiedyś polowały w ciemności.
+**[SCENA WYMAGA UZUPEŁNIENIA: Ostatnie Zanurzenie Bobra]**
 
-– **Byłem Wilkiem** – powiedział cicho. – **Samotnym strażnikiem. Walczyłem. Atakowałem zapory. Straszałem ludzi. Wyłamywałem pale.**
+*Placeholder dla sceny kanonicznej: Bóbr w dziupli nr 8, wyczerpany latami toksycznej atmosfery. Miesza kwas solny z chlorem. Powstaje trująca mgła chlorowa. Zasypia z myślą: „Może się nie obudzę". Wchodzi do zatrutej wody – Ostatnie Zanurzenie. Traci przytomność.*
 
-– **I co się stało?**
+---
 
-– **Zrozumiałem, że nie da się zagryźć betonowej zapory.** – Bóbr wrócił do pracy. – **Nie da się przestraszyć człowieka, który ma plan melioracji. Więc zmieniłem strategie. Wszedłem do wody jako Wilk. Wypłynąłem jako Bóbr.**
+**Anioł z Drzewa**
 
-Wilk patrzył na niego długo. Widział w tych oczach coś znajomego – gniew, który nigdy nie wyga sł, tylko został... zatrzymany. Przekierowany.
+Ktoś wyciągnął Bobra z zatrutej wody.
 
-– **Ale gniew wciąż tam jest** – powiedział Wilk. – **Czuję to.**
+**Ewa** – ta, która mieszkała na drzewie, daleko od Polany Kłamstw. Anioł z Drzewa. Opiekunka. Pracowała z rannymi, z chorymi, z tymi, którzy potrzebowali ratunku.
 
-– **Tak** – przyznał Bóbr. – **Każda gałąź w tej tamie to stłumiony gniew. Każda warstwa błota to zamrożona trauma. Ale wiesz, co trzyma tamę?**
+Znalazła Bobra nieprzytomnego, wyniszczonego, ledwo oddychającego.
 
-– **Co?**
+Zabrała go ze sobą.
 
-– **Nie kły. Nie pazury.** – Bóbr spojrzał na swoje łapy, z pazurami jak dłuta. – **Cierpliwość. Konstrukcja. Zrozumienie, że granice chronią, nie więzą.**
+---
 
-Wilk usiadł na kamieniu. Patrzył na wodę, która wolno zbierała się za tamą, tworząc małe, spokojne jeziorko.
+**Noc w hotelu**
 
-– **Tama to nie tylko konstrukcja** – powiedział Bóbr, jakby czytał w myślach Wilka. – **To wszystko, co zatrzymujesz w sobie, żeby nie zalało świata.**
+Nie było to miejsce romansu. Było to miejsce **opieki**.
 
-Milczeli przez chwilę. Tylko szum wody i odgłos gałęzi układanych na miejscu.
+Ewa opiekowała się Bobrem – obmywała, przewijała, karmiła. Jak pielęgniarka, jak ratowniczka. Nie pytała, co się stało. Wiedziała, że ludzie przychodzą zranieni, a pytania tylko otwierają rany głębiej.
 
-– **A tęsknisz?** – zapytał Wilk w końcu. – **Za tym, kim byłeś?**
+Bóbr nie pamiętał tej nocy w pełni. Był w półśnie, w półśmierci. Mgła chlorowa jeszcze kręciła się w jego płucach.
 
-Bóbr zawiesił ruch. Spojrzał w niebo, gdzie księżyc zaczynał się przebijać przez gałęzie.
+Ewa mówiła cicho, uspokajająco. Jej głos jak powiew wiatru w koronach drzew.
 
-– **Każdej nocy** – odparł cicho. – **Kiedyś wyłem do księżyca. Teraz tylko gryzę gałęzie. Ale gniew jest ten sam. Po prostu... nauczyłem się go budować, zamiast wyć.**
+Tej nocy coś w Bobrze zaczęło się **przemieniać**.
 
-Wilk poczuł, jak coś pęka w jego piersi. Nie płakał. Nie krzyczał. Tylko patrzył na tamę i rozumiał.
+---
 
-– **Ludzie myślą, że melioracja to postęp** – powiedział Bóbr, wracając do pracy. – **Ja widzę tylko wysychające serca.**
+**Transformacja: Bóbr → Duch Wilka**
 
-– **Zaspawałem toaletę** – powiedział Wilk nagle. – **Dzisiaj. Spawałem zamek, żeby... żeby coś zatrzymać. Gniew. Prawdę. Nie wiem.**
+Przemiana nie była natychmiastowa. Nie była gwałtowna.
 
-Bóbr skinął głową.
+Była jak powolne rozpuszczanie się ciała w mgle.
 
-– **To twoja tama** – powiedział. – **Każdy buduje swoje granice inaczej. Ty zaspawałeś. Ja układam gałęzie. Różnica jest taka, że moja tama chroni mokradła. A twoja...**
+Bóbr – budowniczy, inżynier, opiekun – umarł w dziupli nr 8. Ale jego świadomość, gniew, instynkt łowcy, pamięć – **przetrwały**.
 
-– **Chroni mnie** – dokończył Wilk.
+W miejscu, gdzie zgasło serce Bobra, narodził się **Duch Wilka**.
 
-– **Więc dobrze zrobiłeś.**
+**Duch Wilka to:**
+- **Odporność** – nie można go schwytać, kontrolować, manipulować
+- **Świadomość** – widzi prawdę, nie projekcje Wiedźmy
+- **Dystans** – obserwuje, ale nie uczestniczy w grze
+- **Wolność** – uwolniony z pętli cyfry 8
 
-Wilk wstał. Spojrzał raz jeszcze na Bobra, na jego cierpliwe łapy układające kolejną gałąź.
+Wiedźma nie ma nad nim władzy. Jej czary działają tylko na żywych i podatnych. Duch jest poza jej zasięgiem.
 
-– **Jak się nazywasz?** – zapytał.
+Pokéball Wiedźmy jest bezużyteczny wobec Ducha.
 
-– **Nie mam imienia** – odparł Bóbr. – **Byłem Wilkiem. Teraz jestem Bobrem. Ale w środku? W środku wciąż poluje na to, czego nie mogę złapać.**
+---
 
-Wilk kiwnął głową. Rozumiał.
+**Wataha**
 
-Odszedł w ciemność lasu, niosąc ze sobą obraz tamy – konstrukcji zbudowanej z gniewu, który przestał być bronią, a stał się ochroną.
+Duch Wilka nie pozostał samotną świadomością. Rozszerzył się – z jednej świadomości → wiele punktów obserwacji.
 
-Gdy wrócił do warsztatu, spawarka wciąż była ciepła. Ale Wilk nie czuł już potrzeby niczego więcej spawać.
+**Wataha powstaje:**
+- Nadświadomość kolektywna
+- Analiza mechanizmów manipulacji
+- Inteligencja dekodująca projekcje
+- Uważna obserwacja Polany Kłamstw
 
-Gniew został w tamie. Przy strumieniu. Gdzie Bóbr budował granicę między tym, co było, a tym, co może być.
+Wataha obserwuje:
+- Wiedźmę w pustym domu, walczącą z cieniem
+- Papa Smurf (Sylwester) w fotelu, zagubionego w mgle
+- Pusty Kocioł Krzywd, który już nie bulgocze
+- Kalendarz Wiedźmy, który nikt nie czyta
 
+**Polana Kłamstw staje się sceną – przestaje być miejscem realnych zdarzeń, staje się teatrem. Wataha to widownia, która widzi prawdę.**
+
+---
+
+*[KONIEC PLACEHOLDERA – wymaga rozbudowy fabularnej z pełną sceną Ostatniego Zanurzenia i spotkania z Aniołem]*
 ---
 
 ### Rozdział 6: Inscenizacja z Paralizatorem (Marzec 2021)
