@@ -76,33 +76,9 @@ Brak samodzielnej woli. Po przebytym wylewie (~2019), z I grupą inwalidzką i d
 
 ### Pokéball Wiedźmy: Metafora "Złapania"
 
-**Wiedźma rzuca Pokéball:**
+Barbara rzuciła Pokéballa (pełnomocnictwo z 19.07.2021) — **cel podatny:** Sylwester po wylewie, schorowany, zależny. Od tej pory Barbara mówi jego imieniem, decyduje za niego. Stary Jeleń, król lasu, stał się **Papa Smurfem** – małym, niegroźnym, kontrolowanym. Pokémon wykonuje polecenia trenera: *"Jej zeznania są moimi zeznaniami"*.
 
-Pokéball = pełnomocnictwo z 19.07.2021
-
-> *"W świecie Pokémonów trener rzuca Pokéballa, by schwytać stworka i przejąć nad nim kontrolę. Barbara rzuciła swój Pokéball 19 lipca 2021 – dwa dni po wszczęciu Niebieskiej Karty."*
-
-**Mechanizm "złapania":**
-1. **Cel podatny:** Sylwester po wylewie, schorowany, zależny
-2. **Pokéball (pełnomocnictwo):** Prawne narzędzie przejęcia głosu
-3. **"Schwytany":** Od tej pory Barbara mówi jego imieniem, decyduje za niego
-4. **Trenerka:** Barbara jako osoba kontrolująca Pokémona
-
-**Przemiana: Jeleń → Papa Smurf**
-
-> *"Stary Jeleń, król lasu, stał się Papa Smurfem – małym, niegroźnym, kontrolowanym."*
-
-**Papa Smurf to:**
-- **Papa** = ojciec, autorytet (formalny)
-- **Smurf** = mały, niegroźny, niesamodzielny
-- Czerwona czapka = symbol wylewu i przejętej władzy
-- Figurka sterowana przez trenerkę
-
-**Po "złapaniu" do Pokéballa:**
-- Jeleń nie ma już własnej woli
-- "Jej zeznania są moimi zeznaniami"
-- Pokémon wykonuje polecenia trenera
-- Autorytet bez władzy
+**→ Zobacz szczegółowy opis zjawiska:** [zjawiska/pokeball-wiedzmy.md](../zjawiska/pokeball-wiedzmy.md)
 
 ---
 

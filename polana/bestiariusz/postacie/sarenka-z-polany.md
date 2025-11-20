@@ -22,7 +22,9 @@ Sarenka nie miała własnego bezpiecznego miejsca. Przyszła z innego królestwa
 Jej pojawienie się nie było przyczyną konfliktu, ale **ujawnieniem** tego, co już istniało. Obsesja Wiedźmy, lęk przed utratą kontroli, gniew na autonomię syna — wszystko to czekało na pretekst. Sarenka stała się tym pretekstem.
 
 **Zjawisko Dwóch Saren**
-Pierwsza Sarenka — ta, która przyszła z Wiatrakowej, pełna nadziei, szukająca bliskości, ciepła. Druga Sarenka — ta, która odeszła po traumi Polany Kłamstw, zmieniona, inna, obca. To samo ciało, ale dwie różne istoty.
+Pierwsza Sarenka — ta, która przyszła z Wiatrakowej, pełna nadziei. Druga Sarenka — ta, która odeszła po traumie Polany Kłamstw, zmieniona, inna, obca. To samo ciało, ale dwie różne istoty.
+
+**→ Zobacz szczegółowy opis:** [zjawiska/dwie-sarenki.md](../zjawiska/dwie-sarenki.md)
 
 **Ofiara Bez Głosu**
 W tej historii nie miała własnego głosu. Była nazywana, oskarżana, prowokowana — ale nigdy nie usłyszano jej samej. Jest symbolem tych, którzy wpadają w cudze wojny i giną w cudzym ogniu.
