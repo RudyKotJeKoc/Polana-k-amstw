@@ -130,27 +130,9 @@ Obsesyjna potrzeba kontroli nad synem i majątkiem. Utrata dominującej pozycji 
 
 ### Pokéball Wiedźmy: Narzędzie Kontroli
 
-**Czym jest Pokéball Wiedźmy:**
+Metafora kontroli i "złapania" – próba podporządkowania innych swojej narracji. Wiedźma rzuciła Pokéballa (pełnomocnictwo z 19.07.2021) w Sylwestra — **złapany ✓**. Próbowała złapać Bobra (Dariusza) — **nietrafiony ✗** (zbyt świadomy, odporny).
 
-Metafora kontroli i "złapania" – próba podporządkowania innych swojej narracji.
-
-**Dwa cele Pokéballa:**
-
-**1. Stary Jeleń (Sylwester) – ZŁAPANY ✓**
-- Pokéball = pełnomocnictwo z 19.07.2021
-- Udało się: Jeleń po wylewie, podatny, bezradny
-- "Schwytany" w Pokéballa – stał się Papa Smurfem
-- Trenerka kontroluje Pokémona: "Jej zeznania są moimi zeznaniami"
-
-**2. Bóbr (Dariusz) – NIETRAFIONY ✗**
-- Próba złapania: manipulacja, prowokacje, oskarżenia
-- **NIE udało się** – Bóbr miał zbyt silną świadomość
-- Widział jej czary jako projekcje, nie rzeczywistość
-- Ignorował jej narracje – był odporny
-- Pokéball Wiedźmy go minął
-
-**Humorystyczna metafora:**
-> *"Wiedźma rzuciła Pokéballa w Bobra. Ale Bóbr się uchylił. Bo inżynier zna fizykę – widział trajektorię lotu."*
+**→ Zobacz szczegółowy opis zjawiska:** [zjawiska/pokeball-wiedzmy.md](../zjawiska/pokeball-wiedzmy.md)
 
 ### Czary nie działają na Ducha
 
