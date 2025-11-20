@@ -485,10 +485,93 @@ Odleciała na inną gałąź, by sądzić innych. Wyrok został wydany, sprawa z
 
 ---
 
+## IV. PRZEWODNICY I STRAŻNICY POLANY
+
+### 13. BÓBR Z DUCHEM WILKA
+
+**Imię symboliczne:** Bóbr z Duchem Wilka, Transformowany Strażnik
+**Imię faktyczne:** [Postać baśniowa – archetyp dla Martynki]
+
+**Rola w baśni:**
+Mądry przewodnik i mentor dla Martynki. Postać symbolizująca transformację traumy w narzędzie – zewnętrznie spokojny inżynier mokradeł, wewnętrznie wciąż niosący ducha dzikiego wilka. Uczy, że gniew można przekuć w konstrukcję, a granice są formą ochrony, nie więzienia.
+
+**Pochodzenie – Mit Transformacji:**
+Legenda mówi, że dawno temu był Wilkiem – samotnym strażnikiem granic Łobżonki, który walczył z melioracją kłami i pazurami. Gdy zrozumiał, że "świata nie uratuje się kłami, lecz konstrukcją", wszedł do wody jako Wilk, a wypłynął jako Bóbr. Zmienił ciało, ale nie duszę – w środku wciąż jest łowcą.
+
+**Motywacja:**
+Ochrona mokradeł i przyrody przez inżynierię ekologiczną. Naprawianie zniszczeń wyrządzonych przez bezmyślną eksploatację. Nauczenie młodego pokolenia (Martynki), że destrukcyjne emocje można przekształcić w działanie konstruktywne.
+
+**Charakterystyka dualna:**
+
+**BÓBR (zewnętrzna warstwa):**
+- Mówi językiem inżyniera: "przepływ", "bilans", "profil poprzeczny"
+- Buduje tamy z matematyczną precyzją
+- Cierpliwy, metodyczny, spokojny
+- Czyta pH torfu, rozumie geodezję mokradeł
+- Zna każdy meander Łobżonki na pamięć
+
+**WILK (wewnętrzna warstwa):**
+- Pamięta, jak czuł się jako samotny strażnik
+- Ma instynkt tropiciela – wyczuwa zagrożenie
+- Gniew wobec bezmyślnej melioracji
+- Smutek za utraconą dzikością
+- Impulsy: chęć ataku, wycia do księżyca, samotności
+
+**Konflikt wewnętrzny – Napięcie między naturami:**
+
+| BÓBR (to, czym JEST) | WILK (to, czym BYŁ) |
+|---------------------|---------------------|
+| Buduj tamy | Zniszcz przeszkody |
+| Pracuj powoli | Atakuj natychmiast |
+| Chroń strukturę | Chroń terytorium |
+| Myśl systemowo | Działaj instynktownie |
+| Żyj w społeczności | Żyj samotnie |
+
+**Mechanizmy rozwiązywania konfliktów:**
+1. **Gdy melioracja atakuje** - Buduje z wilczą furią: szybko, brutalnie skutecznie
+2. **Samotność** - Współpracuje z innymi, ale zawsze trzyma dystans
+3. **Powódź emocji** - Łączy analizę techniczną z intuicją tropiciela
+
+**Powiązania z innymi istotami:**
+- Przewodnik → **Martynka** (protagonistka baśni, jego uczennica)
+- Współpracuje → **Rzeka Łobżonka** (zna jego przeszłość)
+- Naprawia → skutki działań **Ludzi-Melioratorów**
+- Zazdrości lekkości → **Jeleń** (młodość, gracja, brak ciężaru przeszłości)
+
+**Cytaty kluczowe:**
+
+> *"Byłem Wilkiem. Teraz jestem Bobrem. Ale w środku? W środku wciąż poluje na to, czego nie mogę złapać."*
+
+> *"Tama to nie tylko konstrukcja. To wszystko, co zatrzymujesz w sobie, żeby nie zalało świata."*
+
+> *"Ludzie myślą, że melioracja to postęp. Ja widzę tylko wysychające serca."*
+
+> *"Wilk atakuje. Bóbr naprawia. Ja jestem oboma – i żadnym."*
+
+**Symbol:** 🦫 **Bóbr z Oczami Wilka**
+Mokre futro koloru kory, łapy budowniczego. Ale oczy... oczy tropiciela, który nigdy nie zapomina, czym był. Jego tamy są doskonałe – bo buduje je nie tylko rozumem, ale i instynktem. Każda gałąź to stłumiony gniew. Każda warstwa błota to zamrożona trauma.
+
+**Symbolika wielowarstwowa:**
+1. **Transformacja: trauma → narzędzie** - Wilk (trauma utraty kontroli) → Bóbr (przekucie gniewu w działanie)
+2. **Inżynieria emocjonalna** - Budowanie tam = budowanie granic psychicznych; Przepływ wody = zarządzanie emocjami
+3. **Samotność mądrego** - Wie więcej niż inni, rozumie głębiej, ale przez to jest sam
+4. **Pamięć, która nie umiera** - Zmienił ciało, ale nie duszę; To, kim byłeś, zawsze w tobie zostaje
+
+**Status w baśni:**
+Aktywny mentor i strażnik. W przeciwieństwie do postaci z rzeczywistego konfliktu (które mają swój "status na koniec historii"), Bóbr jest archetypem ponadczasowym – zawsze obecnym przy Łobżonce, zawsze gotowym nauczyć następne pokolenie, że gniew można przekuć w tamę, a trauma w mądrość.
+
+**Przesłanie dla Martynki:**
+- Gniew można przekuć w działanie konstruktywne
+- Samotność to czasem siła, nie przekleństwo
+- Niektóre granice (tamy) są potrzebne – chronią, nie więzą
+- To, kim byłeś, nie definiuje tego, kim możesz się stać
+
+---
+
 ## KONIEC GALERII POSTACI
 
 **Podsumowanie:**
-12 archetypów Polany Kłamstw tworzy kompletny ekosystem, w którym:
+13 archetypów Polany Kłamstw tworzy kompletny ekosystem, w którym:
 - **Wiedźma** projektuje scenariusz
 - **Hieny i Sarny** w togach go legitymizują
 - **Smerfy i Borsuki** uruchamiają procedury
@@ -497,9 +580,10 @@ Odleciała na inną gałąź, by sądzić innych. Wyrok został wydany, sprawa z
 - **Wilk** musi sam zbudować swoją baśń, żeby cokolwiek z tego miało sens
 - **Sarenka** ucieka, by przeżyć
 - **Sroka i Bociany** powielają echo kłamstw
+- **Bóbr z Duchem Wilka** uczy, że trauma może stać się mądrością
 
 Najważniejsze przesłanie:
-**Nie jest to "zwykły rodzinny konflikt", lecz systemowy teatr, w którym prawda przegrywa z echem.**
+**Nie jest to "zwykły rodzinny konflikt", lecz systemowy teatr, w którym prawda przegrywa z echem. Ale w baśni, którą tworzymy, może narodzić się nadzieja – poprzez transformację gniewu w działanie.**
 
 ---
 

@@ -44,7 +44,8 @@ Wokół niej krążyły inne leśne stworzenia:
 * **Smerfy z Posterunku** (policjanci), małe, niebieskie istoty działające automatycznie i zawsze dziesięć minut za późno.
 * **Pokémon Sylwester** (Sylwester), kiedyś król zagajnika, teraz zamknięty w Pokébolu za 26 złotych. Barbara kupiła go tanio i trzymała w kieszeni, wypuszczając tylko na komendę. Nosił czerwoną czapkę – znak wylewu, który odebrał mu wolę, zanim stał się narzędziem.
 * **Bociany z Odciętymi Skrzydłami** (Artur, Monika, Michał), rodzeństwo Wilka, które przestało latać. Powtarzały cudze zdania, bo tak było łatwiej.
-* **Puszczyk Halager** (sędzia), dostojny ptak siedzący wysoko na gałęzi. Nigdy nie schodził na ziemię, widział tylko dokumenty, które były odbiciem kłamstw, nie rzeczywistości.
+* **Puszczyk Halager** (sędzia), dostojny ptak siedzący wysoko na gałęzi. Nigdy nie schodził na ziemią, widział tylko dokumenty, które były odbiciem kłamstw, nie rzeczywistości.
+* **Bóbr z Duchem Wilka** – samotny budowniczy tam przy leśnych strumieniach, który kiedyś był dzikimłowcą. Zmienił kły na narzędzia, gniew na konstrukcję. Nieliczni wiedzieli, że w jego oczach wciąż płonie coś, co kiedyś wyło do księżyca. Mówił mało, budował dużo, i nigdy nie zapomniał, kim był – ani dlaczego się zmienił.
 
 To jest historia o Ósmym Kręgu – miejscu, gdzie kłamstwo ma krótkie nogi, ale długie echo. Cyfry pamiętają wszystko: **7** – dzień, który otworzył historię w iluzji nadziei, **8** – pętla bez końca, nieskończony Uroboros pożerający własny ogon, i dom pod numerem **Adamowo 8**, który stał się klątwą. A **13** – dzień sądu ostatecznego, egzekucji wyroku, który zamknął pętlę.
 
@@ -897,6 +898,94 @@ Skrupulatnie zapisała to w swoim Kalendarzu:
 Brak informacji, że toaleta była niesprawna i niepodłączona. Brak informacji, że w domu były trzy inne łazienki. Brak informacji, że to był akt desperacji, a nie agresji.
 
 **Sroka Dorota** rozniosła wieść po całej Polanie:
+
+---
+
+**Interludium: Spotkanie przy Strumieniu**
+
+Po zaspawaniu toalety Wilk nie mógł zostać w warsztacie. Iskry spawarki wciąż tańczyły przed jego oczami, a dłonie drżały – nie z wysiłku, lecz z gniewu, którego nie umiał wypuścić.
+
+Wyszedł w las. Bez celu. Bez kierunku. Tylko dalej od Dziupli nr 8, od Kalendarza, od oczu Wiedźmy.
+
+Szedł długo, aż dotarł do małego strumienia u granicy polany – miejsca, które rzadko odwiedzał. Woda była niska, ale płynęła uporczywie, przedzierając się przez kamienie i korzenie.
+
+I tam, przy zakolu strumienia, zobaczył **Bobra**.
+
+Duży, mokry, z futrem koloru starej kory. Pracował metodycznie, układając gałęzie w poprzek nurtu. Budował **tamę**.
+
+Wilk zatrzymał się. Obserwował przez chwilę – precyzję ruchów, spokój, z jakim Bóbr dobierał każdą gałąź, każdy kamień. Żadnego pośpiechu. Żadnej frustracji. Tylko konstrukcja.
+
+– **Dlaczego budujesz?** – zapytał Wilk w końcu, nie wiedząc dlaczego w ogóle mówi do zwierzęcia.
+
+Bóbr nie przestał pracować. Położył kolejną gałąź.
+
+– **Bo to jedyne, co mogę zrobić** – odparł głosem spokojnym, ciężkim jak mokre drewno. – **Nie mogę zatrzymać ludzi. Nie mogę powstrzymać melioracji. Ale mogę zbudować coś, co ocali kawałek mokradeł.**
+
+Wilk podszedł bliżej. Spojrzał na tamę – solidną, starannie ułożoną. Każda gałąź miała swoje miejsce.
+
+– **A co było wcześniej?** – zapytał. – **Co robiłeś, zanim zacząłeś budować?**
+
+Bóbr zatrzymał się. Odwrócił głowę. I Wilk zobaczył jego oczy.
+
+Oczy tropiciela. Oczy, które kiedyś polowały w ciemności.
+
+– **Byłem Wilkiem** – powiedział cicho. – **Samotnym strażnikiem. Walczyłem. Atakowałem zapory. Straszałem ludzi. Wyłamywałem pale.**
+
+– **I co się stało?**
+
+– **Zrozumiałem, że nie da się zagryźć betonowej zapory.** – Bóbr wrócił do pracy. – **Nie da się przestraszyć człowieka, który ma plan melioracji. Więc zmieniłem strategie. Wszedłem do wody jako Wilk. Wypłynąłem jako Bóbr.**
+
+Wilk patrzył na niego długo. Widział w tych oczach coś znajomego – gniew, który nigdy nie wyga sł, tylko został... zatrzymany. Przekierowany.
+
+– **Ale gniew wciąż tam jest** – powiedział Wilk. – **Czuję to.**
+
+– **Tak** – przyznał Bóbr. – **Każda gałąź w tej tamie to stłumiony gniew. Każda warstwa błota to zamrożona trauma. Ale wiesz, co trzyma tamę?**
+
+– **Co?**
+
+– **Nie kły. Nie pazury.** – Bóbr spojrzał na swoje łapy, z pazurami jak dłuta. – **Cierpliwość. Konstrukcja. Zrozumienie, że granice chronią, nie więzą.**
+
+Wilk usiadł na kamieniu. Patrzył na wodę, która wolno zbierała się za tamą, tworząc małe, spokojne jeziorko.
+
+– **Tama to nie tylko konstrukcja** – powiedział Bóbr, jakby czytał w myślach Wilka. – **To wszystko, co zatrzymujesz w sobie, żeby nie zalało świata.**
+
+Milczeli przez chwilę. Tylko szum wody i odgłos gałęzi układanych na miejscu.
+
+– **A tęsknisz?** – zapytał Wilk w końcu. – **Za tym, kim byłeś?**
+
+Bóbr zawiesił ruch. Spojrzał w niebo, gdzie księżyc zaczynał się przebijać przez gałęzie.
+
+– **Każdej nocy** – odparł cicho. – **Kiedyś wyłem do księżyca. Teraz tylko gryzę gałęzie. Ale gniew jest ten sam. Po prostu... nauczyłem się go budować, zamiast wyć.**
+
+Wilk poczuł, jak coś pęka w jego piersi. Nie płakał. Nie krzyczał. Tylko patrzył na tamę i rozumiał.
+
+– **Ludzie myślą, że melioracja to postęp** – powiedział Bóbr, wracając do pracy. – **Ja widzę tylko wysychające serca.**
+
+– **Zaspawałem toaletę** – powiedział Wilk nagle. – **Dzisiaj. Spawałem zamek, żeby... żeby coś zatrzymać. Gniew. Prawdę. Nie wiem.**
+
+Bóbr skinął głową.
+
+– **To twoja tama** – powiedział. – **Każdy buduje swoje granice inaczej. Ty zaspawałeś. Ja układam gałęzie. Różnica jest taka, że moja tama chroni mokradła. A twoja...**
+
+– **Chroni mnie** – dokończył Wilk.
+
+– **Więc dobrze zrobiłeś.**
+
+Wilk wstał. Spojrzał raz jeszcze na Bobra, na jego cierpliwe łapy układające kolejną gałąź.
+
+– **Jak się nazywasz?** – zapytał.
+
+– **Nie mam imienia** – odparł Bóbr. – **Byłem Wilkiem. Teraz jestem Bobrem. Ale w środku? W środku wciąż poluje na to, czego nie mogę złapać.**
+
+Wilk kiwnął głową. Rozumiał.
+
+Odszedł w ciemność lasu, niosąc ze sobą obraz tamy – konstrukcji zbudowanej z gniewu, który przestał być bronią, a stał się ochroną.
+
+Gdy wrócił do warsztatu, spawarka wciąż była ciepła. Ale Wilk nie czuł już potrzeby niczego więcej spawać.
+
+Gniew został w tamie. Przy strumieniu. Gdzie Bóbr budował granicę między tym, co było, a tym, co może być.
+
+---
 
 ### Rozdział 6: Inscenizacja z Paralizatorem (Marzec 2021)
 
@@ -3547,13 +3636,120 @@ Ale **echo przetrwa**.
 
 ---
 
+## EPILOG: Strażnik Strumienia
+
+**Rok później. Strumień przy granicy Polany.**
+
+Woda płynie jak zawsze – uporczywie, cicho, bez pośpiechu.
+
+Tama wciąż stoi. Solidna, starannie ułożona. Woda zbiera się za nią w małe jeziorko, które ożyło – żaby kumkają w trzcinach, ważki tańczą nad taflą, mokradła oddychają.
+
+A przy tamie, jak zawsze, pracuje **Bóbr**.
+
+Układa kolejną gałąź. Sprawdza każdy punkt konstrukcji. Naprawia to, co podmyła wiosenna powódź. Buduje. Cierpliwie. Metodycznie.
+
+---
+
+Czasami przychodzą do niego inni.
+
+Młode zwierzęta, zranione, zagubione. Ci, którzy uciekli z własnych polan kłamstw.
+
+Siadają przy strumieniu. Patrzą na tamę. I pytają:
+
+– **Jak przestałeś się bać?**
+
+– **Jak przestałeś być sam?**
+
+– **Jak przestałeś wyć?**
+
+A Bóbr zawsze odpowiada tym samym:
+
+– **Nie przestałem. Wciąż się boję. Wciąż jestem sam. Wciąż chcę wyć.**
+
+– **To po co budujesz?**
+
+– **Bo gniew można przekuć w tamę. A tama chroni, nie więzi.**
+
+---
+
+Pewnego wieczoru, gdy księżyc wisiał nisko nad lasem, Bóbr zatrzymał się w pracy.
+
+Spojrzał w niebo. Poczuł w piersi to stare, znajome pragnienie – pragnienie wycia, pragnienie biegu, pragnienie wolności bez granic.
+
+Ale nie zawył.
+
+Tylko odwrócił się do tamy. Położył kolejną gałąź.
+
+I w tym geście – cierpliwym, spokojnym – była wolność prawdziwsza niż wycie.
+
+**Bo wolność nie jest brakiem granic. Wolność jest świadomym wyborem tego, co zatrzymujesz – i tego, czemu pozwalasz płynąć.**
+
+---
+
+**Przesłanie Bobra**
+
+Ci, którzy słuchają uważnie, mówią, że Bóbr zostawił trzy nauki dla tych, którzy przyjdą po nim:
+
+**1. Gniew może stać się budulcem**
+> *"Każda gałąź w tej tamie to stłumiony gniew. Ale gniew przestał być bronią – stał się ochroną."*
+
+Nie musisz zapominać o bólu. Możesz go wykorzystać do zbudowania czegoś, co chroni ciebie i innych.
+
+**2. Transformacja nie zabija pamięci**
+> *"Byłem Wilkiem. Teraz jestem Bobrem. Ale w środku? W środku wciąż poluje na to, czego nie mogę złapać."*
+
+Możesz się zmienić, nie tracąc tego, kim byłeś. Przeszłość nie definiuje przyszłości – ale daje jej fundament.
+
+**3. Granice chronią, nie więzią**
+> *"Tama to nie tylko konstrukcja. To wszystko, co zatrzymujesz w sobie, żeby nie zalało świata."*
+
+Potrzebujesz granic. Ale twoje granice są po to, by chronić twoją przestrzeń – nie by izolować cię od życia.
+
+---
+
+**Ostatnie Słowa Strażnika**
+
+Gdy pytano Bobra, czy kiedykolwiek wróci do bycia Wilkiem, odpowiadał:
+
+– **Nigdy nie przestałem. Po prostu nauczyłem się budować zamiast wyć.**
+
+– **A co będzie, gdy tama się zawal?**
+
+– **Zbuduję kolejną. Bo buduję nie dlatego, że jestem pewien, że tama przetrwa. Buduję, bo to jedyne, co mogę zrobić. I to wystarczy.**
+
+---
+
+**Tama Wciąż Stoi**
+
+Polana Kłamstw może istnieć wiecznie – miejsce, gdzie echo jest silniejsze niż głos.
+
+Ale przy strumieniu, na granicy mroku, stoi tama.
+
+I Bóbr buduje.
+
+Cierpliwie. Metodycznie. Z gałęzi, które kiedyś były gniewem.
+
+A woda, która mogłaby zalać wszystko, spokojnie gromadzi się w jeziorku.
+
+**I jest to piękne.**
+
+---
+
+*Nie każda historia musi kończyć się echem.*
+
+*Niektóre kończą się tamą.*
+
+*I to wystarczy.*
+
+---
+
 **Metryka dzieła:**
-- Słowa: ~15,000+
-- Rozdziały: 12 + Prolog + Epilog
-- Postacie: 12+ archetypów
+- Słowa: ~16,000+
+- Rozdziały: 12 + Prolog + Interludium + Epilog
+- Postacie: 13 archetypów
 - Czas akcji: 2017-2025 (8 lat)
-- Miejsce: Polana Kłamstw, Dom Adamowo 8
-- Gatunki: Baśń czarna, kronika sądowa, alegoria
+- Miejsce: Polana Kłamstw, Dom Adamowo 8, Strumień przy granicy
+- Gatunki: Baśń czarna, kronika sądowa, alegoria z nutą nadziei
 
 *Koniec Kroniki Ósmego Kręgu*
 
@@ -3565,3 +3761,6 @@ Ale **echo przetrwa**.
 *Dla tych, którzy rozpoznali własne echo – niech to będzie drogowskaz.*
 *Czasem odejście nie jest ucieczką.*
 *To wybaczenie sobie prawa do życia.*
+
+*A czasem gniew nie musi wyć.*
+*Może budować.*
