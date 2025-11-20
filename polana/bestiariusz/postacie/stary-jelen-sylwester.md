@@ -59,7 +59,54 @@ Brak samodzielnej woli. Po przebytym wylewie (~2019), z I grupą inwalidzką i d
 
 ---
 
-## III. MECHANIZM KONTROLI (przez Wiedźmę)
+## III. PRZEMIANA: STARY JELEŃ → PAPA SMURF
+
+### Wylew jako punkt przełomowy
+
+**~2019: Wylew mózgu Sylwestra**
+- Nagłe wydarzenie, które zmienia wszystko
+- Operacja tętniaka, I grupa inwalidzka
+- Z dumnego jelenia → krucha istota
+
+**Symbolika wylewu:**
+- Krew wylana do mózgu = czerwona czapka
+- Utrata kontroli nad własnym ciałem
+- Utrata kontroli nad własnym umysłem
+- Utrata autonomii
+
+### Pokéball Wiedźmy: Metafora "Złapania"
+
+**Wiedźma rzuca Pokéball:**
+
+Pokéball = pełnomocnictwo z 19.07.2021
+
+> *"W świecie Pokémonów trener rzuca Pokéballa, by schwytać stworka i przejąć nad nim kontrolę. Barbara rzuciła swój Pokéball 19 lipca 2021 – dwa dni po wszczęciu Niebieskiej Karty."*
+
+**Mechanizm "złapania":**
+1. **Cel podatny:** Sylwester po wylewie, schorowany, zależny
+2. **Pokéball (pełnomocnictwo):** Prawne narzędzie przejęcia głosu
+3. **"Schwytany":** Od tej pory Barbara mówi jego imieniem, decyduje za niego
+4. **Trenerka:** Barbara jako osoba kontrolująca Pokémona
+
+**Przemiana: Jeleń → Papa Smurf**
+
+> *"Stary Jeleń, król lasu, stał się Papa Smurfem – małym, niegroźnym, kontrolowanym."*
+
+**Papa Smurf to:**
+- **Papa** = ojciec, autorytet (formalny)
+- **Smurf** = mały, niegroźny, niesamodzielny
+- Czerwona czapka = symbol wylewu i przejętej władzy
+- Figurka sterowana przez trenerkę
+
+**Po "złapaniu" do Pokéballa:**
+- Jeleń nie ma już własnej woli
+- "Jej zeznania są moimi zeznaniami"
+- Pokémon wykonuje polecenia trenera
+- Autorytet bez władzy
+
+---
+
+## IV. MECHANIZM KONTROLI (przez Wiedźmę)
 
 ### Przejęcie kontroli - krok po kroku:
 
@@ -85,7 +132,7 @@ Brak samodzielnej woli. Po przebytym wylewie (~2019), z I grupą inwalidzką i d
 
 ---
 
-## IV. RELACJE Z INNYMI POSTACIAMI
+## V. RELACJE Z INNYMI POSTACIAMI
 
 **Schemat powiązań:**
 
@@ -115,7 +162,7 @@ PAPESMERF (marionetka)
 
 ---
 
-## V. SCENY KANONICZNE
+## VI. SCENY KANONICZNE
 
 ### Scena 1: Pełnomocnictwo (19.07.2021) - Pokéball rzucony
 
@@ -163,7 +210,7 @@ PAPESMERF (marionetka)
 
 ---
 
-## VI. CYTATY KLUCZOWE
+## VII. CYTATY KLUCZOWE
 
 > *"Jej zeznania są moimi zeznaniami."*
 > — Sylwester Adamski na rozprawie sądowej
@@ -179,7 +226,7 @@ PAPESMERF (marionetka)
 
 ---
 
-## VII. SYMBOLIKA
+## VIII. SYMBOLIKA
 
 **Symbol:** 🦌 **Jeleń z Czerwoną Czapką**
 
@@ -205,7 +252,7 @@ Kiedyś król zagajnika, teraz cień poruszający się na skuterze. Czerwona cza
 
 ---
 
-## VIII. ROLA W BAŚNI "POLANA KŁAMSTW"
+## IX. ROLA W BAŚNI "POLANA KŁAMSTW"
 
 **Archetyp:** Tragiczna Marionetka
 
@@ -229,7 +276,7 @@ Sylwester Adamski to **najsmutniejsza postać baśni**:
 
 ---
 
-## IX. STATUS NA KONIEC HISTORII
+## X. STATUS NA KONIEC HISTORII
 
 **Sytuacja po wyroku (29.08.2025):**
 
@@ -256,7 +303,7 @@ Pokémon z czerwoną czapką nie ma już trenera do walki. Barbara wygrała. Ale
 
 ---
 
-## X. NOTATKI REDAKCYJNE
+## XI. NOTATKI REDAKCYJNE
 
 **Styl pisania postaci:**
 - Powolny, zagubiony
