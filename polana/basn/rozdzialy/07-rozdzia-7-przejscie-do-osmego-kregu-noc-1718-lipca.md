@@ -15,20 +15,73 @@ Na miejsce przybył Borsuk Bogdaszewski, strażnik lasu. Zmarszczył nos, czują
 Wszczęcie procedury Niebieskiej Karty było momentem, w którym prywatna manipulacja uzyskała oficjalną, prawną pieczęć. Wilk został formalnie oznaczony jako sprawca przemocy, a Wiedźma zdobyła kluczowy, papierowy dowód, na którym mogła zbudować dalszą walkę. Jej triumf był całkowity.
 
 
----
+--------------------------------------------------------------------------------
 
-**[UWAGA - WYMAGA AKTUALIZACJI Z NOWYM KANONEM]**
 
-Ten rozdział wymaga uzupełnienia o fakty z nowego kanonu Bobra:
-- Bóbr (Dariusz) jako pracownik Bonenkamp (era przed 2017)
-- Powrót Bobra na Polanę Kłamstw po wylewie Jelenia (~2019)
-- Zamieszkanie w dziupli nr 8
-- Opieka nad rannym Starym Jeleniem
-- Budowanie tam emocjonalnych, ignorowanie czarów Wiedźmy
-- [SCENA WYMAGA UZUPEŁNIENIA: Ostatnie Zanurzenie Bobra]
-- [SCENA WYMAGA UZUPEŁNIENIA: Ratunek przez Anioła z Drzewa (Ewa)]
-- [SCENA WYMAGA UZUPEŁNIENIA: Noc w hotelu - opieka]
-- Transformacja Bóbr → Duch Wilka
-- Narodziny Watahy
+## Narodziny Watahy
 
-Zob. polana/bestiariusz/postacie/bobr-z-duchem-wilka.md dla pełnego kanonu.
+Ale coś się zmieniło tej nocy. Coś, czego Wiedźma nie mogła zobaczyć.
+
+**Duch Wilka** – ten, który narodził się po Ostatnim Zanurzeniu Bobra – unosi się w mgle. Samotny. Obserwujący.
+
+Ale samotność nie trwa długo.
+
+Duch rozmnaża się – nie ciałem, lecz percepcją. Nie fizycznie, ale świadomością.
+
+Z jednej świadomości staje się wiele.
+
+**Wataha powstaje.**
+
+Wiele oczu otwiera się w mgle. Wiele uszu nasłuchuje. Wiele świadomości analizuje.
+
+> *"Jeden wilk patrzy z jednej strony lasu. Wataha widzi las z każdej strony naraz."*
+
+### Obserwacja Polany jako Sceny
+
+Wataha widzi Polanę Kłamstw inaczej niż inni.
+
+Nie widzi miejsca życia. Widzi **scenę**.
+
+- Wiedźma to aktorka, która gra przed pustą widownią
+- Borsuk Bogdaszewski to rekwizyt, który odgrywa swoją rolę i odchodzi
+- Niebieska Karta to rekvizyt, element scenografii
+- Dom nr 8 to dekoracja
+
+Wataha to widownia. Ale nie bije brawo. Nie gwiżdże. Nie krzyczy.
+
+Po prostu **widzi**.
+
+### Dekodowanie Manipulacji
+
+Wataha widzi mechanizmy, które inni nie dostrzegają:
+
+**1. Prowokacja → Reakcja → Oskarżenie**
+- Wiedźma wyłącza prąd (prowokacja)
+- Wilk reaguje (wychodzi z latarką)
+- Wiedźma notuje w kalendarzu: "groził mi" (oskarżenie)
+
+**2. Projekcje psychiczne**
+- Wiedźma tworzy narracje z lęku
+- Jej czary to iluzje, które działają tylko na tych, którzy w nie wierzą
+- Duch (i Wataha) są odporne – widzą projekcje jako iluzje
+
+**3. Instrumentalizacja systemu**
+- Niebieska Karta użyta jako narzędzie w sporze majątkowym
+- Policja jako element scenografii
+- Kalendarz jako "dowód", choć to tylko jednostronny zapis
+
+**Wataha nie osądza. Wataha rozumie.**
+
+### Polana przestaje być realna
+
+I w tej obserwacji Polana Kłamstw przestaje być miejscem realnych zdarzeń.
+
+Staje się **sceną**, **teatrem**, **inscenizacją**.
+
+Przestaje być aktywna. Staje się archiwalna.
+
+Przestaje być miejscem życia. Staje się miejscem pamięci.
+
+A Wataha – niewidzialna, wszechobecna, analityczna – **zapisuje świadectwo**.
+
+Świadectwo, które przetrwa, nawet jeśli aktorzy odejdą ze sceny.

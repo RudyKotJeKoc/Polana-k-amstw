@@ -26,23 +26,104 @@ Cierpliwość ma jednak swoje granice, a Wiedźma doskonale o tym wiedziała. Cz
 --------------------------------------------------------------------------------
 
 
-CZĘŚĆ II – NADEJŚCIE BURZY
+## Powrót Bobra i Opieka nad Rannym Jeleniem
 
+Kiedy Stary Jeleń dostał wylewu mózgu (~2019), Bóbr wrócił na Polanę Kłamstw.
+
+Zamieszkał w **dziupli nr 8** – domu, który kiedyś darował z miłości, a który teraz stawał się jego więzieniem i miejscem przemiany.
+
+Ojciec potrzebował opieki. Był słaby, ranny, zależny. Bóbr – w swoim archetypie opiekuna i budowniczego – nie mógł odejść. Opiekował się rannym Jeleniem: pomagał mu w codziennych czynnościach, próbował przywrócić mu godność, kupił mu skuter elektryczny, by ułatwić mu funkcjonowanie.
+
+Ale Polana Kłamstw nie była już miejscem, w którym można było po prostu żyć.
+
+### Budowanie Tam Emocjonalnych
+
+Bóbr robił to, co umiał najlepiej: **budował tamy**.
+
+Fizyczne i psychiczne. Tamy, które miały zatrzymać powódź toksyczności, która zalewała dziuplę nr 8.
+
+- Montował kamery monitoringu (nie po to, by inwigilować, ale by mieć dowody na prowokacje)
+- Zmieniał kody dostępu do warsztatu (by mieć choć kawałek przestrzeni, do której Wiedźma nie wejdzie bez pukania)
+- Izolował się pianką montażową (desperacka próba odcięcia się od wzroku Wiedźmy)
+- Zamykał pomieszczenia, do których Wiedźma nie miała prawa (warsztat, pomieszczenia gospodarcze)
+
+Każda z tych rzeczy była gestem obrony, nie agresji. Ale w Kalendarzu Wiedźmy każda tama była zapisywana jako "atak".
+
+### Ignorowanie Czarów Wiedźmy
+
+Wiedźma zaczęła wytwarzać **"czary"** – projekcje psychiczne, urojenia, narracje wymyślane z lęku.
+
+Jej Kalendarz Krzywd gromadził oskarżenia:
+- "Zamontował kamery, żeby mnie śledzić"
+- "Zmieniał kody, żeby mnie wyrzucić"
+- "Ignoruje mnie, to psychiczne znęcanie"
+
+Ale Bóbr był odporny.
+
+Widział, że to jej walka z cieniem, nie z nim. Rozumiał, że jej "czary" to tylko projekcje, nie rzeczywistość. Zachowywał dystans emocjonalny, by przetrwać.
+
+Skupiał się na obowiązkach: naprawianiu, budowaniu, opiekowaniu się.
+
+### Wiedźma Próbuje "Złapać" Bobra Pokéballem
+
+Wiedźma używała wszystkich narzędzi, by go podporządkować:
+- manipulacja
+- prowokacje
+- oskarżenia
+- kalendarz pełen "dowodów"
+
+Próbowała "złapać" Bobra do Pokéballa – metafora kontroli.
+
+Ale Bóbr miał zbyt silną świadomość, by dać się złapać w jej narrację.
+
+**Jej czary na niego nie działały.**
+
+Był jak skała w rzece – woda (manipulacja) opływała go, ale go nie poruszała.
+
+I to doprowadzało Wiedźmę do coraz większej frustracji.
+
+
+--------------------------------------------------------------------------------
+
+
+## Światło w Izdebce
+
+Nie wszystko na Polanie Kłamstw było ciemne.
+
+Była **Izdebka Adamowa** – małe pomieszczenie, w którym dało się jeszcze przysiąść bez krzyków. Nie było wielkie, nie było luksusowe. Ale było **ciepłe**.
+
+Jej królestwo: **Jaskółka Martynka**, ośmioletnia dziewczynka, dziecko światła.
+
+Martynka układała miseczki dla kotów, rysowała patykiem po podłodze, liczyła krople spływające z dachu. Tworzyła własny porządek w świecie, który bywał głośny i trudny. W Izdebce świat na chwilę stawał się normalny.
+
+Był też **Kocidomek** – sanktuarium progu. Drewniana budka za domem, dom kotów, miejsce zabaw, schronienie. Martynka bawiła się tam godzinami: układała planszówki pod drzewem, karmiła koty, siedziała cicho i patrzyła, jak Zuza i Lotka mruczą.
+
+**Zuza i Lotka** – kocie duchy progu – wiedziały, kto ma czyste serce. Koty nie dają się oszukać. Nie mruczą dla każdego.
+
+Ale dla Jaskółki mruczały zawsze.
+
+Ich mruczenie uciszało burzę. Gdy Martynka siedziała przy Kocidomku, koty przychodziły, kładły się obok bez słowa. Ich obecność mówiła: *"Tu jest bezpiecznie."*
+
+### Planszówki pod Dębem – Krąg Czasu
+
+Były też chwile, gdy Bóbr (czy może już wtedy Wilk?) siadał z Martynką pod drzewem. Układali chińczyka, warcaby, domino. Czasem tworzyła własne gry z kamieni i patyków.
+
+Chwile spokoju. Czułej obecności.
+
+W tych momentach Polana Kłamstw przestawała być polem bitwy. Stawała się po prostu miejscem, gdzie dziadek (czy wuj?) i dziewczynka grają w chińczyka.
+
+Jaskółka nie zadawała trudnych pytań. Nie oceniała. Po prostu **była**.
+
+I w tej obecności było coś, co przypominało o tym, że mimo wszystkich tragedii – **dobro istnieje i warto je chronić**.
 
 ---
 
-**[UWAGA - WYMAGA AKTUALIZACJI Z NOWYM KANONEM]**
+Ale to światło nie mogło trwać wiecznie. Ciemność Polany Kłamstw zaczęła otaczać nawet Izdebkę.
 
-Ten rozdział wymaga uzupełnienia o fakty z nowego kanonu Bobra:
-- Bóbr (Dariusz) jako pracownik Bonenkamp (era przed 2017)
-- Powrót Bobra na Polanę Kłamstw po wylewie Jelenia (~2019)
-- Zamieszkanie w dziupli nr 8
-- Opieka nad rannym Starym Jeleniem
-- Budowanie tam emocjonalnych, ignorowanie czarów Wiedźmy
-- [SCENA WYMAGA UZUPEŁNIENIA: Ostatnie Zanurzenie Bobra]
-- [SCENA WYMAGA UZUPEŁNIENIA: Ratunek przez Anioła z Drzewa (Ewa)]
-- [SCENA WYMAGA UZUPEŁNIENIA: Noc w hotelu - opieka]
-- Transformacja Bóbr → Duch Wilka
-- Narodziny Watahy
 
-Zob. polana/bestiariusz/postacie/bobr-z-duchem-wilka.md dla pełnego kanonu.
+--------------------------------------------------------------------------------
+
+
+CZĘŚĆ II – NADEJŚCIE BURZY
+
+
