@@ -1,229 +1,81 @@
-# 🕊️ JASKÓŁKA  
-### *(Martynka – Osoba Światła, Dziecko Dwóch Światów)*  
-**Kategoria:** Postacie  
-**Powiązania:** Izdebka Adamowa, Kocidomek, Bóbr z Duchem Wilka  
-**Typ:** Postać jasna (Lumen)  
-**Symbol:** Patyczek-ołówek, kocie mruczenie, zielone koraliki  
-**Motyw:** Światło, które nie gaśnie
+# Jaskółka Martynka
 
----
+**Typ:** Osoba Światła / Dziecko Dwóch Światów
+**Powiązania:** Izdebka Adamowa, Kocidomek, Anioł z Drzewa (Ewa)
 
-# I. TOŻSAMOŚĆ POSTACI
+## Opis
 
-Jaskółka to dziecko, które w świecie Adamowa niesie rzadki rodzaj światła:  
-**ciche, niewymuszone, naturalne, jak pierwsza jasność nad torfowiskiem.**
+Jaskółka Martynka to dziecko, które w świecie Adamowa niesie rzadki rodzaj światła: **ciche, niewymuszone, naturalne, jak pierwsza jasność nad torfowiskiem.**
 
-W świecie dorosłych jest Martynką – ośmioletnią dziewczynką.  
-W świecie baśni jest Jaskółką – tą, która:
+W świecie dorosłych jest Martynką – ośmioletnią dziewczynką. W świecie baśni jest Jaskółką – tą, która przynosi ciepło do miejsc zimnych, uspokaja zwierzęta samą obecnością, widzi to, czego nie widzą inni, ale nigdy nie ocenia i nigdy nie krzyczy.
 
-- przynosi ciepło do miejsc zimnych,  
-- uspokaja zwierzęta samą obecnością,  
-- widzi to, czego nie widzą inni,  
-- ale nigdy nie ocenia i nigdy nie krzyczy.
+Jej dziecięca dobroć i łagodność są tak silne, że nawet las reaguje na jej emocje. Jej światło jest dowodem, że nawet w najbardziej mrocznym uniwersum jest miejsce na dobro, które **nie potrzebuje broni**, tylko obecności.
 
-Jej dziecięca dobroć i łagodność są tak silne, że nawet las reaguje na jej emocje.
+## Symbolika
 
----
+Jaskółka symbolizuje:
 
-# II. POCHODZENIE I DOM
-
-## 1. Izdebka Adamowa – Jej pierwsze królestwo  
-Mała, ciepła, pełna śladów dawnych dni.  
-Martynka bawiła się tam:
-
-- układając miseczki dla kotów,  
-- rysując patykiem po podłodze,  
-- licząc krople spływające z dachu,  
-- tworząc własny porządek w świecie, który bywał głośny i trudny.
-
-To w Izdebce zobaczyła po raz pierwszy, że świat może być spokojny.
-
-## 2. Kocidomek – Sanktuarium Progu  
-Drewniana budka, która była:
-
-- domem kotów,  
-- miejscem zabaw,  
-- schronieniem,  
-- i pierwszą „twierdzą”, którą stworzyła sama.
-
-Koty traktowały Jaskółkę jak jedną z siebie — bo mruczały tylko dla niej.
-
----
-
-# III. RELACJA Z WILKIEM / BOBREM
-
-To jeden z najważniejszych elementów jej historii.
-
-Jaskółka:
-
-- widziała w Wilku nie drapieżnika, lecz kogoś samotnego,  
-- rozumiała jego milczenie,  
-- siadała obok niego bez strachu,  
-- czasem kładła mu rękę na futrze, mówiąc: „ty też jesteś dobry”.
-
-Jej serce jest tak czułe, że nawet transformacja Wilka w Bobra nie zmienia jego podejścia.  
-Bóbr wciąż pamięta Jaskółkę jako:
-
-**„Światło, którego nie wolno było zranić.”**
-
-To dla niej nauczył się panować nad gniewem.  
-To dla niej zaczął budować tamy zamiast niszczyć.
-
----
-
-# IV. NAJWAŻNIEJSZE SCENY OSOBY ŚWIATŁA
-
-## 1. Planszówki pod Dębem – Krąg Czasu  
-Jaskółka i Wilk/Bóbr grali w:
-
-- chińczyka,  
-- warcaby,  
-- domino,  
-- i własne gry tworzone z kamieni i patyków.
-
-To tutaj pierwszy raz padły słowa:
-
-**„Wilku, nie oszczędzaj mnie. Wiem, że widzisz więcej.”**
-
-To była scena, która pokazała jej inteligencję i wrażliwość.
-
----
-
-## 2. Łzy przy Kocidomku – Moment Pęknięcia  
-Kiedy Wilk wyjeżdżał na północne kraje, Jaskółka płakała przy wejściu do Kocidomku.
-
-Jej łzy były:
-
-- ciche,  
-- ciężkie,  
-- prawdziwe,  
-- i wystarczająco silne, by poruszyć cały las.
-
-To właśnie wtedy las — reagując na ból dziecka — rozpoczął proces:
-
-**„Zarastania Ścieżki.”**
-
----
-
-## 3. Zarośnięta Ścieżka – Ochrona, nie kara  
-Po kilku powrotach Wilka, które kończyły się coraz cięższymi łzami, coś (Strażniczka Izdebki lub las sam z siebie) zamknęło drogę.
-
-Ścieżka:
-
-- najpierw pokryła się mchem,  
-- potem paprociami,  
-- a na końcu młodymi drzewami.
-
-To nie było zerwanie kontaktu.  
-To było **zasłonięcie miejsca, które potrzebowało odpoczynku od pożegnań**.
-
----
-
-## 4. Głos Jaskółki – Urodzony dar łagodzenia  
-Gdy mówiła, koty przestawały się bać burzy.
-
-Gdy mówiła, Wilk nie czuł już potrzeby wyć.
-
-Gdy mówiła, Bóbr potrafił przerwać pracę i patrzeć tak, jakby świat mówił jej ustami.
-
----
-
-# V. ROLA W ŚWIECIE ADAMOWA
-
-Jaskółka nie jest wojowniczką.  
-Nie jest bohaterką.  
-Nie jest duchem.
-
-Jest czymś znacznie ważniejszym:
-
-### **Ognikiem, który pokazuje, dlaczego warto cokolwiek naprawiać.**
-
-W świecie, gdzie pełno jest:
-
-- echa,  
-- trucizn,  
-- powodzi pamięci,  
-- i ran po melioracji,
-
-Jaskółka przypomina, że:
-
-- są miejsca jasne,  
-- są chwile czyste,  
-- są więzi ważne,  
-- i są powody, by nie stać się tylko Wilkiem ani tylko Bobrem.
-
-Jest osobą, która nauczyła Wilka, że:
-
-**gniew można przetopić w konstrukcję.**
-
-I nauczyła Bobra, że:
-
-**tama jest po to, by chronić świat, a nie odcinać go.**
-
----
-
-# VI. SYMBOLIKA JASKÓŁKI
-
-### **1. Jaskółka = Światło Wewnętrzne**
+**Światło Wewnętrzne**
 Nie światło z nieba, lecz to z izdebki — ciepłe, zwykłe, ludzkie.
 
-### **2. Patyczek-Ołówek**  
-Symbol tego, że tworzy nowe światy, nawet na gołej ziemi.
+**Czystość intencji**
+Działa z serca, bez ukrytych motywów.
 
-### **3. Kocie Mruczenie**  
-Znak, że jej obecność koi.  
-Koty w baśni są „duchami progu” — reagują tylko na tych, którzy mają czyste serce.
+**Patyczek-ołówek**
+Tworzy nowe światy, nawet na gołej ziemi. Symbol kreacji dziecięcej wyobraźni.
 
-### **4. Zarośnięta Ścieżka**  
-Symbol ochrony dziecka przed bólem.  
-To nie jest rozłąka — to **czas, który leczy**.
+**Kocie mruczenie**
+Koty w baśni są "duchami progu" — reagują tylko na tych, którzy mają czyste serce. Jej obecność koi.
+
+**Zarośnięta ścieżka**
+Ochrona dziecka przed bólem. Las zarastający drogę, by oszczędzić jej pożegnań. To nie rozłąka — to **czas, który leczy**.
+
+**Światło, które nie gaśnie**
+Nawet gdy wszystko wokół ciemnieje, jej obecność pozostaje jak echo błogosławieństwa.
+
+## Rola w Historii
+
+**W głównej baśni "Polana Kłamstw":**
+
+Jaskółka Martynka nie jest wojowniczką ani bohaterką walczącą. Jest **ognikiem, który pokazuje, dlaczego warto cokolwiek naprawiać.** W świecie, gdzie pełno jest echa, trucizn, powodzi pamięci i ran po melioracji — Jaskółka przypomina, że są miejsca jasne, chwile czyste, więzi ważne.
+
+**Kluczowe wydarzenia:**
+
+1. **Izdebka Adamowa** – Jej pierwsze królestwo. Mała, ciepła, pełna śladów dawnych dni. Tutaj bawiła się układając miseczki dla kotów, rysując patykiem po podłodze, licząc krople spływające z dachu, tworząc własny porządek w świecie, który bywał głośny i trudny. To w Izdebce zobaczyła po raz pierwszy, że świat może być spokojny.
+
+2. **Kocidomek** – Sanktuarium Progu. Drewniana budka, która była domem kotów, miejscem zabaw, schronieniem i pierwszą "twierdzą", którą stworzyła sama. Koty mruczały tylko dla niej.
+
+3. **Planszówki pod Dębem** – Krąg Czasu. Gry w chińczyka, warcaby, domino, własne gry tworzone z kamieni i patyków. Chwile spokoju i czułej obecności. To tutaj pierwszy raz padły słowa: *"Nie oszczędzaj mnie. Wiem, że widzisz więcej."* – scena, która pokazała jej inteligencję i wrażliwość.
+
+4. **Łzy przy Kocidomku** – Moment Pęknięcia. Gdy ktoś bliski wyjeżdżał na północne kraje, Jaskółka płakała przy wejściu do Kocidomku. Jej łzy były ciche, ciężkie, prawdziwe — i wystarczająco silne, by poruszyć cały las.
+
+5. **Zarośnięta Ścieżka** – Ochrona, nie kara. Las, reagując na ból dziecka, rozpoczął proces zarastania ścieżki. Najpierw mech, potem paprocie, a na końcu młode drzewa. To nie było zerwanie kontaktu — to było **zasłonięcie miejsca, które potrzebowało odpoczynku od pożegnań**.
+
+**W kronice:**
+Jaskółka reprezentuje niewinność i czystość, która istnieje równolegle z ciemnością Polany Kłamstw. Jej obecność jest dowodem, że mimo wszystkich tragedii — dobro istnieje i warto je chronić.
+
+## Cechy Charakterystyczne
+
+- **Światło, które nie gaśnie** – nawet w najtrudniejszych chwilach
+- **Koci opiekun** – koty traktują ją jak jedną z siebie, mruczą tylko dla niej
+- **Głos łagodzący** – gdy mówiła, koty przestawały się bać burzy
+- **Twórczyni światów** – patyczek-ołówek jako narzędzie kreacji
+- **Niewinność bez naiwności** – widzi więcej niż się wydaje, rozumie głębiej niż mówi
+- **Echo jej śmiechu** – pozostaje w izdebce jak błogosławieństwo
+- **Chroniąca ścieżka** – las zarastający drogę, by oszczędzić jej bólu
+- **Bez broni** – jej siła jest w obecności, nie w walce
+- **Najczystsza część świata Adamowa** – ostoja ciepła w świecie wilgoci i echa
+
+## Tagi
+
+`[światło, dziecko, czystość, opieka, koty, izdebka, kocidomek, niewinność, łagodność, serce]`
 
 ---
 
-# VII. DODATKOWE ELEMENTY KANONU
-
-## 1. Jej światło nie gaśnie  
-Nawet gdy Bobra i Wilka już nie ma w izdebce, echo jej śmiechu jest tam obecne:
-
-- w planszówkach pod dębem,  
-- w śladach w trawie,  
-- w koralikach na Kocidomku,  
-- w kotach, które zasypiają spokojnie.
-
-## 2. Jaskółka jest jedyną postacią, która widziała OBIE formy  
-I nigdy się nie bała.
-
-## 3. Jej rolą nie jest walka, lecz pamięć, która nie rani  
-W świecie, gdzie pamięć zwykle boli — ona jest wyjątkiem.
+**UWAGA KANONOWA:**
+Jaskółka Martynka **NIE jest archetypem Bobra**. Nowy kanon wyraźnie odcina to powiązanie archetype. Może istnieć wspomnienie o przeszłych relacjach osobistych, ale **nie ma relacji archetypalnej zależności** "Bóbr jako archetyp Martynki" lub "Transformacja Bobra DLA Martynki".
 
 ---
 
-# VIII. CYTATY KANONICZNE (do wykorzystania w baśni)
-
-> **„Światło w izdebce jest małe. Ale wystarcza, żeby widzieć drogę.”**
-
-> **„Jeśli kiedyś poczujesz smutek, posłuchaj mruczenia kotów.”**
-
-> **„Niektóre ścieżki zarastają nie dlatego, że ktoś nie wraca.  
-> Ale dlatego, że ktoś musi przestać płakać.”**
-
-> **„Nie oszczędzaj mnie, Wilku. Wiem, że widzisz więcej.”**
-
-> **„Świat się nie naprawia sam. Ale Ty – Ty umiesz naprawiać.”**
-
----
-
-# IX. PODSUMOWANIE POSTACI
-
-Jaskółka to:
-
-- Dziecko Światła  
-- Ostoja Ciepła w świecie wilgoci i echa  
-- Ten, kto nauczył Bobra cierpliwości  
-- Serce Izdebki  
-- Powód, dla którego Wilk przestał wyć, a zaczął budować  
-- Najczystsza część świata Adamowa
-
-Jej istnienie jest dowodem, że nawet w najbardziej mrocznym uniwersum  
-jest miejsce na dobro, które **nie potrzebuje broni**, tylko obecności.
-
+**Ostatnia aktualizacja:** 20 listopada 2025
+**Status:** ✅ Ujednolicony według szablonu FAZA 2, zgodny z nowym kanonem

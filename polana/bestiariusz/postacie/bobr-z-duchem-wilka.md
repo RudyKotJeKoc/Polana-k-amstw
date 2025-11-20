@@ -466,11 +466,6 @@ Była jak powolne rozpuszczanie się ciała w mgle.
 - Nie zapomnisz, kim byłeś
 - Ale możesz wybrać, kim będziesz
 
-✅ **Przewodnik Martynki**
-- Uczy, że gniew można przekuć w działanie
-- Pokazuje, że samotność to czasem siła
-- Wytłumaczy (symbolicznie) dlaczego niektóre granice są potrzebne
-
 ---
 
 ## XI. SYMBOL
