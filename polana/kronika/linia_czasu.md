@@ -136,7 +136,7 @@
 
 ---
 
-## DATA SYMBOLICZNA: Noc Chlorowej Mgły – Śmierć Bobra
+## DATA SYMBOLICZNA: Noc Chlorowej Mgły i Ostatnie Zanurzenie
 
 **Ostateczna noc:**
 
@@ -146,18 +146,34 @@ Bóbr w dziupli nr 8, samotny, wyczerpany latami toksycznej atmosfery.
 - Bóbr łączy **kwas solny z chlorem**
 - Powstaje **trująca mgła chlorowa**
 - To nie jest impuls – to przemyślana decyzja
-- Zasypia z myślą: *"Może się nie obudzę"*
+- Wchodzi do zatrutej wody – **Ostatnie Zanurzenie**
+- Traci przytomność
 
 **Symbolika:**
 - Inżynier do końca – używa wiedzy chemicznej
 - Mgła = metafora zatrucia atmosfery, w której żył
 - Mieszanina toksyczna, jak relacje na Polanie Kłamstw
-- Sen ostateczny – ucieczka z pętli cyfry 8
+- Zanurzenie = akceptacja końca, ucieczka z pętli cyfry 8
 
-**Śmierć Bobra:**
-- Symboliczna, fabularna, emocjonalna śmierć
+**Ratunek – Anioł z Drzewa:**
+- **Ewa** – Anioł z Drzewa, opiekunka, ratowniczka
+- Znalazła Bobra nieprzytomnego, wyniszczonego
+- Wyciągnęła go z zatrutej wody
+- Zabrała go ze sobą
+
+**Noc w hotelu – opieka:**
+- Nie romans, lecz opieka
+- Ewa pielęgnowała Bobra – obmywała, karmiła
+- Bóbr w półśnie, w półśmierci
+- Mgła chlorowa jeszcze w jego płucach
+- Ewa mówiła cicho, uspokajająco
+- **Tej nocy coś w Bobrze zaczęło się przemieniać**
+
+**Transformacja Bobra:**
+- Symboliczna, powolna śmierć fizycznej postaci
 - Jego ciało – fizyczna obecność – gaśnie
 - Ale dusza, świadomość, instynkt – **transformują się**
+- Wdzięczność wobec Anioła, który go uratował
 
 ---
 

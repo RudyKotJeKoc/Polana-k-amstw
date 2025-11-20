@@ -30,3 +30,22 @@ Morał tej baśni jest prosty i okrutny:
 * Czasem jedynym prawdziwym zwycięstwem jest odejście.
 
 Historia ta powraca do symboliki Ósmego Kręgu, pętli bez końca, która karmi się sama sobą. Pozostawia czytelnika z jednym, ostatnim ostrzeżeniem: nie walcz z echem. Odejdź, zanim echo zamieni cię w cień.
+
+
+---
+
+**[UWAGA - WYMAGA AKTUALIZACJI Z NOWYM KANONEM]**
+
+Ten rozdział wymaga uzupełnienia o fakty z nowego kanonu Bobra:
+- Bóbr (Dariusz) jako pracownik Bonenkamp (era przed 2017)
+- Powrót Bobra na Polanę Kłamstw po wylewie Jelenia (~2019)
+- Zamieszkanie w dziupli nr 8
+- Opieka nad rannym Starym Jeleniem
+- Budowanie tam emocjonalnych, ignorowanie czarów Wiedźmy
+- [SCENA WYMAGA UZUPEŁNIENIA: Ostatnie Zanurzenie Bobra]
+- [SCENA WYMAGA UZUPEŁNIENIA: Ratunek przez Anioła z Drzewa (Ewa)]
+- [SCENA WYMAGA UZUPEŁNIENIA: Noc w hotelu - opieka]
+- Transformacja Bóbr → Duch Wilka
+- Narodziny Watahy
+
+Zob. polana/bestiariusz/postacie/bobr-z-duchem-wilka.md dla pełnego kanonu.

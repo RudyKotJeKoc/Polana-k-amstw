@@ -49,8 +49,23 @@ Bóbr, wyczerpany latami toksycznej atmosfery, samotny i zmęczony.
 **Decyzja:**
 - Miesza kwas solny z chlorem
 - Trująca mgła wypełnia dziuplę
-- Zasypia z myślą: *"Może się nie obudzę"*
-- Śmierć fizyczna – ciało gaśnie
+- Wchodzi do zatrutej wody – **Ostatnie Zanurzenie**
+- Traci przytomność
+
+### Ratunek – Anioł z Drzewa
+
+**Ktoś wyciągnął Bobra z zatrutej wody.**
+
+**Ewa** – Anioł z Drzewa. Opiekunka, ratowniczka. Znalazła Bobra nieprzytomnego, wyniszczonego, ledwo oddychającego. Zabrała go ze sobą.
+
+**Noc w hotelu:**
+- Nie było to miejsce romansu, lecz miejsce opieki
+- Ewa opiekowała się Bobrem – obmywała, karmiła, pielęgnowała
+- Bóbr był w półśnie, w półśmierci
+- Mgła chlorowa kręciła się jeszcze w jego płucach
+- Ewa mówiła cicho, uspokajająco
+
+**Tej nocy coś w Bobrze zaczęło się przemieniać.**
 
 ### Moment transformacji
 

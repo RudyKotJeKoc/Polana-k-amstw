@@ -127,28 +127,63 @@ Bóbr w dziupli nr 8, samotny, wyczerpany latami toksycznej atmosfery.
 - Bóbr łączy **kwas solny z chlorem**
 - Powstaje **trująca mgła chlorowa**
 - To nie jest impuls – to przemyślana decyzja
-- Zasypia z myślą: *"Może się nie obudzę"*
+- Wchodzi do zatrutej wody – **Ostatnie Zanurzenie**
+- Traci przytomność
 
 **Symbolika:**
 - Inżynier do końca – używa wiedzy chemicznej
 - Mgła = metafora zatrucia atmosfery, w której żył
 - Mieszanina toksyczna, jak relacje na Polanie Kłamstw
-- Sen ostateczny – ucieczka z pętli cyfry 8
+- Zanurzenie = akceptacja końca, ucieczka z pętli cyfry 8
 
-### Etap 5: Śmierć Bobra
+### Etap 5: Ratunek – Anioł z Drzewa
 
-**Symboliczna, fabularna, emocjonalna śmierć.**
+**Ktoś wyciągnął Bobra z zatrutej wody.**
 
-- Bóbr umiera w dziupli nr 8
-- Jego ciało – fizyczna obecność – gaśnie
-- Ale dusza, świadomość, instynkt – **transformują się**
+**Ewa** – ta, która mieszkała na drzewie, daleko od Polany Kłamstw.
+- **Anioł z Drzewa**
+- Opiekunka, ratowniczka
+- Pracowała z rannymi, z chorymi, z tymi, którzy potrzebowali ratunku
 
-**Co pozostaje:**
+**Jak go znalazła:**
+- Znalazła Bobra nieprzytomnego
+- Wyniszczonego, ledwo oddychającego
+- Mgła chlorowa kręciła się jeszcze w jego płucach
+- Zabrała go ze sobą
+
+**Noc w hotelu – opieka, nie romans:**
+- Ewa opiekowała się Bobrem
+- Obmywała, przewijała, karmiła
+- Jak pielęgniarka, jak ratowniczka
+- Nie pytała, co się stało
+- Wiedziała, że ludzie przychodzą zranieni, a pytania tylko otwierają rany głębiej
+
+**Bóbr w półśnie:**
+- Nie pamiętał tej nocy w pełni
+- Był w półśnie, w półśmierci
+- Mgła chlorowa jeszcze kręciła się w płucach
+- Ewa mówiła cicho, uspokajająco
+- Jej głos jak powiew wiatru w koronach drzew
+
+**Tej nocy coś w Bobrze zaczęło się przemieniać.**
+
+### Etap 6: Powolna Transformacja
+
+**Przemiana nie była natychmiastowa. Nie była gwałtowna.**
+
+Była jak powolne rozpuszczanie się ciała w mgle.
+
+- Bóbr – budowniczy, inżynier, opiekun – umierał powoli
+- Ale jego świadomość, gniew, instynkt łowcy, pamięć – **przetrwały**
+- W miejscu, gdzie gasło serce Bobra, rodził się **Duch Wilka**
+
+**Co pozostaje z Bobra:**
 - Pamięć o Bobrze jako Opiekunie
 - Tamy, które zbudował (fizyczne i emocjonalne)
-- Cisza po jego odejściu
+- Wdzięczność wobec Anioła, który go uratował
+- Wiedza, że ktoś go wyciągnął z wody
 
-### Etap 6: Narodziny Ducha Wilka
+### Etap 7: Narodziny Ducha Wilka
 
 **Transformacja po śmierci:**
 

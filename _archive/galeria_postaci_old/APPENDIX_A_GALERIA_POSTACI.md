@@ -1,3 +1,21 @@
+---
+**⚠️ UWAGA – PLIK ZARCHIWIZOWANY 20 listopada 2025**
+
+**Powód archiwizacji:**
+Ten dokument zawiera nieaktualne opisy postaci, które są niezgodne z obowiązującym kanonem Baśni Adamowej:
+
+1. **Sekcja 13: Bóbr z Duchem Wilka** – przedstawia Bobra jako "archetyp dla Martynki", co jest sprzeczne z kanonem Polany Kłamstw, gdzie Bóbr to **Dariusz** (człowiek, pracownik Bonenkamp, opiekun Starego Jelenia).
+
+2. **Wiele opisów archetypowych** – dokument miesza różne warstwy narracyjne i postacie z różnych części uniwersum baśniowego, tworząc niejednolitą strukturę.
+
+**Obowiązujący kanon znajduje się w:**
+- `polana/bestiariusz/postacie/*.md` – aktualne profile postaci zgodne z nowym kanonem
+- `polana/kronika/linia_czasu.md` – chronologia Adamowa z pełną historią Bobra
+
+**Status dokumentu:** NIEKANONICZNY – zachowany w archiwum dla celów historycznych
+
+---
+
 # APPENDIX A – GALERIA POSTACI POLANY KŁAMSTW
 ## Bestiariusz: 12 Archetypów Lasu Adamowo
 
