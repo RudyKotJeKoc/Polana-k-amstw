@@ -20,7 +20,7 @@ Jej Kocioł Krzywd zgasł, bo nie było już w nim czego gotować. Siedząc w g�
 
 Epilog: Echo Cyfr 7 i 8
 
-Lata mijają, a echo na Polanie Kłamstw cichnie. Wilk i Sarenka budują nowe, spokojne życie w Holandii. Wiedźma pozostała uwięziona w swoim pustym zwycięstwie, w domu, który stał się jej mauzoleum. Stary Jeleń zgasł emocjonalnie, stając się cieniem we własnym życiu. Reszta leśnych stworzeń powróciła do swoich spraw, zapominając o dramacie, który kiedyś karmił ich ciekawość.
+Lata mijają, a echo na Polanie Kłamstw cichnie. Wilk odszedł do Holandii – sam. Sarenka odeszła wcześniej (grudzień 2022, przed Wigilią), nie mogąc znieść traumy Polany Kłamstw. Wiedźma zniszczyła nie tylko relację z synem, ale też jego miłość. Wiedźma pozostała uwięziona w swoim pustym zwycięstwie, w domu, który stał się jej mauzoleum. Stary Jeleń zgasł emocjonalnie, stając się cieniem we własnym życiu. Reszta leśnych stworzeń powróciła do swoich spraw, zapominając o dramacie, który kiedyś karmił ich ciekawość.
 
 Morał tej baśni jest prosty i okrutny:
 
@@ -32,20 +32,3 @@ Morał tej baśni jest prosty i okrutny:
 Historia ta powraca do symboliki Ósmego Kręgu, pętli bez końca, która karmi się sama sobą. Pozostawia czytelnika z jednym, ostatnim ostrzeżeniem: nie walcz z echem. Odejdź, zanim echo zamieni cię w cień.
 
 
----
-
-**[UWAGA - WYMAGA AKTUALIZACJI Z NOWYM KANONEM]**
-
-Ten rozdział wymaga uzupełnienia o fakty z nowego kanonu Bobra:
-- Bóbr (Dariusz) jako pracownik Bonenkamp (era przed 2017)
-- Powrót Bobra na Polanę Kłamstw po wylewie Jelenia (~2019)
-- Zamieszkanie w dziupli nr 8
-- Opieka nad rannym Starym Jeleniem
-- Budowanie tam emocjonalnych, ignorowanie czarów Wiedźmy
-- [SCENA WYMAGA UZUPEŁNIENIA: Ostatnie Zanurzenie Bobra]
-- [SCENA WYMAGA UZUPEŁNIENIA: Ratunek przez Anioła z Drzewa (Ewa)]
-- [SCENA WYMAGA UZUPEŁNIENIA: Noc w hotelu - opieka]
-- Transformacja Bóbr → Duch Wilka
-- Narodziny Watahy
-
-Zob. polana/bestiariusz/postacie/bobr-z-duchem-wilka.md dla pełnego kanonu.
