@@ -8,6 +8,8 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 
 Rozdział 2: Życie pod Cieniem Wiedźmy (2017–2021)
 
+⚑ Wydarzenie kanoniczne.
+
 Lata, które nastąpiły po darowiźnie, z daleka wyglądały na spokojne. Dom stał, las rósł, polana oddychała. Był to jednak czas, w którym Wiedźma metodycznie gromadziła amunicję. Jej Kocioł Krzywd nigdy nie stygł. Żywił się każdą pretensją, każdą plotką przyniesioną przez Srokę Dorotę, każdym niewypowiedzianym oskarżeniem, które buzowało pod przykrywką. Wiedźma nie atakowała od razu. Czekała, obserwowała, a przede wszystkim – zapisywała.
 
 Jej największą bronią był Kalendarz Wiedźmy. Nie był to zwykły pamiętnik, lecz precyzyjna kronika oskarżeń, tworzona z myślą o przyszłym procesie. Każde zdanie było sformułowane tak, jakby wiedziała, że kiedyś trafi do sądu. Selektywne i wyrachowane zapiski brzmiały jak protokoły przesłuchań:

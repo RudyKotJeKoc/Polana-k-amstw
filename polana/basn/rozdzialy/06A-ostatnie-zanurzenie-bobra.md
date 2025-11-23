@@ -1,12 +1,14 @@
 ---
-title: "Ostatnie Zanurzenie Bobra"
+title: "Rozdział 06A: Ostatnie Zanurzenie Bobra (Interludium)"
 slug: "06a-ostatnie-zanurzenie-bobra"
-kolejnosc: 6.5
+kolejnosc: 06A
 typ: "rozdział_baśni"
 zrodlo: "NOWY_KANON_ADAMOWO_2025"
 ---
 
-# Ostatnie Zanurzenie Bobra
+# Rozdział 06A: Ostatnie Zanurzenie Bobra (Interludium)
+
+⚑ Wydarzenie kanoniczne.
 
 ## Noc Chlorowej Mgły
 

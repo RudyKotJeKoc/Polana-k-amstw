@@ -8,6 +8,8 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 
 Rozdział 11: Odejście Wilka
 
+⚑ Wydarzenie kanoniczne.
+
 Ku zaskoczeniu wszystkich, Wilk nie złożył apelacji. Po latach walki zrozumiał, że odzyskanie domu byłoby powrotem do więzienia – do miejsca, w którym każdy oddech jest kontrolowany, a każdy dzień jest bitwą. Zrozumiał, że prawdziwe zwycięstwo leży nie w posiadaniu murów, ale w odzyskaniu spokoju.
 
 Przyjął wyrok nie jako karę, ale jako „opłatę za wolność”. Stracił dom i pieniądze, ale zyskał coś bezcennego: uwolnienie się od toksycznej relacji i nieustannej kontroli. Jego ostatnie pożegnanie z domem było ciche. W oczach Wiedźmy zobaczył pustkę – straciła przeciwnika, cel swojej walki. Stary Jeleń milczał, będąc już tylko cieniem.

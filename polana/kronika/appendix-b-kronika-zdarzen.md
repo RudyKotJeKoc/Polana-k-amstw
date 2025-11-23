@@ -71,7 +71,9 @@ Dla Wiedźmy to zdrada i upokorzenie — traci kontrolę.
 
 29.03.2021 – Inscenizacja z Paralizatorem
 
-Symbol: „Wyłącznik Prawdy”
+[Powiązany rozdział: 6]
+
+Symbol: „Wyłącznik Prawdy"
 
 Wiedźma celowo wyłącza prąd w pokoju Wilka.
 Wybucha konflikt; Wilk odruchowo używa latarki-paralizatora.
@@ -79,13 +81,17 @@ Policja potwierdza: to Wiedźma odcięła prąd.
 
 03–04.04.2021 – Wielkanocne Milczenie
 
+[Powiązany rozdział: 4]
+
 Wiedźma wyjeżdża na Święta, wraca i notuje w Kalendarzu Krzywd:
-„Okno otwarte, dom zimny.”
+„Okno otwarte, dom zimny."
 Nie notuje: kto zostawił otwarte, dlaczego jest zimno?
 
 Bo fakty nie są jej potrzebne — potrzebna jest narracja.
 
 21.05.2021 – Odwrócony Triaż Priorytetów
+
+[Powiązany rozdział: 8]
 
 Stary Jeleń źle się czuje — zagrożenie życia.
 Wiedźma odmawia wezwania pogotowia, chcąc sprowokować Wilka.
@@ -94,6 +100,8 @@ Wilk wzywa karetkę i odbiera ojca ze szpitala.
 Fakt ignorowany przez Wiedźmę w Kalendarzu.
 
 17/18.07.2021 – NOC PRZEJŚCIA (SIEDEM → OSIEM)
+
+[Powiązany rozdział: 7]
 
 Rozdział: IV. Pętla się Zamknęła
 Symbol: Niebieska Mgła
@@ -131,9 +139,11 @@ Teatr? Tak.
 
 13.10.2021 – Wyrok Wisielca (Trzynastka)
 
+[Powiązany rozdział: 10]
+
 Hiena Domkowa (Domek) zdradza Wilka na korytarzu sądu.
 Wilk przyznaje się pod naciskiem.
-Wyrok karny staje się „koronnym dowodem” Wiedźmy.
+Wyrok karny staje się „koronnym dowodem" Wiedźmy.
 
 To punkt, w którym ósmy krąg Polany staje się oficjalny.
 
@@ -147,6 +157,8 @@ To okres wygnania bohatera.
 
 2022–2024 – Wojna Papierowa
 
+[Powiązany rozdział: 12]
+
 Pozwy, mediacje, dokumenty.
 Wiedźma buduje swoje kalendarium.
 Każda niepasująca prawda — usuwana.
@@ -158,6 +170,8 @@ Mija równo 8 lat od darowizny.
 Pętla dopełnia się.
 
 13.07.2025 – Dzień Sądu (Trzynastka)
+
+[Powiązany rozdział: Kronika 2025]
 
 Ostatnia rozprawa.
 Wilk, wyczerpany 8-letnią walką, przyznaje się dla uwolnienia.

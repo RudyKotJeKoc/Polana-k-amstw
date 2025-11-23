@@ -8,6 +8,10 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 
 Rozdział 4: Nocne Wtargnięcie (2:30 w nocy)
 
+⚑ Wydarzenie kanoniczne.
+
+**Data: 04.04.2021 – Ucieczka i Zimny Dom.**
+
 Nocą z 9 na 10 lutego, gdy zegar wybił drugą trzydzieści, Wiedźma przekroczyła ostatnią granicę. Z furią, bez pukania, wtargnęła do pokoju, gdzie spał Wilk z Sarenką. Ten akt był symbolicznym przejęciem kontroli, naruszeniem ostatniego skrawka prywatności, jaki Wilk próbował zachować we własnym domu.
 
 Jego reakcja nie była agresją, lecz desperacką obroną. Jego krzyk: „Wynoś się! To MOJA nora!” był wołaniem o autonomię. Jednak w oczach Wiedźmy nie było strachu, lecz triumf. Dostała to, na co czekała – gwałtowną reakcję, którą mogła przedstawić jako dowód agresji.

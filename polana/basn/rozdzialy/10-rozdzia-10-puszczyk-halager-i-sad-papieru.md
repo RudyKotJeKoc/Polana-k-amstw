@@ -8,6 +8,10 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 
 Rozdział 10: Puszczyk Halager i Sąd Papieru
 
+⚑ Wydarzenie kanoniczne.
+
+**Data: 13.10.2021 – Zdrada (Wyrok Nakazowy).**
+
 Sprawa trafiła przed oblicze Puszczyka Halagera, sędzi symbolizującej system sprawiedliwości, który nigdy nie schodzi na ziemię. Patrzyła tylko na papier, a papier, jak echo na Polanie Kłamstw, był odbiciem kłamstw, a nie rzeczywistości.
 
 W chłodnym świetle sali sądowej nowy obrońca Wilka rozkładał dowody prawdy jak bezcenne klejnoty. Najpierw podsunął sędzi wniosek o przesłuchanie Hieny Domkowej, by obnażyć zdradę, która zrodziła wyrok karny. Puszczyk Halager nawet nie podniosła wzroku znad akt. „Oddalam” – rzuciła chłodno, a jej słowo uderzyło w stół jak młotek sędziowski w gwóźdź.
