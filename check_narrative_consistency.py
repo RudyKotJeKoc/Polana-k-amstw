@@ -1,0 +1,410 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Skrypt do sprawdzania spójności narracji w baśni "Polana Kłamstw".
+
+Sprawdza:
+- Spójność dat między rozdziałami
+- Zgodność z appendix (kronika prawdziwych zdarzeń)
+- Spójność odniesień do postaci
+- Chronologię wydarzeń
+"""
+
+import os
+import re
+import yaml
+from pathlib import Path
+from collections import defaultdict
+from datetime import datetime
+from typing import Dict, List, Tuple, Set
+
+class NarrativeConsistencyChecker:
+    def __init__(self, base_path: str):
+        self.base_path = Path(base_path)
+        self.chapters = []
+        self.appendix_events = []
+        self.characters = set()
+        self.issues = []
+        
+    def extract_yaml_frontmatter(self, filepath: Path) -> Dict:
+        """Ekstraktuje YAML frontmatter z pliku markdown."""
+        with open(filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Szukamy YAML frontmatter między --- i ---
+        match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
+        if match:
+            try:
+                return yaml.safe_load(match.group(1))
+            except yaml.YAMLError:
+                return {}
+        return {}
+    
+    def extract_dates_from_text(self, text: str) -> List[str]:
+        """Ekstraktuje daty z tekstu."""
+        dates = []
+        
+        # Różne formaty dat:
+        # 07.07.2017, 7.07.2017
+        pattern1 = r'\b(\d{1,2}\.\d{1,2}\.\d{4})\b'
+        dates.extend(re.findall(pattern1, text))
+        
+        # 10.02.2021, 2:30
+        pattern2 = r'\b(\d{1,2}\.\d{1,2}\.\d{4})\b'
+        dates.extend(re.findall(pattern2, text))
+        
+        # Luty 2021, Czerwiec 2021
+        pattern3 = r'\b(Styczeń|Luty|Marzec|Kwiecień|Maj|Czerwiec|Lipiec|Sierpień|Wrzesień|Październik|Listopad|Grudzień)\s+(\d{4})\b'
+        month_matches = re.findall(pattern3, text)
+        for month, year in month_matches:
+            dates.append(f"{month} {year}")
+        
+        # 2017-2021
+        pattern4 = r'\b(\d{4})[–-](\d{4})\b'
+        ranges = re.findall(pattern4, text)
+        for start, end in ranges:
+            dates.append(f"{start}-{end}")
+        
+        return dates
+    
+    def extract_character_references(self, text: str) -> Set[str]:
+        """Ekstraktuje odniesienia do postaci z tekstu."""
+        characters = set()
+        
+        # Lista znanych postaci (zgodnie z nazwami plików w bestiariusz/postacie)
+        known_characters = [
+            'Wilk', 'Wilka', 'Wilkiem', 'Wilkowi',
+            'Wiedźma', 'Wiedźmy', 'Wiedźmie', 'Wiedźmą',
+            'Sarenka', 'Sarenki', 'Sarenkę', 'Sarence',
+            'Julia', 'Julii', 'Julią',
+            'Bobr', 'Bobra', 'Bobrem', 'Bobrze',
+            'Jeleń', 'Jelenia', 'Jeleniem', 'Jeleniowi',
+            'Sylwester', 'Sylwestra', 'Sylwestrem', 'Sylwestrowi',
+            'Barbara', 'Barbary', 'Barbarą', 'Barbarze',
+            'Hiena', 'Hieny', 'Hienę', 'Hieno',
+            'Puszczyk', 'Puszczyka', 'Puszczykiem',
+            'Sroka', 'Sroki', 'Srokę', 'Sroko',
+            'Dorota', 'Doroty', 'Dorotą', 'Dorocie',
+            'Jaskółka', 'Jaskółki', 'Jaskółkę', 'Jaskółko',
+            'Martynka', 'Martynki', 'Martynkę', 'Martynko',
+            'Domek', 'Domka', 'Domkiem',
+            'Sarnecki', 'Sarneckiego', 'Sarneckim',
+            'Borsuk', 'Borsuka', 'Borsukiem',
+            'BaraBary', 'BaraBary',
+        ]
+        
+        for char in known_characters:
+            if re.search(r'\b' + re.escape(char) + r'\b', text):
+                # Normalizuj do podstawowej formy
+                base_form = char.split()[0] if ' ' in char else char
+                characters.add(base_form.rstrip('aiąęyeowi'))
+        
+        return characters
+    
+    def load_chapters(self):
+        """Wczytuje wszystkie rozdziały."""
+        chapters_path = self.base_path / 'polana' / 'basn' / 'rozdzialy'
+        
+        for filepath in sorted(chapters_path.glob('*.md')):
+            with open(filepath, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            frontmatter = self.extract_yaml_frontmatter(filepath)
+            dates = self.extract_dates_from_text(content)
+            characters = self.extract_character_references(content)
+            
+            chapter = {
+                'filepath': filepath,
+                'filename': filepath.name,
+                'frontmatter': frontmatter,
+                'content': content,
+                'dates': dates,
+                'characters': characters,
+                'order': frontmatter.get('kolejnosc', 0)
+            }
+            
+            self.chapters.append(chapter)
+    
+    def load_appendix(self):
+        """Wczytuje appendix - kronikę prawdziwych zdarzeń."""
+        appendix_path = self.base_path / 'polana' / 'appendix' / 'appendix_d_kronika_prawdziwych_zdarzen'
+        
+        if appendix_path.exists():
+            with open(appendix_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            dates = self.extract_dates_from_text(content)
+            
+            # Ekstraktuj kluczowe wydarzenia
+            events = []
+            # Szukamy wzorców jak "07.07.2017 – Darowizna"
+            event_pattern = r'(\d{1,2}\.\d{1,2}\.\d{4})\s*[–-]\s*([^\n]+)'
+            for match in re.finditer(event_pattern, content):
+                date = match.group(1)
+                event = match.group(2).strip()
+                events.append({'date': date, 'event': event})
+            
+            self.appendix_events = events
+    
+    def load_characters(self):
+        """Wczytuje listę postaci z bestiariusza."""
+        characters_path = self.base_path / 'polana' / 'bestiariusz' / 'postacie'
+        
+        for filepath in characters_path.glob('*.md'):
+            frontmatter = self.extract_yaml_frontmatter(filepath)
+            if 'title' in frontmatter:
+                self.characters.add(frontmatter['title'])
+            
+            # Dodaj również z nazwy pliku
+            char_name = filepath.stem.replace('-', ' ').title()
+            self.characters.add(char_name)
+    
+    def check_chapter_order(self):
+        """Sprawdza czy rozdziały są w poprawnej kolejności."""
+        print("\n=== Sprawdzanie kolejności rozdziałów ===")
+        
+        chapters_with_order = [ch for ch in self.chapters if ch['order'] > 0]
+        chapters_with_order.sort(key=lambda x: x['order'])
+        
+        expected_order = list(range(1, len(chapters_with_order) + 1))
+        actual_order = [ch['order'] for ch in chapters_with_order]
+        
+        if expected_order != actual_order:
+            issue = f"❌ Niezgodność w kolejności rozdziałów: oczekiwano {expected_order}, znaleziono {actual_order}"
+            print(issue)
+            self.issues.append(issue)
+        else:
+            print(f"✅ Kolejność rozdziałów prawidłowa (1-{len(chapters_with_order)})")
+    
+    def normalize_date(self, date_str: str) -> str:
+        """Normalizuje datę do formatu DD.MM.YYYY."""
+        # Obsłuż format D.M.YYYY lub DD.MM.YYYY
+        match = re.match(r'(\d{1,2})\.(\d{1,2})\.(\d{4})', date_str)
+        if match:
+            day = match.group(1).zfill(2)
+            month = match.group(2).zfill(2)
+            year = match.group(3)
+            return f"{day}.{month}.{year}"
+        return date_str
+    
+    def get_date_variations(self, date_str: str) -> List[str]:
+        """Zwraca różne warianty zapisu daty."""
+        variations = [date_str]
+        
+        # Mapowanie miesięcy polskich
+        polish_months = {
+            '01': 'stycznia', '02': 'lutego', '03': 'marca', '04': 'kwietnia',
+            '05': 'maja', '06': 'czerwca', '07': 'lipca', '08': 'sierpnia',
+            '09': 'września', '10': 'października', '11': 'listopada', '12': 'grudnia'
+        }
+        
+        # Parsuj datę DD.MM.YYYY
+        match = re.match(r'(\d{1,2})\.(\d{1,2})\.(\d{4})', date_str)
+        if match:
+            day = match.group(1)
+            month = match.group(2)
+            year = match.group(3)
+            
+            # Dodaj warianty:
+            # 07.07.2017
+            variations.append(f"{day.zfill(2)}.{month.zfill(2)}.{year}")
+            # 7.07.2017
+            variations.append(f"{int(day)}.{month.zfill(2)}.{year}")
+            # 7.7.2017
+            variations.append(f"{int(day)}.{int(month)}.{year}")
+            # 14 lutego
+            if month.zfill(2) in polish_months:
+                variations.append(f"{int(day)} {polish_months[month.zfill(2)]}")
+            # (14 lutego)
+            if month.zfill(2) in polish_months:
+                variations.append(f"({int(day)} {polish_months[month.zfill(2)]})")
+            # Walentynki dla 14.02
+            if month == '02' and day == '14':
+                variations.append("Walentynki")
+            # 17/18 dla dat w lipcu
+            if month == '07' and day in ['17', '18']:
+                variations.append("17/18")
+                variations.append("17/18 lipca")
+        
+        return variations
+    
+    def check_date_consistency(self):
+        """Sprawdza spójność dat między rozdziałami."""
+        print("\n=== Sprawdzanie spójności dat ===")
+        
+        # Zbierz wszystkie daty z rozdziałów
+        chapter_dates = defaultdict(list)
+        for chapter in self.chapters:
+            for date in chapter['dates']:
+                chapter_dates[date].append(chapter['filename'])
+        
+        # Zbierz daty z appendix
+        appendix_dates = {event['date']: event['event'] for event in self.appendix_events}
+        
+        print(f"\nZnaleziono {len(appendix_dates)} kluczowych dat w appendix:")
+        for date in sorted(appendix_dates.keys()):
+            print(f"  - {date}: {appendix_dates[date]}")
+        
+        # Sprawdź czy kluczowe daty z appendix występują w rozdziałach
+        print("\n--- Weryfikacja kluczowych dat ---")
+        for date, event in appendix_dates.items():
+            # Pobierz wszystkie warianty zapisu daty
+            date_variations = self.get_date_variations(date)
+            
+            found_in_chapters = []
+            for ch in self.chapters:
+                for date_var in date_variations:
+                    if date_var in ch['content']:
+                        found_in_chapters.append((ch, date_var))
+                        break
+            
+            if not found_in_chapters:
+                issue = f"⚠️  Data {date} ({event}) z appendix nie występuje w żadnym rozdziale"
+                print(issue)
+                self.issues.append(issue)
+            else:
+                found_chapters = set(ch['filename'] for ch, _ in found_in_chapters)
+                variants_used = set(var for _, var in found_in_chapters)
+                print(f"✅ Data {date} ({event}) znaleziona w {len(found_chapters)} rozdziale/ach jako: {', '.join(variants_used)}")
+    
+    def check_character_consistency(self):
+        """Sprawdza spójność odniesień do postaci."""
+        print("\n=== Sprawdzanie spójności postaci ===")
+        
+        # Zbierz wszystkie postacie występujące w rozdziałach
+        all_mentioned_characters = set()
+        for chapter in self.chapters:
+            all_mentioned_characters.update(chapter['characters'])
+        
+        print(f"\nPostacie występujące w rozdziałach ({len(all_mentioned_characters)}):")
+        for char in sorted(all_mentioned_characters):
+            print(f"  - {char}")
+        
+        # Sprawdź czy wszystkie postacie mają swoje pliki w bestiariuszu
+        print("\n--- Weryfikacja obecności w bestiariuszu ---")
+        
+        # Uproszczone mapowanie (z uwagi na różne formy gramatyczne)
+        character_mapping = {
+            'Wilk': ['wilk-samotnik.md', 'duch-wilka.md'],
+            'Wiedźm': ['wiedzma-adamowska.md', 'wiedzma-barabara.md'],
+            'Sarenk': ['sarenka-z-polany.md'],
+            'Juli': ['sarenka-z-polany.md'],  # Julia to Sarenka
+            'Bobr': ['bobr-z-duchem-wilka.md'],
+            'Jeleń': ['stary-jelen-sylwester.md'],
+            'Sylwester': ['stary-jelen-sylwester.md'],
+            'Barbar': ['wiedzma-adamowska.md', 'wiedzma-barabara.md'],
+            'BaraBary': ['wiedzma-barabara.md'],
+            'Hien': ['hiena-domkowa.md'],
+            'Puszczyk': ['puszczyk-halager.md'],
+            'Srok': ['sroka-dorota.md'],
+            'Dorot': ['sroka-dorota.md'],
+            'Jaskółk': ['jaskolka-martynka.md'],
+            'Martynk': ['jaskolka-martynka.md'],
+            'Domek': ['hiena-domkowa.md'],  # Domek to adwokat, sprawdzić czy ma plik
+            'Sarnecki': ['sarna-sarnecki.md'],
+            'Borsuk': ['borsuk-bogdaszewski.md'],
+        }
+        
+        characters_path = self.base_path / 'polana' / 'bestiariusz' / 'postacie'
+        existing_files = [f.name for f in characters_path.glob('*.md')]
+        
+        for char in sorted(all_mentioned_characters):
+            found = False
+            for key, files in character_mapping.items():
+                if char.startswith(key):
+                    for file in files:
+                        if file in existing_files:
+                            found = True
+                            print(f"✅ {char} -> {file}")
+                            break
+            
+            if not found:
+                issue = f"⚠️  Postać '{char}' może nie mieć odpowiadającego pliku w bestiariuszu"
+                print(issue)
+    
+    def check_chronology(self):
+        """Sprawdza chronologię wydarzeń."""
+        print("\n=== Sprawdzanie chronologii ===")
+        
+        # Sortujemy rozdziały według kolejności
+        sorted_chapters = sorted(
+            [ch for ch in self.chapters if ch['order'] > 0],
+            key=lambda x: x['order']
+        )
+        
+        print("\nKolejność rozdziałów i ich główne okresy czasowe:")
+        for chapter in sorted_chapters:
+            order = chapter['order']
+            title = chapter['frontmatter'].get('title', 'Brak tytułu')
+            dates = chapter['dates'][:3] if chapter['dates'] else ['brak dat']
+            print(f"  {order}. {title}")
+            print(f"     Daty: {', '.join(dates)}")
+    
+    def generate_report(self):
+        """Generuje raport z wszystkich znalezionych problemów."""
+        print("\n" + "="*80)
+        print("PODSUMOWANIE SPRAWDZANIA SPÓJNOŚCI NARRACJI")
+        print("="*80)
+        
+        if not self.issues:
+            print("\n✅ Nie znaleziono żadnych problemów ze spójnością narracji!")
+        else:
+            print(f"\n⚠️  Znaleziono {len(self.issues)} potencjalnych problemów:\n")
+            for i, issue in enumerate(self.issues, 1):
+                print(f"{i}. {issue}")
+        
+        # Zapisz raport do pliku
+        report_path = self.base_path / 'RAPORT_SPOJNOSCI_NARRACJI.md'
+        with open(report_path, 'w', encoding='utf-8') as f:
+            f.write("# Raport Spójności Narracji - Polana Kłamstw\n\n")
+            f.write(f"Data wygenerowania: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+            
+            f.write(f"## Statystyki\n\n")
+            f.write(f"- Liczba rozdziałów: {len(self.chapters)}\n")
+            f.write(f"- Liczba wydarzeń w appendix: {len(self.appendix_events)}\n")
+            f.write(f"- Liczba znalezionych problemów: {len(self.issues)}\n\n")
+            
+            if self.issues:
+                f.write("## Znalezione problemy\n\n")
+                for i, issue in enumerate(self.issues, 1):
+                    f.write(f"{i}. {issue}\n")
+            else:
+                f.write("## ✅ Nie znaleziono problemów\n\n")
+                f.write("Narracja wydaje się być spójna.\n")
+        
+        print(f"\n📄 Raport zapisany do: {report_path}")
+    
+    def run(self):
+        """Uruchamia wszystkie sprawdzenia."""
+        print("="*80)
+        print("SPRAWDZANIE SPÓJNOŚCI NARRACJI - POLANA KŁAMSTW")
+        print("="*80)
+        
+        print("\n📖 Wczytywanie rozdziałów...")
+        self.load_chapters()
+        print(f"   Wczytano {len(self.chapters)} rozdziałów")
+        
+        print("\n📋 Wczytywanie appendix...")
+        self.load_appendix()
+        print(f"   Znaleziono {len(self.appendix_events)} wydarzeń w kronice")
+        
+        print("\n👥 Wczytywanie postaci z bestiariusza...")
+        self.load_characters()
+        print(f"   Znaleziono {len(self.characters)} postaci")
+        
+        # Uruchom sprawdzenia
+        self.check_chapter_order()
+        self.check_date_consistency()
+        self.check_character_consistency()
+        self.check_chronology()
+        
+        # Wygeneruj raport
+        self.generate_report()
+
+def main():
+    base_path = "/home/runner/work/Polana-k-amstw/Polana-k-amstw"
+    checker = NarrativeConsistencyChecker(base_path)
+    checker.run()
+
+if __name__ == '__main__':
+    main()
