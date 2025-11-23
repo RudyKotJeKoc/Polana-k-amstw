@@ -8,62 +8,141 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 
 Rozdział 11: Odejście Wilka
 
+(wersja baśniowa, mroczna, analityczna)
+
 ⚑ Wydarzenie kanoniczne.
 
-Ku zaskoczeniu wszystkich, Wilk nie złożył apelacji. Po latach walki zrozumiał, że odzyskanie domu byłoby powrotem do więzienia – do miejsca, w którym każdy oddech jest kontrolowany, a każdy dzień jest bitwą. Zrozumiał, że prawdziwe zwycięstwo leży nie w posiadaniu murów, ale w odzyskaniu spokoju.
+Opłata za Wolność
 
-Przyjął wyrok nie jako karę, ale jako „opłatę za wolność”. Stracił dom i pieniądze, ale zyskał coś bezcennego: uwolnienie się od toksycznej relacji i nieustannej kontroli. Jego ostatnie pożegnanie z domem było ciche. W oczach Wiedźmy zobaczył pustkę – straciła przeciwnika, cel swojej walki. Stary Jeleń milczał, będąc już tylko cieniem.
+Ku zaskoczeniu całej Polany, Wilk nie złożył apelacji.
 
-Podróż do Holandii była jak oddech po latach duszenia się. Po raz pierwszy od dawna towarzyszyło mu uczucie lekkości. Wilk, który stracił wszystko, wreszcie mógł spać spokojnie, daleko od Polany Kłamstw.
+Nie dlatego, że zabrakło mu sił.
+Nie dlatego, że przegrał.
+Ale dlatego, że zrozumiał.
 
+Zrozumiał, że odzyskanie domu byłoby powrotem do więzienia — do murów, w których każdy oddech filtruje cudze spojrzenie, a każdy dzień jest polem bitwy. Zrozumiał, że mury, które są skażone cudzą kontrolą, nie nadają się już do życia.
 
---------------------------------------------------------------------------------
+Przyjął wyrok nie jako karę, lecz jako opłatę za wolność.
 
+Stracił dom.
+Stracił oszczędności.
+Stracił lata pracy.
 
-## Łzy przy Kocidomku
+Ale odzyskał coś, czego nie da się kupić ani zasądzić:
 
-Ale było coś, co bolało bardziej niż utrata domu.
+ciszę.
 
-**Jaskółka Martynka** – ośmioletnia dziewczynka, dziecko światła – płakała przy wejściu do Kocidomku.
+przestrzeń.
 
-Gdy Wilk wyjeżdżał na północne kraje, Martynka stała tam, przy drewnianej budce, i płakała cicho. Nie krzyk. Nie histeria. Tylko ciężkie, prawdziwe łzy dziecka, które rozumie, że ktoś bliski odchodzi.
+oddech.
 
-Jej łzy były ciche, ale wystarczająco silne, by poruszyć cały las.
+Jego ostatnie spojrzenie na dom było chłodne i pozbawione sentymentu.
+W oczach Wiedźmy Barabary dostrzegł pustkę — jakby sens jej istnienia zniknął w chwili, gdy zniknął przeciwnik.
+Stary Jeleń stał obok jak cień zwierzęcia, które nie pamięta, kiedy było żywe.
 
-Zuza i Lotka – kocie duchy progu – przyszły i położyły się obok niej. Mruczały cicho, jakby próbowały powiedzieć: *"Wróci. Kiedyś wróci."*
+A Wilk po prostu odszedł.
+
+Droga na Północ
+
+Podróż do Holandii była jak pierwszy pełny oddech po latach duszenia się dymem z Kotła Krzywd.
+
+Droga była cicha.
+Prosta.
+Bez zatrzymywania się.
+Jakby prowadził go instynkt Ducha, nie ciało.
+
+Wielu powie, że Wilk wyjechał z niczym.
+Ale prawda była odwrotna:
+
+Wilk wyjechał z wszystkim, co miało wartość.
+
+Miał wolność.
+Miał spokój.
+Miał życie, które wreszcie należało tylko do niego.
+
+I po raz pierwszy od lat spał spokojnie.
+
+Daleko od Polany Kłamstw.
+
+Łzy przy Kocidomku
+
+Ale las pamięta każdy ból.
+I tego dnia coś zabolało bardziej niż utrata murów.
+
+Jaskółka Martynka — ośmioletnia dziewczynka, dziecko światła — płakała przy wejściu do Kocidomku.
+
+Nie krzyczała.
+Nie szlochała.
+Nie trzymała się jego ręki.
+
+Stała cicho przy drewnianej budce i pozwalała, by łzy spływały po policzkach jak deszcz po korze drzewa.
+
+Było w tym zrozumienie, którego dorośli nie potrafią wyrazić słowami.
+
+Było w tym żegnanie.
+
+Zuza i Lotka — kocie duchy progu — przyszły do niej same.
+Położyły się u jej stóp, mrucząc cicho, nie po to, by pocieszyć, lecz po to, by podzielić ból na trzy serca zamiast jednego.
+
+Ich mruczenie mówiło:
+
+„Jesteśmy tu.”
+„Nie jesteś sama.”
+„Światło zostanie.”
 
 Ale las wiedział lepiej.
+Las wiedział, że pewne drogi nie mogą zostać otwarte, gdy serce dziecka wciąż na nie patrzy.
 
-### Zarośnięta Ścieżka – Ochrona przez Naturę
+Zarośnięta Ścieżka
 
-Las reagował na ból dziecka.
+Las zareagował jak mądry opiekun.
 
-Powoli, cicho, metodycznie – **las zaczął zarastać ścieżkę**, która prowadziła do Kocidomku.
+Powoli, delikatnie, niepostrzeżenie zaczął zamykać ścieżkę, która prowadziła do Kocidomku.
 
-Najpierw mech. Zielony, miękki, pokrywający kamienie.
+Najpierw mech — miękki, jakby chciał wygłuszyć każdy krok.
 
-Potem paprocie. Wysokie, gęste, zasłaniające drogę.
+Potem paprocie — wysokie, zasłaniające dawny widok.
 
-A na końcu młode drzewa. Brzozy, sosny, świerki – sadzące się same, jakby ktoś je tam zaplanował.
+A w końcu młode drzewa — wyrastające tam, gdzie wczoraj była jeszcze ścieżka.
 
-**Zarośnięta Ścieżka.**
+Tak powstała Zarośnięta Ścieżka.
 
-To nie było zerwanie kontaktu. To nie była kara. To nie było zamknięcie drogi na zawsze.
+To nie było zerwanie kontaktu.
+To nie była kara.
+To nie była ostateczność.
 
-To było **zasłonięcie miejsca, które potrzebowało odpoczynku od pożegnań**.
+To była ochrona.
 
-Las chronił dziecko przed powtórnym zranieniem. Przed patrzeniem na pustą drogę, czekaniem na kogoś, kto nie wróci. Przed bólem, który wraca każdego razu, gdy spojrzysz w kierunku, skąd ktoś odszedł.
+Las chronił Jaskółkę Martynkę:
 
-Ścieżka zarosła, by oszczędzić Jaskółce bólu.
+– przed patrzeniem na pustą drogę,
+– przed czekaniem na kogoś, kto nie wróci,
+– przed bólem, który odradza się za każdym spojrzeniem.
 
-I w tej ochronie było coś głęboko mądrego – bo czasem najlepszym sposobem na uleczenie rany jest pozwolenie, by natura ją przykryła.
+Zarośnięta Ścieżka była balsamem, nie zakazem.
+Była znakiem, że miejsce pełne światła potrzebuje spokoju, by nie zamienić się w miejsce tęsknoty.
 
----
+Las wiedział, co robi.
+A Duch Wilka to rozumiał.
 
-**Wilk wiedział o tym.** Gdzieś głęboko, w miejscu, gdzie Duch obserwuje wszystko, wiedział, że las zarastający ścieżkę to nie odrzucenie – to ochrona.
+Pocieszenie w obserwacji
 
-I w tej wiedzy było pocieszenie.
+Duch Wilka, który unosił się już ponad Polaną, widział ten proces.
 
-Jaskółka była bezpieczna. Las o nią dbał.
+Widząc zarastającą ścieżkę, zrozumiał:
 
-A Wilk mógł odejść, wiedząc, że światło, które zostawił na Polanie Kłamstw, jest chronione.
+To nie odrzucenie.
+To nie koniec.
+To nie zamknięta droga.
+
+To ochrona dziecka, które było jedynym czystym światłem na Polanie Kłamstw.
+
+To była mądrość, nie kara.
+
+Jaskółka była bezpieczna.
+Las o nią dbał.
+A Wilk mógł odejść w spokoju.
+
+Wiedział, że światło, które zostawił, zostało otoczone opieką większą niż on sam mógłby dać.
+
+I to było jego zwycięstwo.
