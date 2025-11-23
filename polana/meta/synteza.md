@@ -505,7 +505,7 @@ Wykorzystać materiały do stworzenia różnych form przekazu.
 
 **CZĘŚĆ II: DRAMATIS PERSONAE** (30-40 stron)
 
-6. Wiedźma Adamowska (Barbara Adamska)  
+6. Wiedźma Barabara (Barbara Adamska)
    - Profil psychologiczny  
    - Obsesyjna kontrolerka  
    - Strategiczna kronikarka  

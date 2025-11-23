@@ -8,7 +8,7 @@ I. Dramatis Personae: Aktorzy na Scenie Kłamstw
 
 Zrozumienie tej historii wymaga dogłębnej analizy psychologicznej i motywacji każdej z kluczowych postaci. Działają one niczym archetypy w klasycznej tragedii, a ich wzajemne relacje, zależności i ukryte cele tworzą sieć, która ostatecznie doprowadziła do upadku. Każdy z aktorów odegrał swoją rolę – świadomie lub nie – w spektaklu reżyserowanym przez obsesyjną potrzebę władzy.
 
-1.1. Wiedźma Adamowska (Barbara Adamska) – Architektka Chaosu
+1.1. Wiedźma Barabara (Barbara Adamska) – Architektka Chaosu
 
 Barbara Adamska jest centralną postacią dramatu – zimną, konsekwentną i nieugiętą architektką chaosu. Jej działania, napędzane obsesyjną potrzebą kontroli i dominacji, stały się źródłem toksycznej atmosfery, która zatruła relacje rodzinne i zniszczyła fundamenty domu. Instrumentalnie traktowała zarówno członków rodziny, jak i instytucje państwowe, aby zrealizować swój cel: odzyskać majątek i ukarać syna za nieposłuszeństwo.
 

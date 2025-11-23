@@ -174,7 +174,7 @@ Ten przewodnik pomoże Ci szybko zorientować się w materiałach i wybrać, co 
 ## 🔑 KLUCZOWE POJĘCIA (Glossary)
 
 **Postacie:**
-- 🧙 **Wiedźma Adamowska** (Barbara) - architekt destrukcji
+- 🧙 **Wiedźma Barabara** (Barbara) - architekt destrukcji
 - 🐺 **Wilk Samotnik** (Dariusz) - ofiara w prawdzie
 - 🦌 **Stary Jeleń / Papesmerf** (Sylwester) - tragiczna marionetka
 - 🦌 **Sarenka** (Julia) - niewinny katalizator

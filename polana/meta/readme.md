@@ -155,7 +155,7 @@
 
 ### Archetypy Dramatyczne
 
-- **Wiedźma Adamowska** (Barbara Adamska) – Architekt chaosu, obsesyjna kontrolerka
+- **Wiedźma Barabara** (Barbara Adamska) – Architekt chaosu, obsesyjna kontrolerka
 - **Wilk Samotnik** (Dariusz Adamski) – Ofiara stojąca w prawdzie, tragiczny bohater
 - **Stary Jeleń / Papesmerf** (Sylwester Adamski) – Tragiczna marionetka
 - **Sarenka z Polany** (Julia Kowalska) – Niewinny katalizator

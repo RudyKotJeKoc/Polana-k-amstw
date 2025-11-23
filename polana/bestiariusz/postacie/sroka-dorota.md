@@ -1,7 +1,7 @@
 # Sroka Dorota
 
 **Typ:** Strategiczna Doradczyni / Megafon Plotek
-**Powiązania:** Wiedźma Adamowska (siostra), chór rodzinny
+**Powiązania:** Wiedźma Barabara (siostra), chór rodzinny
 
 ## Opis
 

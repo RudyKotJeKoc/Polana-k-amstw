@@ -136,7 +136,7 @@ Bóbr, wyczerpany latami toksycznej atmosfery, samotny i zmęczony.
 
 ## IV. RELACJE Z INNYMI POSTACIAMI
 
-### Wiedźma Adamowska
+### Wiedźma Barabara
 
 **Dynamika:**
 - Wiedźma straciła przeciwnika
@@ -331,7 +331,7 @@ Niewidzialny, ale obecny. Tam, gdzie kiedyś był gniew – jest spokój. Tam, g
 
 **Powiązane dokumenty:**
 - bobr-z-duchem-wilka.md (pochodzenie, historia Bobra)
-- wiedzma-adamowska.md (czary nie działają na Ducha)
+- wiedzma-barabara.md (czary nie działają na Ducha)
 - wataha.md (rozszerzenie Ducha)
 
 ---

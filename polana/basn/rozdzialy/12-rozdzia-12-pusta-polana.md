@@ -12,7 +12,7 @@ Rozdział 12: Pusta Polana
 
 **Data: 29.04.2022 – Sprawa I C 634/22.**
 
-Po odejściu Wilka na Polanie Kłamstw zapanowała cisza. Nie była to jednak cisza spokoju, lecz cisza pustki. Wiedźma Adamowska rozglądała się po swojej „wygranej” i z przerażeniem odkryła, że została sama. Jej sojusznicy, którzy karmili się konfliktem, odeszli, gdy dramat się skończył. Sroka Dorota znalazła nowe plotki. Bociany bały się toksycznej atmosfery. Hiena zniknęła, bo interes się skończył.
+Po odejściu Wilka na Polanie Kłamstw zapanowała cisza. Nie była to jednak cisza spokoju, lecz cisza pustki. Wiedźma Barabara rozglądała się po swojej „wygranej" i z przerażeniem odkryła, że została sama. Jej sojusznicy, którzy karmili się konfliktem, odeszli, gdy dramat się skończył. Sroka Dorota znalazła nowe plotki. Bociany bały się toksycznej atmosfery. Hiena zniknęła, bo interes się skończył.
 
 Dom, o który tak zaciekle walczyła, stał się jej więzieniem, za które teraz sama musiała płacić. Co gorsza, nad jej głową zawisła tykająca bomba zegarowa: prawny obowiązek rozliczenia inwestycji Wilka – setek tysięcy złotych, których nie posiadała.
 

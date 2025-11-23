@@ -200,11 +200,11 @@ Kiedy Wilk odszedł, Wiedźma BaraBary odkryła **niewidoczne obowiązki**:
 
 ## VII. RELACJA Z INNYMI POSTACIAMI
 
-**Wiedźma BaraBary a Wiedźma Adamowska:**
+**Wiedźma BaraBary a Wiedźma Barabara:**
 
 Czy to dwie różne postaci, czy dwa oblicza tej samej?
 
-- **Wiedźma Adamowska** = realna, historyczna Barbara
+- **Wiedźma Barabara** = realna, historyczna Barbara
 - **Wiedźma BaraBary** = mityczny, symboliczny archetyp
 
 BaraBary to **duchy nazwa** – prawie-Barbara, ale trochę inna. Jakby echo jej imienia, zniekształcone przez powtarzanie w pustych komnatach Domu. **Bara-Bary** – powtórzenie, echo, obsesja.

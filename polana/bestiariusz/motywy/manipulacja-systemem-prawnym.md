@@ -1,7 +1,7 @@
 # Manipulacja systemem prawnym
 
 **Typ:** Motyw narracyjny / systemowy
-**Powiązania:** Wiedźma Adamowska (Barbara), Wilk Samotnik (Dariusz), Stary Jeleń (Sylwester), Pokéball Wiedźmy (pełnomocnictwo), Kalendarz Krzywd, Niebieska Karta, Zdrada Adwokata, Puszczyk Halager (sędzia), Sąd Papieru
+**Powiązania:** Wiedźma Barabara (Barbara), Wilk Samotnik (Dariusz), Stary Jeleń (Sylwester), Pokéball Wiedźmy (pełnomocnictwo), Kalendarz Krzywd, Niebieska Karta, Zdrada Adwokata, Puszczyk Halager (sędzia), Sąd Papieru
 
 **Opis:**
 Manipulacja systemem prawnym to centralny motyw Polany Kłamstw: instrumentalne wykorzystanie procedur prawnych nie dla ochrony, ale dla ataku. System prawny, stworzony by chronić — staje się bronią. Niebieska Karta (narzędzie przeciw przemocy domowej) jest wykorzystana w kontekście sporu majątkowego. Pełnomocnictwo (dokument zaufania) staje się Pokéballem — narzędziem kontroli. Kalendarz Krzywd (subiektywny zapis) jest przyjmowany jako obiektywny dowód.

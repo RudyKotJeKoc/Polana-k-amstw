@@ -1,7 +1,7 @@
 # Zjawisko Dwóch Saren
 
 **Typ:** Zjawisko psychologiczne (trauma i przemiana tożsamości)
-**Powiązania:** Sarenka z Polany (Julia), Wilk Samotnik (Dariusz), Wiedźma Adamowska, trauma Polany Kłamstw
+**Powiązania:** Sarenka z Polany (Julia), Wilk Samotnik (Dariusz), Wiedźma Barabara, trauma Polany Kłamstw
 **Dotyczy:** Psychologicznej przemiany osoby po doświadczeniu traumy
 
 ## Opis

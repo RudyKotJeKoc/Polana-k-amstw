@@ -87,7 +87,7 @@ Stworzono **4 nowe dokumenty** integrujące materiały:
 - Spis treści dla pełnej kroniki
 - Część I: Wprowadzenie do świata (pełna)
 - Część II: Dramatis Personae (3 pierwsze postacie szczegółowo)
-  - Wiedźma Adamowska - pełny profil
+  - Wiedźma Barabara - pełny profil
   - Wilk Samotnik - pełny profil
   - Stary Jeleń Papesmerf - pełny profil
 - Demonstracja metody integracji różnych źródeł
@@ -143,7 +143,7 @@ CZĘŚĆ I: WPROWADZENIE DO POLANY KŁAMSTW (15-20 stron)
 └── Jak czytać tę historię
 
 CZĘŚĆ II: DRAMATIS PERSONAE (30-40 stron)
-├── Wiedźma Adamowska (8-10 stron)
+├── Wiedźma Barabara (8-10 stron)
 ├── Wilk Samotnik (8-10 stron)
 ├── Stary Jeleń Papesmerf (5-6 stron)
 ├── Sarenka z Polany (3-4 strony)

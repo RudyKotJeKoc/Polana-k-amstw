@@ -1,5 +1,5 @@
 ---
-title: "Wiedźma Adamowska"
+title: "Wiedźma Barabara"
 slug: "wiedzma-adamowska"
 kategoria: "postac"
 archetyp: "Architekt Destrukcji"
@@ -29,11 +29,11 @@ zrodla:
   - kontekst_2.md
 ---
 
-# Wiedźma Adamowska
+# Wiedźma Barabara
 
 ## I. TOŻSAMOŚĆ
 
-**Imię symboliczne:** Wiedźma Adamowska, Strażniczka Kotła Krzywd
+**Imię symboliczne:** Wiedźma Barabara, Strażniczka Kotła Krzywd
 **Imię faktyczne:** Barbara Adamska (ur. ~1956)
 
 **Rola w baśni:**
