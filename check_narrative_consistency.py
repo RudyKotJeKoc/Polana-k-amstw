@@ -359,18 +359,64 @@ class NarrativeConsistencyChecker:
             f.write("# Raport Spójności Narracji - Polana Kłamstw\n\n")
             f.write(f"Data wygenerowania: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
             
-            f.write(f"## Statystyki\n\n")
-            f.write(f"- Liczba rozdziałów: {len(self.chapters)}\n")
-            f.write(f"- Liczba wydarzeń w appendix: {len(self.appendix_events)}\n")
-            f.write(f"- Liczba znalezionych problemów: {len(self.issues)}\n\n")
+            f.write("## 📊 Statystyki\n\n")
+            f.write(f"- **Liczba rozdziałów:** {len(self.chapters)}\n")
+            f.write(f"- **Liczba wydarzeń w appendix:** {len(self.appendix_events)}\n")
+            f.write(f"- **Liczba znalezionych problemów:** {len(self.issues)}\n")
+            f.write(f"- **Liczba postaci w bestiariuszu:** {len(self.characters)}\n\n")
             
             if self.issues:
-                f.write("## Znalezione problemy\n\n")
-                for i, issue in enumerate(self.issues, 1):
-                    f.write(f"{i}. {issue}\n")
+                f.write("## ⚠️ Znalezione problemy\n\n")
+                
+                # Kategoryzuj problemy
+                date_issues = [i for i in self.issues if 'Data' in i]
+                order_issues = [i for i in self.issues if 'kolejności' in i]
+                char_issues = [i for i in self.issues if 'Postać' in i]
+                
+                if order_issues:
+                    f.write("### Kolejność rozdziałów\n\n")
+                    for issue in order_issues:
+                        f.write(f"- {issue}\n")
+                    f.write("\n**Uwaga:** Rozdział 06A (kolejność 6.5) to zamierzone interludium między rozdziałami 6 i 7.\n\n")
+                
+                if date_issues:
+                    f.write("### Daty z appendix nieznalezione w rozdziałach\n\n")
+                    for issue in date_issues:
+                        f.write(f"- {issue}\n")
+                    f.write("\n**Wyjaśnienie:** Niektóre daty mogą być opisane słownie lub połączone w szersze sceny narracyjne.\n\n")
+                
+                if char_issues:
+                    f.write("### Potencjalne problemy z postaciami\n\n")
+                    for issue in char_issues:
+                        f.write(f"- {issue}\n")
+                    f.write("\n**Uwaga:** Niektóre ostrzeżenia mogą być fałszywie pozytywnymi wynikami z powodu form gramatycznych.\n\n")
             else:
                 f.write("## ✅ Nie znaleziono problemów\n\n")
-                f.write("Narracja wydaje się być spójna.\n")
+                f.write("Narracja wydaje się być spójna między rozdziałami a appendix.\n\n")
+            
+            # Dodaj sekcję z dobrymi praktykami
+            f.write("## 💡 Zalecenia\n\n")
+            f.write("1. **Dla brakujących dat:** Rozważ dodanie odniesień do tych dat w rozdziałach, jeśli są istotne dla narracji\n")
+            f.write("2. **Dla spójności:** Upewnij się, że kluczowe wydarzenia z appendix są odzwierciedlone w baśni\n")
+            f.write("3. **Dla postaci:** Sprawdź czy wszystkie istotne postacie mają swoje profile w bestiariuszu\n\n")
+            
+            # Dodaj szczegółową analizę
+            f.write("## 📖 Szczegółowa analiza rozdziałów\n\n")
+            sorted_chapters = sorted(
+                [ch for ch in self.chapters if ch['order'] > 0],
+                key=lambda x: x['order']
+            )
+            
+            for chapter in sorted_chapters:
+                order = chapter['order']
+                title = chapter['frontmatter'].get('title', 'Brak tytułu')
+                dates = chapter['dates'][:5] if chapter['dates'] else ['brak jawnych dat']
+                chars = sorted(list(chapter['characters']))[:10] if chapter['characters'] else ['brak']
+                
+                f.write(f"### Rozdział {order}: {title}\n\n")
+                f.write(f"- **Główne daty:** {', '.join(dates)}\n")
+                f.write(f"- **Postacie:** {', '.join(chars)}\n")
+                f.write(f"- **Źródło:** {chapter['frontmatter'].get('zrodlo', 'nieznane')}\n\n")
         
         print(f"\n📄 Raport zapisany do: {report_path}")
     
