@@ -8,16 +8,60 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 
 Rozdział 4: Nocne Wtargnięcie (2:30 w nocy)
 
-⚑ Wydarzenie kanoniczne.
+W noc z dziewiątego na dziesiąty lutego, gdy księżyc wisiał nisko nad Polaną Kłamstw i przypominał ostry sierp, las pogrążył się w milczeniu. W takiej ciszy nawet myszy chodzą ostrożniej, a wiatr omija okna, by nikogo nie zbudzić.
 
-**Data: 04.04.2021 – Ucieczka i Zimny Dom.**
+O drugiej trzydzieści wydarzyło się jednak coś, co na Polanie zapamiętano jako Przekroczenie Ostatniej Granicy.
 
-Nocą z 9 na 10 lutego, gdy zegar wybił drugą trzydzieści, Wiedźma przekroczyła ostatnią granicę. Z furią, bez pukania, wtargnęła do pokoju, gdzie spał Wilk z Sarenką. Ten akt był symbolicznym przejęciem kontroli, naruszeniem ostatniego skrawka prywatności, jaki Wilk próbował zachować we własnym domu.
+Wiedźma Adamowska, pchana gniewem, który zbierała od wielu zim, weszła do izby Wilka i Sarenki bez pukania, bez słowa, bez cienia wahania. Drzwi otworzyły się jak rozcięte pazurami. Jej twarz, oświetlona słabym światłem księżyca, wyglądała jak maska zrobiona z lodu i furii.
 
-Jego reakcja nie była agresją, lecz desperacką obroną. Jego krzyk: „Wynoś się! To MOJA nora!” był wołaniem o autonomię. Jednak w oczach Wiedźmy nie było strachu, lecz triumf. Dostała to, na co czekała – gwałtowną reakcję, którą mogła przedstawić jako dowód agresji.
+To nie było zwykłe wejście.
+To było wejście do snu, do najskrytszego miejsca, którego broni się tak, jak broni się serca.
 
-Następnego dnia w swoim kalendarzu przekręciła fakty, tworząc narrację, która stała się oficjalną prawdą na Polanie Kłamstw:
+Wilk zerwał się jak spłoszone zwierzę.
+Sarenka cofnęła się instynktownie, jakby światło przygasło.
 
-„10 lutego, 2:30 – wtargnęłam do pokoju Dariusza. Spał z tą francą cholerną. Kiedy go obudziłam, zaczął na mnie krzyczeć. Groził mi. Wyrzucał mnie z MOJEGO WŁASNEGO DOMU. To było przerażające."
+Krzyk Wilka
 
-To wydarzenie zmusiło Wilka do przyjęcia taktyki całkowitego milczenia, jedynej formy obrony, jaka mu pozostała. Wiedźma jednak i to zinterpretowała po swojemu, zapisując w kalendarzu: „Dariusz mnie ignoruje. To psychiczne znęcanie”. Wilk został zamknięty w pułapce bez wyjścia: przegrywał, krzycząc, i przegrywał, milcząc.
+Głos Wilka nie był groźbą.
+Był rykiem rannego stworzenia, któremu ktoś po raz ostatni naruszył kryjówkę:
+
+„Wynoś się! To moja nora!”
+
+Było w tym wołanie o prawo do własnego oddechu, do spokojnego snu, do odrobiny prywatności w domu, który przecież sam kiedyś zbudował.
+
+Ale w oczach Wiedźmy nie pojawił się ani strach, ani skrucha.
+Jej spojrzenie było… zwycięskie.
+
+Jakby długo na ten moment czekała.
+Jakby reakcja Wilka była częścią zaklęcia, które od dawna przygotowywała.
+
+Kalendarz, który zmienia rzeczywistość
+
+Następnego poranka Wiedźma usiadła przy swoim Kalendarzu Krzywd — tej księdze, która nie opisuje świata, lecz go tworzy. W jej dłoniach pióro nie pisało faktów; pisało wersję, która miała przetrwać.
+
+Zapis, który zostawiła, brzmiał jak opowieść z odwróconymi rolami:
+
+„10 lutego, 2:30 – weszłam do jego izby. Spał z ową dziewczyną. Gdy go obudziłam, krzyczał na mnie i wyrzucał mnie z mojego domu. Bałam się go.”
+
+Tak właśnie działa magia Kalendarza:
+– zamienia ofiarę w napastnika,
+– zamienia wtargnięcie w troskę,
+– zamienia gniew w strach,
+– zamienia prawdę w wygodną wersję.
+
+Od tego dnia to jej wersja krążyła po Polanie, niczym echo, które odbija się od drzew i wraca z trzykrotną siłą.
+
+Pułapka bez wyjścia
+
+Po tamtej nocy Wilk zrozumiał, że żadne słowa nie mogą go uratować.
+Krzyk — stawał się dowodem agresji.
+Cisza — stawała się dowodem znęcania.
+
+Wiedźma zapisała w swoim Kalendarzu:
+
+„On mnie ignoruje. To psychiczne dręczenie.”
+
+I tak Wilk znalazł się w miejscu, gdzie każde jego działanie — nawet brak działania — mogło zostać użyte przeciwko niemu. Pułapka była szczelna jak wilcza jama zasypana śniegiem.
+
+W tej nocy Polana zrozumiała coś ważnego:
+że czasem najgłośniejsza przemoc przychodzi bez krzyku — w postaci kogoś, kto wchodzi do twojego snu bez stuknięcia do drzwi.
