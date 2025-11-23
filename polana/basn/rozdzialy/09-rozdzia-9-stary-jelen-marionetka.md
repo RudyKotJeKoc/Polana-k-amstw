@@ -8,10 +8,105 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 
 Rozdział 9: Stary Jeleń – Marionetka
 
+(wersja baśniowa, mroczna, analityczna)
+
 ⚑ Wydarzenie kanoniczne.
 
-W centrum tej historii stała postać tragiczna – Stary Jeleń Sylwester. Po przebytym wylewie, z pierwszą grupą inwalidzką i poważnymi ograniczeniami poznawczymi, stał się całkowicie zależny od Wiedźmy. W strategicznym momencie, 19 lipca 2021 roku, zaledwie dwa dni po założeniu Niebieskiej Karty, podpisał szerokie pełnomocnictwo, które zamieniło go w bezwolne narzędzie w rękach żony.
+Upadek Króla Zagajnika
 
-Dowodem manipulacji była diamentowa sprzeczność w jego oświadczeniach. 3 sierpnia, podczas przesłuchania na policji, stwierdził jasno: „Nie. Dariusz mnie nie obraża”. Jednak zaledwie trzy dni później, 6 sierpnia, w jego imieniu wysłano list odwołujący darowiznę, w którym napisano: „Mój syn kieruje wyzwiska wobec mnie”. Ta drastyczna zmiana narracji w tak krótkim czasie obnażyła, kto pociągał za sznurki.
+W centrum tej opowieści stoi postać tragiczna — Stary Jeleń Sylwester, niegdyś król zagajnika, którego poroże budziło respekt, a krok niósł echo siły. Ale czas i choroba nie znają litości.
+Po wylewie, z osłabionymi myślami, z pierwszą grupą inwalidzką, z pamięcią kruszejącą jak stary pień — Jeleń stał się cieniem samego siebie.
 
-Na rozprawie sądowej tragedia dopełniła się, gdy Stary Jeleń nie potrafił przypomnieć sobie własnego wieku i przyznał wprost: „Jej zeznania są moimi zeznaniami”. Sama Wiedźma potwierdziła jego rolę, mówiąc: „On już nie rozumiał, co się dzieje. Byłam jego głosem”. Stary Jeleń, niegdyś król zagajnika, stał się marionetką.
+A cień to najłatwiej chwycić w sidła.
+
+Wiedźma Barabara otoczyła go opieką, która była bardziej pajęczyną niż troską. A gdy tylko nadarzyła się okazja, zaczęła poruszać jego życiem jak kukłą na sznurkach.
+
+Pełnomocnictwo — nitki, którymi można sterować
+
+Nadszedł dzień 19 lipca 2021 roku — dwa dni po wciągnięciu Wilka do Niebieskiej Karty, kiedy jej zaklęcia nabrały nowej mocy.
+
+Właśnie wtedy Stary Jeleń podpisał szerokie pełnomocnictwo.
+Tak szerokie, że przestał być samodzielnym stworzeniem lasu, a stał się narzędziem w rękach Barabary — jak kukła, którą można ustawić na scenie i mówić za nią dowolne kwestie.
+
+Nie rozumiał zakresu.
+Nie rozumiał konsekwencji.
+Rozumiał tylko jej głos — bo był jedynym, który do niego docierał.
+
+Diamentowa sprzeczność
+
+A potem stało się coś, co w księgach lasu opisuje się jako diamentowy dowód manipulacji — sprzeczność tak jasna i twarda, że widać ją nawet przez mgłę.
+
+3 sierpnia — prawda
+
+Na przesłuchaniu w strażnicy leśnej Stary Jeleń powiedział jasno:
+
+„Nie. Dariusz mnie nie obraża.”
+
+Głos był słaby, ale słowa były jego.
+
+6 sierpnia — kłamstwo podpisane jego imieniem
+
+Zaledwie trzy dni później, w jego imieniu wysłano list:
+
+„Mój syn kieruje wyzwiska wobec mnie.”
+
+Czyli dokładne przeciwieństwo.
+
+W tak krótkim czasie tylko jedna osoba mogła zmienić narrację.
+Tylko jedna osoba miała do tego motyw.
+Tylko jedna osoba miała w rękach sznurki.
+
+Barabara.
+
+Rozprawa — teatr smutku
+
+Na sali sądowej tragedia zyskała formę.
+Stary Jeleń siedział tam nie jak świadek, lecz jak manekin — obecny ciałem, nieobecny świadomością.
+
+Nie potrafił podać własnego wieku.
+
+Mylili mu się ludzie.
+Daty.
+Zdarzenia.
+
+A gdy padło pytanie o jego zeznania, powiedział wprost:
+
+„Jej zeznania są moimi zeznaniami.”
+
+Nie z buntu.
+Z bezradności.
+
+Wtedy kurtyna opadła.
+Wtedy stało się jasne, kto mówi jego ustami.
+
+Wyznanie Wiedźmy
+
+A jakby tego było mało, sama Wiedźma Barabara powiedziała przed sądem:
+
+„On już nie rozumiał, co się dzieje. Byłam jego głosem.”
+
+To zdanie było jak pochodnia rzucona w suchy las.
+
+Jego głos?
+Czyj głos?
+Głosem manipulacji?
+Głosem zemsty?
+Głosem Kalendarza?
+
+Stary Jeleń nie był już uczestnikiem tej historii.
+Był marionetką trzymaną za sznurki, pozbawioną własnej narracji, własnej pamięci, własnej woli.
+
+Marionetka Króla
+
+Tak oto Stary Jeleń, dawny król zagajnika, został sprowadzony do roli bezwolnej kukły:
+
+– Podpisywał to, co mu wskazano.
+– Powtarzał to, co mu włożono do ust.
+– Wierzył w to, co szeptano mu do ucha.
+– Był świadkiem, którego własna pamięć była jak sito.
+
+Wiedźma Barabara nie potrzebowała przemocy.
+Wystarczyła jej kontrola nad jednym osłabionym sercem.
+
+A Polana Kłamstw zapamiętała go nie jako tyrana ani sprawcę.
+Zapamiętała go jako marionetkę, która chciała być dobra, ale zbyt późno zrozumiała, komu oddała swoje struny.
