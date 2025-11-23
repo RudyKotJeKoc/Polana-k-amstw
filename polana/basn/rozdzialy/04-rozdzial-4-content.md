@@ -42,7 +42,7 @@ Kuna Schleser kopała gdzieś w oddali tunel, który i tak nie prowadził do cel
 
 Tylko jedno stworzenie nie spało.
 
-Wiedźma Adamowska.
+Wiedźma Barabara.
 
 Wiedźma nigdy nie śpi.
 
@@ -336,7 +336,7 @@ Nie wiedział jeszcze, że zanim wyjedzie, będą spać w samochodzie, zamarzać
 
 Wiedział tylko jedno:
 
-Tamtej nocy Wiedźma Adamowska nie zniszczyła Sarenki dłonią.
+Tamtej nocy Wiedźma Barabara nie zniszczyła Sarenki dłonią.
 
 Zniszczyła ją obecnością.
 Lodowym oddechem.

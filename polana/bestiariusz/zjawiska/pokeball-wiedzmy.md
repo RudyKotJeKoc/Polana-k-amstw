@@ -1,7 +1,7 @@
 # Pokéball Wiedźmy (Mechanizm Przejęcia Kontroli)
 
 **Typ:** Zjawisko psychologiczne i społeczne (przejęcie kontroli nad słabszym)
-**Powiązania:** Wiedźma Adamowska (Barbara), Papesmerf (Sylwester), Pełnomocnictwo z 19.07.2021
+**Powiązania:** Wiedźma Barabara (Barbara), Papesmerf (Sylwester), Pełnomocnictwo z 19.07.2021
 **Dotyczy:** Mechanizmu przejęcia kontroli nad osobą podatną (schorowaną, zależną, bezradną)
 
 ## Opis

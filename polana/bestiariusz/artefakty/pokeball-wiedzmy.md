@@ -4,7 +4,7 @@ slug: "pokeball-wiedzmy"
 kategoria: "artefakt"
 typ: "Narzędzie Kontroli"
 powiazane_postacie:
-  - wiedzma-adamowska
+  - barbara-adamska
   - stary-jelen-sylwester
   - bobr-z-duchem-wilka
   - duch-wilka
@@ -34,7 +34,7 @@ zrodla:
 **Forma fizyczna:** Pełnomocnictwo z 19.07.2021 (+ 26 zł za notariusza)
 
 **Czym jest:**
-Humorystyczna i jednocześnie tragiczna metafora przejęcia kontroli nad drugim człowiekiem. W świecie Pokémonów trener rzuca Pokéballa, by schwytać stworka i przejąć nad nim kontrolę. Wiedźma Adamowska rzuciła swój Pokéball – i nie był to przedmiot z gry, lecz **pełnomocnictwo notarialne**.
+Humorystyczna i jednocześnie tragiczna metafora przejęcia kontroli nad drugim człowiekiem. W świecie Pokémonów trener rzuca Pokéballa, by schwytać stworka i przejąć nad nim kontrolę. Wiedźma Barabara rzuciła swój Pokéball – i nie był to przedmiot z gry, lecz **pełnomocnictwo notarialne**.
 
 ---
 
@@ -395,7 +395,7 @@ W grze Pokémonów Pokéball to narzędzie trenera. W Baśni Polany Kłamstw Pok
 - Humor służy dystansowi, nie drwinie
 
 **Powiązane dokumenty:**
-- wiedzma-adamowska.md (Trenerka Pokémonów)
+- wiedzma-barabara.md (Trenerka Pokémonów)
 - stary-jelen-sylwester.md (Papa Smurf – schwytany Pokémon)
 - bobr-z-duchem-wilka.md (Bóbr uchyla się, Duch jest odporny)
 - SCENA_TRANSFORMACJA_POKEBALL_26ZL.md (scena źródłowa)

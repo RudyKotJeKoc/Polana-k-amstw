@@ -23,7 +23,7 @@ Wilk rozszerza służebność na cały dom, by zapobiec konfliktom — decyzja z
 
 2017–2020 – Cień nad Polaną
 
-To lata budowania, inwestowania, remontów, pracy ponad siły – i pierwsze niepokojące cienie Wiedźmy Adamowskiej.
+To lata budowania, inwestowania, remontów, pracy ponad siły – i pierwsze niepokojące cienie Wiedźmy Barabary.
 
 ocieplenie domu,
 

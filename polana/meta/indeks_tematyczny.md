@@ -10,7 +10,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 ### Główni Bohaterowie
 
-#### BARBARA ADAMSKA ("Wiedźma Adamowska")
+#### BARBARA ADAMSKA ("Wiedźma Barabara")
 **Dokumenty główne:**
 - Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdziały: Prolog, 4, 5, 6, 7
 - Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.1, II (wszystkie akty)

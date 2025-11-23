@@ -12,7 +12,7 @@ Rozdział 2: Życie pod Cieniem Wiedźmy (2017–2021)
 
 Po Darowiźnie Polana wydawała się spokojna. Dom stał tam, gdzie stał, drzewa kołysały się jak dawniej, a światło wpadało do okien tak samo jak rok wcześniej. Lecz był to spokój pozorny — taki, który tylko z daleka wygląda jak cisza, a z bliska okazuje się czekaniem na coś złego.
 
-Wiedźma Adamowska nie rzucała zaklęć od razu. Przemykała przez komnaty cicho, jakby wciąż jeszcze spała z otwartymi oczami. Ale jej Kocioł Krzywd bulgotał nieustannie. Każda podsłuchana plotka, każde domniemane przewinienie, każda historia przyniesiona przez Srokę Dorotę — wszystko to wpadało do kotła jak kolejne źdźbło, które prędzej czy później miało zapłonąć.
+Wiedźma Barabara nie rzucała zaklęć od razu. Przemykała przez komnaty cicho, jakby wciąż jeszcze spała z otwartymi oczami. Ale jej Kocioł Krzywd bulgotał nieustannie. Każda podsłuchana plotka, każde domniemane przewinienie, każda historia przyniesiona przez Srokę Dorotę — wszystko to wpadało do kotła jak kolejne źdźbło, które prędzej czy później miało zapłonąć.
 
 Jej największym przedmiotem mocy stał się Kalendarz Wiedźmy — księga, w której nie zapisywało się wspomnień, lecz oskarżenia. Nie była to kronika życia, lecz zbiór zaklęć przygotowywanych na przyszłe starcie. Każdy wpis, zapisany ostrym piórem, był jak cień rzucony na Bobra:
 

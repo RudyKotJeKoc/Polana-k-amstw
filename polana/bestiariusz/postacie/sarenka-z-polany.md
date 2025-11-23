@@ -1,7 +1,7 @@
 # Sarenka z Polany (Julia)
 
 **Typ:** Istota Bez Gniazda / Niewinny Katalizator / Zjawisko Dwóch Saren
-**Powiązania:** Wilk Samotnik (Dariusz), Wiedźma Adamowska, Zjawisko Dwóch Saren
+**Powiązania:** Wilk Samotnik (Dariusz), Wiedźma Barabara, Zjawisko Dwóch Saren
 
 ## Opis
 

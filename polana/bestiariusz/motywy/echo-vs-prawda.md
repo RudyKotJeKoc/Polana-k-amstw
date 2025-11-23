@@ -1,7 +1,7 @@
 # Echo vs. Prawda
 
 **Typ:** Motyw narracyjny / psychologiczny
-**Powiązania:** Wiedźma Adamowska (Kalendarz Krzywd), Sroka Dorota (megafon plotek), Bociany z Odciętymi Skrzydłami (chór powielaczy), Puszczyk Halager (Sąd Papieru), Wilk Samotnik (stojący w prawdzie)
+**Powiązania:** Wiedźma Barabara (Kalendarz Krzywd), Sroka Dorota (megafon plotek), Bociany z Odciętymi Skrzydłami (chór powielaczy), Puszczyk Halager (Sąd Papieru), Wilk Samotnik (stojący w prawdzie)
 
 **Opis:**
 Echo vs. Prawda to centralny motyw Polany Kłamstw: powtórzone kłamstwo staje się prawdą, zagłuszając fakty. Gdy echo jest wystarczająco głośne i powtarzane przez wystarczająco wielu — system prawny, rodzina, społeczność — przestaje się liczyć to, co rzeczywiście się wydarzyło. Liczy się tylko to, co zostało zapisane, powtórzone, wzmocnione.

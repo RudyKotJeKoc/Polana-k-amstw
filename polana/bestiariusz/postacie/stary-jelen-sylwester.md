@@ -11,7 +11,7 @@ powiazane_motywy:
   - instrumentalizacja
   - pokemon_kontrolowany
 powiazane_postacie:
-  - wiedzma-adamowska
+  - barbara-adamska
   - wilk-samotnik
 tagi:
   - marionetka

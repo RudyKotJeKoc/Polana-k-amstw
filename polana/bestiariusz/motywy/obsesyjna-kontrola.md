@@ -1,7 +1,7 @@
 # Obsesyjna kontrola
 
 **Typ:** Motyw psychologiczny / narracyjny
-**Powiązania:** Wiedźma Adamowska (Barbara), Wilk Samotnik (Dariusz), Stary Jeleń (Sylwester), Sarenka z Polany (Julia), Pokéball Wiedźmy (pełnomocnictwo), Kalendarz Krzywd, Niebieska Karta, Manipulacja systemem prawnym
+**Powiązania:** Wiedźma Barabara (Barbara), Wilk Samotnik (Dariusz), Stary Jeleń (Sylwester), Sarenka z Polany (Julia), Pokéball Wiedźmy (pełnomocnictwo), Kalendarz Krzywd, Niebieska Karta, Manipulacja systemem prawnym
 
 **Opis:**
 Obsesyjna kontrola to centralny motyw Polany Kłamstw: destrukcyjna potrzeba dominacji i kontroli nad życiem innych. Wiedźma (Barbara) nie może znieść autonomii syna, wolności Sylwestra, obecności Sarenki. Każda próba niezależności jest postrzegana jako atak. Każda granica jest prowokacją. Każda odmowa podporządkowania jest wojną.

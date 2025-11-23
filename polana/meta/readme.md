@@ -105,7 +105,7 @@
     - Sprawca-ofiara – mechanizmy konfliktu
 
 11. **[kontekst_2.md](./kontekst_2.md)** – Szczegółowa analiza Barbary Adamskiej
-    - Profil psychologiczny "Wiedźmy Adamowskiej"
+    - Profil psychologiczny "Wiedźmy Barabary"
     - Mechanizmy manipulacji i kontroli
     - Kalendarz Wiedźmy – broń procesowa
     - Kłamstwa i sprzeczności
@@ -155,7 +155,7 @@
 
 ### Archetypy Dramatyczne
 
-- **Wiedźma Adamowska** (Barbara Adamska) – Architekt chaosu, obsesyjna kontrolerka
+- **Wiedźma Barabara** (Barbara Adamska) – Architekt chaosu, obsesyjna kontrolerka
 - **Wilk Samotnik** (Dariusz Adamski) – Ofiara stojąca w prawdzie, tragiczny bohater
 - **Stary Jeleń / Papesmerf** (Sylwester Adamski) – Tragiczna marionetka
 - **Sarenka z Polany** (Julia Kowalska) – Niewinny katalizator

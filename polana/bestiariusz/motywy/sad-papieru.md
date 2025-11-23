@@ -1,7 +1,7 @@
 # Sąd Papieru
 
 **Typ:** Motyw narracyjny / systemowy / krytyczny
-**Powiązania:** Puszczyk Halager (sędzia Iwona Łuczak), Wilk Samotnik (Dariusz), Wiedźma Adamowska (Barbara), Kalendarz Krzywd, Manipulacja systemem prawnym, Echo vs. Prawda, Zdrada Adwokata
+**Powiązania:** Puszczyk Halager (sędzia Iwona Łuczak), Wilk Samotnik (Dariusz), Wiedźma Barabara (Barbara), Kalendarz Krzywd, Manipulacja systemem prawnym, Echo vs. Prawda, Zdrada Adwokata
 
 **Opis:**
 Sąd Papieru to centralny motyw Polany Kłamstw: system prawny ślepo ufający dokumentom, ignorujący rzeczywistość. Sędzia widzi papiery, nie ludzi. Widzi protokoły, nie kontekst. Widzi wyroki, nie prawdę. Co jest zapisane na papierze — to jest prawda. Co nie jest zapisane — nie istnieje.

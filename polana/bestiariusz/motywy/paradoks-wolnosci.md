@@ -1,7 +1,7 @@
 # Paradoks wolności
 
 **Typ:** Motyw narracyjny / egzystencjalny
-**Powiązania:** Wilk Samotnik (Dariusz), Wiedźma Adamowska (Barbara), Bóbr z Duchem Wilka, Dom nr 8 (więzienie), Echo vs. Prawda, Sąd Papieru
+**Powiązania:** Wilk Samotnik (Dariusz), Wiedźma Barabara (Barbara), Bóbr z Duchem Wilka, Dom nr 8 (więzienie), Echo vs. Prawda, Sąd Papieru
 
 **Opis:**
 Paradoks wolności to centralny motyw Polany Kłamstw: przegrana materialna jako zwycięstwo duchowe. Wilk traci dom, majątek, wyrok — ale wygrywa wolność. Wiedźma wygrywa sprawę sądową i przejmuje dom — ale przegrywa wszystko: syna, sens, przyszłość. Dom staje się pustym trofeum, a cisza w nim — najgłośniejszym dźwiękiem porażki.
