@@ -4,7 +4,7 @@ slug: "kociol-krzywd"
 kategoria: "artefakt"
 typ: "Źródło toksycznej atmosfery"
 powiazane_postacie:
-  - wiedzma-adamowska
+  - barbara-adamska
 powiazane_motywy:
   - toksyczna_rodzina
   - gromadzenie_krzywd

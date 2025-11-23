@@ -4,7 +4,7 @@ slug: "dom-numer-8"
 kategoria: "artefakt"
 typ: "Więzienie i pole bitwy"
 powiazane_postacie:
-  - wiedzma-adamowska
+  - barbara-adamska
   - wilk-samotnik
   - stary-jelen-sylwester
 powiazane_motywy:

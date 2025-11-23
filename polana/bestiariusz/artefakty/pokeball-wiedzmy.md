@@ -4,7 +4,7 @@ slug: "pokeball-wiedzmy"
 kategoria: "artefakt"
 typ: "Narzędzie Kontroli"
 powiazane_postacie:
-  - wiedzma-adamowska
+  - barbara-adamska
   - stary-jelen-sylwester
   - bobr-z-duchem-wilka
   - duch-wilka

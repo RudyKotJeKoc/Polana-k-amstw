@@ -1,6 +1,6 @@
 ---
 title: "Wiedźma Barabara"
-slug: "wiedzma-adamowska"
+slug: "barbara-adamska"
 kategoria: "postac"
 archetyp: "Architekt Destrukcji"
 powiazane_symbole:

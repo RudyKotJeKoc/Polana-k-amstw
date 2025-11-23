@@ -181,8 +181,8 @@ W "Boskiej Komedii" Dantego ósmy krąg piekła przeznaczony jest dla:
 
 ---
 
-<a name="wiedzma-adamowska"></a>
-# 4. WIEDŹMA ADAMOWSKA – ARCHITEKT DESTRUKCJI
+<a name="wiedzma-barabara"></a>
+# 4. WIEDŹMA BARABARA – ARCHITEKT DESTRUKCJI
 
 ## 4.1 Profil Psychologiczny
 

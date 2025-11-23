@@ -12,7 +12,7 @@ powiazane_motywy:
   - milczenie_domu
 powiazane_postacie:
   - wilk-samotnik
-  - wiedzma-adamowska
+  - barbara-adamska
   - duch-wilka
 tagi:
   - obowiązki

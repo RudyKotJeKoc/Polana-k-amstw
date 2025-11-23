@@ -13,7 +13,7 @@ powiazane_motywy:
   - izolacja_obronna
   - odkupienie_przez_rezygnacje
 powiazane_postacie:
-  - wiedzma-adamowska
+  - barbara-adamska
   - stary-jelen-sylwester
   - sarenka-z-polany
   - hiena-domkowa

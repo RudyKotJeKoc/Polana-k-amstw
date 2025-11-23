@@ -13,7 +13,7 @@ powiazane_motywy:
   - obserwacja_bez_uczestnictwa
 powiazane_postacie:
   - bobr-z-duchem-wilka
-  - wiedzma-adamowska
+  - barbara-adamska
   - wataha
 tagi:
   - duch

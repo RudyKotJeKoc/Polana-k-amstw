@@ -105,7 +105,7 @@
     - Sprawca-ofiara – mechanizmy konfliktu
 
 11. **[kontekst_2.md](./kontekst_2.md)** – Szczegółowa analiza Barbary Adamskiej
-    - Profil psychologiczny "Wiedźmy Adamowskiej"
+    - Profil psychologiczny "Wiedźmy Barabary"
     - Mechanizmy manipulacji i kontroli
     - Kalendarz Wiedźmy – broń procesowa
     - Kłamstwa i sprzeczności
