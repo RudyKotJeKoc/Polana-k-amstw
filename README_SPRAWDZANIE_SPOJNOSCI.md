@@ -15,9 +15,19 @@ Skrypt sprawdza:
 
 ## Uruchomienie
 
+### Podstawowe użycie
+
 ```bash
 python3 check_narrative_consistency.py
 ```
+
+### Z własną ścieżką do repozytorium
+
+```bash
+python3 check_narrative_consistency.py /ścieżka/do/repozytorium
+```
+
+Domyślnie skrypt zakłada uruchomienie w środowisku CI/CD z ścieżką `/home/runner/work/Polana-k-amstw/Polana-k-amstw`.
 
 ## Wyniki
 
