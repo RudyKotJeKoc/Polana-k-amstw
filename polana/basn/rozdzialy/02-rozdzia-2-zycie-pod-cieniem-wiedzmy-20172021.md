@@ -8,119 +8,96 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 
 Rozdział 2: Życie pod Cieniem Wiedźmy (2017–2021)
 
-⚑ Wydarzenie kanoniczne.
+(wersja baśniowa, spójna, narracyjna)
 
-Lata, które nastąpiły po darowiźnie, z daleka wyglądały na spokojne. Dom stał, las rósł, polana oddychała. Był to jednak czas, w którym Wiedźma metodycznie gromadziła amunicję. Jej Kocioł Krzywd nigdy nie stygł. Żywił się każdą pretensją, każdą plotką przyniesioną przez Srokę Dorotę, każdym niewypowiedzianym oskarżeniem, które buzowało pod przykrywką. Wiedźma nie atakowała od razu. Czekała, obserwowała, a przede wszystkim – zapisywała.
+Po Darowiźnie Polana wydawała się spokojna. Dom stał tam, gdzie stał, drzewa kołysały się jak dawniej, a światło wpadało do okien tak samo jak rok wcześniej. Lecz był to spokój pozorny — taki, który tylko z daleka wygląda jak cisza, a z bliska okazuje się czekaniem na coś złego.
 
-Jej największą bronią był Kalendarz Wiedźmy. Nie był to zwykły pamiętnik, lecz precyzyjna kronika oskarżeń, tworzona z myślą o przyszłym procesie. Każde zdanie było sformułowane tak, jakby wiedziała, że kiedyś trafi do sądu. Selektywne i wyrachowane zapiski brzmiały jak protokoły przesłuchań:
+Wiedźma Adamowska nie rzucała zaklęć od razu. Przemykała przez komnaty cicho, jakby wciąż jeszcze spała z otwartymi oczami. Ale jej Kocioł Krzywd bulgotał nieustannie. Każda podsłuchana plotka, każde domniemane przewinienie, każda historia przyniesiona przez Srokę Dorotę — wszystko to wpadało do kotła jak kolejne źdźbło, które prędzej czy później miało zapłonąć.
 
-„10 lutego – wtargnęłam do pokoju Dariusza o 2:30. Spał z tą francą."
+Jej największym przedmiotem mocy stał się Kalendarz Wiedźmy — księga, w której nie zapisywało się wspomnień, lecz oskarżenia. Nie była to kronika życia, lecz zbiór zaklęć przygotowywanych na przyszłe starcie. Każdy wpis, zapisany ostrym piórem, był jak cień rzucony na Bobra:
 
-„11 lutego – od tej pory śpią razem. Nie mam wątpliwości."
+„Tego dnia w nocy cicho weszłam do jego izby. Spał z tą obcą dziewczyną.”
+„Nazajutrz byli już parą. To kara za moje cierpienia.”
+„Z dnia na dzień ogłosili to wszem i wobec. Zrobili to na złość mnie.”
 
-„14 lutego – ogłosili związek na Facebooku. Zemsta na mnie."
+Tak tworzy się magia czerni — nie z faktów, lecz z domysłów powtarzanych w myślach tak długo, aż nabiorą mocy.
 
-Wilk w tym okresie próbował utrzymać pokój jedynym sposobem, jaki znał: poprzez milczenie i pracę. Wyjeżdżał do Holandii, wysyłał pieniądze, finansował utrzymanie domu, a nawet płacił za błędy Wiedźmy, jak kara z KRUS w wysokości 18 tysięcy złotych, na którą naraziła rodzinę za namową Sroki Doroty. Jednak nawet jego milczenie było przez Wiedźmę interpretowane jako broń. W swoim kalendarzu notowała: „Dariusz mnie ignoruje. To psychiczne znęcanie”. Każde jego słowo i każdy brak słowa stawały się amunicją.
+A w tym czasie Bóbr próbował żyć najzwyczajniej w świecie: pracować, pomagać, wysyłać pieniądze i wracać na Polanę wtedy, gdy jego ród potrzebował wsparcia. Nie rozumiał jeszcze, że w oczach Wiedźmy nawet cisza potrafi stać się zarzutem. Gdy milczał — pisała, że ją krzywdzi. Gdy pracował — pisała, że ją lekceważy. Gdy nie odpowiadał — pisała, że to atak.
 
-Cierpliwość ma jednak swoje granice, a Wiedźma doskonale o tym wiedziała. Czekała na iskrę, która rozpali pożar. I ta iskra nadeszła w lutym 2021 roku.
+Tak rodzi się cień, który rośnie, kiedy nikt go nie wypowiada na głos.
 
+Powrót Bobra i Ranny Jeleń
 
---------------------------------------------------------------------------------
+Kiedy Stary Jeleń zapadł na ciężką chorobę, Bóbr wrócił na Polanę — nie z obowiązku, lecz z serca. Zajął dawną dziuplę, tę z numerem ósmym, którą kiedyś podarował w geście miłości. Teraz ta sama dziupla stała się miejscem jego wewnętrznej przemiany.
 
+Opieka nad rannym Jeleniem była zadaniem, które wykonywał z naturalną dla siebie czułością: podawał wodę, pomagał w codzienności, podnosił ducha. Kupił mu nawet mały pojazd elektryczny, by łatwiej mógł pokonywać leśne ścieżki.
 
-## Powrót Bobra i Opieka nad Rannym Jeleniem
+Miał nadzieję, że ten gest dobroci ocali to, co jeszcze da się ocalić.
 
-Kiedy Stary Jeleń dostał wylewu mózgu (~2019), Bóbr wrócił na Polanę Kłamstw.
+Ale Polana Kłamstw od dawna nie była już miejscem, w którym dobro przynosi spokój.
 
-Zamieszkał w **dziupli nr 8** – domu, który kiedyś darował z miłości, a który teraz stawał się jego więzieniem i miejscem przemiany.
+Budowanie Tam Emocjonalnych
 
-Ojciec potrzebował opieki. Był słaby, ranny, zależny. Bóbr – w swoim archetypie opiekuna i budowniczego – nie mógł odejść. Opiekował się rannym Jeleniem: pomagał mu w codziennych czynnościach, próbował przywrócić mu godność, kupił mu skuter elektryczny, by ułatwić mu funkcjonowanie.
+Bóbr robił więc to, co potrafił najlepiej — budował tamy.
 
-Ale Polana Kłamstw nie była już miejscem, w którym można było po prostu żyć.
+Nie z kamienia, lecz z przestrzeni, granic i koniecznej ciszy.
+Chciał stworzyć bezpieczny krąg, choćby najmniejszy, w którym mógłby oddychać i nie patrzeć co chwila przez ramię.
 
-### Budowanie Tam Emocjonalnych
+I tak:
 
-Bóbr robił to, co umiał najlepiej: **budował tamy**.
+– wieszał leśne „oczka” — magiczne szkła pamięci, by zarejestrować wszelkie prowokacje;
+– zamykał warsztat na nowe hasła, by choć jedna izba pozostała wolna od cudzych spojrzeń;
+– uszczelniał ściany, by oddzielić się od natrętnej obecności;
+– zamykał pomieszczenia gospodarcze, by odbudować fizyczny dystans.
 
-Fizyczne i psychiczne. Tamy, które miały zatrzymać powódź toksyczności, która zalewała dziuplę nr 8.
+Każda tama była obroną przed wodą, która chciała go zalać.
+W Kalendarzu Wiedźmy każda tama była jednak ogłoszona jako „atak”.
 
-- Montował kamery monitoringu (nie po to, by inwigilować, ale by mieć dowody na prowokacje)
-- Zmieniał kody dostępu do warsztatu (by mieć choć kawałek przestrzeni, do której Wiedźma nie wejdzie bez pukania)
-- Izolował się pianką montażową (desperacka próba odcięcia się od wzroku Wiedźmy)
-- Zamykał pomieszczenia, do których Wiedźma nie miała prawa (warsztat, pomieszczenia gospodarcze)
+Taki jest los tych, którzy bronią się przed kimś, kto nie zna granic — ich granice wyglądają jak broń.
 
-Każda z tych rzeczy była gestem obrony, nie agresji. Ale w Kalendarzu Wiedźmy każda tama była zapisywana jako "atak".
+Czary Wiedźmy
 
-### Ignorowanie Czarów Wiedźmy
+Wiedźma zaczęła tkać narracje, które miały nadać jej poczucie władzy.
+Tworzyła obrazy tak żywe, że sama zaczynała w nie wierzyć:
 
-Wiedźma zaczęła wytwarzać **"czary"** – projekcje psychiczne, urojenia, narracje wymyślane z lęku.
+„Kamery po to, by mnie śledzić.”
+„Nowe zamki po to, by mnie wyrzucić.”
+„Jego milczenie to czar znęcania.”
 
-Jej Kalendarz Krzywd gromadził oskarżenia:
-- "Zamontował kamery, żeby mnie śledzić"
-- "Zmieniał kody, żeby mnie wyrzucić"
-- "Ignoruje mnie, to psychiczne znęcanie"
+Ale to nie były czary wymierzone w Bobra.
+To były zaklęcia, którymi próbowała oswoić własny lęk.
 
-Ale Bóbr był odporny.
+Bóbr stał poza ich zasięgiem — jak głaz, o który rozbijają się fale. Im bardziej był niewzruszony, tym mocniej Wiedźma próbowała nadać jego ciszy własną interpretację. A im częściej jej zaklęcia odbijały się od rzeczywistości, tym mocniej mieszała swój Kocioł.
 
-Widział, że to jej walka z cieniem, nie z nim. Rozumiał, że jej "czary" to tylko projekcje, nie rzeczywistość. Zachowywał dystans emocjonalny, by przetrwać.
+Światło w Izdebce
 
-Skupiał się na obowiązkach: naprawianiu, budowaniu, opiekowaniu się.
+A jednak, pośród tych cieni, był jedno miejsce, którego magia Wiedźmy nie sięgała — Izdebka Adamowa.
 
-### Wiedźma Próbuje "Złapać" Bobra Pokéballem
+Mały pokoik, w którym panował porządek dziecka, nie chaos dorosłych. Tam mieszkała Jaskółka Martynka — dziewczynka z sercem jasnym jak strumień po zimie.
 
-Wiedźma używała wszystkich narzędzi, by go podporządkować:
-- manipulacja
-- prowokacje
-- oskarżenia
-- kalendarz pełen "dowodów"
+Martynka układała miseczki dla kotów, rysowała patykiem ścieżki na podłodze i liczyła krople spadające z rynny, jakby każda była osobnym darem. A za domem stał Kocidomek — królestwo progu, gdzie panowały Zuza i Lotka, dwie opiekuńcze kotki, które zawsze wiedziały, komu wolno zaufać.
 
-Próbowała "złapać" Bobra do Pokéballa – metafora kontroli.
+Koty nigdy nie służą Wiedźmom.
+Koty wybierają serce.
 
-Ale Bóbr miał zbyt silną świadomość, by dać się złapać w jej narrację.
+Gdy Martynka siadała przy Kocidomku, świat uspokajał się na chwilę. Nawet drzewa szeleściły wtedy inaczej — jakby ciszej.
 
-**Jej czary na niego nie działały.**
+Planszówki pod Dębem — Krąg Czasu
 
-Był jak skała w rzece – woda (manipulacja) opływała go, ale go nie poruszała.
+Czasem Bóbr siadał z Martynką pod rozłożystym Dębem.
+Układali kamyczki, grali w domino, przesuwali pionki po desce.
 
-I to doprowadzało Wiedźmę do coraz większej frustracji.
+Te chwile były jak oddechy między burzami.
+Jak światło prześwitujące między gęstymi chmurami.
 
+Nie padło tam ani jedno trudne słowo.
+Nie było potrzeby pytać o przyszłość ani o powody.
 
---------------------------------------------------------------------------------
+Była obecność — ta, która leczy, nawet jeśli nie wypowiada zaklęć.
 
-
-## Światło w Izdebce
-
-Nie wszystko na Polanie Kłamstw było ciemne.
-
-Była **Izdebka Adamowa** – małe pomieszczenie, w którym dało się jeszcze przysiąść bez krzyków. Nie było wielkie, nie było luksusowe. Ale było **ciepłe**.
-
-Jej królestwo: **Jaskółka Martynka**, ośmioletnia dziewczynka, dziecko światła.
-
-Martynka układała miseczki dla kotów, rysowała patykiem po podłodze, liczyła krople spływające z dachu. Tworzyła własny porządek w świecie, który bywał głośny i trudny. W Izdebce świat na chwilę stawał się normalny.
-
-Był też **Kocidomek** – sanktuarium progu. Drewniana budka za domem, dom kotów, miejsce zabaw, schronienie. Martynka bawiła się tam godzinami: układała planszówki pod drzewem, karmiła koty, siedziała cicho i patrzyła, jak Zuza i Lotka mruczą.
-
-**Zuza i Lotka** – kocie duchy progu – wiedziały, kto ma czyste serce. Koty nie dają się oszukać. Nie mruczą dla każdego.
-
-Ale dla Jaskółki mruczały zawsze.
-
-Ich mruczenie uciszało burzę. Gdy Martynka siedziała przy Kocidomku, koty przychodziły, kładły się obok bez słowa. Ich obecność mówiła: *"Tu jest bezpiecznie."*
-
-### Planszówki pod Dębem – Krąg Czasu
-
-Były też chwile, gdy Bóbr (czy może już wtedy Wilk?) siadał z Martynką pod drzewem. Układali chińczyka, warcaby, domino. Czasem tworzyła własne gry z kamieni i patyków.
-
-Chwile spokoju. Czułej obecności.
-
-W tych momentach Polana Kłamstw przestawała być polem bitwy. Stawała się po prostu miejscem, gdzie dziadek (czy wuj?) i dziewczynka grają w chińczyka.
-
-Jaskółka nie zadawała trudnych pytań. Nie oceniała. Po prostu **była**.
-
-I w tej obecności było coś, co przypominało o tym, że mimo wszystkich tragedii – **dobro istnieje i warto je chronić**.
-
----
-
-Ale to światło nie mogło trwać wiecznie. Ciemność Polany Kłamstw zaczęła otaczać nawet Izdebkę.
+Ale żadna jasność nie trwa wiecznie.
+Cień Polany był cierpliwy.
+Wiedział, że nadejdzie czas, w którym nawet Izdebka zostanie wciągnięta w mrok.
 
 
 --------------------------------------------------------------------------------
