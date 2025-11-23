@@ -8,18 +8,19 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 
 Rozdział 1: Darowizna (7.07.2017) – Pakt z Naiwności
 
-⚑ Wydarzenie kanoniczne.
+(wersja baśniowa, miękka, płynna)
 
-Siódmego dnia siódmego miesiąca, w dacie pełnej symbolicznej nadziei, w kancelarii notariusza złożono pieczęć przeznaczenia. Akt darowizny, który miał przynieść pokój, stał się momentem, w którym Wilk, w akcie czystej dobroci, nieświadomie wręczył Wiedźmie najpotężniejszą broń.
+Siódmego dnia siódmego miesiąca, w chwili, gdy liczby układały się jak znaki dobrego losu, Bóbr wszedł do kamiennej komnaty, gdzie kronikarze pieczętują ludzkie decyzje. Przyniósł ze sobą dar serca — wielki i czysty jak letnia woda w strumieniu. Wierzył, że jeśli odda rodzinną chatę, jeśli sam ustąpi, jeśli odsunie od siebie wszelkie prawa, to na Polanie zapanuje wreszcie spokój.
 
-Wilk był wtedy jeszcze **Bobrem** – pracownikiem firmy Bonenkamp, który naprawiał maszyny komunalne, zamiatarki, wypalarki, traktory, sprzęt gminny. Precyzyjny, metodyczny, odpowiedzialny. Opiekun Porządku Lasu. Jego dar z serca – darowizna domu – był gestem Bobra-budowniczego, który wierzył, że jeśli tylko wystarczająco dobrze zabezpieczy rodziców, wszystko wreszcie będzie w porządku.
+Bóbr, mistrz napraw, strażnik porządku i żelaznych kół, żył wtedy jeszcze jak prawdziwy budowniczy Lasu. Naprawiał wielkie maszyny ludzi — pojazdy, zamiatarki, traktory — wszystko, co mogło ruszyć świat z miejsca. Ufał, że dobro, dane innym bez wahania, zawsze wraca.
 
-Ale Wiedźma już wtedy zaczynała zapisywać wszystko w swoim Kalendarzu.
+Nie wiedział, że za jego plecami stała postać, której cień był dłuższy niż cały stół notariusza. Kobieta, którą Las zapamięta pod imieniem Wiedźma Adamowska. Nie wypowiedziała ani słowa, nie dotknęła pergaminu, nie złożyła pieczęci. A jednak jej obecność wypełniała komnatę jak chłód przed burzą.
 
-W scenie skąpanej w urzędowym świetle, Wilk nalegał na zapis, który miał być tarczą przed przyszłymi konfliktami. Ciężko pracując za granicą, inwestował w dom całe swoje życie – montował solary, kładł fotowoltaikę, ocieplał ściany. Wiedział, że matka nigdy nie pozwoli mu spokojnie zarządzać tym miejscem, dlatego sam zaproponował: dożywotnią służebność osobistą na cały budynek mieszkalny dla obojga rodziców. Myślał naiwnie: „Jeśli dam im cały dom, nie będzie o co walczyć. Niech mają wszystko. Niech będzie spokój”. On ofiarował im prawo do mieszkania, wierząc, że to wystarczy. Nie wiedział, że w języku Wiedźmy „prawo do mieszkania” zostanie kiedyś przetłumaczone na „prawo do jego duszy, portfela i życia”.
+Bóbr, chcąc na zawsze usunąć powód rodzinnych sporów, poprosił kronikarza o zapis niezwykle hojny: aby starzy domownicy mogli korzystać z całej chaty do końca swoich dni. Myślał prosto i po bobrowemu:
+„Gdy dam im wszystko, nie zostanie nic, o co mogliby walczyć. Niech Las wreszcie odpocznie.”
 
-Wiedźma Adamowska nie była stroną umowy. Nie złożyła podpisu. Stała w cieniu, a jej obecność unosiła się nad aktem jak zły omen. W jednej chwili zrozumiała, jak ten gwóźdź dobroci – zapis o służebności – może zostać przekształcony w gwóźdź do trumny Wilka, w narzędzie niekończących się roszczeń i oskarżeń.
+Nie przeczuwał, że w języku Wiedźmy takie dary nie pachną pokojem, lecz zapowiedzią plądrowania. Bo Wiedźma Adamowska miała w sobie talent, jakiego nie znał żaden duch lasu – potrafiła każdą życzliwość przemielić w żądanie, każdy gest serca obrócić w kajdany.
 
-Gdy wrócili do domu, Wilk czuł ulgę. Wierzył, że nareszcie mogą żyć normalnie. Tego samego wieczoru Wiedźma Adamowska podeszła do swojego Kotła Krzywd. Jej twarz stężała w grymasie determinacji. Złapała za chochlę i zaczęła mieszać. Pierwsze bąble goryczy wypłynęły na powierzchnię. Jej długoterminowy plan właśnie się rozpoczął.
+Gdy wrócili do chaty, Bóbr odetchnął. Wydawało mu się, że ciężar z barków wreszcie spadł na miękką trawę. Ale tego samego wieczoru, kiedy Księżyc wychylił się znad dachów, Wiedźma podeszła do swojego Kotła Krzywd. Powoli, jakby rytualnie, zaczęła mieszać chochlą. Na powierzchnię kotła wypływały pierwsze pęcherze przyszłych żalów.
 
-
+Tego dnia nikt jeszcze nie wiedział, że spokojna darowizna stanie się początkiem długiej opowieści o tym, jak łatwo dobro może stać się sidłem, a pakt z naiwnych nadziei — cienką nitką prowadzącą w głąb Lasu Kłamstw.
