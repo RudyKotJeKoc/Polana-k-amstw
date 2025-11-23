@@ -8,6 +8,8 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 
 Rozdział 9: Stary Jeleń – Marionetka
 
+⚑ Wydarzenie kanoniczne.
+
 W centrum tej historii stała postać tragiczna – Stary Jeleń Sylwester. Po przebytym wylewie, z pierwszą grupą inwalidzką i poważnymi ograniczeniami poznawczymi, stał się całkowicie zależny od Wiedźmy. W strategicznym momencie, 19 lipca 2021 roku, zaledwie dwa dni po założeniu Niebieskiej Karty, podpisał szerokie pełnomocnictwo, które zamieniło go w bezwolne narzędzie w rękach żony.
 
 Dowodem manipulacji była diamentowa sprzeczność w jego oświadczeniach. 3 sierpnia, podczas przesłuchania na policji, stwierdził jasno: „Nie. Dariusz mnie nie obraża”. Jednak zaledwie trzy dni później, 6 sierpnia, w jego imieniu wysłano list odwołujący darowiznę, w którym napisano: „Mój syn kieruje wyzwiska wobec mnie”. Ta drastyczna zmiana narracji w tak krótkim czasie obnażyła, kto pociągał za sznurki.

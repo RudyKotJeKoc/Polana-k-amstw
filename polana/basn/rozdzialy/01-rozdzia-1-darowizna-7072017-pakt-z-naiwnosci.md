@@ -8,6 +8,8 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 
 Rozdział 1: Darowizna (7.07.2017) – Pakt z Naiwności
 
+⚑ Wydarzenie kanoniczne.
+
 Siódmego dnia siódmego miesiąca, w dacie pełnej symbolicznej nadziei, w kancelarii notariusza złożono pieczęć przeznaczenia. Akt darowizny, który miał przynieść pokój, stał się momentem, w którym Wilk, w akcie czystej dobroci, nieświadomie wręczył Wiedźmie najpotężniejszą broń.
 
 Wilk był wtedy jeszcze **Bobrem** – pracownikiem firmy Bonenkamp, który naprawiał maszyny komunalne, zamiatarki, wypalarki, traktory, sprzęt gminny. Precyzyjny, metodyczny, odpowiedzialny. Opiekun Porządku Lasu. Jego dar z serca – darowizna domu – był gestem Bobra-budowniczego, który wierzył, że jeśli tylko wystarczająco dobrze zabezpieczy rodziców, wszystko wreszcie będzie w porządku.

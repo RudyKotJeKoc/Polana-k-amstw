@@ -15,6 +15,8 @@ powiazane_artefakty:
 
 # Rozdział 13: Służący Wiedźmy BaraBary
 
+⚑ Wydarzenie kanoniczne.
+
 ## Prologpostacie: Baśń o Tronie i Pergaminie
 
 *W głębi Krajna, gdzie prawda gnije pod zamkniętymi drzwiami, stoi Dom numer 8. W tym Domu siedzi Wiedźma o dziwnym imieniu – BaraBary. Echo jej imienia powtarza się w pustych komnatach: Bara-Bary, Bara-Bary. Jakby jej własne imię było zaklęciem, które sama rzuciła na siebie.*
