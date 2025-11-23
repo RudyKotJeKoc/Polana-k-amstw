@@ -85,7 +85,7 @@ class NarrativeConsistencyChecker:
             'Domek', 'Domka', 'Domkiem',
             'Sarnecki', 'Sarneckiego', 'Sarneckim',
             'Borsuk', 'Borsuka', 'Borsukiem',
-            'BaraBary', 'BaraBary',
+            'BaraBary',
         ]
         
         # Mapowanie form gramatycznych na bazową formę
@@ -301,23 +301,24 @@ class NarrativeConsistencyChecker:
         print("\n--- Weryfikacja obecności w bestiariuszu ---")
         
         # Uproszczone mapowanie (z uwagi na różne formy gramatyczne)
+        # Używamy pełnych nazw postaci dla łatwiejszego dopasowania
         character_mapping = {
             'Wilk': ['wilk-samotnik.md', 'duch-wilka.md'],
-            'Wiedźm': ['wiedzma-adamowska.md', 'wiedzma-barabara.md'],
-            'Sarenk': ['sarenka-z-polany.md'],
-            'Juli': ['sarenka-z-polany.md'],  # Julia to Sarenka
+            'Wiedźma': ['wiedzma-adamowska.md', 'wiedzma-barabara.md'],
+            'Sarenka': ['sarenka-z-polany.md'],
+            'Julia': ['sarenka-z-polany.md'],  # Julia to Sarenka
             'Bobr': ['bobr-z-duchem-wilka.md'],
             'Jeleń': ['stary-jelen-sylwester.md'],
             'Sylwester': ['stary-jelen-sylwester.md'],
-            'Barbar': ['wiedzma-adamowska.md', 'wiedzma-barabara.md'],
+            'Barbara': ['wiedzma-adamowska.md', 'wiedzma-barabara.md'],
             'BaraBary': ['wiedzma-barabara.md'],
-            'Hien': ['hiena-domkowa.md'],
+            'Hiena': ['hiena-domkowa.md'],
             'Puszczyk': ['puszczyk-halager.md'],
-            'Srok': ['sroka-dorota.md'],
-            'Dorot': ['sroka-dorota.md'],
-            'Jaskółk': ['jaskolka-martynka.md'],
-            'Martynk': ['jaskolka-martynka.md'],
-            'Domek': ['hiena-domkowa.md'],  # Domek to adwokat, sprawdzić czy ma plik
+            'Sroka': ['sroka-dorota.md'],
+            'Dorota': ['sroka-dorota.md'],
+            'Jaskółka': ['jaskolka-martynka.md'],
+            'Martynka': ['jaskolka-martynka.md'],
+            'Domek': ['hiena-domkowa.md'],  # Domek to adwokat
             'Sarnecki': ['sarna-sarnecki.md'],
             'Borsuk': ['borsuk-bogdaszewski.md'],
         }
@@ -327,13 +328,13 @@ class NarrativeConsistencyChecker:
         
         for char in sorted(all_mentioned_characters):
             found = False
-            for key, files in character_mapping.items():
-                if char.startswith(key):
-                    for file in files:
-                        if file in existing_files:
-                            found = True
-                            print(f"✅ {char} -> {file}")
-                            break
+            # Sprawdzamy dokładne dopasowanie
+            if char in character_mapping:
+                for file in character_mapping[char]:
+                    if file in existing_files:
+                        found = True
+                        print(f"✅ {char} -> {file}")
+                        break
             
             if not found:
                 issue = f"⚠️  Postać '{char}' może nie mieć odpowiadającego pliku w bestiariuszu"
@@ -466,13 +467,19 @@ class NarrativeConsistencyChecker:
 
 def main():
     import sys
+    import os
     
     # Pozwól na podanie ścieżki jako argument
     if len(sys.argv) > 1:
         base_path = sys.argv[1]
     else:
-        # Domyślna ścieżka
-        base_path = "/home/runner/work/Polana-k-amstw/Polana-k-amstw"
+        # Próbuj znaleźć katalog polana w bieżącym katalogu lub katalogach nadrzędnych
+        current_dir = os.getcwd()
+        if os.path.exists(os.path.join(current_dir, 'polana')):
+            base_path = current_dir
+        else:
+            # Domyślna ścieżka dla środowiska CI/CD
+            base_path = "/home/runner/work/Polana-k-amstw/Polana-k-amstw"
     
     checker = NarrativeConsistencyChecker(base_path)
     checker.run()
