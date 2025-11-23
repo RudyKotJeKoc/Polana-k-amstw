@@ -44,24 +44,19 @@ class NarrativeConsistencyChecker:
         """Ekstraktuje daty z tekstu."""
         dates = []
         
-        # Różne formaty dat:
-        # 07.07.2017, 7.07.2017
+        # Format: 07.07.2017, 7.07.2017, 10.02.2021
         pattern1 = r'\b(\d{1,2}\.\d{1,2}\.\d{4})\b'
         dates.extend(re.findall(pattern1, text))
         
-        # 10.02.2021, 2:30
-        pattern2 = r'\b(\d{1,2}\.\d{1,2}\.\d{4})\b'
-        dates.extend(re.findall(pattern2, text))
-        
         # Luty 2021, Czerwiec 2021
-        pattern3 = r'\b(Styczeń|Luty|Marzec|Kwiecień|Maj|Czerwiec|Lipiec|Sierpień|Wrzesień|Październik|Listopad|Grudzień)\s+(\d{4})\b'
-        month_matches = re.findall(pattern3, text)
+        pattern2 = r'\b(Styczeń|Luty|Marzec|Kwiecień|Maj|Czerwiec|Lipiec|Sierpień|Wrzesień|Październik|Listopad|Grudzień)\s+(\d{4})\b'
+        month_matches = re.findall(pattern2, text)
         for month, year in month_matches:
             dates.append(f"{month} {year}")
         
         # 2017-2021
-        pattern4 = r'\b(\d{4})[–-](\d{4})\b'
-        ranges = re.findall(pattern4, text)
+        pattern3 = r'\b(\d{4})[–-](\d{4})\b'
+        ranges = re.findall(pattern3, text)
         for start, end in ranges:
             dates.append(f"{start}-{end}")
         
@@ -93,11 +88,33 @@ class NarrativeConsistencyChecker:
             'BaraBary', 'BaraBary',
         ]
         
+        # Mapowanie form gramatycznych na bazową formę
+        base_form_map = {
+            'Wilk': 'Wilk', 'Wilka': 'Wilk', 'Wilkiem': 'Wilk', 'Wilkowi': 'Wilk',
+            'Wiedźma': 'Wiedźma', 'Wiedźmy': 'Wiedźma', 'Wiedźmie': 'Wiedźma', 'Wiedźmą': 'Wiedźma',
+            'Sarenka': 'Sarenka', 'Sarenki': 'Sarenka', 'Sarenkę': 'Sarenka', 'Sarence': 'Sarenka',
+            'Julia': 'Julia', 'Julii': 'Julia', 'Julią': 'Julia',
+            'Bobr': 'Bobr', 'Bobra': 'Bobr', 'Bobrem': 'Bobr', 'Bobrze': 'Bobr',
+            'Jeleń': 'Jeleń', 'Jelenia': 'Jeleń', 'Jeleniem': 'Jeleń', 'Jeleniowi': 'Jeleń',
+            'Sylwester': 'Sylwester', 'Sylwestra': 'Sylwester', 'Sylwestrem': 'Sylwester', 'Sylwestrowi': 'Sylwester',
+            'Barbara': 'Barbara', 'Barbary': 'Barbara', 'Barbarą': 'Barbara', 'Barbarze': 'Barbara',
+            'Hiena': 'Hiena', 'Hieny': 'Hiena', 'Hienę': 'Hiena', 'Hieno': 'Hiena',
+            'Puszczyk': 'Puszczyk', 'Puszczyka': 'Puszczyk', 'Puszczykiem': 'Puszczyk',
+            'Sroka': 'Sroka', 'Sroki': 'Sroka', 'Srokę': 'Sroka', 'Sroko': 'Sroka',
+            'Dorota': 'Dorota', 'Doroty': 'Dorota', 'Dorotą': 'Dorota', 'Dorocie': 'Dorota',
+            'Jaskółka': 'Jaskółka', 'Jaskółki': 'Jaskółka', 'Jaskółkę': 'Jaskółka', 'Jaskółko': 'Jaskółka',
+            'Martynka': 'Martynka', 'Martynki': 'Martynka', 'Martynkę': 'Martynka', 'Martynko': 'Martynka',
+            'Domek': 'Domek', 'Domka': 'Domek', 'Domkiem': 'Domek',
+            'Sarnecki': 'Sarnecki', 'Sarneckiego': 'Sarnecki', 'Sarneckim': 'Sarnecki',
+            'Borsuk': 'Borsuk', 'Borsuka': 'Borsuk', 'Borsukiem': 'Borsuk',
+            'BaraBary': 'BaraBary',
+        }
+        
         for char in known_characters:
             if re.search(r'\b' + re.escape(char) + r'\b', text):
-                # Normalizuj do podstawowej formy
-                base_form = char.split()[0] if ' ' in char else char
-                characters.add(base_form.rstrip('aiąęyeowi'))
+                # Znajdź bazową formę postaci
+                base_form = base_form_map.get(char, char)
+                characters.add(base_form)
         
         return characters
     
@@ -448,7 +465,15 @@ class NarrativeConsistencyChecker:
         self.generate_report()
 
 def main():
-    base_path = "/home/runner/work/Polana-k-amstw/Polana-k-amstw"
+    import sys
+    
+    # Pozwól na podanie ścieżki jako argument
+    if len(sys.argv) > 1:
+        base_path = sys.argv[1]
+    else:
+        # Domyślna ścieżka
+        base_path = "/home/runner/work/Polana-k-amstw/Polana-k-amstw"
+    
     checker = NarrativeConsistencyChecker(base_path)
     checker.run()
 

@@ -1,6 +1,6 @@
 # Raport Spójności Narracji - Polana Kłamstw
 
-Data wygenerowania: 2025-11-23 09:51:13
+Data wygenerowania: 2025-11-23 09:53:22
 
 ## 📊 Statystyki
 
@@ -39,85 +39,85 @@ Data wygenerowania: 2025-11-23 09:51:13
 
 ### Rozdział 1: Rozdział 1: Darowizna (7.07.2017) – Pakt z Naiwności
 
-- **Główne daty:** 7.07.2017, 7.07.2017, 7.07.2017, 7.07.2017
-- **Postacie:** Bobr, Bobrem, Wiedźm, Wilk
+- **Główne daty:** 7.07.2017, 7.07.2017
+- **Postacie:** Bobr, Wiedźma, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 2: Rozdział 2: Życie pod Cieniem Wiedźmy (2017–2021)
 
 - **Główne daty:** 2017-2021, 2017-2021
-- **Postacie:** Bobr, Dorot, Jaskółk, Jeleniem, Jeleń, Martynk, Srok, Wiedźm, Wilk
+- **Postacie:** Bobr, Dorota, Jaskółka, Jeleń, Martynka, Sroka, Wiedźma, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 3: Rozdział 3: Pojawienie się Sarenki (Luty 2021)
 
 - **Główne daty:** Luty 2021, Luty 2021
-- **Postacie:** Jul, Sarenk, Wiedźm, Wilk
+- **Postacie:** Julia, Sarenka, Wiedźma, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 4: Rozdział 4: Nocne Wtargnięcie (2:30 w nocy)
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Wiedźm, Wilk
+- **Postacie:** Wiedźma, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 5: Rozdział 5: Zaspawana Prawda
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Dorot, Srok, Wiedźm, Wilk
+- **Postacie:** Dorota, Sroka, Wiedźma, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 6: Rozdział 6: Inscenizacja z Paralizatorem (Marzec 2021)
 
 - **Główne daty:** Marzec 2021, Marzec 2021
-- **Postacie:** Borsuk, Wiedźm, Wilk
+- **Postacie:** Borsuk, Wiedźma, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 6.5: Ostatnie Zanurzenie Bobra
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Bobr, Bobrz, Jelen, Jeleniem, Wiedźm, Wilk
+- **Postacie:** Bobr, Jeleń, Wiedźma, Wilk
 - **Źródło:** NOWY_KANON_ADAMOWO_2025
 
 ### Rozdział 7: Rozdział 7: Przejście do Ósmego Kręgu (Noc 17/18 Lipca)
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Bobr, Borsuk, Wiedźm, Wilk
+- **Postacie:** Bobr, Borsuk, Wiedźma, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 8: Rozdział 8: Hiena Domkowa i Zdrada na Sądowym Korytarzu
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Domk, Hien, Wiedźm, Wilk
+- **Postacie:** Domek, Hiena, Wiedźma, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 9: Rozdział 9: Stary Jeleń – Marionetka
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Jeleń, Sylwester, Wiedźm
+- **Postacie:** Jeleń, Sylwester, Wiedźma
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 10: Rozdział 10: Puszczyk Halager i Sąd Papieru
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Hien, Jelen, Puszczyk, Wiedźm, Wilk
+- **Postacie:** Hiena, Jeleń, Puszczyk, Wiedźma, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 11: Rozdział 11: Odejście Wilka
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Jaskółk, Jeleń, Martynk, Wiedźm, Wilk
+- **Postacie:** Jaskółka, Jeleń, Martynka, Wiedźma, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 12: Rozdział 12: Pusta Polana
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Dorot, Hien, Jeleń, Sarenk, Srok, Wiedźm, Wilk
+- **Postacie:** Dorota, Hiena, Jeleń, Sarenka, Sroka, Wiedźma, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 13: Rozdział 13: Służący Wiedźmy BaraBary
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** BaraBar, Wiedźm, Wilk
+- **Postacie:** BaraBary, Wiedźma, Wilk
 - **Źródło:** Nowy_Kanon_BaraBary_2025
 
