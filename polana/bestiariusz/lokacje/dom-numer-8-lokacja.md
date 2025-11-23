@@ -94,7 +94,7 @@ I po raz pierwszy w życiu usłyszała najstraszniejszy dźwięk: ciszę własne
 > *"Dziupla pod Ósemką to nie dom jest przeklęty. To decyzje."*
 
 ### Powiązane postacie
-- Wiedźma Adamowska (mieszkanka, kontrolerka)
+- Wiedźma Barabara (mieszkanka, kontrolerka)
 - Bóbr z Duchem Wilka (mieszkaniec 2019-2021, budowniczy tam)
 - Duch Wilka (narodził się tu po Ostatnim Zanurzeniu)
 - Stary Jeleń Sylwester (mieszkaniec, ranny, zależny)

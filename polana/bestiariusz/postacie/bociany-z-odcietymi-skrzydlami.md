@@ -1,7 +1,7 @@
 # Bociany z Odciętymi Skrzydłami
 
 **Typ:** Chór Powielaczy / Rodzina Bierna
-**Powiązania:** Wiedźma Adamowska (matka), Papesmerf (ojciec), Wilk Samotnik (brat)
+**Powiązania:** Wiedźma Barabara (matka), Papesmerf (ojciec), Wilk Samotnik (brat)
 
 ## Opis
 

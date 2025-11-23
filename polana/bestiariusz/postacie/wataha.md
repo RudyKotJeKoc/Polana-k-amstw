@@ -14,7 +14,7 @@ powiazane_motywy:
   - inteligencja_kolektywna
 powiazane_postacie:
   - duch-wilka
-  - wiedzma-adamowska
+  - wiedzma-barabara
   - stary-jelen-sylwester
 tagi:
   - wataha
@@ -166,7 +166,7 @@ Wataha to żywy archiwum.
 
 ## V. RELACJE Z POSTACIAMI
 
-### Wiedźma Adamowska
+### Wiedźma Barabara
 
 **Wataha wobec Wiedźmy:**
 - Obserwuje jej walkę z cieniem
@@ -374,7 +374,7 @@ Nie widzisz ich, ale one widzą ciebie. W mgle, tam gdzie był Bóbr, gdzie jest
 
 **Powiązane dokumenty:**
 - duch-wilka.md (pochodzenie, rdzeń Watahy)
-- wiedzma-adamowska.md (obserwacja mechanizmów manipulacji)
+- wiedzma-barabara.md (obserwacja mechanizmów manipulacji)
 - polana-adamowo.md (lokacja przekształcona przez Watahę)
 
 ---

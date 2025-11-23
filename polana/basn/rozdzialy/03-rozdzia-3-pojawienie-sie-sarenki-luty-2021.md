@@ -16,7 +16,7 @@ Na początku byli jak dwa samotne zwierzęta spotkane przy tym samym ognisku —
 
 Cień, który zazdrości Światłu
 
-Wiedźma Adamowska obserwowała to z rosnącym niepokojem. Nie przeszkadzała jej obecność Sarenki jako takiej — przeszkadzało jej to, że Wilk nie patrzył wyłącznie na nią.
+Wiedźma Barabara obserwowała to z rosnącym niepokojem. Nie przeszkadzała jej obecność Sarenki jako takiej — przeszkadzało jej to, że Wilk nie patrzył wyłącznie na nią.
 W jej świecie każda relacja była nicią, którą należało trzymać w dłoni; każde spojrzenie syna — monety do gromadzenia; każdy jego gest — przypomnieniem, że jest jej własnością.
 
 Sarenka była więc nie gościem, lecz intruzem w jej kręgu kontroli.

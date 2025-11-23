@@ -1,7 +1,7 @@
 # Borsuk Bogdaszewski (Policja)
 
 **Typ:** Bierny Obserwator Systemowy / Funkcjonariusz Biurokratyczny
-**Powiązania:** Niebieska Karta (17.07.2021), Wiedźma Adamowska, System instytucjonalny
+**Powiązania:** Niebieska Karta (17.07.2021), Wiedźma Barabara, System instytucjonalny
 
 ## Opis
 

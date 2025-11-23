@@ -13,7 +13,7 @@
 3. [Kluczowe Symbole i Ich Znaczenie](#kluczowe-symbole)
 
 ## CZĘŚĆ II: DRAMATIS PERSONAE
-4. [Wiedźma Adamowska – Architekt Destrukcji](#wiedzma-adamowska)
+4. [Wiedźma Barabara – Architekt Destrukcji](#wiedzma-barabara)
 5. [Wilk Samotnik – Ofiara w Prawdzie](#wilk-samotnik)
 6. [Stary Jeleń Papesmerf – Tragiczna Marionetka](#stary-jelen)
 7. [Sarenka z Polany – Niewinny Katalizator](#sarenka)
@@ -181,8 +181,8 @@ W "Boskiej Komedii" Dantego ósmy krąg piekła przeznaczony jest dla:
 
 ---
 
-<a name="wiedzma-adamowska"></a>
-# 4. WIEDŹMA ADAMOWSKA – ARCHITEKT DESTRUKCJI
+<a name="wiedzma-barabara"></a>
+# 4. WIEDŹMA BARABARA – ARCHITEKT DESTRUKCJI
 
 ## 4.1 Profil Psychologiczny
 
