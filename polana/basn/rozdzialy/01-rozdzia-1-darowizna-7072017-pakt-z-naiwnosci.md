@@ -123,4 +123,4 @@ Nie była stroną aktu, ale od pierwszego dnia traktowała darowiznę jako punkt
 „Celem Niebieskiej Karty jest przygotowanie dokumentów do cofnięcia darowizny."
 
 
-Koniec Rozdziału 1.Retry
+Koniec Rozdziału 1.
