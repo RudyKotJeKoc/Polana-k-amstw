@@ -2,17 +2,17 @@
 title: "Wiedźma BaraBary"
 slug: "wiedzma-barabara"
 kategoria: "postac"
-archetyp: "Pani Domu / Strażniczka Fałszywego Porządku"
+archetyp: "Pani Dziupli / Strażniczka Fałszywego Porządku"
 powiazane_symbole:
   - pergamin-sluzacego
-  - dom-numer-8
+  - dziupla-numer-8
 powiazane_motywy:
   - odwrocone_obowiazki
   - paradoks_wolnosci
   - milczenie_domu
 powiazane_postacie:
   - wilk-samotnik
-  - barbara-adamska
+  - wiedzma-barabara-rzeczywista
   - duch-wilka
 tagi:
   - obowiązki
@@ -20,7 +20,7 @@ tagi:
   - tron
   - wygnanie
   - wyzwolenie
-  - dom
+  - dziupla
   - milczenie
 zrodla:
   - NOWY_KANON_BARABARY_2025
@@ -30,30 +30,30 @@ zrodla:
 
 ## I. TOŻSAMOŚĆ
 
-**Imię symboliczne:** Wiedźma BaraBary, Pani Domu, Strażniczka Tronu Ósemki
+**Imię symboliczne:** Wiedźma BaraBary, Pani Dziupli, Strażniczka Tronu Ósemki
 
 **Natura:** Archetyp mityczny, symboliczna postać uosabiająca fałszywe rozumienie obowiązków i służebności
 
 **Rola w baśni:**
-Mityczna władczyni Domu, która wierzy, że Dom jest jej tronem, a wszyscy w nim mieszkający – jej służącymi. Nie rozumie, że prawdziwe obowiązki spoczywają na tym, kto korzysta z całego Domu, nie na tym, kto w nim pracuje ibuduje.
+Mityczna władczyni Dziupli, która wierzy, że Dziupla jest jej tronem, a wszyscy w nim mieszkający – jej służącymi. Nie rozumie, że prawdziwe obowiązki spoczywają na tym, kto korzysta z całego Dziupli, nie na tym, kto w nim pracuje ibuduje.
 
 ---
 
-## II. DOM JAKO TRON – FAŁSZYWA INTERPRETACJA
+## II. DZIUPLA JAKO TRON – FAŁSZYWA INTERPRETACJA
 
-**Jak BaraBary widzi Dom:**
+**Jak BaraBary widzi Dziupla:**
 
-Dla Wiedźmy BaraBary Dom numer 8 nie jest miejscem życia – jest **tronem**. Wierna swoim projekcjom, siedzi w nim jak królowa w swojej sali tronowej, przekonana, że wszyscy wokół niej są jej poddanymi.
+Dla Wiedźmy BaraBary Dziupla numer 8 nie jest miejscem życia – jest **tronem**. Wierna swoim projekcjom, siedzi w nim jak królowa w swojej sali tronowej, przekonana, że wszyscy wokół niej są jej poddanymi.
 
-> *"Dom jest mój. Tron jest mój. A kto mieszka w moim Domu, ten służy mi."*
+> *"Dziupla jest mój. Tron jest mój. A kto mieszka w moim Dziupli, ten służy mi."*
 
 **Błąd interpretacji:**
 - Nie rozumie różnicy między **służebnością osobistą** a **służeniem**
-- Nie widzi, że prawdziwy koszt Domu ponosi ten, kto go buduje, naprawia, inwestuje
+- Nie widzi, że prawdziwy koszt Dziupli ponosi ten, kto go buduje, naprawia, inwestuje
 - Mylenie "użytkowania" z "własnością duchową"
 
 **Prawda ukryta:**
-Dom milczy. Nie potwierdza jej wersji. Ale w jej uszach cisza Domu brzmi jak zgoda.
+Dziupla milczy. Nie potwierdza jej wersji. Ale w jej uszach cisza Dziupli brzmi jak zgoda.
 
 ---
 
@@ -76,10 +76,10 @@ Wiedźma BaraBary trzyma ten pergamin jak dowód swojej władzy. Wskazuje na nie
 W baśniowej logice Polany Kłamstw **pergamin nie mówi całej prawdy**. Zapisane słowo „służący" to **jej interpretacja**, nie fakt.
 
 - Czy Wilk jest służącym? Czy może służebność to coś innego?
-- Czy ten, kto zamieszkuje Dom, dźwiga jego ciężar – czy ten, kto w nim siedzi?
+- Czy ten, kto zamieszkuje Dziupla, dźwiga jego ciężar – czy ten, kto w nim siedzi?
 - Kto ma obowiązki? Kto ma prawa?
 
-Pergamin milczy. Dom milczy. Tylko Wiedźma BaraBary mówi głośno – i jej echo wypełnia puste pokoje.
+Pergamin milczy. Dziupla milczy. Tylko Wiedźma BaraBary mówi głośno – i jej echo wypełnia puste pokoje.
 
 ---
 
@@ -102,9 +102,9 @@ Jeśli służący nie służy, zasługuje na najwyższą karę. A najwyższa kar
 
 ### Wygnanie – Najwyższa Kara
 
-> *"Wypędzam cię z Domu! Nie wolno ci już tutaj mieszkać! Tracisz prawo do mojego Tronu! Idź precz, na wolność – niech to będzie twoja kara!"*
+> *"Wypędzam cię z Dziupli! Nie wolno ci już tutaj mieszkać! Tracisz prawo do mojego Tronu! Idź precz, na wolność – niech to będzie twoja kara!"*
 
-Wiedźma BaraBary **wierzy**, że wygnanie to najgorsza rzecz, jaka może spotkać „służącego". Przecież traci prawo do Domu, do ciepła murów, do bycia blisko Tronu.
+Wiedźma BaraBary **wierzy**, że wygnanie to najgorsza rzecz, jaka może spotkać „służącego". Przecież traci prawo do Dziupli, do ciepła murów, do bycia blisko Tronu.
 
 **Ale prawda jest odwrotna.**
 
@@ -114,7 +114,7 @@ Wiedźma BaraBary **wierzy**, że wygnanie to najgorsza rzecz, jaka może spotka
 
 Ten, którego Wiedźma nazywa „służącym", nigdy nim nie był.
 
-- To ona korzystała z całego Domu
+- To ona korzystała z całego Dziupli
 - To ona siedziała na tronie, nie budowała go
 - To on naprawiał, budował, inwestował – a ona tylko mieszkała
 
@@ -122,7 +122,7 @@ Ten, którego Wiedźma nazywa „służącym", nigdy nim nie był.
 
 Kiedy BaraBary wydaje „wyrok wygnania", myśląc, że to najwyższa kara – w rzeczywistości **wyzwala go**.
 
-> *"Wyszedł z Domu, który był więzieniem. Dostał karę, która była wolnością."*
+> *"Wyszedł z Dziupli, który był więzieniem. Dostał karę, która była wolnością."*
 
 **Paradoks:**
 - Wiedźma myśli: "Ukarałam go wygnaniem"
@@ -130,41 +130,41 @@ Kiedy BaraBary wydaje „wyrok wygnania", myśląc, że to najwyższa kara – w
 
 ---
 
-## V. MILCZENIE DOMU – POTWIERDZENIE PRAWDY
+## V. MILCZENIE DZIUPLI – POTWIERDZENIE PRAWDY
 
-### Dom jako świadek
+### Dziupla jako świadek
 
-Dom numer 8 wszystko widział:
+Dziupla numer 8 wszystko widział:
 - Kto budował ściany
 - Kto montował fotowoltaikę
 - Kto naprawiał dach, ocieplał ściany
 - Kto siedział w fotelu, mieszając w Kotle Krzywd
 
-Dom ma pamięć. Mury pamiętają każdy gwóźdź, każdą noc w warsztacie, każdą kropelkę potu Wilka.
+Dziupla ma pamięć. Mury pamiętają każdy gwóźdź, każdą noc w warsztacie, każdą kropelkę potu Wilka.
 
-**Wiedźma BaraBary pyta Dom:**
+**Wiedźma BaraBary pyta Dziupla:**
 
 > *"Powiedz, że mam rację! Powiedz, że Wilk był moim służącym!"*
 
-**Dom milczy.**
+**Dziupla milczy.**
 
 ### Cisza jako odpowiedź
 
-Cisza Domu nie jest obojętnością. Cisza jest **potwierdzeniem prawdy**.
+Cisza Dziupli nie jest obojętnością. Cisza jest **potwierdzeniem prawdy**.
 
-- Dom nie mówi, bo nie musi
+- Dziupla nie mówi, bo nie musi
 - Jego milczenie jest wyrokiem
 - Wiedźma interpretuje je jako zgodę, ale to tylko jej projekcja
 
 **Prawda:**
 
-> *"Dom milczał, bo wiedział. Nigdy nie było służącego. Był tylko budowniczy, którego nazwała służącym, by uzasadnić swoją obecność na tronie."*
+> *"Dziupla milczał, bo wiedział. Nigdy nie było służącego. Był tylko budowniczy, którego nazwała służącym, by uzasadnić swoją obecność na tronie."*
 
 ---
 
-## VI. SYMBOLIKA OBOWIĄZKÓW – PRAWDZIWY KOSZT DOMU
+## VI. SYMBOLIKA OBOWIĄZKÓW – PRAWDZIWY KOSZT DZIUPLI
 
-### Kto dźwiga ciężar Domu?
+### Kto dźwiga ciężar Dziupli?
 
 **Baśniowa alegoria:**
 
@@ -172,12 +172,12 @@ W świecie Polany Kłamstw obowiązki nie spadają na tego, kto siedzi – spada
 
 - Służebność osobista ≠ służenie
 - Prawo do użytkowania ≠ prawo do tronu
-- Ciężar Domu = koszty, utrzymanie, odpowiedzialność
+- Ciężar Dziupli = koszty, utrzymanie, odpowiedzialność
 
 **Wiedźma BaraBary myśli:**
-"Jestem Panią Domu, więc inni muszą mi służyć."
+"Jestem Panią Dziupli, więc inni muszą mi służyć."
 
-**Dom wie:**
+**Dziupla wie:**
 "Ten, kto siedzi na całym tronie, ponosi koszty całego tronu."
 
 ### Niewidoczne obowiązki
@@ -190,35 +190,36 @@ Obowiązki są jak cienie – nie widać ich w jasnym świetle, ale są wszędzi
 **Finał:**
 
 Kiedy Wilk odszedł, Wiedźma BaraBary odkryła **niewidoczne obowiązki**:
-- Pusty dom wymaga utrzymania
+- Pusta Dziupla wymaga utrzymania
 - Bomba zegarowa: spłata nakładów (160-255 tys. zł)
 - Nikt nie buduje, nikt nie naprawia
 
-> *"Tron okazał się ciężarem. Służący okazał się budowniczym. A Pani Domu odkryła, że była tylko lokatorką cudzej inwestycji."*
+> *"Tron okazał się ciężarem. Służący okazał się budowniczym. A Pani Dziupli odkryła, że była tylko lokatorką cudzej inwestycji."*
 
 ---
 
 ## VII. RELACJA Z INNYMI POSTACIAMI
 
-**Wiedźma BaraBary a Wiedźma Barabara:**
+**Wiedźma BaraBary a Wiedźma BaraBara:**
 
 Czy to dwie różne postaci, czy dwa oblicza tej samej?
 
-- **Wiedźma Barabara** = realna, historyczna Barbara
+- **Wiedźma BaraBara** = realna, historyczna Wiedźma BaraBara
 - **Wiedźma BaraBary** = mityczny, symboliczny archetyp
 
-BaraBary to **duchy nazwa** – prawie-Barbara, ale trochę inna. Jakby echo jej imienia, zniekształcone przez powtarzanie w pustych komnatach Domu. **Bara-Bary** – powtórzenie, echo, obsesja.
+BaraBary to **duchowa nazwa** – prawie-Wiedźma BaraBara, ale trochę inna. Jakby echo jej imienia, zniekształcone przez powtarzanie w pustych komnatach Dziupli. **Bara-Bary** – powtórzenie, echo, obsesja.
 
 **Związek z Wilkiem:**
 
 - Nazywa go służącym
 - Nie widzi go jako budowniczego
 - Karze go wygnaniem, myśląc, że to kara – ale to wyzwolenie
+- Rozkopuje mrowisko, szukając winy w chaosie, który sama tworzy
 
 **Związek z Duchem Wilka:**
 
-Po transformacji Bobra w Ducha Wilka, Wiedźma BaraBary traci ostatni ślad władzy:
-- Duch nie mieszka w Domu
+Po transformacji Wilka-Budowniczego w Ducha Wilka, Wiedźma BaraBary traci ostatni ślad władzy:
+- Duch nie mieszka w Dziupli
 - Duch nie podlega pergaminowi
 - Duch jest wolny
 
@@ -228,23 +229,23 @@ Po transformacji Bobra w Ducha Wilka, Wiedźma BaraBary traci ostatni ślad wła
 
 ### Scena 1: Wiedźma czyta pergamin
 
-> **Lokacja:** Dom nr 8, komnata Wiedźmy
+> **Lokacja:** Dziupla nr 8, komnata Wiedźmy
 >
 > Siedzi w fotelu, trzymając stary pergamin. Na nim jedno słowo: „SŁUŻĄCY".
 >
-> BaraBary (szeptem): *"Tak zostało zapisane. Wilk jest moim służącym. Dom jest moim tronem."*
+> BaraBary (szeptem): *"Tak zostało zapisane. Wilk jest moim służącym. Dziupla jest moim tronem."*
 >
-> Dom milczy. Nie odpowiada. Ale ona słyszy w jego ciszy potwierdzenie.
+> Dziupla milczy. Nie odpowiada. Ale ona słyszy w jego ciszy potwierdzenie.
 >
 > **Znaczenie:** Fałszywa interpretacja staje się jej prawdą. Echo w pustych pokojach staje się głosem.
 
 ### Scena 2: Wyrok wygnania
 
-> **Lokacja:** Dom nr 8, główna sala
+> **Lokacja:** Dziupla nr 8, główna sala
 >
 > Wiedźma BaraBary stoi przed Wilkiem. W ręku trzyma pergamin.
 >
-> BaraBary (głośno, uroczyście): *"Nie wykonujesz obowiązków! Jesteś niewdzięczny! Wypędzam cię z Domu! To twoja kara – wolność!"*
+> BaraBary (głośno, uroczyście): *"Nie wykonujesz obowiązków! Jesteś niewdzięczny! Wypędzam cię z Dziupli! To twoja kara – wolność!"*
 >
 > Wilk patrzy na nią w milczeniu. W jego oczach nie ma gniewu. Jest tylko... ulga.
 >
@@ -256,42 +257,42 @@ Po transformacji Bobra w Ducha Wilka, Wiedźma BaraBary traci ostatni ślad wła
 >
 > **Znaczenie:** Kara okazuje się wyzwoleniem. Więzienie otwiera się od środka.
 
-### Scena 3: Dom milczy
+### Scena 3: Dziupla milczy
 
-> **Lokacja:** Dom nr 8, po odejściu Wilka
+> **Lokacja:** Dziupla nr 8, po odejściu Wilka
 >
-> Wiedźma BaraBary siedzi sama w pustym Domu.
+> Wiedźma BaraBary siedzi sama w pustym Dziupli.
 >
-> BaraBary (do Domu): *"Powiedz, że miałam rację! Powiedz, że był służącym!"*
+> BaraBary (do Dziupli): *"Powiedz, że miałam rację! Powiedz, że był służącym!"*
 >
-> Dom milczy.
+> Dziupla milczy.
 >
 > BaraBary (głośniej): *"Przecież pergamin mówi! Przecież to było zapisane!"*
 >
-> Dom milczy.
+> Dziupla milczy.
 >
 > Wiedźma patrzy na pergamin. Pismo wydaje się teraz... nieostre. Jakby słowo „służący" rozmywało się w kurzu.
 >
 > Czy zawsze tam było? Czy może... sama je napisała?
 >
-> Dom milczy. A cisza jest najgłośniejszą odpowiedzią.
+> Dziupla milczy. A cisza jest najgłośniejszą odpowiedzią.
 >
-> **Znaczenie:** Prawda ujawnia się w ciszy. Dom nie potwierdza jej narracji. Pergamin okazuje się iluzją.
+> **Znaczenie:** Prawda ujawnia się w ciszy. Dziupla nie potwierdza jej narracji. Pergamin okazuje się iluzją.
 
 ---
 
 ## IX. CYTATY KLUCZOWE
 
-> *"Dom jest mój. Tron jest mój. A kto mieszka w moim Domu, ten służy mi."*
+> *"Dziupla jest mój. Tron jest mój. A kto mieszka w moim Dziupli, ten służy mi."*
 > — Wiedźma BaraBary, przekonanie o swojej władzy
 
 > *"Tak zostało zapisane. Wilk jest moim służącym."*
 > — BaraBary, czytając pergamin
 
-> *"Wypędzam cię z Domu! Niech to będzie twoja kara – wolność!"*
+> *"Wypędzam cię z Dziupli! Niech to będzie twoja kara – wolność!"*
 > — Wyrok wygnania, nie rozumiejąc, że to wyzwolenie
 
-> *"Dom milczał, bo wiedział. Nigdy nie było służącego. Był tylko budowniczy, którego nazwała służącym."*
+> *"Dziupla milczał, bo wiedział. Nigdy nie było służącego. Był tylko budowniczy, którego nazwała służącym."*
 > — Narrator, prawda ukryta
 
 > *"Tron okazał się ciężarem. Służący okazał się budowniczym."*
@@ -301,9 +302,9 @@ Po transformacji Bobra w Ducha Wilka, Wiedźma BaraBary traci ostatni ślad wła
 
 ## X. SYMBOLIKA
 
-**Symbol:** 👑🏚️ **Tron w Pustym Domu**
+**Symbol:** 👑🏚️ **Tron w Pustym Dziupli**
 
-Wiedźma BaraBary siedzi na tronie, który nigdy nie był tronem. Dom, który nazywała swoim królestwem, okazuje się pustą skorupą. Pergamin, który miał potwierdzać jej władzę, rozpływa się w kurzu.
+Wiedźma BaraBary siedzi na tronie, który nigdy nie był tronem. Dziupla, który nazywała swoim królestwem, okazuje się pustą skorupą. Pergamin, który miał potwierdzać jej władzę, rozpływa się w kurzu.
 
 **Pergamin Służącego:**
 - Metafora fałszywej władzy
@@ -315,13 +316,13 @@ Wiedźma BaraBary siedzi na tronie, który nigdy nie był tronem. Dom, który na
 - Paradoks kary, która jest wolnością
 - Więzienie otwarte od środka
 - Wiedźma myśli, że karze – ale uwalnia
-- Wilk traci Dom, ale odzyskuje siebie
+- Wilk traci Dziupla, ale odzyskuje siebie
 
-**Milczenie Domu:**
-- Dom jako świadek prawdy
+**Milczenie Dziupli:**
+- Dziupla jako świadek prawdy
 - Cisza potwierdzająca, nie zaprzeczająca
 - Mury pamiętają, kto budował
-- Wiedźma słyszy echo własnych słów, nie głos Domu
+- Wiedźma słyszy echo własnych słów, nie głos Dziupli
 
 **Obowiązki Niewidoczne:**
 - Ten, kto korzysta z całego, dźwiga koszty całego
@@ -336,7 +337,7 @@ Wiedźma BaraBary siedzi na tronie, który nigdy nie był tronem. Dom, który na
 
 **Funkcja narracyjna:**
 - Uosabia błędne rozumienie obowiązków i praw
-- Reprezentuje projekcję władzy na miejsce (Dom)
+- Reprezentuje projekcję władzy na miejsce (Dziupla)
 - Pokazuje paradoks kary jako wyzwolenia
 - Ujawnia prawdę przez milczenie, nie przez słowa
 
@@ -346,11 +347,11 @@ Wiedźma BaraBary to **przestroga**:
 - Jak można żyć w iluzji władzy, nie widząc prawdziwych obowiązków
 - Jak pergamin (dokument, interpretacja) może stać się narzędziem fałszywej narracji
 - Jak wygnanie osoby, którą uważamy za służącego, może być jej wyzwoleniem
-- Jak Dom – milcząc – mówi prawdę głośniej niż słowa
+- Jak Dziupla – milcząc – mówi prawdę głośniej niż słowa
 
 **Morał:**
 
-> *"Służący, który nigdy służącym nie był, został wypędzony z Domu, który nigdy nie był tronem. I w tym wypędzeniu znalazł wolność, której nigdy by nie dostał, gdyby pozostał."*
+> *"Służący, który nigdy służącym nie był, został wypędzony z Dziupli, który nigdy nie był tronem. I w tym wypędzeniu znalazł wolność, której nigdy by nie dostał, gdyby pozostał."*
 
 ---
 
@@ -359,14 +360,14 @@ Wiedźma BaraBary to **przestroga**:
 **Po wygnaniu Wilka:**
 
 - Wiedźma BaraBary siedzi na swoim tronie – ale tron jest pusty
-- Dom milczy – a cisza jest coraz głośniejsza
+- Dziupla milczy – a cisza jest coraz głośniejsza
 - Pergamin leży na stole – ale słowo „służący" rozmywa się
 - Obowiązki, które były niewidoczne, stają się realne (bomba zegarowa spłaty)
 - Wolność, którą dała jako karę, okazuje się prawdziwym wyzwoleniem
 
 **Finał symboliczny:**
 
-> *"Pani Domu odkryła, że Dom nie był jej tronem. Był jedynie ciężarem, który dźwigał ktoś inny. A kiedy ten ktoś odszedł, ciężar spadł na nią. I dopiero wtedy zrozumiała, co znaczy słowo 'obowiązek'."*
+> *"Pani Dziupli odkryła, że Dziupla nie był jej tronem. Był jedynie ciężarem, który dźwigał ktoś inny. A kiedy ten ktoś odszedł, ciężar spadł na nią. I dopiero wtedy zrozumiała, co znaczy słowo 'obowiązek'."*
 
 ---
 
@@ -379,10 +380,10 @@ Wiedźma BaraBary to **przestroga**:
 - Głos pełen władzy, ale pustej władzy
 
 **Krajna Gothic:**
-- BaraBary to **echo Barbary** – symboliczny, baśniowy wariant
-- Nie używa magii w sensie czarów – używa interpretacji, projekcji
+- BaraBary to **echo Wiedźmy BaraBary** – symboliczny, baśniowy wariant
+- Nie używa mocy zapisanego słowa w sensie odruchów technologii – używa interpretacji, projekcji
 - Jej moc to słowa, pergamin, przekonanie o własnej władzy
-- Dom jako świadek i sędzia – jego milczenie najważniejsze
+- Dziupla jako świadek i sędzia – jego milczenie najważniejsze
 
 **Uwagi:**
 - Nie demonizować – pokazać jako postać tragiczną w swojej iluzji
@@ -392,7 +393,7 @@ Wiedźma BaraBary to **przestroga**:
 **Powiązane dokumenty:**
 - pergamin-sluzacego.md (artefakt)
 - wilk-samotnik.md (postać)
-- dom-numer-8.md (artefakt/lokacja)
+- dziupla-numer-8.md (artefakt/lokacja)
 - Nowy rozdział: "Służący Wiedźmy BaraBary"
 
 ---

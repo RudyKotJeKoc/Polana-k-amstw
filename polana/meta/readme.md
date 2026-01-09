@@ -26,7 +26,7 @@
 │
 └── 📄 MATERIAŁY ŹRÓDŁOWE (oryginalne)
     ├── kontekst_1.md (postacie drugoplanowe)
-    ├── kontekst_2.md (Barbara Adamska)
+    ├── kontekst_2.md (Wiedźma BaraBara)
     ├── kontekst_3.md (chronologia i dowody)
     ├── kontekst_4.md (analiza systemowa)
     └── kontekst_5.md (materiały uzupełniające)
@@ -99,13 +99,13 @@
 ### Materiały Źródłowe – Kontekst i Dowody (Oryginalne)
 
 10. **[kontekst_1.md](./kontekst_1.md)** – Analiza postaci drugoplanowych
-    - Profil psychologiczny Hieny Domkowej (adwokat Aleksander Domek)
+    - Profil psychologiczny Hieny Dziuplowej (adwokat Aleksander Domek)
     - Sylwester Adamski jako "Papesmerf" – tragiczna marionetka
     - Sarna Sarnecki – bierna ucieczka przed odpowiedzialnością
     - Sprawca-ofiara – mechanizmy konfliktu
 
-11. **[kontekst_2.md](./kontekst_2.md)** – Szczegółowa analiza Barbary Adamskiej
-    - Profil psychologiczny "Wiedźmy Barabary"
+11. **[kontekst_2.md](./kontekst_2.md)** – Szczegółowa analiza Wiedźmy BaraBary
+    - Profil psychologiczny "Wiedźmy BaraBary"
     - Mechanizmy manipulacji i kontroli
     - Kalendarz Wiedźmy – broń procesowa
     - Kłamstwa i sprzeczności
@@ -155,11 +155,11 @@
 
 ### Archetypy Dramatyczne
 
-- **Wiedźma Barabara** (Barbara Adamska) – Architekt chaosu, obsesyjna kontrolerka
+- **Wiedźma BaraBara** – Architekt chaosu, obsesyjna kontrolerka
 - **Wilk Samotnik** (Dariusz Adamski) – Ofiara stojąca w prawdzie, tragiczny bohater
 - **Stary Jeleń / Papesmerf** (Sylwester Adamski) – Tragiczna marionetka
 - **Sarenka z Polany** (Julia Kowalska) – Niewinny katalizator
-- **Hiena Domkowa** (Aleksander Domek) – Zdrajca systemu prawnego
+- **Hiena Dziuplowa** (Aleksander Domek) – Zdrajca systemu prawnego
 - **Sarna Sarnecki** (Michał Sarnecki) – Bierny kolaborant
 - **Sroka Dorota** (Dorota Kowalska) – Strategiczna doradczyni i megafon
 - **Bociany z Odciętymi Skrzydłami** (rodzeństwo) – Chór powielaczy
@@ -173,7 +173,7 @@
 - **Kalendarz Wiedźmy** – precyzyjna broń procesowa
 - **Zaspawana Prawda** – niemożność komunikacji
 - **Cyfry 7 i 8** – nadzieja i nieskończona pętla konfliktu
-- **Dom pod numerem 8** – więzienie i pole bitwy
+- **Dziupla pod numerem 8** – więzienie i pole bitwy
 
 ## Morały i Przesłanie
 
@@ -255,7 +255,7 @@ Ten zbiór dokumentów przedstawia literacką i analityczną interpretację wyda
 | 8 | **Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md** | Narracyjny | ~17 KB | 1-2 godz | Analityczne studium przypadku |
 | 9 | **Polana_Klamstw_Przewodnik_po_Swiecie_Postaciach_i_Motywach.md** | Narracyjny | ~17 KB | 1-2 godz | Archetypy, symbole, uniwersalia |
 | 10 | **kontekst_1.md** | Źródłowy | ~50 KB | Ref | Postacie drugoplanowe |
-| 11 | **kontekst_2.md** | Źródłowy | ~85 KB | Ref | Barbara Adamska (profil) |
+| 11 | **kontekst_2.md** | Źródłowy | ~85 KB | Ref | Wiedźma BaraBara (profil) |
 | 12 | **kontekst_3.md** | Źródłowy | ~95 KB | Ref | Chronologia i dowody |
 | 13 | **kontekst_4.md** | Źródłowy | ~80 KB | Ref | Analiza systemowa |
 | 14 | **kontekst_5.md** | Źródłowy | ~84 KB | Ref | Materiały uzupełniające |
@@ -286,7 +286,7 @@ Repozytorium zawiera również dodatkowe materiały robocze i analityczne, któr
 - **wskazowki.md** - Wskazówki dotyczące rozbudowy baśni
 - **zdrada_adwokata.md** - Analiza roli adwokata w konflikcie
 - **konflikt_rodzinny.md** - Dokumentacja konfliktu rodzinnego
-- **Plan_Barbary.md** - Analiza strategii Barbary Adamskiej
+- **Plan_Barbary.md** - Analiza strategii Wiedźmy BaraBary
 
 ### Materiały Źródłowe:
 - **basn.md** - Wersja robocza baśni

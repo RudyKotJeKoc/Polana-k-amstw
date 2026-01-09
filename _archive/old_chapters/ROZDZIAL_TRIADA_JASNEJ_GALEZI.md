@@ -5,7 +5,7 @@
 ## Kuherek, Kuferek, Kluczniczka
 
 *"Dwaj niewidomi widzieli prawdę, bo nie dali się oszukać papierom.
-Barbara widziała wszystko, a mimo to nie rozumiała niczego."*
+Wiedźma BaraBara widziała wszystko, a mimo to nie rozumiała niczego."*
 
 ---
 
@@ -37,7 +37,7 @@ Ton głosu mówił mu więcej niż słowa. Cisza mówiła więcej niż krzyk. Dr
 
 ---
 
-Herek mieszkał w małym domu z kotłownią w piwnicy. Kotłownia była jego miejscem — ciemna, ciepła, pełna mechanicznych dźwięków. Tam schodził wieczorami, gdy dom cichł. Siadał na starym krześle obok pieca. Słuchał.
+Herek mieszkał w małym dziupli z kotłownią w piwnicy. Kotłownia była jego miejscem — ciemna, ciepła, pełna mechanicznych dźwięków. Tam schodził wieczorami, gdy dziupla cichł. Siadał na starym krześle obok pieca. Słuchał.
 
 Piec bulgotał. Rury dudniły. Woda szumiała w rurach.
 
@@ -93,7 +93,7 @@ Miejscem, gdzie prawda się gromadzi.
 
 Gdzie dokumenty nie kłamią, bo są sprawdzane.
 
-Gdzie Barbara nie może manipulować, bo fakty się porządkują.
+Gdzie Wiedźma BaraBara nie może manipulować, bo fakty się porządkują.
 
 ---
 
@@ -103,13 +103,13 @@ Gdzie Barbara nie może manipulować, bo fakty się porządkują.
 
 **Kuferek** to nie osoba. To **miejsce**.
 
-Kotłownia w domu Bożeny. Ciemna. Wilgotna. Pełna starych mebli, kartonów, narzędzi.
+Kotłownia w dziupli Bożeny. Ciemna. Wilgotna. Pełna starych mebli, kartonów, narzędzi.
 
 Ale przede wszystkim — **pełna monitoringu**.
 
 ---
 
-Bożena zainstalowała kamery w całym domu. Nie z paranoi. Z **logiki**.
+Bożena zainstalowała kamery w całym dziupli. Nie z paranoi. Z **logiki**.
 
 Wiedziała, że na Polanie Kłamstw słowo przeciwko słowu to przegrana. Echo zawsze wygra. Plotka zawsze przetrwa.
 
@@ -117,7 +117,7 @@ Ale **nagranie** nie kłamie.
 
 Kuferek stał się **Okiem Prawdy**.
 
-Każda rozmowa w domu była nagrywana. Każde wejście, każde wyjście. Każdy gość, każda data, każda godzina.
+Każda rozmowa w dziupli była nagrywana. Każde wejście, każde wyjście. Każdy gość, każda data, każda godzina.
 
 Nie po to, by szpiegować. Po to, by **pamiętać**.
 
@@ -163,9 +163,9 @@ Bożena (cicho): — Wiedźma potrząsa Kuferkiem. Ale im mocniej nim potrząsa,
 
 ---
 
-### Barbara próbuje potrząsać Kuferkiem
+### Wiedźma BaraBara próbuje potrząsać Kuferkiem
 
-Barbara wiedziała o istnieniu Kuferka.
+Wiedźma BaraBara wiedziała o istnieniu Kuferka.
 
 Wiedziała, że Bożena ma monitoring. Wiedziała, że Dariusz analizował tam dokumenty.
 
@@ -179,7 +179,7 @@ Bożena odpowiadała spokojnie:
 
 — Bronię prawdy.
 
-Barbara próbowała przekonywać:
+Wiedźma BaraBara próbowała przekonywać:
 
 — Przecież jesteśmy rodziną! Twoja matka i moja matka były siostrami! Dlaczego stajesz po jego stronie?
 
@@ -187,11 +187,11 @@ Bożena (cicho): — Bo on nie kłamie.
 
 I to wystarczyło.
 
-Barbara mogła krzyczeć, mogła manipulować, mogła mieszać w Kotle.
+Wiedźma BaraBara mogła krzyczeć, mogła manipulować, mogła mieszać w Kotle.
 
 Ale Kuferek był niezłomny.
 
-**Fakty się porządkowały**. Im bardziej Barbara próbowała je pomieszać, tym wyraźniej układały się w prawdę.
+**Fakty się porządkowały**. Im bardziej Wiedźma BaraBara próbowała je pomieszać, tym wyraźniej układały się w prawdę.
 
 ---
 
@@ -199,17 +199,17 @@ Ale Kuferek był niezłomny.
 
 ### Kuzynka z jasnej gałęzi
 
-Bożena była kuzynką Barbary.
+Bożena była kuzynką Wiedźmy BaraBary.
 
 Ich matki były siostrami. Dorastały razem. Bawiły się razem. Znały się całe życie.
 
 Ale gdzieś po drodze **rozeszły się**.
 
-Barbara wybrała Kocioł Krzywd. Bożena wybrała Kuferek Prawdy.
+Wiedźma BaraBara wybrała Kocioł Krzywd. Bożena wybrała Kuferek Prawdy.
 
-Barbara mieszała. Bożena porządkowała.
+Wiedźma BaraBara mieszała. Bożena porządkowała.
 
-Barbara krzyczała. Bożena słuchała.
+Wiedźma BaraBara krzyczała. Bożena słuchała.
 
 ---
 
@@ -233,7 +233,7 @@ Bożena: — Jak mój ojciec. Herek. On też nie potrzebował dowodów. Czuł pr
 
 Ostatnie dni Dariusza w Polsce były spokojne.
 
-Spędził je w domu Bożeny. W Kuferku.
+Spędził je w dziupli Bożeny. W Kuferku.
 
 **40. urodziny**. Domówka. Monitoring nagrywał wszystko.
 
@@ -261,23 +261,23 @@ I to miało znaczenie.
 
 Gdy sprawa trafiła do sądu, Bożena została wezwana jako świadek.
 
-Barbara protestowała:
+Wiedźma BaraBara protestowała:
 
 — Ona jest stronnicza! Ona wspierała Dariusza! Ona wie za dużo!
 
-Sędzia spojrzał na Barbarę.
+Sędzia spojrzał na Wiedźmę BaraBarę.
 
 Sędzia: — Wie za dużo?
 
-Barbara (szybko): — To znaczy... wie rzeczy, których nie powinna wiedzieć. Ma monitoring. Nagrywała wszystko. To podejrzane.
+Wiedźma BaraBara (szybko): — To znaczy... wie rzeczy, których nie powinna wiedzieć. Ma monitoring. Nagrywała wszystko. To podejrzane.
 
 Sędzia: — Podejrzane jest posiadanie dowodów?
 
-Barbara milczała.
+Wiedźma BaraBara milczała.
 
 Ale w jej oczach było zrozumienie: **na Polanie Kłamstw świadek, który pamięta prawdę zbyt dobrze, jest podejrzany**.
 
-Bo prawda w krainie zaklęć wygląda jak magia, której nikt nie zna.
+Bo prawda w krainie zaklęć wygląda jak moc zapisanego słowa, której nikt nie zna.
 
 ---
 
@@ -297,7 +297,7 @@ Każde zdanie było precyzyjne. Bez emocji. Bez oskarżeń.
 
 Sędzia słuchał. Notował.
 
-Barbara patrzyła na Bożenę z nienawiścią. Ale nie mogła jej podważyć. Bo Bożena nie kłamała.
+Wiedźma BaraBara patrzyła na Bożenę z nienawiścią. Ale nie mogła jej podważyć. Bo Bożena nie kłamała.
 
 I w tym momencie Bożena zobaczyła to wyraźnie:
 
@@ -328,12 +328,12 @@ Herek miał Bożenę. Dariusz też.
 ### Kuferek (Archiwum Prawdy)
 - Kotłownia Bożeny
 - Monitoring jako Oko Prawdy
-- Miejsce, gdzie Barbara nie może manipulować
+- Miejsce, gdzie Wiedźma BaraBara nie może manipulować
 - Gdy Wiedźma potrząsa Kuferkiem, fakty się porządkują
 
 ### Kluczniczka (Bożena)
 - Dziedziczka słuchu Herca
-- Kuzynka Barbary, ale jasna gałąź
+- Kuzynka Wiedźmy BaraBary, ale jasna gałąź
 - Ostatnie schronienie Wilka
 - Świadek, który "wiedziała za dużo"
 
@@ -342,7 +342,7 @@ Herek miał Bożenę. Dariusz też.
 ## CYTAT-KLUCZ
 
 > *"Dwaj niewidomi widzieli prawdę, bo nie dali się oszukać papierom.*
-> *Barbara widziała wszystko, a mimo to nie rozumiała niczego."*
+> *Wiedźma BaraBara widziała wszystko, a mimo to nie rozumiała niczego."*
 
 ---
 
@@ -353,13 +353,13 @@ Herek miał Bożenę. Dariusz też.
 
 > *"Na Polanie świadek, który pamięta prawdę zbyt dobrze,*
 > *zostaje uznany za podejrzanego —*
-> *bo prawda w krainie zaklęć wygląda jak magia, której nikt nie zna."*
+> *bo prawda w krainie zaklęć wygląda jak moc zapisanego słowa, której nikt nie zna."*
 
 ---
 
 ## KONTRAST Z BARBARĄ
 
-| Barbara (Ciemna Gałąź) | Triada (Jasna Gałąź) |
+| Wiedźma BaraBara (Ciemna Gałąź) | Triada (Jasna Gałąź) |
 |------------------------|----------------------|
 | Kocioł Krzywd | Kuferek Prawdy |
 | Kalendarz = księga zaklęć | Monitoring = archiwum faktów |
@@ -378,7 +378,7 @@ Herek miał Bożenę. Dariusz też.
 
 Ten rozdział jest **światłem w ciemności**.
 
-Po mroku Barbary, po Pokébolu, po zamknięciu Sylwestra — ten rozdział pokazuje, że **prawda istnieje**.
+Po mroku Wiedźmy BaraBary, po Pokébolu, po zamknięciu Sylwestra — ten rozdział pokazuje, że **prawda istnieje**.
 
 Że są ludzie, którzy nie dają się oszukać.
 

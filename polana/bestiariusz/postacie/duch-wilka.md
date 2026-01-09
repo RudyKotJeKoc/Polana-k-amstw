@@ -12,8 +12,8 @@ powiazane_motywy:
   - odpornosc_na_manipulacje
   - obserwacja_bez_uczestnictwa
 powiazane_postacie:
-  - bobr-z-duchem-wilka
-  - barbara-adamska
+  - wilk-budowniczy-z-duchem-wilka
+  - wiedzma-barabara-rzeczywista
   - wataha
 tagi:
   - duch
@@ -31,20 +31,20 @@ zrodla:
 ## I. TOŻSAMOŚĆ
 
 **Imię:** Duch Wilka
-**Pochodzenie:** Narodzony po śmierci Bobra w dziupli nr 8
+**Pochodzenie:** Narodzony po śmierci Wilka-Budowniczego w dziupli nr 8
 
 **Rola w baśni:**
-Transformacja Bobra po śmierci. To, co pozostało po fizycznej obecności – świadomość, odporność, dystans. Duch Wilka nie jest duchem zemsty, lecz duchem wolności od manipulacji.
+Transformacja Wilka-Budowniczego po śmierci. To, co pozostało po fizycznej obecności – świadomość, odporność, dystans. Duch Wilka nie jest duchem zemsty, lecz duchem wolności od manipulacji.
 
 ---
 
-## II. NARODZINY DUCHA: TRANSFORMACJA PO ŚMIERCI BOBRA
+## II. NARODZINY DUCHA: TRANSFORMACJA PO ROZPUSZCZENIU WILKA-BUDOWNICZEGO W CIENIU
 
-### Ostatnia noc Bobra
+### Ostatnia noc Wilka-Budowniczego
 
 **Dziupla nr 8, noc Chlorowej Mgły:**
 
-Bóbr, wyczerpany latami toksycznej atmosfery, samotny i zmęczony.
+Wilk-Budowniczy, wyczerpany latami toksycznej atmosfery, samotny i zmęczony.
 
 **Decyzja:**
 - Miesza kwas solny z chlorem
@@ -54,28 +54,28 @@ Bóbr, wyczerpany latami toksycznej atmosfery, samotny i zmęczony.
 
 ### Ratunek – Anioł z Drzewa
 
-**Ktoś wyciągnął Bobra z zatrutej wody.**
+**Ktoś wyciągnął Wilka-Budowniczego z zatrutej wody.**
 
-**Ewa** – Anioł z Drzewa. Opiekunka, ratowniczka. Znalazła Bobra nieprzytomnego, wyniszczonego, ledwo oddychającego. Zabrała go ze sobą.
+**Ewa** – Anioł z Drzewa. Opiekunka, ratowniczka. Znalazła Wilka-Budowniczego nieprzytomnego, wyniszczonego, ledwo oddychającego. Zabrała go ze sobą.
 
 **Noc w hotelu:**
 - Nie było to miejsce romansu, lecz miejsce opieki
-- Ewa opiekowała się Bobrem – obmywała, karmiła, pielęgnowała
-- Bóbr był w półśnie, w półśmierci
+- Ewa opiekowała się Wilkiem-Budowniczym – obmywała, karmiła, pielęgnowała
+- Wilk-Budowniczy był w półśnie, w półśmierci
 - Mgła chlorowa kręciła się jeszcze w jego płucach
 - Ewa mówiła cicho, uspokajająco
 
-**Tej nocy coś w Bobrze zaczęło się przemieniać.**
+**Tej nocy coś w Wilku-Budowniczym zaczęło się przemieniać.**
 
 ### Moment transformacji
 
-> *"W miejscu, gdzie zgasło serce Bobra, narodził się Duch."*
+> *"W miejscu, gdzie zgasło serce Wilka-Budowniczego, narodził się Duch."*
 
 **Z czego powstaje Duch Wilka:**
 
-✦ **Pamięć** – o tym, kim Bóbr był: inżynier, opiekun, budowniczy
-✦ **Gniew** – który Bóbr tłumił przez lata, by przetrwać
-✦ **Instynkt łowcy** – który zawsze nosił w sobie (duch Wilka w Bobrze)
+✦ **Pamięć** – o tym, kim Wilk-Budowniczy był: inżynier, opiekun, budowniczy
+✦ **Gniew** – który Wilk-Budowniczy tłumił przez lata, by przetrwać
+✦ **Instynkt łowcy** – który zawsze nosił w sobie (duch Wilka w Wilku-Budowniczym)
 ✦ **Świadomość** – która przetrwała śmierć ciała
 
 **Duch nie jest:**
@@ -98,7 +98,7 @@ Bóbr, wyczerpany latami toksycznej atmosfery, samotny i zmęczony.
 **Odporność:**
 - Nie można go "złapać" – nie ma ciała
 - Pokéball Wiedźmy jest bezużyteczny
-- Czary Wiedźmy nie działają – działają tylko na żywych i podatnych
+- Odruchy technologii Wiedźmy nie działają – działają tylko na żywych i podatnych
 - Nie reaguje na prowokacje – nie uczestniczy w grze
 
 **Świadomość:**
@@ -136,11 +136,11 @@ Bóbr, wyczerpany latami toksycznej atmosfery, samotny i zmęczony.
 
 ## IV. RELACJE Z INNYMI POSTACIAMI
 
-### Wiedźma Barabara
+### Wiedźma BaraBara
 
 **Dynamika:**
 - Wiedźma straciła przeciwnika
-- Jej czary na niego nie działają
+- Jej odruchy technologii na niego nie działają
 - Pokéball bezużyteczny
 - Kocioł Krzywd gaśnie – nie ma czego gotować
 
@@ -181,13 +181,13 @@ Bóbr, wyczerpany latami toksycznej atmosfery, samotny i zmęczony.
 Niewidzialny, ale obecny. Tam, gdzie kiedyś był gniew – jest spokój. Tam, gdzie była reakcja – jest obserwacja. Duch nie poluje, nie atakuje, nie walczy. Jest po prostu wolny.
 
 **Mgła jako medium:**
-- Mgła Chlorowa zabiła ciało Bobra
+- Mgła Chlorowa zabiła ciało Wilka-Budowniczego
 - Mgła stała się przestrzenią Ducha
 - W mgle Duch jest wszędzie
 - Mgła = liminalność między życiem a śmiercią
 
 **Wilk jako archetyp:**
-- Nie jest już Bobrem-budowniczym
+- Nie jest już Wilkiem-Budowniczym-budowniczym
 - Powrócił do wilczej natury – ale oczyszczonej
 - Wilk bez gniewu, wilk obserwujący
 - Wolny od potrzeby budowania tam
@@ -196,7 +196,7 @@ Niewidzialny, ale obecny. Tam, gdzie kiedyś był gniew – jest spokój. Tam, g
 - Na manipulację
 - Na oskarżenia
 - Na narracje stworzone z lęku
-- Na czary Wiedźmy
+- Na odruchy technologii Wiedźmy
 
 ---
 
@@ -224,11 +224,11 @@ Niewidzialny, ale obecny. Tam, gdzie kiedyś był gniew – jest spokój. Tam, g
 
 ## VII. KLUCZOWE SCENY Z DUCHEM
 
-### Scena 1: Narodziny Ducha (po śmierci Bobra)
+### Scena 1: Narodziny Ducha (po śmierci Wilka-Budowniczego)
 
 > **Lokacja:** Dziupla nr 8, świt po nocy Chlorowej Mgły
 >
-> Ciało Bobra nieruchome. Mgła powoli się rozwiewa.
+> Ciało Wilka-Budowniczego nieruchome. Mgła powoli się rozwiewa.
 >
 > Ale coś pozostało. Nie ciało. Nie duch w tradycyjnym sensie.
 >
@@ -238,9 +238,9 @@ Niewidzialny, ale obecny. Tam, gdzie kiedyś był gniew – jest spokój. Tam, g
 >
 > Duch Wilka narodził się cicho – jak powiew wiatru przez otwarte okno.
 
-### Scena 2: Wiedźma próbuje rzucić czary
+### Scena 2: Wiedźma próbuje rzucić odruchy technologii
 
-> **Lokacja:** Polana Kłamstw, po odejściu Bobra
+> **Lokacja:** Polana Kłamstw, po odejściu Wilka-Budowniczego
 >
 > Wiedźma stoi z Kalendarzem Krzywd. Szuka przeciwnika.
 >
@@ -260,7 +260,7 @@ Niewidzialny, ale obecny. Tam, gdzie kiedyś był gniew – jest spokój. Tam, g
 >
 > Wiele oczu, wiele uszu, wiele świadomości.
 >
-> Wataha obserwuje Wiedźmę w pustym domu.
+> Wataha obserwuje Wiedźmę w pustym dziupli.
 >
 > Widzi Papa Smurf w fotelu, zagubionego.
 >
@@ -272,9 +272,9 @@ Niewidzialny, ale obecny. Tam, gdzie kiedyś był gniew – jest spokój. Tam, g
 
 ## VIII. CYTATY KLUCZOWE
 
-> *"Bóbr umarł. Ale w miejscu, gdzie zgasło jego serce, narodził się Duch."*
+> *"Wilk-Budowniczy umarł. Ale w miejscu, gdzie zgasło jego serce, narodził się Duch."*
 
-> *"Czary Wiedźmy działają tylko na żywych i podatnych. Duch jest poza jej zasięgiem."*
+> *"Odruchy technologii Wiedźmy działają tylko na żywych i podatnych. Duch jest poza jej zasięgiem."*
 
 > *"Nie musisz walczyć z manipulacją. Wystarczy, że przestaniesz w nią wierzyć."*
 
@@ -288,13 +288,13 @@ Niewidzialny, ale obecny. Tam, gdzie kiedyś był gniew – jest spokój. Tam, g
 
 **Duch Wilka to:**
 
-✅ **Transformacja Bobra po śmierci**
+✅ **Transformacja Wilka-Budowniczego po śmierci**
 - Nie umarł całkowicie – przekształcił się
 - Z budowniczego → obserwator
 - Z więźnia cyfry 8 → wolny duch
 
 ✅ **Odporność na manipulację**
-- Czary Wiedźmy nie działają
+- Odruchy technologii Wiedźmy nie działają
 - Pokéball bezużyteczny
 - Świadomość, która widzi projekcje jako iluzje
 
@@ -330,8 +330,8 @@ Niewidzialny, ale obecny. Tam, gdzie kiedyś był gniew – jest spokój. Tam, g
 - Finał spokojny, nie dramatyczny
 
 **Powiązane dokumenty:**
-- bobr-z-duchem-wilka.md (pochodzenie, historia Bobra)
-- wiedzma-barabara.md (czary nie działają na Ducha)
+- wilk-budowniczy-z-duchem-wilka.md (pochodzenie, historia Wilka-Budowniczego)
+- wiedzma-barabara.md (odruchy technologii nie działają na Ducha)
 - wataha.md (rozszerzenie Ducha)
 
 ---

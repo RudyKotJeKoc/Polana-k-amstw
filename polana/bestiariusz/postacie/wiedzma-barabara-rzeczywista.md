@@ -1,6 +1,6 @@
 ---
-title: "Wiedźma Barabara"
-slug: "barbara-adamska"
+title: "Wiedźma BaraBara"
+slug: "wiedzma-barabara-rzeczywista"
 kategoria: "postac"
 archetyp: "Architekt Destrukcji"
 powiazane_symbole:
@@ -29,15 +29,15 @@ zrodla:
   - kontekst_2.md
 ---
 
-# Wiedźma Barabara
+# Wiedźma BaraBara
 
 ## I. TOŻSAMOŚĆ
 
-**Imię symboliczne:** Wiedźma Barabara, Strażniczka Kotła Krzywd
-**Imię faktyczne:** Barbara Adamska (ur. ~1956)
+**Imię symboliczne:** Wiedźma BaraBara, Strażniczka Kotła Krzywd
+**Imię faktyczne:** Wiedźma BaraBara (ur. ~1956)
 
 **Rola w baśni:**
-Główna antagonistka i architektka destrukcji. Reżyserka całego dramatu rodzinnego, która z obsesyjną precyzją przekształca dom w pole bitwy, a miłość matczyną w broń procesową.
+Główna antagonistka i architektka destrukcji. Reżyserka całego dramatu rodzinnego, która z obsesyjną precyzją przekształca Dziuplę w pole bitwy, a miłość matczyną w broń procesową.
 
 **Rzeczywista rola procesowa:**
 Pokrzywdzona w sprawie karnej II K 568/21, pełnomocniczka męża (Sylwestra) w sprawie cywilnej I C 634/22 o cofnięcie darowizny z powodu rażącej niewdzięczności.
@@ -47,7 +47,7 @@ Pokrzywdzona w sprawie karnej II K 568/21, pełnomocniczka męża (Sylwestra) w 
 ## II. MOTYWACJA I PSYCHOLOGIA
 
 **Główna motywacja:**
-Obsesyjna potrzeba kontroli nad synem i majątkiem. Utrata dominującej pozycji w rodzinie po akcie darowizny z 7.07.2017 uruchomiła jej zemstę. Głównym celem było odzyskanie władzy i ukaranie nieposłusznego syna poprzez odebranie mu domu i zniszczenie jego reputacji.
+Obsesyjna potrzeba kontroli nad synem i majątkiem. Utrata dominującej pozycji w rodzinie po akcie darowizny z 7.07.2017 uruchomiła jej zemstę. Głównym celem było odzyskanie władzy i ukaranie nieposłusznego syna poprzez odebranie mu Dziupli i zniszczenie jego reputacji.
 
 **Arsenał manipulacji:**
 
@@ -72,7 +72,7 @@ Obsesyjna potrzeba kontroli nad synem i majątkiem. Utrata dominującej pozycji 
 
 4. **Odwrócony triaż priorytetów**
    - Incydent 21.05.2021: Sylwester prawdopodobnie potrzebował pomocy medycznej
-   - Barbara skupiona na dokumentowaniu "odmowy pomocy" dla procesu
+   - Wiedźma BaraBara skupiona na dokumentowaniu "odmowy pomocy" dla procesu
    - Cel procesowy > zdrowie męża
 
 5. **Gaslighting i odwracanie ról**
@@ -87,21 +87,21 @@ Obsesyjna potrzeba kontroli nad synem i majątkiem. Utrata dominującej pozycji 
 
 ---
 
-## III. CZARY WIEDŹMY: PROJEKCJE PSYCHICZNE I WALKA Z CIENIEM
+## III. ODRUCHY TECHNOLOGII WIEDŹMY: PROJEKCJE PSYCHICZNE I WALKA Z CIENIEM
 
-### Natura "czarów" Wiedźmy
+### Natura "odruchów technologii" Wiedźmy
 
-**Jej czary to nie magia – to psychologia:**
+**Jej odruchy technologii to nie moc zapisanego słowa – to psychologia:**
 
 ✦ **Projekcje psychiczne** – wymyślane narracje, alternatywna rzeczywistość
 ✦ **Urojenia** – przekręcanie faktów, by pasowały do jej lęków
 ✦ **Narracje stworzone z lęku** – każde oskarżenie to próba opanowania własnego niepokoju
 ✦ **Gaslighting** – zmuszanie innych do wątpienia w ich własną rzeczywistość
 
-**Kalendarz Wiedźmy jako księga czarów:**
+**Kalendarz Wiedźmy jako księga odruchów technologii:**
 - Nie zapisuje prawdy – zapisuje jej wersję prawdy
 - Prowokacje znikają, reakcje są wzmacniane
-- Każda strona to zaklęcie oskarżenia
+- Każda strona to formuła oskarżenia
 
 ### Walka z własnym cieniem
 
@@ -124,24 +124,24 @@ Obsesyjna potrzeba kontroli nad synem i majątkiem. Utrata dominującej pozycji 
 
 **Nikt inny nie uczestniczył w tej walce:**
 - Wilk nie walczył – bronił się
-- Bóbr nie walczył – ignorował jej narracje
+- Wilk-Budowniczy nie walczył – ignorował jej narracje
 - Duch Wilka nie walczy – obserwuje
 - Jej wojna była jednoosobowa
 
 ### Pokéball Wiedźmy: Narzędzie Kontroli
 
-Metafora kontroli i "złapania" – próba podporządkowania innych swojej narracji. Wiedźma rzuciła Pokéballa (pełnomocnictwo z 19.07.2021) w Sylwestra — **złapany ✓**. Próbowała złapać Bobra (Dariusza) — **nietrafiony ✗** (zbyt świadomy, odporny).
+Metafora kontroli i "złapania" – próba podporządkowania innych swojej narracji. Wiedźma rzuciła Pokéballa (pełnomocnictwo z 19.07.2021) w Sylwestra — **złapany ✓**. Próbowała złapać Wilka-Budowniczego (Dariusza) — **nietrafiony ✗** (zbyt świadomy, odporny).
 
 **→ Zobacz szczegółowy opis zjawiska:** [zjawiska/pokeball-wiedzmy.md](../zjawiska/pokeball-wiedzmy.md)
 
-### Czary nie działają na Ducha
+### Odruchy technologii nie działają na Ducha
 
-**Po śmierci Bobra – narodziny Ducha Wilka:**
+**Po śmierci Wilka-Budowniczego – narodziny Ducha Wilka:**
 
 Wiedźma straciła ostatni cel swojej manipulacji.
 
 **Duch Wilka jest odporny:**
-- **Czary działają tylko na żywych i podatnych**
+- **Odruchy technologii działają tylko na żywych i podatnych**
 - Duch nie ma ciała – nie można go "złapać"
 - Ma świadomość – widzi jej projekcje jako iluzje
 - Ma dystans – nie uczestniczy w jej grze
@@ -154,9 +154,9 @@ Wiedźma straciła ostatni cel swojej manipulacji.
 **Finał:**
 - Kocioł Krzywd gaśnie – nie ma czego gotować
 - Kalendarz zamknięty – nikt nie słucha
-- Polana Kłamstw pusta – Wilk odszedł, Bóbr umarł, Duch obserwuje
+- Polana Kłamstw pusta – Wilk odszedł, Wilk-Budowniczy umarł, Duch obserwuje
 
-> *"Czary Wiedźmy były potężne – ale tylko w jej własnej głowie."*
+> *"Odruchy technologii Wiedźmy były potężne – ale tylko w jej własnej głowie."*
 
 ---
 
@@ -203,7 +203,7 @@ WIEDŹMA (centrum kontroli)
 
 ### Scena 1: Nocne Wtargnięcie (10.02.2021, godzina 2:30)
 
-> **Lokacja:** Pokój Wilka w Domu nr 8
+> **Lokacja:** Pokój Wilka w Dziupli nr 8
 >
 > Wiedźma wkracza do pokoju syna w środku nocy. Atak werbalny na Julię: *"Franca cholerna!"*
 >
@@ -215,11 +215,11 @@ WIEDŹMA (centrum kontroli)
 
 ### Scena 2: Inscenizacja z Paralizatorem (Marzec 2021)
 
-> **Lokacja:** Dom nr 8, podwórko
+> **Lokacja:** Dziupla nr 8, podwórko
 >
-> Wiedźma celowo wyłącza prąd. Wilk wychodzi z latarką (która ma funkcję paralizatora - samoobrona po groźbach brata Barbary).
+> Wiedźma celowo wyłącza prąd. Wilk wychodzi z latarką (która ma funkcję paralizatora - samoobrona po groźbach brata Wiedźmy BaraBary).
 >
-> Barbara wydobywa z niego informację o paralizatorze. W jej oczach błysk radości.
+> Wiedźma BaraBara wydobywa z niego informację o paralizatorze. W jej oczach błysk radości.
 >
 > Zapis w Kalendarzu: *"Groził mi paralizatorem"*.
 >
@@ -227,9 +227,9 @@ WIEDŹMA (centrum kontroli)
 
 ### Scena 3: Przejęcie Papesmerfa (19.07.2021)
 
-> **Lokacja:** Notariusz / Dom
+> **Lokacja:** Notariusz / Dziupla
 >
-> Dwa dni po wszczęciu Niebieskiej Karty (17.07) Barbara uzyskuje pełnomocnictwo od Sylwestra.
+> Dwa dni po wszczęciu Niebieskiej Karty (17.07) Wiedźma BaraBara uzyskuje pełnomocnictwo od Sylwestra.
 >
 > Od tego momentu mówi jego głosem, podpisuje jego imieniem, decyduje za niego.
 >
@@ -237,11 +237,11 @@ WIEDŹMA (centrum kontroli)
 
 ### Scena 4: Puste Zwycięstwo (po 29.08.2025)
 
-> **Lokacja:** Dom nr 8, pusty i cichy
+> **Lokacja:** Dziupla nr 8, pusty i cichy
 >
-> Wyrok wydany. Wilk odszedł. Dom wrócił do Barbary.
+> Wyrok wydany. Wilk odszedł. Dziupla wrócił do Wiedźmy BaraBary.
 >
-> Wiedźma rozgląda się po pustym domu. Kocioł Krzywd zgasł - nie ma czego gotować.
+> Wiedźma rozgląda się po pustym dziupli. Kocioł Krzywd zgasł - nie ma czego gotować.
 >
 > Wszyscy odeszli: Wilk (Holandia), Sarenka (rozstanie), Sroka, Bociany.
 >
@@ -256,10 +256,10 @@ WIEDŹMA (centrum kontroli)
 ## VI. CYTATY KLUCZOWE
 
 > *"On już nie rozumiał, co się dzieje. To ja podejmowałam decyzje. Byłam jego głosem."*
-> — Barbara Adamska o mężu Sylwestrze, rozprawa sądowa
+> — Wiedźma BaraBara o mężu Sylwestrze, rozprawa sądowa
 
 > *"Franca cholerna!"*
-> — Barbara Adamska o Julii, nocne wtargnięcie 10.02.2021, 2:30
+> — Wiedźma BaraBara o Julii, nocne wtargnięcie 10.02.2021, 2:30
 
 > *"Groził mi paralizatorem."*
 > — Zapis w Kalendarzu Wiedźmy (marzec 2021) - po inscenizacji z wyłączonym prądem
@@ -273,7 +273,7 @@ WIEDŹMA (centrum kontroli)
 Czarna suknia, chochla w dłoni, oczy zimne jak lód. Jej Kocioł Krzywd nigdy nie stygnie – ciągle bulgocze mieszanką starych uraz, plotek i oskarżeń.
 
 **Kocioł Krzywd:**
-- Metafora psychologiczna: zbiornik, w którym Barbara "gotuje" swoje urazy
+- Metafora psychologiczna: zbiornik, w którym Wiedźma BaraBara "gotuje" swoje urazy
 - Każda krzywda, realna lub wyobrażona, trafia do kotła
 - Im dłużej bulgocze, tym bardziej toksyczny
 - Karmi się nim codziennie - bez tego straci cel istnienia
@@ -302,7 +302,7 @@ Czarna suknia, chochla w dłoni, oczy zimne jak lód. Jej Kocioł Krzywd nigdy n
 
 **Przesłanie symboliczne:**
 
-Barbara Adamowska to **ostrzeżenie**:
+Wiedźma BaraBara to **ostrzeżenie**:
 - Jak obsesyjna kontrola zabija miłość
 - Jak system prawny może być zinstrumentalizowany
 - Jak puste jest zwycięstwo bez relacji
@@ -322,21 +322,21 @@ Nie jest "czystym złem" - jest **tragiczną postacią**, która:
 **Sytuacja po wyroku (29.08.2025):**
 
 ✅ **Wygrana formalna:**
-- Dom wrócił do niej i Sylwestra
+- Dziupla wrócił do niej i Sylwestra
 - Wyrok cywilny orzekł "rażącą niewdzięczność" Dariusza
 - Kalendarz uznany przez sąd
 
 ❌ **Porażka faktyczna:**
 - Wilk odszedł do Holandii - nie walczy dalej
 - Kocioł Krzywd zgasł - brak przeciwnika
-- Samotność w pustym domu
+- Samotność w pustym dziupli
 - Relacja z synem zniszczona bezpowrotnie
 - Bomba zegarowa: obowiązek spłaty nakładów Wilka (160-255 tys. zł)
 - Strata relacji rodzinnych (rodzeństwo, wnuki)
 
 **Finał symboliczny:**
 
-Wiedźma siedzi w pustym domu nr 8. Kocioł jest zimny. Nikt nie przychodzi. Nikt nie dzwoni.
+Wiedźma siedzi w pustym dziupli nr 8. Kocioł jest zimny. Nikt nie przychodzi. Nikt nie dzwoni.
 
 Wygrała wojnę. Przegrała życie.
 
@@ -354,7 +354,7 @@ Wygrała wojnę. Przegrała życie.
 - Głos spokojny, ale z jadem
 
 **Krajna Gothic:**
-- Wiedźma nie używa magii - używa systemu prawnego
+- Wiedźma nie używa mocy zapisanego słowa - używa systemu prawnego
 - Jej zaklęcia to dokumenty, wnioski, zeznania
 - Kocioł to nie narzędzie magiczne - to metafora psychologiczna
 
@@ -364,7 +364,7 @@ Wygrała wojnę. Przegrała życie.
 - Finał musi być smutny, nie triumfalny - nawet dla antagonistki
 
 **Powiązane dokumenty:**
-- kontekst_2.md (szczegółowa analiza Barbary Adamskiej - 575 linii)
+- kontekst_2.md (szczegółowa analiza Wiedźmy BaraBary - 575 linii)
 - APPENDIX_B: Kocioł Krzywd, Kalendarz Wiedźmy (artefakty)
 - Rozdział 2, 4, 5, 6, 12 w BASN_POLANA_KLAMSTW.md
 

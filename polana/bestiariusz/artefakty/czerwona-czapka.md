@@ -4,7 +4,7 @@ slug: "czerwona-czapka"
 kategoria: "artefakt"
 typ: "Symbol agresji i terytorialności"
 powiazane_postacie:
-  - barbara-adamska
+  - wiedzma-barabara-rzeczywista
 powiazane_motywy:
   - agresja
   - territorium

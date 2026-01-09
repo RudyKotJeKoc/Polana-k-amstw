@@ -12,7 +12,7 @@ powiazane_motywy:
   - paradoks_wolnosci
   - manipulacja_narracji
 powiazane_symbole:
-  - dom-numer-8
+  - dziupla-numer-8
 tagi:
   - pergamin
   - służący
@@ -38,7 +38,7 @@ Tajemniczy pergamin, na którym zapisano jedno, kluczowe słowo:
 
 **„SŁUŻĄCY"**
 
-To nie jest zwykły dokument. To **symbol interpretacji** – narzędzie, którym Wiedźma BaraBary uzasadnia swoją władzę nad Domem i nad tymi, którzy w nim mieszkają.
+To nie jest zwykły dokument. To **symbol interpretacji** – narzędzie, którym Wiedźma BaraBary uzasadnia swoją władzę nad Dziuplą i nad tymi, którzy w nim mieszkają.
 
 **Pytanie kluczowe:**
 Czy słowo „służący" opisuje rzeczywistość, czy jest projekcją Wiedźmy?
@@ -52,7 +52,7 @@ Czy słowo „służący" opisuje rzeczywistość, czy jest projekcją Wiedźmy?
 **Skąd pochodzi pergamin?**
 
 Nikt nie pamięta. Wiedźma BaraBary twierdzi, że:
-- Znalazła go w archiwum Domu
+- Znalazła go w archiwum Dziupli
 - Został spisany dawno temu
 - Jest dowodem na odwieczny porządek: ona – Pani, inni – służący
 
@@ -74,7 +74,7 @@ Niektórzy szepczą, że pergamin nie pochodzi z archiwum. Że Wiedźma BaraBary
 
 **Prawda pozostaje ukryta.**
 
-Dom milczy. Pergamin leży na stole. A Wiedźma trzyma go jak koronę.
+Dziupla milczy. Pergamin leży na stole. A Wiedźma trzyma go jak koronę.
 
 ---
 
@@ -94,11 +94,11 @@ To wszystko. Jedno słowo, wypisane starą, nierówną ręką.
 
 Dla Wiedźmy to słowo jest **wyrokiem i prawem**:
 
-- **Służący** = ten, kto mieszka w Domu, ale nie jest Panią
-- **Służący** = ten, kto ma obowiązki wobec Pani Domu
+- **Służący** = ten, kto mieszka w Dziupli, ale nie jest Panią
+- **Służący** = ten, kto ma obowiązki wobec Pani Dziupli
 - **Służący** = ten, kto buduje, naprawia, inwestuje – ale w jej imieniu
 
-> *"Pergamin mówi jasno. Wilk jest służącym. Ja jestem Panią. To jest porządek Domu."*
+> *"Pergamin mówi jasno. Wilk jest służącym. Ja jestem Panią. To jest porządek Dziupli."*
 
 ### Prawdziwe znaczenie – Służebność, nie Służenie
 
@@ -108,7 +108,7 @@ Słowo „służący" to **błędna interpretacja**.
 
 - **Służebność osobista** ≠ **służenie Wiedźmie**
 - Służebność to **prawo do użytkowania**, nie obowiązek służby
-- Wilk miał służebność osobistą na Dom – to znaczy, że mógł w nim mieszkać, nie że musiał służyć
+- Wilk miał służebność osobistą na Dziupla – to znaczy, że mógł w nim mieszkać, nie że musiał służyć
 
 **Pergamin nie definiuje obowiązków. Wiedźma je dopisała.**
 
@@ -143,7 +143,7 @@ Pergamin stał się dla BaraBary **bronią procesową**:
 - Pozwala jej wymierzać „kary" (np. wygnanie)
 - Daje jej poczucie, że ma rację
 
-**Ale Dom milczy.**
+**Ale Dziupla milczy.**
 
 Nie potwierdza jej interpretacji. Pergamin leży na stole, a jego słowo rozmywa się w kurzu.
 
@@ -154,34 +154,34 @@ Nie potwierdza jej interpretacji. Pergamin leży na stole, a jego słowo rozmywa
 ### Pytanie fundamentalne
 
 Wiedźma BaraBary twierdzi:
-> *"Służący ma obowiązki wobec Pani Domu."*
+> *"Służący ma obowiązki wobec Pani Dziupli."*
 
 **Ale jakie obowiązki? I wobec kogo?**
 
 Pergamin **nie precyzuje**:
 - Co służący powinien robić?
 - Jak często?
-- Czy Pani Domu ma jakieś obowiązki wobec niego?
-- Kto faktycznie ponosi koszty Domu?
+- Czy Pani Dziupli ma jakieś obowiązki wobec niego?
+- Kto faktycznie ponosi koszty Dziupli?
 
 ### Odwrócenie prawdy
 
 **Fakty:**
 
-- **Wilk** budował Dom, montował instalacje, inwestował pieniądze (160-255 tys. zł)
-- **Wiedźma BaraBary** mieszkała w Domu, korzystała z ciepła, światła, dachu
+- **Wilk** budował Dziupla, montował instalacje, inwestował pieniądze (160-255 tys. zł)
+- **Wiedźma BaraBary** mieszkała w Dziupli, korzystała z ciepła, światła, dachu
 
 **Pytanie:**
 Kto miał obowiązki wobec kogo?
 
 - Wiedźma: „Wilk miał obowiązki wobec mnie, bo był służącym"
-- Prawda: „Wiedźma miała obowiązki wobec Domu, bo korzystała z całego jego komfortu"
+- Prawda: „Wiedźma miała obowiązki wobec Dziupli, bo korzystała z całego jego komfortu"
 
 **Odwrócone obowiązki:**
 
-Ten, kto korzysta z całego Domu, ponosi koszty całego Domu. Ale Wiedźma tego nie rozumiała.
+Ten, kto korzysta z całego Dziupli, ponosi koszty całego Dziupli. Ale Wiedźma tego nie rozumiała.
 
-Pergamin milczał na ten temat. Ale Dom wiedział.
+Pergamin milczał na ten temat. Ale Dziupla wiedział.
 
 ---
 
@@ -204,22 +204,22 @@ BaraBary obserwuje Wilka przez lata. Notuje w swoim umyśle (i w Kalendarzu Krzy
 
 Wiedźma BaraBary unosi pergamin wysoko i wypowiada wyrok:
 
-> *"Na mocy tego pergaminu – wypędzam cię z Domu! Tracisz prawo do mieszkania pod moim dachem! Idź precz, na wolność – niech to będzie twoja kara!"*
+> *"Na mocy tego pergaminu – wypędzam cię z Dziupli! Tracisz prawo do mieszkania pod moim dachem! Idź precz, na wolność – niech to będzie twoja kara!"*
 
 **Jej logika:**
 
-Wygnanie = najwyższa kara. Przecież służący bez Domu jest nikim. Bez Pani nie ma celu. Bez tronu – ginie.
+Wygnanie = najwyższa kara. Przecież służący bez Dziupli jest nikim. Bez Pani nie ma celu. Bez tronu – ginie.
 
 ### Prawda: Kara jest Wyzwoleniem
 
 **Ale rzeczywistość była odwrotna.**
 
-Kiedy Wilk wychodzi z Domu:
+Kiedy Wilk wychodzi z Dziupli:
 - Nie traci niczego – zyskuje wolność
 - Nie jest ukarany – jest uwolniony
 - Nie opuszcza tronu – opuszcza więzienie
 
-> *"Wyszedł z Domu, który był klatką. Dostał karę, która była kluczem."*
+> *"Wyszedł z Dziupli, który był klatką. Dostał karę, która była kluczem."*
 
 **Wiedźma BaraBary nie rozumiała:**
 
@@ -231,50 +231,50 @@ Pergamin, który miał go ukarać, stał się jego uwolnieniem.
 
 ---
 
-## VII. MILCZENIE DOMU – PRAWDA W CISZY
+## VII. MILCZENIE DZIUPLI – PRAWDA W CISZY
 
-### Dom jako świadek
+### Dziupla jako świadek
 
-Dom numer 8 wszystko widział:
+Dziupla numer 8 wszystko widział:
 - Kto budował mury
 - Kto montował panele słoneczne
 - Kto spał na zimnej betonowej podłodze w warsztacie
 - Kto siedział w fotelu, trzymając pergamin
 
-**Wiedźma pyta Dom:**
+**Wiedźma pyta Dziupla:**
 
 > *"Powiedz, że mam rację! Powiedz, że pergamin mówi prawdę! Powiedz, że Wilk był służącym!"*
 
-**Dom milczy.**
+**Dziupla milczy.**
 
 ### Cisza jako wyrok
 
-Cisza Domu nie jest obojętnością. Jest **potwierdzeniem ukrytej prawdy**.
+Cisza Dziupli nie jest obojętnością. Jest **potwierdzeniem ukrytej prawdy**.
 
-- Dom nie mówi „tak" – bo nie zgadza się
-- Dom nie mówi „nie" – bo nie musi
-- Dom po prostu **milczy** – a jego milczenie mówi więcej niż słowa
+- Dziupla nie mówi „tak" – bo nie zgadza się
+- Dziupla nie mówi „nie" – bo nie musi
+- Dziupla po prostu **milczy** – a jego milczenie mówi więcej niż słowa
 
 **Wiedźma BaraBary interpretuje ciszę jako zgodę:**
 
-> *"Widzisz? Dom nie zaprzecza. Więc mam rację."*
+> *"Widzisz? Dziupla nie zaprzecza. Więc mam rację."*
 
 **Ale prawda jest inna:**
 
-> *"Dom milczał, bo wiedział. Pergamin był fałszywy. Służący nigdy nie był służącym. A Pani Domu nigdy nie była Panią – była tylko tą, która siedziała na cudzym tronie."*
+> *"Dziupla milczał, bo wiedział. Pergamin był fałszywy. Służący nigdy nie był służącym. A Pani Dziupli nigdy nie była Panią – była tylko tą, która siedziała na cudzym tronie."*
 
 ---
 
-## VIII. SYMBOLIKA OBOWIĄZKÓW – PRAWDZIWY KOSZT DOMU
+## VIII. SYMBOLIKA OBOWIĄZKÓW – PRAWDZIWY KOSZT DZIUPLI
 
 ### Metafora: Tron wymaga fundamentu
 
 **Baśniowa alegoria:**
 
-Wiedźma BaraBary siedzi na tronie. Tron stoi w Domu. Dom stoi na fundamencie.
+Wiedźma BaraBary siedzi na tronie. Tron stoi w Dziupli. Dziupla stoi na fundamencie.
 
-- **Tron** = pozycja Pani Domu
-- **Dom** = miejsce, w którym mieszka
+- **Tron** = pozycja Pani Dziupli
+- **Dziupla** = miejsce, w którym mieszka
 - **Fundament** = praca, inwestycje, koszty utrzymania
 
 **Pytanie:**
@@ -292,10 +292,10 @@ Obowiązki są jak **korzenie drzewa** – nie widać ich, ale bez nich drzewo u
 
 **Kiedy Wilk odszedł:**
 
-Fundament zaczął pękać. Dom zaczął się sypać. Tron okazał się ciężarem.
+Fundament zaczął pękać. Dziupla zaczął się sypać. Tron okazał się ciężarem.
 
 - Bomba zegarowa: spłata nakładów (160-255 tys. zł)
-- Pusty Dom wymaga utrzymania
+- Pusty Dziupla wymaga utrzymania
 - Nikt nie naprawia, nikt nie buduje
 
 > *"Wiedźma odkryła niewidoczne obowiązki dopiero wtedy, gdy Wilk przestał je dźwigać."*
@@ -304,7 +304,7 @@ Fundament zaczął pękać. Dom zaczął się sypać. Tron okazał się ciężar
 
 **Służebność osobista** = prawo do użytkowania
 
-**NIE** = obowiązek służenia Pani Domu
+**NIE** = obowiązek służenia Pani Dziupli
 
 Pergamin mówił o służebności. Wiedźma przeczytała „służenie". I w tym błędzie zbudowała swoje fałszywe królestwo.
 
@@ -314,7 +314,7 @@ Pergamin mówił o służebności. Wiedźma przeczytała „służenie". I w tym
 
 ### Scena 1: Odkrycie pergaminu
 
-> **Lokacja:** Komnata Wiedźmy BaraBary, Dom nr 8
+> **Lokacja:** Komnata Wiedźmy BaraBary, Dziupla nr 8
 >
 > Wiedźma przeszukuje stare skrzynie. Jej palce dotykają zakurzonego papieru. Wyciąga pergamin.
 >
@@ -328,7 +328,7 @@ Pergamin mówił o służebności. Wiedźma przeczytała „służenie". I w tym
 
 ### Scena 2: Pokazanie pergaminu Wilkowi
 
-> **Lokacja:** Dom nr 8, główna sala
+> **Lokacja:** Dziupla nr 8, główna sala
 >
 > Wiedźma BaraBary stoi przed Wilkiem. W dłoni trzyma pergamin.
 >
@@ -346,7 +346,7 @@ Pergamin mówił o służebności. Wiedźma przeczytała „służenie". I w tym
 
 ### Scena 3: Wyrok wygnania
 
-> **Lokacja:** Dom nr 8, sala sądowa (metaforyczna)
+> **Lokacja:** Dziupla nr 8, sala sądowa (metaforyczna)
 >
 > Wiedźma BaraBary stoi na podwyższeniu. W ręku pergamin.
 >
@@ -364,7 +364,7 @@ Pergamin mówił o służebności. Wiedźma przeczytała „służenie". I w tym
 
 ### Scena 4: Pergamin w kurzu
 
-> **Lokacja:** Dom nr 8, po odejściu Wilka
+> **Lokacja:** Dziupla nr 8, po odejściu Wilka
 >
 > Wiedźma BaraBary siedzi sama. Przed nią leży pergamin.
 >
@@ -376,9 +376,9 @@ Pergamin mówił o służebności. Wiedźma przeczytała „służenie". I w tym
 >
 > Czy tam zawsze było? Czy może... sama je napisała?
 >
-> Dom milczy. Pergamin leży na stole. A Wiedźma zaczyna wątpić.
+> Dziupla milczy. Pergamin leży na stole. A Wiedźma zaczyna wątpić.
 >
-> **Znaczenie:** Prawda zaczyna przenikać przez iluzję. Pergamin traci moc. Wiedźma zostaje z pustym papierem i pustym Domem.
+> **Znaczenie:** Prawda zaczyna przenikać przez iluzję. Pergamin traci moc. Wiedźma zostaje z pustym papierem i pustym Dziuplą.
 
 ---
 
@@ -399,8 +399,8 @@ Pergamin mówił o służebności. Wiedźma przeczytała „służenie". I w tym
 > *"Przekręciła jedno słowo i zbudowała na nim królestwo. Ale królestwo było zbudowane z kurzu."*
 > — Prawda o pergaminie
 
-> *"Dom milczał, bo wiedział. Pergamin był fałszywy."*
-> — Finał, cisza Domu
+> *"Dziupla milczał, bo wiedział. Pergamin był fałszywy."*
+> — Finał, cisza Dziupli
 
 ---
 
@@ -428,7 +428,7 @@ Pergamin to nie dokument prawny – to **projekcja władzy**. Jedno słowo, niej
 
 **Milczenie jako Prawda:**
 - Pergamin nie mówi – Wiedźma interpretuje
-- Dom nie mówi – Wiedźma słyszy potwierdzenie
+- Dziupla nie mówi – Wiedźma słyszy potwierdzenie
 - Ale cisza jest wyrokiem, nie zgodą
 
 ---
@@ -453,7 +453,7 @@ Pergamin Służącego to **ostrzeżenie**:
 
 **Morał:**
 
-> *"Pergamin mówił jedno słowo. Wiedźma usłyszała wyrok. Dom usłyszał kłamstwo. A Wilk usłyszał wyzwolenie."*
+> *"Pergamin mówił jedno słowo. Wiedźma usłyszała wyrok. Dziupla usłyszał kłamstwo. A Wilk usłyszał wyzwolenie."*
 
 ---
 
@@ -464,7 +464,7 @@ Pergamin Służącego to **ostrzeżenie**:
 - Pergamin leży na stole Wiedźmy BaraBary
 - Słowo „służący" rozmywa się w kurzu
 - Wiedźma patrzy na niego i zaczyna wątpić
-- Dom milczy – ale cisza jest coraz głośniejsza
+- Dziupla milczy – ale cisza jest coraz głośniejsza
 - Prawda ujawnia się: pergamin był iluzją
 
 **Finał symboliczny:**
@@ -479,12 +479,12 @@ Pergamin Służącego to **ostrzeżenie**:
 - Tajemniczy, niejasny, otwarty na interpretację
 - Jedno słowo jako centrum – reszta to projekcja
 - Milczenie ważniejsze niż słowa
-- Prawda ukryta w ciszy Domu
+- Prawda ukryta w ciszy Dziupli
 
 **Krajna Gothic:**
 - Pergamin to nie magiczny przedmiot – to psychologiczne narzędzie
 - Jego moc pochodzi z interpretacji, nie z treści
-- Dom jako świadek i sędzia
+- Dziupla jako świadek i sędzia
 - Finał musi ujawnić iluzoryczność pergaminu
 
 **Uwagi:**
@@ -495,7 +495,7 @@ Pergamin Służącego to **ostrzeżenie**:
 **Powiązane dokumenty:**
 - wiedzma-barabara.md (postać)
 - wilk-samotnik.md (postać)
-- dom-numer-8.md (lokacja/artefakt)
+- dziupla-numer-8.md (lokacja/artefakt)
 - Nowy rozdział: "Służący Wiedźmy BaraBary"
 
 ---

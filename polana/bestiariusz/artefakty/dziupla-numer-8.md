@@ -1,17 +1,17 @@
 ---
-title: "Dom pod numerem 8"
-slug: "dom-numer-8"
+title: "Dziupla pod numerem 8"
+slug: "dziupla-numer-8"
 kategoria: "artefakt"
 typ: "Więzienie i pole bitwy"
 powiazane_postacie:
-  - barbara-adamska
+  - wiedzma-barabara-rzeczywista
   - wilk-samotnik
   - stary-jelen-sylwester
 powiazane_motywy:
   - petla_bez_konca
   - osmy_kreg
 tagi:
-  - dom
+  - dziupla
   - symbol
   - cyfra_8
 zrodla:
@@ -19,8 +19,8 @@ zrodla:
   - kontekst_3.md
 ---
 
-# Dom pod numerem 8
+# Dziupla pod numerem 8
 
 ## Opis
 
-*[Szczegółowy opis Dom pod numerem 8 - do uzupełnienia na podstawie materiałów źródłowych]*
+*[Szczegółowy opis Dziupla pod numerem 8 - do uzupełnienia na podstawie materiałów źródłowych]*

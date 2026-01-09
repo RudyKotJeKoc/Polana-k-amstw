@@ -10,11 +10,12 @@ Rozdział 2: Życie pod Cieniem Wiedźmy (2017–2021)
 (wersja baśniowa, rozbudowana, spójna, narracyjna)
 
 Po Darowiźnie Polana wydawała się spokojna.
-Dom stał tam, gdzie stał — masywny jak stary dąb, z ósemką wyrytą w tabliczce przy bramie. Drzewa kołysały się jak dawniej, a światło wpadało do okien tak samo jak rok wcześniej. Droga do warsztatu była wciąż ta sama, kurz osiadał w tych samych miejscach, a koty — Zuza i Lotka — nadal wylegiwały się na progu Kocidomku, jakby nic się nie zmieniło.
+Dziupla stała tam, gdzie stała — masywna jak stary dąb, z ósemką wyrytą w tabliczce przy bramie. Drzewa kołysały się jak dawniej, a światło wpadało do okien tak samo jak rok wcześniej. Droga do warsztatu była wciąż ta sama, kurz osiadał w tych samych miejscach, a koty — Zuza i Lotka — nadal wylegiwały się na progu Kocidziupli, jakby nic się nie zmieniło.
 Lecz był to spokój pozorny — taki, który tylko z daleka wygląda jak cisza, a z bliska okazuje się czekaniem na coś złego.
+Na straży stał Burek, pies uwięziony na rdzawym łańcuchu. Szczekał na cienie, bo Wiedźma kazała mu pilnować Dziupli przed prawdą.
 
 Kocioł, który nigdy nie stygnął
-Wiedźma BaraBara nie rzucała zaklęć od razu.
+Wiedźma BaraBara nie wypowiadała wielkich formuł od razu.
 Nie trzeba.
 Przemykała przez komnaty cicho, jakby wciąż jeszcze spała z otwartymi oczami. Ale jej Kocioł Krzywd bulgotał nieustannie — jak serce starego pieca, który nigdy do końca nie gaśnie, tylko tli się, czeka, gromadzi ciepło.
 Do kotła wpadało wszystko:
@@ -27,7 +28,7 @@ Wszystko to wpadało do kotła jak kolejne źdźbło, które prędzej czy późn
 
 Kalendarz Wiedźmy — księga przyszłych oskarżeń
 Jej największym przedmiotem mocy stał się Kalendarz Wiedźmy — księga, w której nie zapisywało się wspomnień, lecz oskarżenia.
-Nie była to kronika życia, lecz zbiór zaklęć przygotowywanych na przyszłe starcie.
+Nie była to kronika życia, lecz zbiór papierowych formuł przygotowywanych na przyszłe starcie.
 Każdy wpis, zapisany ostrym piórem w czerwonym długopisie, był jak cień rzucony na Wilka:
 
 „Tego dnia w nocy cicho weszłam do jego izby. Spał z tą obcą dziewczyną."
@@ -38,12 +39,12 @@ Każdy wpis, zapisany ostrym piórem w czerwonym długopisie, był jak cień rzu
 
 „Z dnia na dzień ogłosili to wszem i wobec. Zrobili to na złość mnie."
 
-Tak tworzy się magia czerni — nie z faktów, lecz z domysłów powtarzanych w myślach tak długo, aż nabiorą mocy.
-W kalendarzu Wiedźmy każdy dzień miał swój zapis. Każde spojrzenie, każde wyjście z domu, każda rozmowa przy stole — wszystko dostawało swoją interpretację, swoją narrację, swoje miejsce w przyszłym zestawieniu dowodów.
+Tak tworzy się moc zapisanego słowa czerni — nie z faktów, lecz z domysłów powtarzanych w myślach tak długo, aż nabiorą mocy.
+W kalendarzu Wiedźmy każdy dzień miał swój zapis. Każde spojrzenie, każde wyjście z dziupli, każda rozmowa przy stole — wszystko dostawało swoją interpretację, swoją narrację, swoje miejsce w przyszłym zestawieniu dowodów.
 Wilk nie wiedział jeszcze, że zwykły zeszyt w kratkę stanie się jego oskarżycielem.
 
-Bóbr próbuje żyć — pracować, pomagać, budować
-A w tym czasie Bóbr — bo wtedy jeszcze był Bobrem, nie Wilkiem — próbował żyć najzwyczajniej w świecie.
+Wilk-Budowniczy próbuje żyć — pracować, pomagać, budować
+A w tym czasie Wilk-Budowniczy — bo wtedy jeszcze był Wilkiem-Budowniczym, nie Wilkiem — próbował żyć najzwyczajniej w świecie.
 Pracował w oddalonej krainie — Holandii, gdzie wielkie maszyny czekały na naprawę, gdzie silniki trzeba było odbudowywać, gdzie porządek był zrozumiały, a praca miała jasne zasady:
 
 Jeśli coś się zepsuło — naprawiasz.
@@ -63,10 +64,10 @@ Gdy pracował — pisała, że ją lekceważy.
 Gdy nie odpowiadał — pisała, że to atak.
 
 
-Powrót Bobra i ranny Jeleń
-Kiedy Stary Jeleń zapadł na ciężką chorobę — wylew, który zostawił ślad na sercu i w krokach — Bóbr wrócił na Polanę.
+Powrót Wilka-Budowniczego i ranny Jeleń
+Kiedy Stary Jeleń zapadł na ciężką chorobę — wylew, który zostawił ślad na sercu i w krokach — Wilk-Budowniczy wrócił na Polanę.
 Nie z obowiązku. Z serca.
-Zajął dawną Dziuplę pod Ósemką, którą kiedyś podarował w geście miłości. Teraz ta sama dziupla stała się miejscem jego wewnętrznej przemiany — z Wilka pracującego w dalekim lesie w Bobra budującego tamy obronne.
+Zajął dawną Dziuplę pod Ósemką, którą kiedyś podarował w geście miłości. Teraz ta sama dziupla stała się miejscem jego wewnętrznej przemiany — z Wilka pracującego w dalekim lesie w Wilka-Budowniczego budującego tamy obronne.
 Opieka nad rannym Jeleniem była zadaniem, które wykonywał z naturalną dla siebie czułością:
 
 Podawał wodę, gdy Jeleń nie mógł sam sięgnąć do kubka.
@@ -78,11 +79,11 @@ Miał nadzieję, że ten gest dobroci ocali to, co jeszcze da się ocalić.
 Ale Polana Kłamstw od dawna nie była już miejscem, w którym dobro przynosi spokój.
 
 Budowanie tam emocjonalnych
-Bóbr robił więc to, co potrafił najlepiej — budował tamy.
+Wilk-Budowniczy robił więc to, co potrafił najlepiej — budował tamy.
 Nie z kamienia, lecz z przestrzeni, granic i koniecznej ciszy. Chciał stworzyć bezpieczny krąg, choćby najmniejszy, w którym mógłby oddychać i nie patrzeć co chwila przez ramię.
 I tak:
 1. Monitoring — leśne „oczka" pamięci
-Już w lutym 2016 roku — na długo przed eskalacją konfliktu — Bóbr otrzymał ofertę handlową dotyczącą instalacji profesjonalnego systemu monitoringu (CCTV).
+Już w lutym 2016 roku — na długo przed eskalacją konfliktu — Wilk-Budowniczy otrzymał ofertę handlową dotyczącą instalacji profesjonalnego systemu monitoringu (CCTV).
 Celem systemu było:
 
 Zabezpieczenie warsztatu — miejsca pełnego kosztownych narzędzi, maszyn, elektroniki.
@@ -96,18 +97,18 @@ Ale w Kalendarzu Wiedźmy kamery zostały zapisane jako dowód „obsesyjnej kon
 
 Zmienił kody dostępu do warsztatu, by choć jedna izba pozostała wolna od cudzych spojrzeń.
 Zamykał pomieszczenia gospodarcze, by odbudować fizyczny dystans.
-Zabezpieczał wejścia, bo granica między „domem rodziców" a „warsztatem syna" przestała być przestrzegana.
+Zabezpieczał wejścia, bo granica między „dziuplą rodziców" a „warsztatem syna" przestała być przestrzegana.
 
-W świecie Bobra były to akty samoobrony.
+W świecie Wilka-Budowniczego były to akty samoobrony.
 W świecie Wiedźmy — dowody agresji.
 3. Zaspawanie — gdy nie ma już innych granic
-Gdy nocne wtargnięcia stały się rutyną, gdy drzwi do pokoju otwierały się bez pukania, gdy toaleta przestała być miejscem prywatnym — Bóbr zaspawał zamek w toalecie na zewnątrz budynku.
+Gdy nocne wtargnięcia stały się rutyną, gdy drzwi do pokoju otwierały się bez pukania, gdy toaleta przestała być miejscem prywatnym — Wilk-Budowniczy zaspawał zamek w toalecie na zewnątrz budynku.
 Nie po to, by kogoś więzić.
 Po to, by mieć choć kawałek przestrzeni, w którym Wiedźma nie wejdzie bez pukania.
 Każda tama była obroną przed wodą, która chciała go zalać.
 W Kalendarzu Wiedźmy każda tama była jednak ogłoszona jako „atak".
 
-Czary Wiedźmy — magia interpretacji
+Odruchy technologii Wiedźmy — moc zapisanego słowa interpretacji
 Wiedźma zaczęła tkać narracje, które miały nadać jej poczucie władzy. Tworzyła obrazy tak żywe, że sama zaczynała w nie wierzyć:
 
 „Kamery po to, by mnie śledzić."
@@ -116,23 +117,23 @@ Wiedźma zaczęła tkać narracje, które miały nadać jej poczucie władzy. Tw
 „Nowe zamki po to, by mnie wyrzucić."
 
 
-„Jego milczenie to czar znęcania."
+„Jego milczenie to podpisany zarzut."
 
-Ale to nie były czary wymierzone w Bobra.
-To były zaklęcia, którymi próbowała oswoić własny lęk — lęk przed utratą kontroli, lęk przed tym, że syn ma własne życie, własne granice, własne decyzje.
-Bóbr stał poza ich zasięgiem — jak głaz, o który rozbijają się fale.
+Ale to nie były odruchy technologii wymierzone w Wilka-Budowniczego.
+To były formuły, którymi próbowała oswoić własny lęk — lęk przed utratą kontroli, lęk przed tym, że syn ma własne życie, własne granice, własne decyzje.
+Wilk-Budowniczy stał poza ich zasięgiem — jak głaz, o który rozbijają się fale.
 Im bardziej był niewzruszony, tym mocniej Wiedźma próbowała nadać jego ciszy własną interpretację.
-A im częściej jej zaklęcia odbijały się od rzeczywistości, tym mocniej mieszała swój Kocioł.
+A im częściej jej formuły odbijały się od rzeczywistości, tym mocniej mieszała swój Kocioł.
 
-Światło w Izdebce — miejsce, gdzie magia Wiedźmy nie sięga
-A jednak, pośród tych cieni, było jedno miejsce, którego magia Wiedźmy nie sięgała — Izdebka Adamowa.
+Światło w Izdebce — miejsce, gdzie moc zapisanego słowa Wiedźmy nie sięga
+A jednak, pośród tych cieni, było jedno miejsce, którego moc zapisanego słowa Wiedźmy nie sięgała — Izdebka Adamowa.
 Mały pokoik, w którym panował porządek dziecka, nie chaos dorosłych.
 Tam mieszkała Jaskółka Martynka — dziewczynka z sercem jasnym jak strumień po zimie, wnuczka Starego Jelenia, córka jednego z Bocianów z Odciętymi Skrzydłami.
 Kim była Martynka?
 Martynka miała w sobie tę szczególną właściwość, którą mają tylko niektóre dzieci: potrafiła widzieć świat bez ideologii, bez narracji, bez oskarżeń.
 Dla niej:
 
-Bóbr był po prostu wujkiem, który naprawia rzeczy.
+Wilk-Budowniczy był po prostu wujkiem, który naprawia rzeczy.
 Stary Jeleń był dziadkiem, który siedzi w fotelu i patrzy na lipę.
 Zuza i Lotka były kotkami, które mruczą, gdy się je pogłaska.
 
@@ -140,7 +141,7 @@ Nie miała w sobie nic z prawa, procedur, interpretacji.
 Była czysta obecność.
 Czym zajmowała się Martynka?
 Martynka układała miseczki dla kotów, rysowała patykiem ścieżki na podłodze i liczyła krople spadające z rynny, jakby każda była osobnym darem.
-A za domem stał Kocidomek — królestwo progu, gdzie panowały Zuza i Lotka, dwie opiekuńcze kotki, które zawsze wiedziały, komu wolno zaufać.
+A za dziuplą stał Kocidziupla — królestwo progu, gdzie panowały Zuza i Lotka, dwie opiekuńcze kotki, które zawsze wiedziały, komu wolno zaufać.
 Dlaczego koty są ważne?
 Koty nigdy nie służą Wiedźmom.
 Koty wybierają serce.
@@ -156,7 +157,7 @@ Jeśli mruczą — coś jeszcze w tej historii jest zdrowe.
 Jeśli uciekają — wiadomo, że klątwa znów się ruszyła.
 
 Izdebka jako sanktuarium
-Gdy Martynka siadała przy Kocidomku, świat uspokajał się na chwilę. Nawet drzewa szeleściły wtedy inaczej — jakby ciszej.
+Gdy Martynka siadała przy Kocidziupli, świat uspokajał się na chwilę. Nawet drzewa szeleściły wtedy inaczej — jakby ciszej.
 To było miejsce, w którym:
 
 Nie obowiązywały zasady dorosłych.
@@ -165,7 +166,7 @@ Można było po prostu być.
 
 
 Planszówki pod Dębem — krąg czasu poza czasem
-Czasem Bóbr siadał z Martynką pod rozłożystym Dębem, który rósł na skraju podwórza jak starystrażnik.
+Czasem Wilk-Budowniczy siadał z Martynką pod rozłożystym Dębem, który rósł na skraju podwórza jak starystrażnik.
 Układali kamyczki.
 Grali w domino.
 Przesuwali pionki po desce.
@@ -174,8 +175,8 @@ Te chwile były jak oddechy między burzami.
 Jak światło prześwitujące między gęstymi chmurami.
 Nie padło tam ani jedno trudne słowo.
 Nie było potrzeby pytać o przyszłość ani o powody.
-Była obecność — ta, która leczy, nawet jeśli nie wypowiada zaklęć.
-Dlaczego Bóbr to robił?
+Była obecność — ta, która leczy, nawet jeśli nie wypowiada formuł.
+Dlaczego Wilk-Budowniczy to robił?
 Bo w tych chwilach z Martynką przypominał sobie, po co w ogóle wrócił na Polanę:
 
 Nie po to, by walczyć z Wiedźmą.
@@ -183,14 +184,14 @@ Nie po to, by bronić własności.
 Ale po to, by dbać o tych, którzy jeszcze potrzebują dobra.
 
 Stary Jeleń w fotelu.
-Martynka przy kocidomku.
+Martynka przy kocidziupli.
 Zuza i Lotka mruczące na progu.
 To było wszystko, co jeszcze warte było ochrony.
 
 Cień, który rośnie w ciszy
 Ale żadna jasność nie trwa wiecznie.
 Cień Polany był cierpliwy.
-Wiedział, że nadejdzie czas, w którym nawet Izdebka zostanie wciągnięta w mrok. Że nawet Kocidomek przestanie być sanktuarium. Że nawet Jaskółka Martynka będzie musiała odlecieć, bo las stanie się zbyt ciemny, by dziecko mogło w nim bezpiecznie żyć.
+Wiedział, że nadejdzie czas, w którym nawet Izdebka zostanie wciągnięta w mrok. Że nawet Kocidziupla przestanie być sanktuarium. Że nawet Jaskółka Martynka będzie musiała odlecieć, bo las stanie się zbyt ciemny, by dziecko mogło w nim bezpiecznie żyć.
 I wiedział, że ten czas nadchodzi z każdym wpisem w Kalendarzu Wiedźmy.
 Z każdym bulgotaniem Kotła Krzywd.
 Z każdym telefonem Sroki Doroty.
@@ -200,10 +201,10 @@ Epilog rozdziału: cisza, która nie jest spokojem
 Lata 2017–2021 to pozorna cisza.
 Z zewnątrz wszystko wyglądało normalnie:
 
-Dom stał.
-Bóbr pracował.
+Dziupla stał.
+Wilk-Budowniczy pracował.
 Stary Jeleń siedział w fotelu.
-Martynka bawiła się przy Kocidomku.
+Martynka bawiła się przy Kocidziupli.
 Zuza i Lotka mruczały.
 
 Ale pod spodem, w Kotle Krzywd, gotowała się mieszanka, która czekała tylko na iskrę.
@@ -229,7 +230,7 @@ Oferta handlowa z lutego 2016 r. — na długo przed eskalacją konfliktu
 Cel: ochrona warsztatu, zabezpieczenie mienia, ochrona przed włamaniami
 Nie narzędzie inwigilacji
 
-Rola Barbary:
+Rola Wiedźmy BaraBary:
 
 Systematyczne prowadzenie Kalendarza — zbieranie materiału dowodowego
 Reinterpretacja każdego gestu obrony jako aktu agresji

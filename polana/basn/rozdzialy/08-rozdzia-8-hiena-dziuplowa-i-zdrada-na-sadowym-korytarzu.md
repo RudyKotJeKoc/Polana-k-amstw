@@ -1,12 +1,12 @@
 ---
-title: "Rozdział 8: Hiena Domkowa i Zdrada na Sądowym Korytarzu"
-slug: "08-rozdzia-8-hiena-domkowa-i-zdrada-na-sadowym-korytarzu"
+title: "Rozdział 8: Hiena Dziuplowa i Zdrada na Sądowym Korytarzu"
+slug: "08-rozdzia-8-hiena-dziuplowa-i-zdrada-na-sadowym-korytarzu"
 kolejnosc: 8
 typ: "rozdzial_baśni"
 zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 ---
 
-Rozdział 8: Hiena Domkowa i Zdrada na Sądowym Korytarzu (13.10.2021)
+Rozdział 8: Hiena Dziuplowa i Zdrada na Sądowym Korytarzu (13.10.2021)
 (wersja baśniowa, rozbudowana, mroczna, precyzyjna)
 
 W tamtym czasie Wilk chodził już jak cień samego siebie — wyczerpany, osaczony, pozbawiony przestrzeni, w którą mógłby włożyć własne myśli.
@@ -17,8 +17,8 @@ W obliczu oskarżenia karnego (art. 207 § 1 k.k. — znęcanie się psychiczne)
 Szukał obrońcy.
 Znalazł drapieżnika.
 
-Hiena Domkowa — stworzenie, które żywi się rozpaczą
-Nazywano go Aleksandrem, lecz w kronikach Polany Kłamstw zapisał się jako Hiena Domkowa — stworzenie o śmiechu pustym jak wydrążony pień, o spojrzeniu zimnym jak kałuża po deszczu.
+Hiena Dziuplowa — stworzenie, które żywi się rozpaczą
+Nazywano go Aleksandrem, lecz w kronikach Polany Kłamstw zapisał się jako Hiena Dziuplowa — stworzenie o śmiechu pustym jak wydrążony pień, o spojrzeniu zimnym jak kałuża po deszczu.
 Kim był Aleksander Domek?
 Adwokat z kancelarii WDS Legal — miejsca, gdzie prawo było towarem, a klienci — źródłem przychodu.
 Nie przyszedł, by bronić sprawiedliwości.
@@ -26,7 +26,7 @@ Przyszedł, by żerować.
 Czym się żywi Hiena?
 Hieny nie biegają za prawdą.
 Hieny biegają za zapachem krwi i łatwym łupem.
-I gdy Wilk trafił do niego po pomoc, Hiena Domkowa od razu poczuł słabość — ten charakterystyczny aromat rozpaczy, który lubią najbardziej:
+I gdy Wilk trafił do niego po pomoc, Hiena Dziuplowa od razu poczuł słabość — ten charakterystyczny aromat rozpaczy, który lubią najbardziej:
 
 Klient wyczerpany — nie ma już sił walczyć.
 Klient samotny — nikt go nie wspiera.
@@ -44,14 +44,14 @@ Jest blady, wyczerpany, zdezorientowany.
 Nie widział jeszcze akt sprawy — Hiena nie pokazał mu ich wcześniej.
 Nie zna strategii obrony — Hiena nie przygotował żadnej.
 Nie wie, co go czeka — Hiena nie wyjaśnił mu procedury.
-Hiena Domkowa podchodzi do niego pięć minut przed rozprawą.
+Hiena Dziuplowa podchodzi do niego pięć minut przed rozprawą.
 Nie ma czasu na pytania.
 Nie ma czasu na wątpliwości.
 Jest tylko presja — zimna, bezwzględna, profesjonalna.
 
-Zaklęcie zdrady — słowa, które zniszczyły obronę
-Hiena nachylił się wtedy nad nim i wyszeptał słowa, które w Polanie zapamiętano jak zaklęcie z czarnych ksiąg:
-Słowa Hieny Domkowej:
+Formuła zdrady — słowa, które zniszczyły obronę
+Hiena nachylił się wtedy nad nim i wyszeptał słowa, które w Polanie zapamiętano jak twardy zapis z czarnych ksiąg:
+Słowa Hieny Dziuplowej:
 
 „Zaufaj mi."
 
@@ -104,9 +104,9 @@ Skutek — skazanie w sprawach karnych, które będzie wiązać sąd cywilny (ar
 
 Dlaczego to była farsa?
 Wyrok nakazowy zapadł nie dlatego, że istniały dowody.
-Zapadł dlatego, że Hiena Domkowa wymusił na Wilku „przyznanie się" — jedyną rzecz, której brakowało Wiedźmie Barabarze, by dokończyć swój plan.
+Zapadł dlatego, że Hiena Dziuplowa wymusił na Wilku „przyznanie się" — jedyną rzecz, której brakowało Wiedźmie BaraBarze, by dokończyć swój plan.
 
-„Tekturka Domkowa" — zabezpieczenie własnych interesów
+„Tekturka Dziuplowa" — zabezpieczenie własnych interesów
 Po rozprawie Hiena wymusza na Wilku podpisanie odręcznego oświadczenia — na kawałku tektury (dosłownie):
 Treść „Tekturki":
 
@@ -121,7 +121,7 @@ Treść „Tekturki":
 Dlaczego to zrobił?
 Bo Hiena wiedział, że zdradził klienta.
 I chciał się zabezpieczyć — by Wilk nie mógł później złożyć skargi na adwokata, nie mógł domagać się odszkodowania, nie mógł ujawnić manipulacji.
-„Tekturka Domkowa" była jak pacyfikator włożony w usta ofierze — żeby nie mogła krzyczeć.
+„Tekturka Dziuplowa" była jak pacyfikator włożony w usta ofierze — żeby nie mogła krzyczeć.
 
 Scena pojednania — teatr dla Wiedźmy
 Na koniec Hiena każe Wilkowi zrobić coś, co zamienia zdradę w parodię:
@@ -129,7 +129,7 @@ Na koniec Hiena każe Wilkowi zrobić coś, co zamienia zdradę w parodię:
 „Idź i przytul swoją matkę. Pokaż, że żałujesz."
 
 Wilk — w stanie szoku, nie rozumiejąc do końca, co się stało — robi to.
-Przytula Barbarę.
+Przytula Wiedźmę BaraBarę.
 Przed sądem.
 Przed świadkami.
 Obrazek ten służy wzmocnieniu narracji o:
@@ -140,9 +140,9 @@ Obrazek ten służy wzmocnieniu narracji o:
 
 To był ostatni gwoździ do trumny obrony.
 
-Koronny dowód Barbary — „Święty Graal" manipulacji
-Wyrok, który Hiena nazywał „bez znaczenia", stał się najpotężniejszym zaklęciem w arsenale Wiedźmy Barabary.
-Co ten wyrok dał Barbarze?
+Koronny dowód Wiedźmy BaraBary — „Święty Graal" manipulacji
+Wyrok, który Hiena nazywał „bez znaczenia", stał się najpotężniejszą formułą w arsenale Wiedźmy BaraBary.
+Co ten wyrok dał Wiedźmie BaraBarze?
 To on stał się jej Świętym Graalem:
 
 Koronny dowód w sprawie cywilnej o odwołanie darowizny.
@@ -150,16 +150,16 @@ Podstawa prawna — bo sąd cywilny musi uznać ustalenia z wyroku karnego (art.
 Narzędzie propagandowe — machany przed rodziną, sąsiadami, każdym, kto wątpił.
 
 To on został przyniesiony na każdą rozprawę, machany przed sędziami jak relikwia.
-To on umożliwił jej wtargnięcie do sprawy o dom — miejsca, które Wilk sam ofiarował rodzinie w czystej naiwności.
+To on umożliwił jej wtargnięcie do sprawy o Dziuplę — miejsca, które Wilk sam ofiarował rodzinie w czystej naiwności.
 Mechanizm prejudykatu (art. 11 k.p.c.):
 Wyrok karny mówi:Sąd cywilny musi przyjąć:Dariusz znęcał się psychicznieTo jest fakt ustalonyDariusz jest sprawcąNie można tego podważyćPrzyznał się do winyTo potwierdzenie jego działań
 Z papierowego kłamstwa uczyniono żelazną prawdę.
 
 Hiena w konflikcie interesów — WDS Legal
-Dopiero później wyszło na jaw, że Hiena Domkowa:
+Dopiero później wyszło na jaw, że Hiena Dziuplowa:
 Lista zdrady:
 
-Kontaktował się ze stroną przeciwną — rozmawiał z pełnomocnikiem Barbary przed rozprawą.
+Kontaktował się ze stroną przeciwną — rozmawiał z pełnomocnikiem Wiedźmy BaraBary przed rozprawą.
 Zatajał informacje — nie pokazał Wilkowi akt, nie wyjaśnił konsekwencji.
 Działał w konflikcie interesów — kancelaria WDS Legal reprezentowała obie strony w różnych sprawach.
 Jego „rada" była pułapką, nie obroną — celowo pchnął klienta w przyznanie się.
@@ -178,8 +178,8 @@ Wyrok, który nigdy nie był prawdziwy
 Tak doszło do tego, że jeden podpis, złożony pod naciskiem, sfałszował całą historię.
 Kto co otrzymał?
 
-Wiedźma Barbara otrzymała oręż — wyrok karny jako dowód w sprawie cywilnej.
-Hiena Domkowa otrzymała zapłatę — pieniądze za zdradę klienta.
+Wiedźma BaraBara otrzymała oręż — wyrok karny jako dowód w sprawie cywilnej.
+Hiena Dziuplowa otrzymała zapłatę — pieniądze za zdradę klienta.
 Borsuk Bogdaszewski otrzymał spokój — sprawa zamknięta, bez dalszego wgłębiania się.
 Wilk otrzymał papier, który zadecydował o wszystkim, choć nie zawierał ani krzty prawdy.
 
@@ -192,12 +192,12 @@ Nie ma sprawiedliwości w procedurach.
 Nie ma ratunku w adwokaturze.
 
 Siedział na ławce przed sądem, trzymając w ręku wyrok, którego nie rozumiał, ale który właśnie zniszczył mu życie.
-Hiena Domkowa znikła w tłumie.
-Wiedźma Barbara uśmiechała się triumfalnie.
+Hiena Dziuplowa znikła w tłumie.
+Wiedźma BaraBara uśmiechała się triumfalnie.
 Stary Jeleń stał obok, nie rozumiejąc, co się właśnie stało.
 A Kocioł Krzywd bulgotał głośniej niż kiedykolwiek — bo właśnie otrzymał najcenniejszy składnik:
 
-„Wyrok karny — Święty Graal Barbary."
+„Wyrok karny — Święty Graal Wiedźmy BaraBary."
 
 
 Epilog rozdziału: najbardziej gorzki rozdział
@@ -205,7 +205,7 @@ I tak powstał najbardziej gorzki rozdział Polany Kłamstw:
 Rozdział o zdradzie nie ze strony wroga, lecz ze strony tego, który miał bronić.
 Rozdział o tym, że system nie tylko zawodzi — czasem aktywnie szkodzi.
 Rozdział o tym, że adwokat może być bardziej niebezpieczny niż oskarżyciel.
-Zuza i Lotka nie wychodziły z Kocidomku przez tydzień — jakby wiedziały, że to, co się stało, nie da się naprawić mruczeniem.
+Zuza i Lotka nie wychodziły z Kocidziupli przez tydzień — jakby wiedziały, że to, co się stało, nie da się naprawić mruczeniem.
 Las zaszelścił liśćmi — smutno, żałobnie, jakby składał kondolencje.
 A Wataha zapisała to wszystko w swojej pamięci — każde słowo Hieny, każdy gest, każdy mechanizm zdrady — by nigdy nie zapomnieć, jak system może być użyty przeciwko tym, których powinien chronić.
 
@@ -231,7 +231,7 @@ Art. 207 § 1 k.k. — znęcanie się psychiczne
 Podstawa: przyznanie się Dariusza (pod przymusem)
 Skutek: skazanie w sprawach karnych = wiążące dla sądu cywilnego
 
-„Tekturka Domkowa":
+„Tekturka Dziuplowa":
 
 Odręczne oświadczenie na kartce tektury
 Treść: rezygnacja z apelacji, rezygnacja z roszczeń
@@ -247,7 +247,7 @@ Konsekwencje:
 
 Prejudykat — wyrok karny stał się podstawą wyroku cywilnego
 Niemożność merytorycznej obrony w sprawie o darowiznę
-Koronny dowód Barbary w każdej sprawie
+Koronny dowód Wiedźmy BaraBary w każdej sprawie
 
 Znaczenie:
 To była zdrada systemowa — adwokat, który powinien bronić, zniszczył obronę klienta dla własnych interesów lub z niekompetencji. Efekt: jeden wyrok zbudowany na kłamstwie zniszczył całe późniejsze postępowanie.

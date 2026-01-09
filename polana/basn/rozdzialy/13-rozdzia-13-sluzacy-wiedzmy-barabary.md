@@ -10,7 +10,7 @@ powiazane_postacie:
   - duch-wilka
 powiazane_artefakty:
   - pergamin-sluzacego
-  - dom-numer-8
+  - dziupla-numer-8
 ---
 
 # Rozdział 13: Służący Wiedźmy BaraBary
@@ -20,10 +20,12 @@ powiazane_artefakty:
 Prolog postacie: Baśń o Tronie i Pergaminie
 
 W głębi Krajna, gdzie prawda gnije pod zamkniętymi drzwiami, stoi Dziupla numer 8.
-W jej zakamarkach mieszka Wiedźma o imieniu, którego echo odbija się od ścian jak zaklęcie:
+Dziupla jest mrocznym, ciasnym sercem mrowiska. Kable wiszą jak uschnięte pnącza, a oddech uwięzionego budynku słychać, gdy system łapie zadyszkę.
+Na progu stoi Burek, pies uwięziony na rdzawym łańcuchu, szczeka na cienie, bo tak kazano mu strzec Dziupli przed prawdą.
+W jej zakamarkach mieszka Wiedźma o imieniu, którego echo odbija się od ścian jak pieczęć:
 Bara–Bary, Bara–Bary.
 
-W tej dziupli trzyma ona pergamin — a na nim jedno słowo, które traktuje jak prawo starsze niż ona sama:
+W tej Dziupli trzyma ona pergamin — a na nim jedno słowo, które traktuje jak prawo starsze niż ona sama:
 „Służący”.
 
 To jest baśń o tym, jak jedno słowo może stworzyć królestwo.
@@ -33,6 +35,7 @@ I. Odkrycie Pergaminu
 
 Pewnej nocy Wiedźma BaraBary przeszukiwała stare skrzynie.
 Między rachunkami, notatkami i zapomnianymi skrawkami historii znalazła pergamin.
+Rozkopywała mrowisko wciąż od nowa, szukając winy w chaosie, który sama rozgarniała łopatą słów.
 
 Jedno słowo.
 Bez daty.
@@ -45,14 +48,14 @@ Jej serce zabiło szybciej.
 W tej chwili zobaczyła w pergaminie nie dokument, lecz berło.
 Nie symbol, lecz prawo.
 
-— To o nim — szepnęła. — Wilk jest służącym. Ja jestem Panią tej dziupli.
+— To o nim — szepnęła. — Wilk jest służącym. Ja jestem Panią tej Dziupli.
 
 Pergamin nie zaprzeczył.
 I w tym milczeniu znalazła potwierdzenie własnej fantazji.
 
 II. Tron w Dziupli nr 8
 
-Od tej nocy dziupla stała się dla niej tronem.
+Od tej nocy Dziupla stała się dla niej tronem.
 Każdy kąt — komnatą.
 Każdy mieszkaniec — poddanym.
 
@@ -66,7 +69,7 @@ Gniew rósł, gdy nie wykonywał ról, które istniały wyłącznie w jej głowi
 
 III. Pokazanie Pergaminu
 
-Wezwała Wilka do głównej sali dziupli.
+Wezwała Wilka do głównej sali Dziupli.
 
 Stanęła wyprostowana, pergamin trzymając jak wyrok:
 
@@ -90,15 +93,15 @@ Od tej pory BaraBary notowała każdy „dowód niewdzięczności”:
 
 – nie podał herbaty,
 – nie ukłonił się,
-– naprawia dziuplę po swojemu,
+- naprawia Dziuplę po swojemu,
 – zamyka się w warsztacie, zamiast pełnić „obowiązki”.
 
 Dla niej każdy jego ruch był uchylaniem się od funkcji służącego.
 
-Dla dziupli było odwrotnie.
+Dla Dziupli było odwrotnie.
 To Wilk był jej budowniczym, opiekunem, inwestorem.
 
-Ale dziupla milczała.
+Ale Dziupla milczała.
 
 V. Wyrok Wygnania
 
@@ -107,10 +110,11 @@ Nadszedł dzień, w którym BaraBary uznała, że miarka się przebrała.
 Weszła na wyimaginowane podium.
 W dłoni pergamin.
 
-— Na mocy tego pergaminu wypędzam cię z dziupli!
+— Na mocy tego pergaminu wypędzam cię z Dziupli!
 — Nie wykonałeś obowiązków służącego! Twoją karą jest… wygnanie!
 
 Myślała, że zadaje cios śmiertelny.
+Hieny Dziuplowe krążyły w cieniu jak adwokackie zjawy, żywiąc się resztkami dawnej chwały Wilka.
 
 Wilk patrzył na nią bez gniewu.
 Bez żalu.
@@ -122,22 +126,26 @@ I wyszedł.
 
 Za nim — cisza.
 
-VI. Kara, która była Wyzwoleniem
+VI. Kij w Mrowisku
+
+To nie był krzyk ani ucieczka. Dariusz wsadził kij w mrowisko, które przez lata rozkopywała Wiedźma. Zrobił to milczeniem i odcięciem prądu — ostatecznym zaklęciem, które kruszy ściany Dziupli. W jednej chwili światło zgasło, a Dziupla wypuściła z siebie ciężki oddech uwięzionego budynku.
+
+VII. Kara, która była Wyzwoleniem
 
 Wiedźma nie zrozumiała paradoksu.
 
 Myślała:
-„Odebrałam służącemu dziuplę.”
+„Odebrałam służącemu Dziuplę.”
 
 Prawda była odwrotna:
-„Uwolniłaś budowniczego od dziupli, która nigdy nie była jego.”
+„Uwolniłaś budowniczego od Dziupli, która nigdy nie była jego.”
 
 To nie on potrzebował jej.
 To jej królestwo istniało tylko dzięki temu, że Wilk je podnosił z ruin.
 
-VII. Milczenie Dziupli
+VIII. Milczenie Dziupli
 
-Z czasem BaraBary odkryła, że dziupla wymaga pracy:
+Z czasem BaraBary odkryła, że Dziupla wymaga pracy:
 
 – naprawy,
 – opieki,
@@ -151,9 +159,9 @@ To nie był służący.
 
 To był fundament.
 
-Gdy fundament odszedł — dziupla zaczęła się zapadać.
+Gdy fundament odszedł — Dziupla zaczęła się zapadać.
 
-VIII. Pergamin w Kurzu
+IX. Pergamin w Kurzu
 
 W końcu BaraBary spojrzała na pergamin raz jeszcze.
 
@@ -175,9 +183,9 @@ Był produktem.
 Upadł na ziemię.
 A słowo rozsypało się w kurz.
 
-IX. Epilog: Pusta Sala Tronowa
+X. Epilog: Pusta Sala Tronowa
 
-Wiedźma BaraBary siedzi na tronie w pustej dziupli.
+Wiedźma BaraBary siedzi na tronie w pustej Dziupli.
 
 Tron jest pusty.
 Sala jest pusta.
@@ -189,7 +197,7 @@ Słowo „służący” zniknęło.
 Wilk nie wraca.
 Nie błaga.
 Nie tłumaczy się.
-Nie podchodzi pod drzwi dziupli.
+Nie podchodzi pod drzwi Dziupli.
 
 To ona została więźniem miejsca, które miało być jej królestwem.
 

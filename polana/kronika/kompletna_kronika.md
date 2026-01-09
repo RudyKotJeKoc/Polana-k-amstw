@@ -13,7 +13,7 @@
 3. [Kluczowe Symbole i Ich Znaczenie](#kluczowe-symbole)
 
 ## CZĘŚĆ II: DRAMATIS PERSONAE
-4. [Wiedźma Barabara – Architekt Destrukcji](#wiedzma-barabara)
+4. [Wiedźma BaraBara – Architekt Destrukcji](#wiedzma-barabara)
 5. [Wilk Samotnik – Ofiara w Prawdzie](#wilk-samotnik)
 6. [Stary Jeleń Papesmerf – Tragiczna Marionetka](#stary-jelen)
 7. [Sarenka z Polany – Niewinny Katalizator](#sarenka)
@@ -46,20 +46,20 @@
 
 ## 1.1 Wprowadzenie: Echo jest silniejsze niż głos
 
-Polana Kłamstw to nie jest miejsce na mapie. To stan umysłu, w którym obiektywna prawda przegrywa z subiektywną, głośno powtarzaną narracją. To właśnie na tej metaforycznej polanie, w domu pod numerem ósmym, rozegrała się historia rodziny Adamskich – tragiczna baśń o utraconej kontroli, zmanipulowanym prawie i ostatecznym wyborze między majątkiem a wolnością.
+Polana Kłamstw to nie jest miejsce na mapie. To stan umysłu, w którym obiektywna prawda przegrywa z subiektywną, głośno powtarzaną narracją. To właśnie na tej metaforycznej polanie, w dziupli pod numerem ósmym, rozegrała się historia rodziny Adamskich – tragiczna baśń o utraconej kontroli, zmanipulowanym prawie i ostatecznym wyborze między majątkiem a wolnością.
 
 W sercu starego lasu, tam gdzie korzenie pamiętają więcej niż liście, leżała Polana Adamowo. Z daleka wyglądała jak każda inna – zielona, cicha, spokojna. Ale ci, którzy znali las lepiej, omijali ją szerokim łukiem. Bo to nie była zwykła polana.
 
-Miejsce, gdzie echo jest silniejsze niż głos, a prawda ginie we mgle. Gdzie plotka żyje dłużej niż fakt, a cisza zabija. Pośrodku tej polany, pod numerem ósmym, stał dom, którego ściany nasiąkały krzykami, a fundament popękał od pretensji.
+Miejsce, gdzie echo jest silniejsze niż głos, a prawda ginie we mgle. Gdzie plotka żyje dłużej niż fakt, a cisza zabija. Pośrodku tej polany, pod numerem ósmym, stał dziupla, którego ściany nasiąkały krzykami, a fundament popękał od pretensji.
 
 ## 1.2 Geografia Konfliktu
 
-### Dom pod numerem 8 (Adamowo 8)
+### Dziupla pod numerem 8 (Adamowo 8)
 - **Symbolika**: Ósemka jako nieskończona pętla konfliktu
 - **Fizyczna przestrzeń**: Arena bitwy o kontrolę i autonomię
 - **Status prawny**: Przedmiot darowizny z 7.07.2017, następnie odwołanej
 
-### Kluczowe Miejsca w Domu:
+### Kluczowe Miejsca w Dziupli:
 - **Warsztat Wilka** – ostatnie schronienie, zimne więzienie
 - **Pokój Wiedźmy** – centrum kontroli i obserwacji
 - **Zaspawana Toaleta** – symbol zamkniętej prawdy
@@ -87,7 +87,7 @@ Na tej polanie kłamstwo powtórzone tysiąc razy zyskuje moc prawdy, zagłuszaj
 Informacje przekazywane z ust do ust, ozdabiane i przekręcane przez pośredników, stają się głównym nośnikiem wiedzy, tworząc rzeczywistość opartą na domysłach i insynuacjach, a nie na dowodach.
 
 **Mechanizm:**
-1. Barbara notuje w kalendarzu (selektywnie, emocjonalnie)
+1. Wiedźma BaraBara notuje w kalendarzu (selektywnie, emocjonalnie)
 2. Sroka Dorota roznosi i dodaje dramatyzmu
 3. Rodzina powtarza bez weryfikacji
 4. Policja dokumentuje według relacji
@@ -123,7 +123,7 @@ Kocioł, w którym Wiedźma gromadziła, podgrzewała i mieszała:
 - Zazdrość o Sarenkę
 - Zemsta za "zdradę" (związek na Facebooku)
 
-**Rezultat:** Toksyczna atmosfera zatruwająca cały dom i wszystkich w nim.
+**Rezultat:** Toksyczna atmosfera zatruwająca cały dziupla i wszystkich w nim.
 
 ## 3.2 Kalendarz Wiedźmy
 **Precyzyjna broń procesowa**
@@ -159,7 +159,7 @@ Wilk zaspawał zamek w zewnętrznej toalecie – akt desperacji:
 - Wiara w pokój rodzinny
 
 ### Ósemka (Nieskończona Pętla):
-- **Dom Adamowo 8** – adres tragedii
+- **Dziupla Adamowo 8** – adres tragedii
 - Ósemka jako symbol nieskończoności ∞
 - Noc z **17 na 18 lipca** – przejście do Ósmego Kręgu
 - Pętla konfliktu bez końca
@@ -175,7 +175,7 @@ W "Boskiej Komedii" Dantego ósmy krąg piekła przeznaczony jest dla:
 
 **Mieszkańcy Ósmego Kręgu Polany:**
 - Wiedźma – manipulatorka i prowokatorka
-- Hiena Domkowa – zdrajca klienta
+- Hiena Dziuplowa – zdrajca klienta
 - Sarna Sarnecki – bierny kolaborant
 - Wszyscy, którzy wiedzieli i milczeli
 
@@ -186,12 +186,12 @@ W "Boskiej Komedii" Dantego ósmy krąg piekła przeznaczony jest dla:
 
 ## 4.1 Profil Psychologiczny
 
-**Barbara Adamska** jest centralną postacią dramatu – zimną, konsekwentną i nieugiętą architektką chaosu. Jej działania, napędzane obsesyjną potrzebą kontroli i dominacji, stały się źródłem toksycznej atmosfery, która zatruła relacje rodzinne i zniszczyła fundamenty domu.
+**Wiedźma BaraBara** jest centralną postacią dramatu – zimną, konsekwentną i nieugiętą architektką chaosu. Jej działania, napędzane obsesyjną potrzebą kontroli i dominacji, stały się źródłem toksycznej atmosfery, która zatruła relacje rodzinne i zniszczyła fundamenty dziupli.
 
 ### Kluczowe Cechy Charakteru:
 
 #### Obsesyjna Kontrolerka
-Darowizna domu na rzecz syna i pojawienie się w jego życiu nowej osoby, Julii, były dla Barbary aktem utraty absolutnej władzy. 
+Darowizna dziupli na rzecz syna i pojawienie się w jego życiu nowej osoby, Julii, były dla Wiedźmy BaraBary aktem utraty absolutnej władzy. 
 
 **Reakcje:**
 - Nocne wtargnięcia do pokoju syna o 2:30
@@ -210,10 +210,10 @@ Prowadzony przez nią "Kalendarz" nie był obiektywnym pamiętnikiem, lecz precy
 **Przykład:** Incydent z rzekomym "grożeniem paralizatorem" – jej prowokacja (wyłączenie prądu) została natychmiast przekształcona w dowód agresji syna.
 
 #### Mistrzyni Prowokacji
-Barbara celowo generowała konflikty, aby uzyskać pożądaną, emocjonalną reakcję od syna, którą następnie mogła udokumentować.
+Wiedźma BaraBara celowo generowała konflikty, aby uzyskać pożądaną, emocjonalną reakcję od syna, którą następnie mogła udokumentować.
 
 **Kluczowe Prowokacje:**
-1. **Wyłączenie prądu** w całym domu w obecności policji, by sprowokować go do wyjścia z warsztatu
+1. **Wyłączenie prądu** w całym dziupli w obecności policji, by sprowokować go do wyjścia z warsztatu
 2. **Inscenizacja sporu o kluczyki** do auta w dniu kryzysu zdrowotnego męża
 3. **Nocne wtargnięcie** do pokoju – naruszenie ostatniego skrawka prywatności
 
@@ -229,9 +229,9 @@ Wykorzystała schorowanego po wylewie męża, nadużywając udzielonego jej peł
 #### Twórczyni "Kotła Krzywd"
 Jej działania – kłamstwa, manipulacje, prowokacje i instrumentalne wykorzystanie prawa – stały się paliwem dla "Kotła Krzywd". 
 
-**Rezultat:** Doprowadziła do całkowitego rozkładu więzi rodzinnych i zamieniła dom w pole bitwy.
+**Rezultat:** Doprowadziła do całkowitego rozkładu więzi rodzinnych i zamieniła dziupla w pole bitwy.
 
-## 4.2 Chronologia Działań Barbary
+## 4.2 Chronologia Działań Wiedźmy BaraBary
 
 ### Faza I: Przygotowanie (2017-2020)
 - **7.07.2017**: Cisza podczas darowizny – planowanie
@@ -257,24 +257,24 @@ Jej działania – kłamstwa, manipulacje, prowokacje i instrumentalne wykorzyst
 - **6.08.2021**: Odwołanie darowizny (3 dni później!)
 
 ### Faza V: Prawna Kampania (2021-2025)
-- **Październik 2021**: Wymuszenie przyznania się (Hiena Domkowa)
+- **Październik 2021**: Wymuszenie przyznania się (Hiena Dziuplowa)
 - **2022-2025**: Proces cywilny – farsa sprawiedliwości
 - **2025**: Pyrrusowe zwycięstwo – pusta polana
 
 ## 4.3 Kłamstwa i Sprzeczności
 
 ### Sprzeczność 1: Znęcanie nad Sylwestrem
-**Twierdzenie Barbary:** "Syn obraża i wyzywa również ojca"  
+**Twierdzenie Wiedźmy BaraBary:** "Syn obraża i wyzywa również ojca"  
 **Zeznanie Sylwestra (3.08.2021):** "Dariusz mnie nie obraża, nie wyzywa. On mnie ignoruje"  
 **Wniosek:** Fałszywe oskarżenie
 
 ### Sprzeczność 2: Prowokacja Prądem
-**Wersja Barbary:** Dariusz spowodował zwarcie  
-**Zeznanie Bogdaszewskiego:** Barbara wyłączyła prąd celowo  
+**Wersja Wiedźmy BaraBary:** Dariusz spowodował zwarcie  
+**Zeznanie Bogdaszewskiego:** Wiedźma BaraBara wyłączyła prąd celowo  
 **Wniosek:** Prowokacja opisana jako agresja
 
 ### Sprzeczność 3: Powrót vs. Usunięcie
-**3.08.2021:** "Chciałabym, aby syn wrócił do domu" (procedura NK)  
+**3.08.2021:** "Chciałabym, aby syn wrócił do dziupli" (procedura NK)  
 **6.08.2021:** Oficjalne wezwanie do opuszczenia i odwołanie darowizny  
 **Wniosek:** Kłamstwo instrumentalne
 
@@ -285,14 +285,14 @@ Jej działania – kłamstwa, manipulacje, prowokacje i instrumentalne wykorzyst
 
 ## 4.4 Odwrócony Triaż Priorytetów
 
-**21 maja 2021 roku** – kluczowy moment obnażający cynizm Barbary:
+**21 maja 2021 roku** – kluczowy moment obnażający cynizm Wiedźmy BaraBary:
 
 **Sytuacja:**
 - Sylwester Adamski czuje się źle (osłabienie, obrzęki)
 - Wymaga pilnej pomocy medycznej
 - Dariusz sugeruje wezwanie pogotowia lub taksówki
 
-**Reakcja Barbary:**
+**Reakcja Wiedźmy BaraBary:**
 - Ignoruje sugestię pogotowia
 - Priorytetowo traktuje sprowokowanie kłótni o kluczyki
 - Cel: uzyskanie dowodu procesowego ("odmowa pomocy")
@@ -302,15 +302,15 @@ Jej działania – kłamstwa, manipulacje, prowokacje i instrumentalne wykorzyst
 
 ## 4.5 Pyrrusowe Zwycięstwo
 
-Barbara Adamska formalnie "wygrała":
+Wiedźma BaraBara formalnie "wygrała":
 - ✓ Wyrok karny przeciwko synowi (wymuszony)
 - ✓ Odwołanie darowizny (na papierze)
-- ✓ Dom z powrotem w jej władaniu
+- ✓ Dziupla z powrotem w jej władaniu
 
 Ale rzeczywiście **przegrała wszystko:**
 - ✗ Straciła syna (emigracja do Holandii)
 - ✗ Samotność (sojusznicy odeszli)
-- ✗ Obciążenie finansowe (utrzymanie domu, nakłady Dariusza)
+- ✗ Obciążenie finansowe (utrzymanie dziupli, nakłady Dariusza)
 - ✗ Moralną wiarygodność (sąd stwierdził: "sprawczyni własnej samotności")
 - ✗ Cisza – najstraszniejszy dźwięk własnego zwycięstwa
 
@@ -325,7 +325,7 @@ Ale rzeczywiście **przegrała wszystko:**
 
 ### Archetyp Tragicznego Bohatera:
 - Dobry syn, który próbował zrobić wszystko dobrze
-- Inwestor wkładający życie w rodzinny dom
+- Inwestor wkładający życie w rodzinny dziupla
 - Ofiara własnej dobroci i naiwności
 - Więzień toksycznej relacji
 - Ostatecznie – mędrzec wybierający wolność
@@ -343,7 +343,7 @@ W przeciwieństwie do zarzutu "rażącej niewdzięczności", Dariusz przez lata 
 - **Szacunkowa wartość:** 160,000 - 255,000 zł
 
 ### Realna Pomoc Rodzicom:
-- Finansowanie bieżącego utrzymania domu
+- Finansowanie bieżącego utrzymania dziupli
 - Częściowa spłata kary KRUS (18,000 zł) nałożonej na rodziców
 - Powrót z emigracji po wylewie ojca
 - Zakup skuterów ułatwiających ojcu poruszanie się
@@ -351,7 +351,7 @@ W przeciwieństwie do zarzutu "rażącej niewdzięczności", Dariusz przez lata 
 
 ### Inicjatywa Darowizny:
 - **Sam zaproponował** szeroką służebność osobistą
-- Chciał dać rodzicom cały dom mieszkalny
+- Chciał dać rodzicom cały dziupla mieszkalny
 - Myślał: "Jeśli dam im wszystko, nie będzie o co walczyć"
 - **Naiwność:** Nie wiedział, że dobroć stanie się bronią
 
@@ -366,7 +366,7 @@ Działania Dariusza, przedstawiane przez matkę jako akty agresji, były despera
 
 ### Zamki na Kod
 **Oskarżenie:** Uniemożliwianie dostępu  
-**Rzeczywistość:** Ostatni skrawek prywatności we własnym domu  
+**Rzeczywistość:** Ostatni skrawek prywatności we własnym dziupli  
 **Kontekst:** Nieustanne wtargnięcia matki
 
 ### Zaspawanie Toalety
@@ -376,14 +376,14 @@ Działania Dariusza, przedstawiane przez matkę jako akty agresji, były despera
 
 ### Latarka z Paralizatorem
 **Oskarżenie:** Groźby wobec matki  
-**Rzeczywistość:** Obronna latarka po groźbach od brata Barbary  
+**Rzeczywistość:** Obronna latarka po groźbach od brata Wiedźmy BaraBary  
 **Użycie:** Tylko jako latarka (wyłączony prąd przez matkę)
 
 ### Ucieczka do Warsztatu
 **Oskarżenie:** Porzucenie rodziców  
-**Rzeczywistość:** Ucieczka z własnego domu przed nękaniem  
+**Rzeczywistość:** Ucieczka z własnego dziupli przed nękaniem  
 **Warunki:** Zimny warsztat, materac tracący powietrze, pianka montażowa w szczelinach  
-**Symbolika:** Właściciel domu śpi na betonowej podłodze
+**Symbolika:** Właściciel dziupli śpi na betonowej podłodze
 
 ## 5.4 Pułapka Bez Wyjścia
 
@@ -406,7 +406,7 @@ Dariusz znalazł się w sytuacji, gdzie każde działanie było interpretowane n
 - **Rezultat:** Dowód "rażącej niewdzięczności"
 
 ### Ucieczka (Warsztat):
-- **Powód:** Brak możliwości życia w domu
+- **Powód:** Brak możliwości życia w dziupli
 - **Interpretacja:** "Porzucenie rodziców w potrzebie"
 - **Rezultat:** Dowód "niewdzięczności"
 
@@ -418,7 +418,7 @@ Ostateczna decyzja Dariusza była świadomym wyborem między więzieniem a wolno
 
 ### Moment Przełomowy (2025):
 - Wyrok nakazujący zwrot nieruchomości
-- Perspektywa odzyskania domu
+- Perspektywa odzyskania dziupli
 - **Refleksja:** "Odzyskanie = powrót do więzienia"
 
 ### Analiza Sytuacji:
@@ -465,7 +465,7 @@ Wyjazd nie był aktem porażki, lecz symbolicznym wyzwoleniem:
 ## 5.7 Paradoks Wilka
 
 **Stracił:**
-- Dom wart kilkaset tysięcy złotych
+- Dziupla wart kilkaset tysięcy złotych
 - Wszystkie swoje inwestycje (160,000-255,000 zł)
 - Lata pracy i oszczędności
 - Relacje z rodziną (rodzeństwo, ojciec)
@@ -515,15 +515,15 @@ Wyjazd nie był aktem porażki, lecz symbolicznym wyzwoleniem:
 
 ### Dowody Ograniczeń Poznawczych:
 - Na rozprawie **nie potrafił podać własnego wieku**
-- Barbara: "Już nie rozumiał, co się dzieje"
-- Barbara: "Byłam jego głosem"
+- Wiedźma BaraBara: "Już nie rozumiał, co się dzieje"
+- Wiedźma BaraBara: "Byłam jego głosem"
 
 ## 6.3 Instrumentalizacja Prawna
 
 ### Pełnomocnictwo z 19.07.2021
 
 **Timing (kluczowy!):**
-- **17-18.07.2021:** Niebieska Karta (akcja Barbary)
+- **17-18.07.2021:** Niebieska Karta (akcja Wiedźmy BaraBary)
 - **19.07.2021:** Pełnomocnictwo (2 dni później!)
 - **Wniosek:** Strategiczne zabezpieczenie kontroli
 
@@ -535,7 +535,7 @@ Wyjazd nie był aktem porażki, lecz symbolicznym wyzwoleniem:
 - **Dostęp do dokumentacji medycznej**
 - **Całkowita kontrola**
 
-**Rezultat:** Barbara przejęła tożsamość prawną męża.
+**Rezultat:** Wiedźma BaraBara przejęła tożsamość prawną męża.
 
 ### "Diamentowa" Sprzeczność Zeznań
 
@@ -547,7 +547,7 @@ Wyjazd nie był aktem porażki, lecz symbolicznym wyzwoleniem:
 **Treść (w imieniu Sylwestra):** _"Mój syn kieruje wyzwiska wobec mnie"_
 
 **Odstęp czasu:** 3 dni  
-**Wniosek:** Drastyczna zmiana narracji = kontrola Barbary
+**Wniosek:** Drastyczna zmiana narracji = kontrola Wiedźmy BaraBary
 
 ### Adnotacja o Świadomości
 
@@ -557,7 +557,7 @@ W liście odwołującym darowiznę (6.08.2021):
 
 **Interpretacja:**
 - Już wtedy istniały wątpliwości co do świadomości
-- Barbara zabezpieczała się przed zarzutem manipulacji
+- Wiedźma BaraBara zabezpieczała się przed zarzutem manipulacji
 - Sama ta adnotacja jest dowodem problemu
 
 ## 6.4 Rola Marionetki
@@ -567,7 +567,7 @@ W liście odwołującym darowiznę (6.08.2021):
 | Rola Formalna | Dowody Instrumentalizacji i Bierności |
 |--------------|--------------------------------------|
 | **Darczyńca i Powód** | Zeznał, że syn go nie obraża (3.08), a 3 dni później list w jego imieniu zarzuca synowi wyzwiska (6.08) |
-| **Świadoma Strona Umowy** | Na rozprawie nie potrafił podać własnego wieku; Barbara przyznała: "już nie rozumiał, co się dzieje" |
+| **Świadoma Strona Umowy** | Na rozprawie nie potrafił podać własnego wieku; Wiedźma BaraBara przyznała: "już nie rozumiał, co się dzieje" |
 | **Głowa Rodziny** | Udzielił żonie szerokiego pełnomocnictwa, które stało się narzędziem przejęcia kontroli |
 | **Oskarżyciel** | Na rozprawie: "Jej zeznania są moimi zeznaniami" – potwierdzenie roli biernego realizatora |
 
@@ -576,7 +576,7 @@ W liście odwołującym darowiznę (6.08.2021):
 **Sylwester Adamski na rozprawie:**
 > "Jej zeznania są moimi zeznaniami"
 
-**Barbara Adamska o mężu:**
+**Wiedźma BaraBara o mężu:**
 > "On już nie rozumiał, co się dzieje. To ja podejmowałam decyzje. Byłam jego głosem."
 
 ## 6.5 Odwrócony Triaż (21.05.2021)
@@ -592,7 +592,7 @@ W liście odwołującym darowiznę (6.08.2021):
 - Alternatywnie: taksówka, okazja
 - **Racjonalne rozwiązanie**
 
-**Reakcja Barbary:**
+**Reakcja Wiedźmy BaraBary:**
 - Ignoruje sugestię pogotowia
 - Wymusza kłótnię o kluczyki do samochodu
 - **Priorytet: dowód procesowy ("odmowa pomocy")**
@@ -618,7 +618,7 @@ W liście odwołującym darowiznę (6.08.2021):
 
 **Marionetka (Brak Woli):**
 - Pełnomocnictwo = przekazanie kontroli
-- Decyzje podejmowane przez Barbarę
+- Decyzje podejmowane przez Wiedźmę BaraBarę
 - Formalnie powód, faktycznie narzędzie
 - "Pokémon w rękach trenera"
 

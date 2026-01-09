@@ -58,7 +58,7 @@ Nie wtedy, gdy w głowie układają się plany.
 Nie wtedy, gdy w Kalendarzu jest jeszcze miejsce na nowy wpis.
 Tej nocy chodziła po Dziupli jak duch — cicho, bez świecy, bez śladu.
 Znała każdą deskę podłogi.
-Mogłaby chodzić po tym domu po ciemku, z zamkniętymi oczami, nie budząc nawet myszy.
+Mogłaby chodzić po tej Dziupli po ciemku, z zamkniętymi oczami, nie budząc nawet myszy.
 Nie niosła światła.
 Nie potrzebowała.
 Światło miało spać.
@@ -81,6 +81,7 @@ Na korytarzu coś drgnęło.
 Nie skrzypnęła deska — bo Wiedźma znała każdą z nich.
 Nie zatrzasnęły drzwi — bo Wiedźma poruszała się jak cień.
 Klamka poruszyła się bez dźwięku.
+Oko Dziupli rozbłysło w ciemności — zimny błysk urządzenia, które zapamiętało cień, choć nikt go nie prosił.
 Drzwi do pokoju Wilka i Sarenki otworzyły się nagle, jakby ktoś rozciął nożem cienką, ciepłą tkaninę nocy.
 Do środka wlał się chłód.
 Nie taki zwyczajny, zimowy chłód.
@@ -140,7 +141,7 @@ Tamte ręce.
 Tamte drzwi, które też się otworzyły wtedy bez zapowiedzi.
 Teraz drzwi były inne.
 Ale uczucie — to samo.
-Obcość w cudzym domu.
+Obcość w cudzym dziupli.
 Obcość we własnej skórze.
 
 Pytanie, które jest oskarżeniem
@@ -173,7 +174,7 @@ Ale jej „tylko" miało zapach:
 
 Przesłuchania.
 Notatki w kalendarzu.
-Przyszłego zaklęcia.
+Przyszłego wpisu.
 
 
 „Wyjdź" — powtórzył Wilk.
@@ -238,7 +239,7 @@ Do tego samego miejsca, gdzie wcześniej zadomowiła się tamta pierwsza noc —
 Próba rozmowy — słowa jak suchy śnieg
 Wilk mówił coś jeszcze.
 Że jest z nią.
-Że to tylko dom.
+Że to tylko Dziupla.
 Że ona stąd wyjedzie.
 Że tamten dawny cień to inny człowiek, inne miejsce, inny las.
 Ale słowa, nawet te mądre, były tej nocy jak suchy śnieg — sypały się, topniały, znikały.
@@ -253,7 +254,7 @@ Nie tak, jak płaczą dzieci, gdy rozbiją kolano.
 To było to bezgłośne drżenie ciała, kiedy człowiek rozumie, że to, co zaczął układać na nowo, może zostać zburzone jednym spojrzeniem.
 Wilk siedział obok.
 Nie obiecywał, że będzie dobrze.
-Na Polanie Kłamstw takie obietnice są jak kiepskie zaklęcia — brzmią ładnie, ale nie działają.
+Na Polanie Kłamstw takie obietnice są jak puste formuły — brzmią ładnie, ale nie działają.
 Powiedział tylko:
 
 „Nie pozwolę, żeby cię dotknęła."
@@ -274,7 +275,7 @@ Wiedźma siedziała nad nim z nową porcją wspomnień, spojrzeń i szeptów, kt
 
 „Bała się? A może nie powinna była tam wchodzić?"
 
-Zaklęcia układały się same.
+Formuły układały się same.
 
 Nad ranem — Sarenka bez łez
 Nad ranem Sarenka nie spała już wcale.
@@ -326,26 +327,26 @@ Data: 10 lutego 2021, godzina 2:30
 Kluczowe elementy faktograficzne:
 Nocne wtargnięcie:
 
-Barbara Adamska bez pukania weszła do pokoju Dariusza i Julii
+Wiedźma BaraBara bez pukania weszła do pokoju Dariusza i Julii
 Pora: 2:30 w nocy — pora, w której każdy człowiek ma prawo do prywatności
 Reakcja Dariusza: krzyk obronny, wyrzucenie matki z pokoju
 
 Zapis w Kalendarzu Wiedźmy:
-Własnoręczny wpis Barbary:
+Własnoręczny wpis Wiedźmy BaraBary:
 
-„10 lutego, 2:30 – weszłam do jego izby. Spał z ową dziewczyną. Gdy go obudziłam, krzyczał na mnie i wyrzucał mnie z mojego domu."
+„10 lutego, 2:30 – weszłam do jego izby. Spał z ową dziewczyną. Gdy go obudziłam, krzyczał na mnie i wyrzucał mnie z mojego dziupli."
 
 Przekręcenie narracji:
 
-Fakt: Barbara wtargnęła bez zgody
-W Kalendarzu: „on mnie wyrzucał z mojego domu"
+Fakt: Wiedźma BaraBara wtargnęła bez zgody
+W Kalendarzu: „on mnie wyrzucał z mojego dziupli"
 Mechanizm: ofiara staje się agresorem, wtargnięcie staje się troską
 
 Wpływ na Julię:
 
 Ponowna traumatyzacja — podobna sytuacja do przeszłej traumy
 Utrata poczucia bezpieczeństwa
-Początek procesu, który doprowadzi do ich ucieczki z domu
+Początek procesu, który doprowadzi do ich ucieczki z dziupli
 
 Znaczenie:
 To było przekroczenie ostatniej granicy — nocne wtargnięcie do sypialni to naruszenie najbardziej intymnej przestrzeni człowieka. Od tej nocy nie było już odwrotu.

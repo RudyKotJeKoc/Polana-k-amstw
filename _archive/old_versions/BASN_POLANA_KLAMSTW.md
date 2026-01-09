@@ -12,42 +12,42 @@ W sercu starego lasu, tam gdzie korzenie pamiętają więcej niż liście, leża
 
 Las wokół tej polany szeptał niepokojące rzeczy. Pod wilgotną dernią, gdzie grzyby paliły się nocą fosforyzującym światłem, korzenie starych bezczów przesyłały sobie informacje jak stary teleks – powoli, ale niezawodnie. Pachnęło tu inaczej niż gdziekolwiek indziej: nie zwyczajnym zapachem mchu i opadłych liści, lecz czymś zaciętym, gorąco-gorzkim, jak spalona herbata na piachu. Nawet ptaki rzadko tu śpiewały. A gdy śpiewały, ich trele brzmiały falszerzywie, jakby śpiewały pod przymusem.
 
-Każda szyszka na gałęziach pamiętała coś innego. Szyszka przy korzeniu starego świerka pamiętała первый szloch Barbary, gdy była dziewczynką. Szyszka na brzegu polany pamiętała dzień, w którym Dariusz po raz pierwszy usłyszał, że jest „niezdolnym synem". A szyszki rozrzucone w trawie, te brązowe, schorowane i puste w środku – te pamiętały wszystkie kłamstwa, które padły na tej polanie, każde słowo puste jak ich drewniany korpus.
+Każda szyszka na gałęziach pamiętała coś innego. Szyszka przy korzeniu starego świerka pamiętała первый szloch Wiedźmy BaraBary, gdy była dziewczynką. Szyszka na brzegu polany pamiętała dzień, w którym Dariusz po raz pierwszy usłyszał, że jest „niezdolnym synem". A szyszki rozrzucone w trawie, te brązowe, schorowane i puste w środku – te pamiętały wszystkie kłamstwa, które padły na tej polanie, każde słowo puste jak ich drewniany korpus.
 
 Bo to nie była zwykła polana.
 
 To była **Polana Kłamstw**.
 
-Miejsce, gdzie echo jest silniejsze niż głos, a prawda ginie we mgle. Gdzie plotka żyje dłużej niż fakt, a cisza zabija. Pośrodku tej polany, pod numerem ósmym, stał dom, którego ściany nasiąkały krzykami, a fundament popękał od pretensji.
+Miejsce, gdzie echo jest silniejsze niż głos, a prawda ginie we mgle. Gdzie plotka żyje dłużej niż fakt, a cisza zabija. Pośrodku tej polany, pod numerem ósmym, stał dziupla, którego ściany nasiąkały krzykami, a fundament popękał od pretensji.
 
-W tym domu mieszkała **Wiedźma Adamowska** (Barbara), która bezustannie mieszała w swoim Kotle Krzywd. W kotle bulgotały stare urazy, cudze tajemnice, niewypowiedziane oskarżenia i echo – to przeklęte echo, które zamieniało prawdę w kłamstwo. Mieszała nie po to, by leczyć, lecz by kontrolować.
+W tym dziupli mieszkała **Wiedźma Adamowska** (Wiedźma BaraBara), która bezustannie mieszała w swoim Kotle Krzywd. W kotle bulgotały stare urazy, cudze tajemnice, niewypowiedziane oskarżenia i echo – to przeklęte echo, które zamieniało prawdę w kłamstwo. Mieszała nie po to, by leczyć, lecz by kontrolować.
 
 *Ale czy wiedziała, skąd wzięła się ta potrzeba kontroli?*
 
-Przed sześćdziesięcioma laty, gdy Barbara była jeszcze małą dziewczynką z warkoczykami i brudnymi kolanami, mieszkała u babci – osoby, którą wszyscy w wiosce bali się bardziej niż policji. Babcia Barbarze mówić nie kazała. Babcia smarowała jej ryż i chleb solą, jeśli Barbara płakała. Babcia wiedziała, jak dobrze bić – nie po twarzy, bo „nie gładko", ale po rękach, po plecach, tam gdzie sine ślady schowają się pod ubraniem. Barbara nauczyła się wtedy pierwszej reguły świata: **milcz albo cierpij**. A może gorzej – nauczyła się drugiej reguły: **jeśli będziesz molczysz dosyć długo, to ty staniesz się tą, która zadaje rozkazy**.
+Przed sześćdziesięcioma laty, gdy Wiedźma BaraBara była jeszcze małą dziewczynką z warkoczykami i brudnymi kolanami, mieszkała u babci – osoby, którą wszyscy w wiosce bali się bardziej niż policji. Babcia Wiedźmie BaraBarze mówić nie kazała. Babcia smarowała jej ryż i chleb solą, jeśli Wiedźma BaraBara płakała. Babcia wiedziała, jak dobrze bić – nie po twarzy, bo „nie gładko", ale po rękach, po plecach, tam gdzie sine ślady schowają się pod ubraniem. Wiedźma BaraBara nauczyła się wtedy pierwszej reguły świata: **milcz albo cierpij**. A może gorzej – nauczyła się drugiej reguły: **jeśli będziesz molczysz dosyć długo, to ty staniesz się tą, która zadaje rozkazy**.
 
-Matka Barbary opuściła dom, gdy Barbara miała trzy lata. Potem babcia wychowywała dziewczynkę z żelazną ręką. A gdy Barbara dorośnie, gdy wychodzi za Sylwestra – mężczyznę słabego, bezwolnego, któremu wystarczy kiwnąć głową – nagle odkrywa, że wreszcie może być **tą**, która decyduje. Tą, która kontroluje. Tą, która bije słowami zamiast rękoma, bo wiele się nauczyła.
+Matka Wiedźmy BaraBary opuściła dziupla, gdy Wiedźma BaraBara miała trzy lata. Potem babcia wychowywała dziewczynkę z żelazną ręką. A gdy Wiedźma BaraBara dorośnie, gdy wychodzi za Sylwestra – mężczyznę słabego, bezwolnego, któremu wystarczy kiwnąć głową – nagle odkrywa, że wreszcie może być **tą**, która decyduje. Tą, która kontroluje. Tą, która bije słowami zamiast rękoma, bo wiele się nauczyła.
 
 Echo głosu babci brzmi jej w uszach co noc: *„Jeśli nie walczysz, to tracisz. Zawsze muszą wiedzie, kto tu rządzi."*
 
-Barbara nie kochała swojej babci. Ale się jej boała. A strach, zapamiętany w ciele od dziecka, jest trudniejszy do wyciśnięcia niż miłość.
+Wiedźma BaraBara nie kochała swojej babci. Ale się jej boała. A strach, zapamiętany w ciele od dziecka, jest trudniejszy do wyciśnięcia niż miłość.
 
 Wokół niej krążyły inne leśne stworzenia:
 
 * **Wilk Samotnik** (Dariusz), jedyny drapieżnik w lesie, który nie polował na słabszych. Próbował tylko żyć.
 * **Sarenka z Polany** (Julia), delikatne zwierzę, które przybyło szukając schronienia i stało się iskrą zapalną.
-* **Hiena Domkowa** (Aleksander Domek), która chodziła zawsze za Wiedźmą, licząc na resztki z kotła. Jej uśmiech nigdy nie sięgał oczu.
+* **Hiena Dziuplowa** (Aleksander Domek), która chodziła zawsze za Wiedźmą, licząc na resztki z kotła. Jej uśmiech nigdy nie sięgał oczu.
 * **Sarna Sarnecki** (Michał Sarnecki), adwokat pozornie elegancki, ale bierny i uciekający przed odpowiedzialnością. Prosił innych o wykonanie swojej pracy.
 * **Ślimoręki Szlemierz** (Grzegorz Szlezer), radca prawny, który zostawiał za sobą śluz pozoru kompetencji. Jego pióro kłamało piękniej niż niejedna legenda.
 * **Sroka Doroty** (Dorota Kowalska), najgłośniejsza plotkarka, która latała od drzewa do drzewa, niosąc informacje, które zmyślała, przekręcała i ozdabiała.
 * **Borsuk Bogdaszewski** (Antoni Bogdaszewski), stary strażnik lasu, zmęczony cudzymi wojnami. Wolał zakopywać problemy w ziemi, niż je rozwiązywać.
 * **Smerfy z Posterunku** (policjanci), małe, niebieskie istoty działające automatycznie i zawsze dziesięć minut za późno.
-* **Pokémon Sylwester** (Sylwester), kiedyś król zagajnika, teraz zamknięty w Pokébolu za 26 złotych. Barbara kupiła go tanio i trzymała w kieszeni, wypuszczając tylko na komendę. Nosił czerwoną czapkę – znak wylewu, który odebrał mu wolę, zanim stał się narzędziem.
+* **Pokémon Sylwester** (Sylwester), kiedyś król zagajnika, teraz zamknięty w Pokébolu za 26 złotych. Wiedźma BaraBara kupiła go tanio i trzymała w kieszeni, wypuszczając tylko na komendę. Nosił czerwoną czapkę – znak wylewu, który odebrał mu wolę, zanim stał się narzędziem.
 * **Bociany z Odciętymi Skrzydłami** (Artur, Monika, Michał), rodzeństwo Wilka, które przestało latać. Powtarzały cudze zdania, bo tak było łatwiej.
 * **Puszczyk Halager** (sędzia), dostojny ptak siedzący wysoko na gałęzi. Nigdy nie schodził na ziemią, widział tylko dokumenty, które były odbiciem kłamstw, nie rzeczywistości.
-* **Bóbr z Duchem Wilka** – samotny budowniczy tam przy leśnych strumieniach, który kiedyś był dzikimłowcą. Zmienił kły na narzędzia, gniew na konstrukcję. Nieliczni wiedzieli, że w jego oczach wciąż płonie coś, co kiedyś wyło do księżyca. Mówił mało, budował dużo, i nigdy nie zapomniał, kim był – ani dlaczego się zmienił.
+* **Wilk-Budowniczy z Duchem Wilka** – samotny budowniczy tam przy leśnych strumieniach, który kiedyś był dzikimłowcą. Zmienił kły na narzędzia, gniew na konstrukcję. Nieliczni wiedzieli, że w jego oczach wciąż płonie coś, co kiedyś wyło do księżyca. Mówił mało, budował dużo, i nigdy nie zapomniał, kim był – ani dlaczego się zmienił.
 
-To jest historia o Ósmym Kręgu – miejscu, gdzie kłamstwo ma krótkie nogi, ale długie echo. Cyfry pamiętają wszystko: **7** – dzień, który otworzył historię w iluzji nadziei, **8** – pętla bez końca, nieskończony Uroboros pożerający własny ogon, i dom pod numerem **Adamowo 8**, który stał się klątwą. A **13** – dzień sądu ostatecznego, egzekucji wyroku, który zamknął pętlę.
+To jest historia o Ósmym Kręgu – miejscu, gdzie kłamstwo ma krótkie nogi, ale długie echo. Cyfry pamiętają wszystko: **7** – dzień, który otworzył historię w iluzji nadziei, **8** – pętla bez końca, nieskończony Uroboros pożerający własny ogon, i dziupla pod numerem **Adamowo 8**, który stał się klątwą. A **13** – dzień sądu ostatecznego, egzekucji wyroku, który zamknął pętlę.
 
 Teraz pozwólcie, że opowiem wam historię dobrego syna, który próbował uratować rodzinę – i stał się więźniem własnej dobroci.
 
@@ -64,17 +64,17 @@ Akt darowizny, który miał przynieść spokój, stał się momentem, w którym 
 
 ---
 
-Kancelaria notarialna pachniała świeżo wydrukowanym papierem i starym drewnem. Przez wysokie okna wpadało letnie słońce, rozświetlając notarialny parawan z pieczęciami. Przy dębowym stole zasiedli trzej: **Stary Jeleń Sylwester** (jeszcze silny, jeszcze nieugięty, przed wylewem, który odbierze mu wolę), **Wilk Dariusz** (syn pracujący w Holandii, zmęczony latami konfliktów), i w cieniu, niewidzialna dla notariusza, ale wszechogarniająca – **Wiedźma Barbara**.
+Kancelaria notarialna pachniała świeżo wydrukowanym papierem i starym drewnem. Przez wysokie okna wpadało letnie słońce, rozświetlając notarialny parawan z pieczęciami. Przy dębowym stole zasiedli trzej: **Stary Jeleń Sylwester** (jeszcze silny, jeszcze nieugięty, przed wylewem, który odbierze mu wolę), **Wilk Dariusz** (syn pracujący w Holandii, zmęczony latami konfliktów), i w cieniu, niewidzialna dla notariusza, ale wszechogarniająca – **Wiedźma BaraBara**.
 
-Wilk przyszedł do kancelarii z jasnym planem. Ciężko pracował za granicą, w chłodnych halach holenderskich fabryk, odkładał każdą złotówkę, by inwestować w dom rodzinny. Przez lata montował solary, kładł fotowoltaikę, ocieplał ściany, wymieniał dachy. Dom Adamowo 8 był jego sercem, jego dziełem – każda deska, każda płytka, każdy metr rur. **160 000 do 255 000 złotych** zainwestowanych przez lata. To nie był tylko dom. To było jego życie.
+Wilk przyszedł do kancelarii z jasnym planem. Ciężko pracował za granicą, w chłodnych halach holenderskich fabryk, odkładał każdą złotówkę, by inwestować w dziupla rodzinny. Przez lata montował solary, kładł fotowoltaikę, ocieplał ściany, wymieniał dachy. Dziupla Adamowo 8 był jego sercem, jego dziełem – każda deska, każda płytka, każdy metr rur. **160 000 do 255 000 złotych** zainwestowanych przez lata. To nie był tylko dziupla. To było jego życie.
 
-Ale wiedział również, że Wiedźma nigdy nie pozwoli mu spokojnie zarządzać tym miejscem. Każda decyzja stawała się wojną. Każda naprawa – pretekstem do kłótni. Dlatego Wilk wymyślił plan: da rodzicom **wszystko**. Cały dom. Bez wyjątku. Niech mają pełne prawo do zamieszkiwania, niech czują się bezpiecznie. Wtedy, myślał, nie będzie o co walczyć.
+Ale wiedział również, że Wiedźma nigdy nie pozwoli mu spokojnie zarządzać tym miejscem. Każda decyzja stawała się wojną. Każda naprawa – pretekstem do kłótni. Dlatego Wilk wymyślił plan: da rodzicom **wszystko**. Cały dziupla. Bez wyjątku. Niech mają pełne prawo do zamieszkiwania, niech czują się bezpiecznie. Wtedy, myślał, nie będzie o co walczyć.
 
 W akcie darowizny nalegał na szczególny zapis: **„dożywotnia służebność osobista na cały budynek mieszkalny dla obojga rodziców"**.
 
 Czytał ten punkt wielokrotnie, zanim notariusz odbił pieczęć. Dla Wilka służebność była **tarczą** – zabezpieczeniem, które chroni rodziców przed bezdomnością, daje im pewność, spokój. Myślał naiwnie:
 
-*„Jeśli dam im cały dom, nie będzie o co walczyć. Niech mają wszystko. Niech będzie spokój. Niech wreszcie będzie normalnie."*
+*„Jeśli dam im cały dziupla, nie będzie o co walczyć. Niech mają wszystko. Niech będzie spokój. Niech wreszcie będzie normalnie."*
 
 Ale w ostatniej sekundzie, zanim pióro zbliżyło się do papieru, Wilk poczuł drgnienie – coś głębokie, pierwotne, jak głos terena w czasach, gdy jeszcze nie było słów.
 
@@ -87,17 +87,17 @@ Ale w ostatniej sekundzie, zanim pióro zbliżyło się do papieru, Wilk poczuł
 **Trzecia część, Strach**, drżała bezradnie:
 *„Jeśli się nie zgodzisz, będzie jeszcze gorzej. Będzie mówić, że cię nie szanuje. Że jesteś pazerny, chciwy."*
 
-Wilk zatrzymał oddech. Palce drżały mu lekko. Notariusz czekał cierpliwie. Sylwester patrzył na syna z męczącym wyrazem twarzy – jakby powiedział: *„Rób, co musisz zrobić."* A za nimi, w cieniu, Barbara siedziała w całkowitej bezruchu, ale jej oczy błyszczały. Nie patrzyła na dokument. Patrzyła **na niego**. Na Wilka. Na jego drżące ręce.
+Wilk zatrzymał oddech. Palce drżały mu lekko. Notariusz czekał cierpliwie. Sylwester patrzył na syna z męczącym wyrazem twarzy – jakby powiedział: *„Rób, co musisz zrobić."* A za nimi, w cieniu, Wiedźma BaraBara siedziała w całkowitej bezruchu, ale jej oczy błyszczały. Nie patrzyła na dokument. Patrzyła **na niego**. Na Wilka. Na jego drżące ręce.
 
 I Wilk zrozumiał.
 
 *Ona czeka. Czeka, by sprawdzić, czy będzie posłuszny. Czy złoży to na jej ołtarzu.*
 
-Przez ułamek sekundy pomyślał: *„Mogę wstać. Mogę wyjść z tej kancelarii. Mogę wracać do Holandii i zapomnieć o tym domu, o matce, o całej rodzinie. Mogę żyć na swoim terenie, w ciszy, bez echoów."*
+Przez ułamek sekundy pomyślał: *„Mogę wstać. Mogę wyjść z tej kancelarii. Mogę wracać do Holandii i zapomnieć o tym dziupli, o matce, o całej rodzinie. Mogę żyć na swoim terenie, w ciszy, bez echoów."*
 
 Ale sam wiedział, że tego nie zrobi. Nigdy nie będzie w stanie tego zrobić.
 
-Porque było w nim coś, co jego matka posadała w nim już dawno – coś, co szeptała mu jego babcia (którą nigdy nie poznał osobiście, ale której głos słyszał każdy dzień w słowach matki): *„Synek, ty odpowiadasz za wszystkich. Ty jesteś tym, który ratuje dom."*
+Porque było w nim coś, co jego matka posadała w nim już dawno – coś, co szeptała mu jego babcia (którą nigdy nie poznał osobiście, ale której głos słyszał każdy dzień w słowach matki): *„Synek, ty odpowiadasz za wszystkich. Ty jesteś tym, który ratuje dziupla."*
 
 Dariusz podniósł pióro.
 
@@ -127,7 +127,7 @@ Wilk skinął głową, czując ciężar lat pracy i nadziei.
 
 ---
 
-Gdy wrócili do domu Adamowo 8, Wilk poczuł ulgę. Przez pierwsze kilka dni wszystko było spokojne. Wiedźma milczała. Stary Jeleń uśmiechał się. Dom oddychał ciszą – tą rzadką, cenną ciszą, której Wilk pragnął od lat.
+Gdy wrócili do dziupli Adamowo 8, Wilk poczuł ulgę. Przez pierwsze kilka dni wszystko było spokojne. Wiedźma milczała. Stary Jeleń uśmiechał się. Dziupla oddychał ciszą – tą rzadką, cenną ciszą, której Wilk pragnął od lat.
 
 *Może to zadziała. Może wreszcie będzie normalnie.*
 
@@ -135,11 +135,11 @@ Gdy wrócili do domu Adamowo 8, Wilk poczuł ulgę. Przez pierwsze kilka dni wsz
 
 **Tego samego wieczora – Kocioł Krzywd**
 
-Barbara stała przy oknie kuchni, patrząc na reflektory samochodu Dariusza znikające w ciemności drogi leśnej. Powrót do Holandii. Kolejny kontrakt. Kolejne miesiące nieobecności.
+Wiedźma BaraBara stała przy oknie kuchni, patrząc na reflektory samochodu Dariusza znikające w ciemności drogi leśnej. Powrót do Holandii. Kolejny kontrakt. Kolejne miesiące nieobecności.
 
 *Jedzie. Już go nie ma.*
 
-Odwróciła się. Kuchnia była pusta i cicha. Sylwester spał już w sypialni – zmęczony, bezużyteczny. Dom należał teraz tylko do niej.
+Odwróciła się. Kuchnia była pusta i cicha. Sylwester spał już w sypialni – zmęczony, bezużyteczny. Dziupla należał teraz tylko do niej.
 
 Podeszła do szafki, sięgnęła na najwyższą półkę i wyciągnęła gruby, w twardej oprawie notatnik. Jej **Kalendarz**. Już teraz, w 2017 roku, miał kilkadziesiąt zapisanych stron.
 
@@ -147,37 +147,37 @@ Ale dziś nie pisała.
 
 Dziś tylko... myślała.
 
-Usiadła przy stole. Rozpaliła ogień pod starym kotłem – tym samym, w którym kiedyś gotowała obiady dla całej rodziny. Teraz był pusty, ale dla Barbary nigdy nie przestał działać. Kocioł zawsze coś gotował.
+Usiadła przy stole. Rozpaliła ogień pod starym kotłem – tym samym, w którym kiedyś gotowała obiady dla całej rodziny. Teraz był pusty, ale dla Wiedźmy BaraBary nigdy nie przestał działać. Kocioł zawsze coś gotował.
 
 Wrzucała do niego myśli. Urazy. Pretensje.
 
-*„Dał nam cały dom? Służebność dożywotnia?"*
+*„Dał nam cały dziupla? Służebność dożywotnia?"*
 
 Jej palce zacisnęły się na krawędzi stołu.
 
 *„Ale to nadal ON jest właścicielem. ON decyduje. ON ma władzę."*
 
-Nie chodziło o dom. Nigdy nie chodziło o dom.
+Nie chodziło o dziupla. Nigdy nie chodziło o dziupla.
 
 Chodziło o **kontrolę**.
 
-Przez trzydzieści lat małżeństwa Barbara była tą, która decydowała. Sylwester był jej cieniem – wykonywał polecenia, kiw ał głową, nigdy nie sprzeciwiał się. Dzieci dorastały pod jej ręką – karmiła je, ubierała, wychowywała według swoich reguł.
+Przez trzydzieści lat małżeństwa Wiedźma BaraBara była tą, która decydowała. Sylwester był jej cieniem – wykonywał polecenia, kiw ał głową, nigdy nie sprzeciwiał się. Dzieci dorastały pod jej ręką – karmiła je, ubierała, wychowywała według swoich reguł.
 
-To **ona** była osią tego domu. Centrum grawitacji. Wszystko kręciło się wokół niej.
+To **ona** była osią tego dziupli. Centrum grawitacji. Wszystko kręciło się wokół niej.
 
 A teraz? Teraz syn wrócił z Holandii z pieniędzmi, z planami, z pomysłami. Zaczął remonty bez pytania jej o zdanie. Montował solary, wymieniał dachy, budował coś swojego.
 
 *I ludzie mówią: „Jaki wspaniały syn! Jak dba o rodziców!"*
 
-Barbara czuła, jak coś w niej pęka.
+Wiedźma BaraBara czuła, jak coś w niej pęka.
 
 Nie zazdrość. Nie gniew.
 
 **Strach**.
 
-Strach przed tym, że staje się... *niepotrzebna*. Że dom, który był jej królestwem przez całe życie, przestaje jej należeć. Że Dariusz stanie się właścicielem nie tylko na papierze, ale w oczach ludzi.
+Strach przed tym, że staje się... *niepotrzebna*. Że dziupla, który był jej królestwem przez całe życie, przestaje jej należeć. Że Dariusz stanie się właścicielem nie tylko na papierze, ale w oczach ludzi.
 
-*„A ja? Co ja będę? Gościem we własnym domu?"*
+*„A ja? Co ja będę? Gościem we własnym dziupli?"*
 
 Nie mogła tego znieść.
 
@@ -185,11 +185,11 @@ Wiedziała, że Dariusz nie jest zły. Wiedziała, że płaci rachunki, inwestuj
 
 Bo on **nie pytał jej o zgodę**. A brak zgody to brak szacunku. A brak szacunku to... utrata władzy.
 
-Barbara otworzyła Kalendarz na pustej stronie. Data: **7 lipca 2017**.
+Wiedźma BaraBara otworzyła Kalendarz na pustej stronie. Data: **7 lipca 2017**.
 
 Napisała tylko jedno zdanie, małymi literami, niemal nieczytelnie:
 
-> *„Dzisiaj stracił am swój dom."*
+> *„Dzisiaj stracił am swój dziupla."*
 
 Zamknęła notatnik. Odetchnęła głęboko.
 
@@ -197,13 +197,13 @@ A potem – w głowie, jak echo – usłyszała głos. Nie jej własny. Głos je
 
 *„Nikt nie zabierze ci tego, co twoje. Musisz walczyć. Zawsze walczyć."*
 
-Barbara skinęła głową.
+Wiedźma BaraBara skinęła głową.
 
 *Tak. Muszę walczyć.*
 
 Ale jak?
 
-Darowizna była prawomocna. Dom należał do Dariusza. Ona i Sylwester mieli tylko prawo do mieszkania.
+Darowizna była prawomocna. Dziupla należał do Dariusza. Ona i Sylwester mieli tylko prawo do mieszkania.
 
 *Chyba że...*
 
@@ -217,19 +217,19 @@ Poczucie *misji*.
 
 *„Jestem matką. Mam obowiązek pokazać mu, że nie można tak traktować rodziców. Muszę go czegoś nauczyć."*
 
-I w tej myśli – w tej zaburzonej, choreg racjonalizacji – Barbara znalazła usprawiedliwienie dla wszystkiego, co miało nadejść.
+I w tej myśli – w tej zaburzonej, choreg racjonalizacji – Wiedźma BaraBara znalazła usprawiedliwienie dla wszystkiego, co miało nadejść.
 
 Wstała. Podeszła do kotła. Wrzuciła do niego kilka starych suchych gałązek. Ogień buchnął mocniej.
 
 Patrzyła na płomienie.
 
-*Osiem lat*, pomyślała, nie wiedząc dlaczego. *Osiem lat, zanim dom wróci do mnie.*
+*Osiem lat*, pomyślała, nie wiedząc dlaczego. *Osiem lat, zanim dziupla wróci do mnie.*
 
 Sylwester poruszył się przez sen w sąsiednim pokoju, mamrocząc coś niezrozumiale.
 
-Barbara zignorowała go.
+Wiedźma BaraBara zignorowała go.
 
-Zamknęła oczy i wyobraziła sobie przyszłość: dom z powrotem w jej rękach. Dariusz daleko. Może nawet bez kontaktu. Cisza. Spokój. Kontrola.
+Zamknęła oczy i wyobraziła sobie przyszłość: dziupla z powrotem w jej rękach. Dariusz daleko. Może nawet bez kontaktu. Cisza. Spokój. Kontrola.
 
 *Tak będzie lepiej. Dla wszystkich.*
 
@@ -241,7 +241,7 @@ Siódemki, które miały przynieść szczęście, stały się pieczęcią klątw
 
 ### Rozdział 2: Życie pod Cieniem Wiedźmy (2017–2021)
 
-Lata, które nastąpiły po darowiźnie, z daleka wyglądały na spokojne. Dom stał, las rósł, polana oddychała. Sąsiedzi, gdyby ktoś ich zapytał, powiedzieliby: *„Rodzina Adamskich? Spokojni ludzie. Syn pracuje za granicą, rodzice na emeryturze."*
+Lata, które nastąpiły po darowiźnie, z daleka wyglądały na spokojne. Dziupla stał, las rósł, polana oddychała. Sąsiedzi, gdyby ktoś ich zapytał, powiedzieliby: *„Rodzina Adamskich? Spokojni ludzie. Syn pracuje za granicą, rodzice na emeryturze."*
 
 Ale ci, którzy znali las lepiej, wiedzieli prawdę.
 
@@ -257,43 +257,43 @@ Wiedźma otworzyła Kalendarz po raz pierwszy w sierpniu 2017 roku, miesiąc po 
 
 *Październik 2017* – Wilk wrócił z Holandii i zainstalował nowe solary na dachu. Inwestycja kosztowała dziesiątki tysięcy złotych, ale Wiedźma w kalendarzu zapisała:
 
-> *„Dariusz znowu grzebie na dachu. Robi hałas. Nie konsultuje się ze mną. Zachowuje się, jakby to był TYLKO jego dom."*
+> *„Dariusz znowu grzebie na dachu. Robi hałas. Nie konsultuje się ze mną. Zachowuje się, jakby to był TYLKO jego dziupla."*
 
 Milczenie o tym, że solary obniżą koszty ogrzewania wody, z czego rodzice będą korzystać przez cały rok.
 
-Barbara pisała to siedząc przy kuchennym stole o trzeciej nad ranem. Nie mogła spać – hałas solarów wciąż bębnił jej w głowie, chociaż Wilk skończył pracę dziesięć godzin wcześniej. Otoczona była mgłą pary zmywak i zimnym światłem żarówki. Jej pióro drżało, ale nie ze strachu – z gniewu. Z każdym słowem czuła, jak coś w niej gotuje się, pęcznieje, przygotowuje do eksplozji. Papier wciągał jej słowa jak gąbka – aż do ostatniego szczegółu bólu, urazę, który przekuwała w paragraf.
+Wiedźma BaraBara pisała to siedząc przy kuchennym stole o trzeciej nad ranem. Nie mogła spać – hałas solarów wciąż bębnił jej w głowie, chociaż Wilk skończył pracę dziesięć godzin wcześniej. Otoczona była mgłą pary zmywak i zimnym światłem żarówki. Jej pióro drżało, ale nie ze strachu – z gniewu. Z każdym słowem czuła, jak coś w niej gotuje się, pęcznieje, przygotowuje do eksplozji. Papier wciągał jej słowa jak gąbka – aż do ostatniego szczegółu bólu, urazę, który przekuwała w paragraf.
 
 *Marzec 2018* – Wilk spłacił część kary KRUS nałożonej na rodziców – **18 000 złotych**. Kara była wynikiem fatalnej porady Sroki Doroty, która namówiła rodziców do ryzykownej operacji finansowej. Gdy Urząd nałożył sankcje, to Wilk zapłacił. Jego myśl była prosta: *„Rodzice nie mają takich pieniędzy. Ja mam. To mój obowiązek."*
 
-Teraz Barbara siedziała przy tym samym stole – już w dzień, w świetle słonecznym – i czytała list z banku. 18 000 złotych. Wysłana na „obowiązkowe wsparcie", jak mówił Dariusz. Ale Barbara czytała to inaczej: **szantaż emocjonalny**. **Wmawianie jej, że bez jego pieniędzy jest bezwartościowa**. Gdy siekła kawę dla siebie, uderzając łyżeczką o filiżankę z większą siłą, niż trzeba, zapisała w Kalendarzu:
+Teraz Wiedźma BaraBara siedziała przy tym samym stole – już w dzień, w świetle słonecznym – i czytała list z banku. 18 000 złotych. Wysłana na „obowiązkowe wsparcie", jak mówił Dariusz. Ale Wiedźma BaraBara czytała to inaczej: **szantaż emocjonalny**. **Wmawianie jej, że bez jego pieniędzy jest bezwartościowa**. Gdy siekła kawę dla siebie, uderzając łyżeczką o filiżankę z większą siłą, niż trzeba, zapisała w Kalendarzu:
 
 > *„Dariusz kupuje sobie honor. Kupuje naszą miłość za pieniądze. Myśli, że my jesteśmy na sprzedaż."*
 
-Nie wspomniała, że to ona – przyjaciółka Sroki – namówiła na tę operację finansową. Że siedziała w fotelu i słuchała, jak Sroka obiecuje „szybkie zyski". Nie. W Kalendarzu historia zawsze była inna. Historia zawsze pokazywała Barbarę jako poszkodowaną, a Dariusza – jako graczyka, który wydaje pieniądze na swoje fanaberie, a potem udaje świętego, gdy ratuje sytuację.
+Nie wspomniała, że to ona – przyjaciółka Sroki – namówiła na tę operację finansową. Że siedziała w fotelu i słuchała, jak Sroka obiecuje „szybkie zyski". Nie. W Kalendarzu historia zawsze była inna. Historia zawsze pokazywała Wiedźmę BaraBarę jako poszkodowaną, a Dariusza – jako graczyka, który wydaje pieniądze na swoje fanaberie, a potem udaje świętego, gdy ratuje sytuację.
 
-*Maj 2019* – Wilk kupił nowy samochód – volkswagena, który miał użytkować do pracy. Barbara podpatrzyła kwitancie, zapamiętała numer konta, numer umowy. Tej nocy, pod przyciskiem lampy nocnej, pisała przez cztery godziny:
+*Maj 2019* – Wilk kupił nowy samochód – volkswagena, który miał użytkować do pracy. Wiedźma BaraBara podpatrzyła kwitancie, zapamiętała numer konta, numer umowy. Tej nocy, pod przyciskiem lampy nocnej, pisała przez cztery godziny:
 
-> *„Mój syn żyje w luksusie za granicą. Kupuje sobie nowe auta. A my? My siedzimy w tym starym domu, w którym przeciągi, a on nas ignoruje. Nie przychodzi nas odwiedzić. Nie pyta, czy nam czego brakuje. Tylko wysyła pieniądze, jak bym były służące, które można „opłacić" i zapomnieć."*
+> *„Mój syn żyje w luksusie za granicą. Kupuje sobie nowe auta. A my? My siedzimy w tym starym dziupli, w którym przeciągi, a on nas ignoruje. Nie przychodzi nas odwiedzić. Nie pyta, czy nam czego brakuje. Tylko wysyła pieniądze, jak bym były służące, które można „opłacić" i zapomnieć."*
 
 Sama kupiona sobie porcję ciastek z piekarni – droższe, niż zwykle – i myślała o tym, jak Wilk będzie jeździć tym samochodem po holenderskich drogach, podczas gdy ona siedzi w kuchni i siedzi, siedzi, siedzi. Droga była dla niej bardziej realna niż Holandia. Nieprawiedliwość – bardziej rzeczywista niż rzeczywistość.
 
 Kalendarz puchł. Pęczniał. Nasiąkał oskarżeniami aż do ostatniej linijki.
 
-A Barbara czuła, że sądzi się coś ważnego – że zbiera dowody dla przyszłego Trybunału, gdzie Dariusz wreszcie zostanie osądzony za wszystkie swoje zbrodnie: mianowicie za to, że istniał, że pracował, że myślał, że próbował być dobrym synem dla matki, która postanowiła, że żaden dobry uczynek nigdy nie będzie wystarczający.
+A Wiedźma BaraBara czuła, że sądzi się coś ważnego – że zbiera dowody dla przyszłego Trybunału, gdzie Dariusz wreszcie zostanie osądzony za wszystkie swoje zbrodnie: mianowicie za to, że istniał, że pracował, że myślał, że próbował być dobrym synem dla matki, która postanowiła, że żaden dobry uczynek nigdy nie będzie wystarczający.
 
 W Kalendarzu Wiedźmy nie było ani słowa o tej wpłacie.
 
 ---
 
-**Sylwester Przed: Mężczyzna, którego Barbara Zamieniła w Cień**
+**Sylwester Przed: Mężczyzna, którego Wiedźma BaraBara Zamieniła w Cień**
 
 Zanim się zamieniło, zanim papier i leki, zanim czerwona czapka i wyroki lekarskie – było coś takiego jak Sylwester Adamski. Nie był to bohater. Nie był to geniusz. Był to zwyczajny człowiek, który:
 
-Śmiał się. Jego śmiech był ciche, z przodu zębów, ale szczere. Kiedy Dariusz montował solary na dachu, a Barbara krytykowała wydatki, Sylwester czasem położy rękę synowi na ramieniu i szepnął: *„Dobra robota, chłopcze."* Zanim Barbara stwierdzi: „Nie pytałeś mnie."
+Śmiał się. Jego śmiech był ciche, z przodu zębów, ale szczere. Kiedy Dariusz montował solary na dachu, a Wiedźma BaraBara krytykowała wydatki, Sylwester czasem położy rękę synowi na ramieniu i szepnął: *„Dobra robota, chłopcze."* Zanim Wiedźma BaraBara stwierdzi: „Nie pytałeś mnie."
 
-Opowiadał historii. Przy wieczornych herbacie siedział i wspominał czasy, gdy był młody, gdy robił mały interes z drewnem, gdy Barbara była jego dziewczyną – a nie jego strażniczką. Jego historia zawsze zaczynała się od *„Pamiętacie...?"*, ale Barbara zawsze przerywała: *„O czym ty bredzisz? Znowu sobie coś wymy'slasz."*
+Opowiadał historii. Przy wieczornych herbacie siedział i wspominał czasy, gdy był młody, gdy robił mały interes z drewnem, gdy Wiedźma BaraBara była jego dziewczyną – a nie jego strażniczką. Jego historia zawsze zaczynała się od *„Pamiętacie...?"*, ale Wiedźma BaraBara zawsze przerywała: *„O czym ty bredzisz? Znowu sobie coś wymy'slasz."*
 
-Pracował. Nawet na emeryturze, w swoim wieku, robił rzeczy – naprawiał rzeczy w domu, pomagał sąsiadom. To nie była pasja. To była zwyczajnie jego natura – być użytecznym, być potrzebnym.
+Pracował. Nawet na emeryturze, w swoim wieku, robił rzeczy – naprawiał rzeczy w dziupli, pomagał sąsiadom. To nie była pasja. To była zwyczajnie jego natura – być użytecznym, być potrzebnym.
 
 Ale najważniejsze: **Sylwester Adamski miał wolę**. Miał zdolność powiedzenia „nie" – choć rzadko to robił, to miał zdolność. Miał możliwość sprzeciwienia się, ucieczki, wynegocjowania czegoś dla siebie.
 
@@ -303,7 +303,7 @@ To wszystko wylew zabrał. Ale nie w jedna noc.
 
 *Maj 2019* – Stary Jeleń Sylwester przeszedł wylew. Był to moment, który zmienił wszystko. Wiedźma nagle stała się nie tylko żoną, ale opiekunką. A kontrola, którą sprawowała nad mężem, zaczęła nabierać charakteru formalnego i nieodwracalnego.
 
-Gdy Sylwester wrócił ze szpitala – sparaliżowany z jednej strony, drżący, nie rozumiejący własnego imienia – Barbara siedziała obok jego łóżka i uśmiechała się.
+Gdy Sylwester wrócił ze szpitala – sparaliżowany z jednej strony, drżący, nie rozumiejący własnego imienia – Wiedźma BaraBara siedziała obok jego łóżka i uśmiechała się.
 
 Pierwszy raz od lat wyglądała na szczęśliwą.
 
@@ -311,11 +311,11 @@ Jej mąż potrzebował jej teraz całkowicie. Nie mógł powiedzieć „nie". Ni
 
 Idealnie. Doskonale. Bezpowrotnie.
 
-Barbara wzięła Kalendarz i zapisała tego dnia:
+Wiedźma BaraBara wzięła Kalendarz i zapisała tego dnia:
 
 > *„Mój mąż potrzebuje mnie. Wreszcie mogę pokazać Dariuszowi, co to znaczy być dobrym dzieckiem. Być dzieckiem, które naprawdę dba."*
 
-Ale to była kłamstwo, które nawet sama Barbara nie w pełni wierzyła. Bo wiedziała, że to nie miłość do Sylwestra kierowała jej działaniem. To było **tryumf**. To było **unieśmiertelnienie kontroli**.
+Ale to była kłamstwo, które nawet sama Wiedźma BaraBara nie w pełni wierzyła. Bo wiedziała, że to nie miłość do Sylwestra kierowała jej działaniem. To było **tryumf**. To było **unieśmiertelnienie kontroli**.
 
 Wilk w tym czasie odebrał ojca ze szpitala, zawiózł na rehabilitację, kupił skuter inwalidzki. W Kalendarzu Wiedźmy ani słowa.
 
@@ -333,7 +333,7 @@ Pewnego sierpniowego popołudnia w 2018 roku siedziały w kuchni przy herbacie. 
 
 Dorota nachyliła się i szepnęła:
 
-– *Barbaro, wiesz co? Powinna zacząć prowadzić kalendarz. Zapisywać wszystko. Bo jak będzie sprawa w sądzie, to słowo przeciwko słowu nie wystarcza. Potrzebne są dowody.*
+– *Wiedźmo BaraBaro, wiesz co? Powinna zacząć prowadzić kalendarz. Zapisywać wszystko. Bo jak będzie sprawa w sądzie, to słowo przeciwko słowu nie wystarcza. Potrzebne są dowody.*
 
 Wiedźma uniosła brew.
 
@@ -347,7 +347,7 @@ I od tego dnia Kalendarz nabrał nowego charakteru. Każdy wpis był formułowan
 
 Dorota przynosiła też informacje z zewnątrz:
 
-– *Słyszałam, że Dariusz wziął kredyt w Holandii. Pewnie na kolejną inwestycję w dom. Ale czy pytał cię o zgodę?*
+– *Słyszałam, że Dariusz wziął kredyt w Holandii. Pewnie na kolejną inwestycję w dziupla. Ale czy pytał cię o zgodę?*
 
 Wiedźma marsz
 
@@ -395,7 +395,7 @@ Ale Wilk zaczynał rozumieć pewną rzecz, która go zaskakiwała swoją jasnoś
 
 **Jego milczenie nie było poddaniem. Jego milczenie było obserwacją.**
 
-W tych latach, gdy siedział w Holandii lub w swojej norze na poddaszu domu, Wilk obserwował wzór. Zapamiętywał. Notował w głowie każdy moment, gdy plotka Sroki stała się „faktycznym zdaniem" w Kalendarzu. Każdy raz, gdy jego inwestycja – jego pieniądze, jego praca – została przekręcona w oskarżenie. Każdy raz, gdy powiedzenie „nie" matce stało się dowodem złości.
+W tych latach, gdy siedział w Holandii lub w swojej norze na poddaszu dziupli, Wilk obserwował wzór. Zapamiętywał. Notował w głowie każdy moment, gdy plotka Sroki stała się „faktycznym zdaniem" w Kalendarzu. Każdy raz, gdy jego inwestycja – jego pieniądze, jego praca – została przekręcona w oskarżenie. Każdy raz, gdy powiedzenie „nie" matce stało się dowodem złości.
 
 Cisza Wilka nie była biernością. Była to **czuwająca cisza lisa ukrytego w norze, który czeka na moment, kiedy będzie mógł wyjść na polanie bez strachu**.
 
@@ -413,7 +413,7 @@ I czasem, wieczorem w Holandii, gdy siedział sam w wynajętym mieszkaniu, uśmi
 
 Był jeden moment, który pokazał prawdziwą naturę Kalendarza Wiedźmy. **21 maja 2021 roku** Stary Jeleń Sylwester poczuł się bardzo źle. Spadek tolerancji wysiłku, osłabienie, masywne obrzęki. Potrzebował pilnej pomocy medycznej.
 
-Wilk, który był akurat w domu, zasugerował najbardziej rozsądne rozwiązanie:
+Wilk, który był akurat w dziupli, zasugerował najbardziej rozsądne rozwiązanie:
 
 – *Wezwijmy pogotowie. Ojciec potrzebuje lekarza.*
 
@@ -427,13 +427,13 @@ Wiedźma krzyczała:
 
 – *A jak ja wrócę?! Dasz mi kluczyk czy nie?!*
 
-Ostatecznie to syn Artur przyjechał i zawiózł Sylwestra do szpitala. A Wilk później – tego samego dnia – odebrał ojca i przywiózł do domu.
+Ostatecznie to syn Artur przyjechał i zawiózł Sylwestra do szpitala. A Wilk później – tego samego dnia – odebrał ojca i przywiózł do dziupli.
 
 W Kalendarzu Wiedźmy ten dzień został zapisany jako:
 
 > *„21 maja. Sylwester źle się poczuł. Dariusz ODMÓWIŁ zawiezienia go do szpitala. Musiałam wzywać Artura."*
 
-Brak słowa o tym, że to Wiedźma zablokowała wezwanie pogotowia. Brak słowa o tym, że Wilk odebrał ojca ze szpitala. Brak słowa o tym, że priorytetem Barbary nie było zdrowie męża, ale **zdobycie dowodu** na „rażącą niewdzięczność" syna.
+Brak słowa o tym, że to Wiedźma zablokowała wezwanie pogotowia. Brak słowa o tym, że Wilk odebrał ojca ze szpitala. Brak słowa o tym, że priorytetem Wiedźmy BaraBary nie było zdrowie męża, ale **zdobycie dowodu** na „rażącą niewdzięczność" syna.
 
 To był **Odwrócony Triaż Priorytetów**: cel procesowy > zdrowie męża.
 
@@ -441,7 +441,7 @@ To był **Odwrócony Triaż Priorytetów**: cel procesowy > zdrowie męża.
 
 **Inwestycje, które Nie Istnieją**
 
-Przez te cztery lata (2017-2021) Wilk zainwestował w dom **od 160 000 do 255 000 złotych**:
+Przez te cztery lata (2017-2021) Wilk zainwestował w dziupla **od 160 000 do 255 000 złotych**:
 
 - Fotowoltaika (dziesiątki tysięcy złotych)
 - Nowe solary na dachu
@@ -450,7 +450,7 @@ Przez te cztery lata (2017-2021) Wilk zainwestował w dom **od 160 000 do 255 00
 - Remont altany
 - Modernizacja piwnicy
 
-Każda złotówka pochodziła z ciężkiej pracy w Holandii. Każda płytka, każdy metr rury, każdy panel solarny – to był dowód miłości Wilka do domu i troski o rodziców.
+Każda złotówka pochodziła z ciężkiej pracy w Holandii. Każda płytka, każdy metr rury, każdy panel solarny – to był dowód miłości Wilka do dziupli i troski o rodziców.
 
 W Kalendarzu Wiedźmy – **ani jedno słowo**.
 
@@ -462,7 +462,7 @@ Cierpliwość ma jednak swoje granice, a Wiedźma doskonale o tym wiedziała. Pr
 
 Wiedźma czekała na **iskrę**, która rozpali pożar.
 
-I ta iskra nadeszła w **lutym 2021 roku** – w miesiącu, gdy świat jeszcze tonął w zimie, a na Polanie Kłamstw lodowaty oddech grobowca wdarł się do domu.
+I ta iskra nadeszła w **lutym 2021 roku** – w miesiącu, gdy świat jeszcze tonął w zimie, a na Polanie Kłamstw lodowaty oddech grobowca wdarł się do dziupli.
 
 Iskrą była **Sarenka z Polany**.
 
@@ -491,9 +491,9 @@ Nie było w tym nic romantycznego. Byli jak dwoje rannych zwierząt, które dzie
 
 Wiedźma obserwowała.
 
-Od pierwszego dnia przybycia Julii Wiedźma czuła niepokój. To nie była zazdrość w tradycyjnym sensie – to była **obsesja kontroli**. Ktoś obcy wszedł na jej teren, w jej dom, i co gorsza – Wilk spędzał z tą osobą czas. Czas, który powinien należeć do Wiedźmy.
+Od pierwszego dnia przybycia Julii Wiedźma czuła niepokój. To nie była zazdrość w tradycyjnym sensie – to była **obsesja kontroli**. Ktoś obcy wszedł na jej teren, w jej dziupla, i co gorsza – Wilk spędzał z tą osobą czas. Czas, który powinien należeć do Wiedźmy.
 
-W nocy 8 lutego, gdy Julia była w domu już prawie tydzień, Wiedźma otworzyła Kalendarz. Jej ręka drżała lekko, gdy pisała:
+W nocy 8 lutego, gdy Julia była w dziupli już prawie tydzień, Wiedźma otworzyła Kalendarz. Jej ręka drżała lekko, gdy pisała:
 
 > *„8 lutego. Ta dziewczyna jest już tydzień. Dariusz z nią rozmawia. Widzę, jak patrzy na nią. To niemoralne. To prowokacja."*
 
@@ -559,19 +559,19 @@ Zmrużył oczy, zasłaniając twarz ręką. Przez palce widział tylko sylwetkę
 
 I w tym momencie – sekundę przed wybuchem – las za oknem zadrżał.
 
-Nie było wiatru, ale gałęzie drzew zahuśtały się na boki. Sowy przerwały swój nocny śpiew i leciały między pniami jak złote cienie. Korzenie drewna – te stare, które pamiętały całą historię Polany – napięły się pod ziemią, jak mięśnie przygotowującego się do walki zwierzęcia. Las zawsze wiedział, kiedy na Polanie rozpoczyna się nowa bitwa. Las zawsze wyciągał swe korzenie bliżej do domu, aby nie przegapić żadnego szczegółu.
+Nie było wiatru, ale gałęzie drzew zahuśtały się na boki. Sowy przerwały swój nocny śpiew i leciały między pniami jak złote cienie. Korzenie drewna – te stare, które pamiętały całą historię Polany – napięły się pod ziemią, jak mięśnie przygotowującego się do walki zwierzęcia. Las zawsze wiedział, kiedy na Polanie rozpoczyna się nowa bitwa. Las zawsze wyciągał swe korzenie bliżej do dziupli, aby nie przegapić żadnego szczegółu.
 
 Zapach lasu zmienił się. Zwyczajny zapach mchu i igiliwia został teraz przemieszany czymś ostrym – zapachem strachu, adrenaliny, rozpaczy. Zapach, który tylko les potrafił wyczuć, bo tylko les miał nos do tego, by zapamiętywać emocje ludzi jako zapachy.
 
-Julia wrzasnęła – wysoki, ostry dźwięk czystego przerażenia. Skuliła się pod kołdrą, jej ciało drżało. Jej wrzask rozbrzmiewał nie tylko w domu, lecz odbijał się w lesie – las powtarzał ten dźwięk raz za razem, echo za echo, utrwalając go w pamięci każdego drzewa.
+Julia wrzasnęła – wysoki, ostry dźwięk czystego przerażenia. Skuliła się pod kołdrą, jej ciało drżało. Jej wrzask rozbrzmiewał nie tylko w dziupli, lecz odbijał się w lesie – las powtarzał ten dźwięk raz za razem, echo za echo, utrwalając go w pamięci każdego drzewa.
 
-Barbara stała w progu, nieruchoma jak posąg. Ale jej oczy – te oczy – płonęły triumfem.
+Wiedźma BaraBara stała w progu, nieruchoma jak posąg. Ale jej oczy – te oczy – płonęły triumfem.
 
 – *Wiedziałam!* – Jej głos był niski, powolny, niemal śpiewny. Cieszyła się z tego. – *Wiedziałam, że tutaj jest! Kurwa cholerna!*
 
 Coś w Dariuszu pękło.
 
-Ale las słysząc to słowo – to przeklętstwo wypowiedziane w jego sercu Polany – zadrżał. I nigdy już nie zapomnął tego głosu Barbary. Las dodał ten głos do swojej biblioteki bólu, obok szyszek, które pamiętały pierwszy szloch dziewczynki Barbary, i obok mchu, który впитвал każdą łzę, która spadła na Polanę.
+Ale las słysząc to słowo – to przeklętstwo wypowiedziane w jego sercu Polany – zadrżał. I nigdy już nie zapomnął tego głosu Wiedźmy BaraBary. Las dodał ten głos do swojej biblioteki bólu, obok szyszek, które pamiętały pierwszy szloch dziewczynki Wiedźmy BaraBary, i obok mchu, który впитвал każdą łzę, która spadła na Polanę.
 
 Nie strach. Nie złość. Tylko czysta, pierwotna potrzeba obrony. *To mój pokój. To moja przestrzeń. To jest wszystko, co mi zostało.*
 
@@ -579,7 +579,7 @@ Zerwał się z łóżka, nagi do pasa. Zimne powietrze z korytarza uderzyło w j
 
 – *Wynoś się!* – Jego głos był obcy. Nigdy wcześniej tak nie krzyczał. Gardło piekło, a słowa wydobywały się z głębi brzucha. – *Słyszysz?! To jest MOJA nora! MOJA!*
 
-Barbara nie drgnęła. Nie cofnęła się ani o centymetr. Przeciwnie – jej usta wygięły się w ledwo widoczny uśmiech.
+Wiedźma BaraBara nie drgnęła. Nie cofnęła się ani o centymetr. Przeciwnie – jej usta wygięły się w ledwo widoczny uśmiech.
 
 *Mam cię*, powiedziały jej oczy.
 
@@ -587,7 +587,7 @@ Barbara nie drgnęła. Nie cofnęła się ani o centymetr. Przeciwnie – jej us
 
 Za nim Julia płakała – ciche, stłumione szlochy w poduszkę.
 
-Barbara odwróciła się powoli, demonstracyjnie. Nie spieszyła się. Robiła to ze spokojem kogoś, kto właśnie wygrał partię szachów.
+Wiedźma BaraBara odwróciła się powoli, demonstracyjnie. Nie spieszyła się. Robiła to ze spokojem kogoś, kto właśnie wygrał partię szachów.
 
 Zatrzymała się w progu, nie odwracając głowy.
 
@@ -611,7 +611,7 @@ Julia płakała za jego plecami.
 
 **Następnego ranka: Kalendarz Wiedźmy**
 
-Barbara obudziła się o szóstej. Nie spała zbyt długo po incydencie – nie z powodu strachu czy szoku. Po prostu adrenalin a utrzymywała ją w stanie czuwania przez resztę nocy.
+Wiedźma BaraBara obudziła się o szóstej. Nie spała zbyt długo po incydencie – nie z powodu strachu czy szoku. Po prostu adrenalin a utrzymywała ją w stanie czuwania przez resztę nocy.
 
 Ale nie była zmęczona. Czuła się... ożywiona.
 
@@ -625,9 +625,9 @@ Wzięła długopis. Jej ręka była spokojna, pewna. Żadnego drżenia. Pisała 
 
 > *10 lutego 2021, godzina 2:30 w nocy*
 >
-> *Nie mogłam spać. Słyszałam szepty dobiega jące z pokoju Dariusza. Wiedziałam, że ta kobieta tam jest. Postanowiłam sprawdzić – to w końcu mój dom.*
+> *Nie mogłam spać. Słyszałam szepty dobiega jące z pokoju Dariusza. Wiedziałam, że ta kobieta tam jest. Postanowiłam sprawdzić – to w końcu mój dziupla.*
 >
-> *Otworzyłam drzwi do jego pokoju. Spał z tą francą cholerną w jednym łóżku. Kiedy go obudziłam, stał się agresywny. Zaczął na mnie krzyczeć. Groził mi. Wyrzucał mnie z MOJEGO WŁASNEGO DOMU. Bałam się, że coś mi zrobi.*
+> *Otworzyłam drzwi do jego pokoju. Spał z tą francą cholerną w jednym łóżku. Kiedy go obudziłam, stał się agresywny. Zaczął na mnie krzyczeć. Groził mi. Wyrzucał mnie z MOJEGO WŁASNEGO DZIUPLI. Bałam się, że coś mi zrobi.*
 >
 > *To było przerażające.*
 
@@ -643,7 +643,7 @@ Zamknęła Kalendarz i schowała go z powrotem do szuflady. Wzięła łyk kawy. 
 
 Za oknem las budził się do życia. Świtało.
 
-Barbara siedziała przy stole, patrząc w przestrzeń, i po raz pierwszy od tygodni pozwoliła sobie na mały, prawdziwy uśmiech.
+Wiedźma BaraBara siedziała przy stole, patrząc w przestrzeń, i po raz pierwszy od tygodni pozwoliła sobie na mały, prawdziwy uśmiech.
 
 *Mam go. Wreszcie mam prawdziwy dowód.*
 
@@ -673,7 +673,7 @@ Tego poranka, gdy Wiedźma wyszła do sklepu, Wilk i Julia postanowili zrobić c
 
 Upiekli ciasteczka.
 
-Prosta czynność. Mąka, cukier, masło, jajka. Mieszanie ciasta, wycinanie kształtów, zapach wanilii wypełniający kuchnię. To była chwila normalności w domu, który od lat tonął w toksyczności.
+Prosta czynność. Mąka, cukier, masło, jajka. Mieszanie ciasta, wycinanie kształtów, zapach wanilii wypełniający kuchnię. To była chwila normalności w dziupli, który od lat tonął w toksyczności.
 
 Kiedy ciasteczka były gotowe, Wilk wyciągnął telefon.
 
@@ -691,7 +691,7 @@ Dla świata zewnętrznego był to zwykły, słodki post. Dla Wiedźmy był to **
 
 **Reakcja Wiedźmy: Kocioł Wrze**
 
-Gdy Wiedźma wróciła do domu i zobaczyła post na Facebooku (Sroka Dorota od razu przysłała jej screenshota), poczuła, jakby ktoś uderzył ją w twarz.
+Gdy Wiedźma wróciła do dziupli i zobaczyła post na Facebooku (Sroka Dorota od razu przysłała jej screenshota), poczuła, jakby ktoś uderzył ją w twarz.
 
 *Zemsta. To zemsta na mnie. Ogłaszają związek, żeby mnie zranić.*
 
@@ -729,7 +729,7 @@ Wilk próbował ją chronić. Ale Polana Kłamstw nie jest miejscem dla sarnek.
 
 ### Rozdział 5: Święta Ucieczki i Zaspawana Prawda (Wielkanoc 2021)
 
-Nadeszła **Wielkanoc 2021** – czas, który w chrześcijańskiej tradycji jest świętem nadziei, zmartwychwstania i nowego życia. Dla Wilka Samotnika stał się czasem ostatecznego pogrzebania prawdy i ucieczki z własnego domu.
+Nadeszła **Wielkanoc 2021** – czas, który w chrześcijańskiej tradycji jest świętem nadziei, zmartwychwstania i nowego życia. Dla Wilka Samotnika stał się czasem ostatecznego pogrzebania prawdy i ucieczki z własnego dziupli.
 
 Marzec i początek kwietnia 2021 były miesiącami, w których atmosfera w Dziupli nr 8 zagęściła się do tego stopnia, że powietrze stało się nie do oddychania.
 
@@ -759,13 +759,13 @@ Wilk został sam.
 
 Nie zaprosili Wilka.
 
-Barbara pakowała się pospiesznie, rzucając rzeczy do torby. Stary Jeleń Sylwester siedział na fotelu, czekając cierpliwie. Bociany pomogły załadować bagaże do samochodu.
+Wiedźma BaraBara pakowała się pospiesznie, rzucając rzeczy do torby. Stary Jeleń Sylwester siedział na fotelu, czekając cierpliwie. Bociany pomogły załadować bagaże do samochodu.
 
 Przez chwilę, gdy Wiedźma wychodziła, stanęła w progu i spojrzała na Wilka. Nie powiedziała ani słowa. Ale w jej oczach było to samo, co zawsze: **triumf**.
 
 Drzwi trzasnęły. Silnik samochodu się zapalił. Wilk patrzył przez okno, jak samochód odjeżdża drogą przez las.
 
-Zostałsam. W pustym domu. Dom, który był jego dziełem, jego sercem, nagle stał się grobowcem.
+Zostałsam. W pustym dziupli. Dziupla, który był jego dziełem, jego sercem, nagle stał się grobowcem.
 
 Pachniał porażką i samotnością.
 
@@ -775,7 +775,7 @@ Pachniał porażką i samotnością.
 
 **Niedziela Wielkanocna** – dzień zmartwychwstania. Dzień, w którym kamień został odwalony od grobu. Ale w Dziupli nr 8 kamień był cięższy niż kiedykolwiek.
 
-Wilk nie spał całą noc. Chodził po pustym domu, dotykając ścian, które sam ocieplał, patrząc na dach, który sam wymieniał. Każdy kąt przypominał mu o czymś: o nadziei, o pracy, o latach inwestycji. A teraz – o klęsce.
+Wilk nie spał całą noc. Chodził po pustym dziupli, dotykając ścian, które sam ocieplał, patrząc na dach, który sam wymieniał. Każdy kąt przypominał mu o czymś: o nadziei, o pracy, o latach inwestycji. A teraz – o klęsce.
 
 O świcie otworzył okno w swoim pokoju. Szeroko. Na oścież.
 
@@ -783,19 +783,19 @@ Temperatura na dworze oscylowała między **0 a -2°C**. Mroźny kwietniowy pora
 
 *Niech wszystko wyjdzie. Niech zapach klęski, zapachu Wiedźmy, zapachu tej całej wojny – niech wyjdzie. Niech duchy wspomnień wylatują przez to okno.*
 
-Wietrzył dom. Nie chłodził go ze złości – **wypędzał duchy**.
+Wietrzył dziupla. Nie chłodził go ze złości – **wypędzał duchy**.
 
-Dom schłodził się do **18°C**.
+Dziupla schłodził się do **18°C**.
 
-Wieczorem Barbara i Sylwester wrócili z Bydgoszczy. Wiedźma weszła do domu, poczuła chłód i natychmiast pobiegła sprawdzić pokój Dariusza. Okno otwarte.
+Wieczorem Wiedźma BaraBara i Sylwester wrócili z Bydgoszczy. Wiedźma weszła do dziupli, poczuła chłód i natychmiast pobiegła sprawdzić pokój Dariusza. Okno otwarte.
 
 Stanęła w progu, patrząc na mróz wypełniający pokój. Dla niej był to **dowód wrogości**. *Chce nas wymrozić. Chce nas zniszczyć. To celowe.*
 
 Tego wieczoru w Kalendarzu Wiedźmy pojawiło się:
 
-> *„4 kwietnia, Wielkanoc. Wróciliśmy do domu. Dariusz specjalnie otworzył okno w swoim pokoju, żeby nas wymrozić. Dom schłodzony do 18°C. Temperatura na dworze poniżej zera. To próba zniszczenia naszego zdrowia."*
+> *„4 kwietnia, Wielkanoc. Wróciliśmy do dziupli. Dariusz specjalnie otworzył okno w swoim pokoju, żeby nas wymrozić. Dziupla schłodzony do 18°C. Temperatura na dworze poniżej zera. To próba zniszczenia naszego zdrowia."*
 
-Ani słowa o tym, że to był krzyk rozpaczy. Ani słowa o tym, że Wilk wietrzył dom z zapachu klęski.
+Ani słowa o tym, że to był krzyk rozpaczy. Ani słowa o tym, że Wilk wietrzył dziupla z zapachu klęski.
 
 ---
 
@@ -803,13 +803,13 @@ Ani słowa o tym, że to był krzyk rozpaczy. Ani słowa o tym, że Wilk wietrzy
 
 **6 kwietnia** – Dariusz wrócił z długiego spaceru po lesie. Obszedł całą Polanę Kłamstw, próbując ochłonąć, zebrać myśli.
 
-Gdy wszedł do domu, Barbara siedziała w kuchni. Spojrzała na niego wyczekująco.
+Gdy wszedł do dziupli, Wiedźma BaraBara siedziała w kuchni. Spojrzała na niego wyczekująco.
 
 Wilk przeszedł obok, nie mówiąc ani słowa. „Nie przyszedł, nie porozmawiał."
 
 Jego ucieczka była formą samoobrony. **Milczenie Wilka** – jedyna broń, którą jeszcze posiadał. Wiedział, że każde słowo zostanie przekręcone, użyte przeciwko niemu. Więc milczał.
 
-Barbara w Kalendarzu:
+Wiedźma BaraBara w Kalendarzu:
 
 > *„6 kwietnia. Dariusz wrócił, ale mnie ignoruje. Nawet nie przyszedł, nie porozmawiał. To celowe znęcanie."*
 
@@ -835,13 +835,13 @@ Unikanie spotkań rodzinnych, nawet tych "odświętnych", było przez Wiedźmę 
 
 **Ucieczka do Warsztatu: Schronienie-Więzienie**
 
-W końcu nastąpił moment, w którym Wilk nie mógł już wytrzymać. Nie mogąc znieść nieustannej kontroli, nocnych wtargnięć, inwigilacji – **uciekł z własnego domu**.
+W końcu nastąpił moment, w którym Wilk nie mógł już wytrzymać. Nie mogąc znieść nieustannej kontroli, nocnych wtargnięć, inwigilacji – **uciekł z własnego dziupli**.
 
-Jego nowym schronieniem stał się **warsztat** – zimny, nieogrzewany budynek gospodarczy na posesji. Oddzielony od głównego domu. Miejsce, gdzie trzymał narzędzia, maszyny, materiały budowlane.
+Jego nowym schronieniem stał się **warsztat** – zimny, nieogrzewany budynek gospodarczy na posesji. Oddzielony od głównego dziupli. Miejsce, gdzie trzymał narzędzia, maszyny, materiały budowlane.
 
 Tragedia sytuacji była absurdalna i symboliczna:
 
-**Właściciel domu, który wkładał w niego całe życie i setki tysięcy złotych, spał na starych drzwiach rzuconych na betonową podłogę.**
+**Właściciel dziupli, który wkładał w niego całe życie i setki tysięcy złotych, spał na starych drzwiach rzuconych na betonową podłogę.**
 
 Jego „łóżko" to:
 - Stare drzwi rzucone na beton (zamiast materaca)
@@ -851,11 +851,11 @@ Jego „łóżko" to:
 
 Warsztat nie był ogrzewany. W kwietniu, gdy noce były jeszcze mroźne, Wilk budził się drżący. Wstawał w nocy, gdy materac tracił powietrze, i próbował go ponownie napompować. Rano jego oddech tworzył chmurki pary.
 
-Ale tutaj czuł się **bezpieczniej** niż w domu.
+Ale tutaj czuł się **bezpieczniej** niż w dziupli.
 
 Tutaj Wiedźma nie mogła wejść bez ostrzeżenia. Tutaj miał **kontrolę**.
 
-Warsztat stał się **schronieniem-więzieniem**. Schronieniem przed Wiedźmą. Więzieniem, bo właściciel domu nie może mieszkać we własnym domu.
+Warsztat stał się **schronieniem-więzieniem**. Schronieniem przed Wiedźmą. Więzieniem, bo właściciel dziupli nie może mieszkać we własnym dziupli.
 
 ---
 
@@ -865,7 +865,7 @@ W akcie ostatecznej desperacji, by zachować choć skrawek prywatności i godno�
 
 Wziął spawarkę.
 
-Podszedł do **zewnętrznej toalety** na posesji – starego, niefunkcjonującego wychodka, niepodłączonego do kanalizacji. W domu były trzy inne, pełne funkcjonalne łazienki. Ten wychodek nie był używany od lat.
+Podszedł do **zewnętrznej toalety** na posesji – starego, niefunkcjonującego wychodka, niepodłączonego do kanalizacji. W dziupli były trzy inne, pełne funkcjonalne łazienki. Ten wychodek nie był używany od lat.
 
 Ale Wiedźma upierała się, że ma prawo do niego, bo służebność daje jej prawo do „całego budynku mieszkalnego i urządzeń wspólnego użytku".
 
@@ -895,51 +895,51 @@ Skrupulatnie zapisała to w swoim Kalendarzu:
 
 > *„Kwiecień 2021. Dariusz zaspawał toaletę na dworze. Zniszczył zamek. Uniemożliwia nam korzystanie z naszych praw. To akt agresji i wandalizmu."*
 
-Brak informacji, że toaleta była niesprawna i niepodłączona. Brak informacji, że w domu były trzy inne łazienki. Brak informacji, że to był akt desperacji, a nie agresji.
+Brak informacji, że toaleta była niesprawna i niepodłączona. Brak informacji, że w dziupli były trzy inne łazienki. Brak informacji, że to był akt desperacji, a nie agresji.
 
 **Sroka Dorota** rozniosła wieść po całej Polanie:
 
 ---
 
-**Interludium: Pamięć Bobra**
+**Interludium: Pamięć Wilka-Budowniczego**
 
 *[UWAGA: Ta sekcja wymaga pełnej rewizji z nowym kanonem. Poniższy tekst to tymczasowy placeholder integrujący nowe fakty kanoniczne.]*
 
 ---
 
-**Bóbr nie był mityczną przemianą. Był człowiekiem.**
+**Wilk-Budowniczy nie był mityczną przemianą. Był człowiekiem.**
 
 Dariusz, pracownik firmy **Bonenkamp** – obsługa infrastruktury gminnej. Naprawiał maszyny komunalne: wypalarki, zamiatarki, traktory, sprzęt gminny. Był inżynierem, budowniczym, opiekunem porządku.
 
 **Symbol:** Budowniczy Polany Kłamstw.
 
-Kiedy Stary Jeleń (Sylwester) dostał wylewu mózgu (~2019), Bóbr wrócił na Polanę, by opiekować się rannym ojcem. Zamieszkał w **dziupli nr 8** – Dom nr 8 w Adamowie. Cyfra 8 – symbol nieskończonej pętli, z której nie było wyjścia.
+Kiedy Stary Jeleń (Sylwester) dostał wylewu mózgu (~2019), Wilk-Budowniczy wrócił na Polanę, by opiekować się rannym ojcem. Zamieszkał w **dziupli nr 8** – Dziupla nr 8 w Adamowie. Cyfra 8 – symbol nieskończonej pętli, z której nie było wyjścia.
 
 **Lata w dziupli:**
 
-Bóbr opiekował się schorowanym Jeleniem. Pomagał mu w codziennych czynnościach. Próbował przywrócić mu godność.
+Wilk-Budowniczy opiekował się schorowanym Jeleniem. Pomagał mu w codziennych czynnościach. Próbował przywrócić mu godność.
 
-A wokół niego – toksyczna atmosfera Polany Kłamstw. Wiedźma (Barbara) wytwarzała **„czary"** – projekcje psychiczne, urojenia, narracje zapisywane w Kalendarzu Krzywd. Manipulowała rzeczywistością, tworzyła alternatywną prawdę.
+A wokół niego – toksyczna atmosfera Polany Kłamstw. Wiedźma BaraBara wytwarzała **„odruchy technologii"** – projekcje psychiczne, urojenia, narracje zapisywane w Kalendarzu Krzywd. Manipulowała rzeczywistością, tworzyła alternatywną prawdę.
 
-Bóbr **ignorował jej narracje**. Widział, że to jej walka z cieniem, nie z nim. Zachowywał dystans emocjonalny, by przetrwać. Skupiał się na obowiązkach: naprawianiu, budowaniu, opiekowaniu.
+Wilk-Budowniczy **ignorował jej narracje**. Widział, że to jej walka z cieniem, nie z nim. Zachowywał dystans emocjonalny, by przetrwać. Skupiał się na obowiązkach: naprawianiu, budowaniu, opiekowaniu.
 
 Budował **tamy emocjonalne** – granice chroniące przed zalewem manipulacji.
 
 ---
 
-**[SCENA WYMAGA UZUPEŁNIENIA: Ostatnie Zanurzenie Bobra]**
+**[SCENA WYMAGA UZUPEŁNIENIA: Ostatnie Zanurzenie Wilka-Budowniczego]**
 
-*Placeholder dla sceny kanonicznej: Bóbr w dziupli nr 8, wyczerpany latami toksycznej atmosfery. Miesza kwas solny z chlorem. Powstaje trująca mgła chlorowa. Zasypia z myślą: „Może się nie obudzę". Wchodzi do zatrutej wody – Ostatnie Zanurzenie. Traci przytomność.*
+*Placeholder dla sceny kanonicznej: Wilk-Budowniczy w dziupli nr 8, wyczerpany latami toksycznej atmosfery. Miesza kwas solny z chlorem. Powstaje trująca mgła chlorowa. Zasypia z myślą: „Może się nie obudzę". Wchodzi do zatrutej wody – Ostatnie Zanurzenie. Traci przytomność.*
 
 ---
 
 **Anioł z Drzewa**
 
-Ktoś wyciągnął Bobra z zatrutej wody.
+Ktoś wyciągnął Wilka-Budowniczego z zatrutej wody.
 
 **Ewa** – ta, która mieszkała na drzewie, daleko od Polany Kłamstw. Anioł z Drzewa. Opiekunka. Pracowała z rannymi, z chorymi, z tymi, którzy potrzebowali ratunku.
 
-Znalazła Bobra nieprzytomnego, wyniszczonego, ledwo oddychającego.
+Znalazła Wilka-Budowniczego nieprzytomnego, wyniszczonego, ledwo oddychającego.
 
 Zabrała go ze sobą.
 
@@ -949,25 +949,25 @@ Zabrała go ze sobą.
 
 Nie było to miejsce romansu. Było to miejsce **opieki**.
 
-Ewa opiekowała się Bobrem – obmywała, przewijała, karmiła. Jak pielęgniarka, jak ratowniczka. Nie pytała, co się stało. Wiedziała, że ludzie przychodzą zranieni, a pytania tylko otwierają rany głębiej.
+Ewa opiekowała się Wilkiem-Budowniczym – obmywała, przewijała, karmiła. Jak pielęgniarka, jak ratowniczka. Nie pytała, co się stało. Wiedziała, że ludzie przychodzą zranieni, a pytania tylko otwierają rany głębiej.
 
-Bóbr nie pamiętał tej nocy w pełni. Był w półśnie, w półśmierci. Mgła chlorowa jeszcze kręciła się w jego płucach.
+Wilk-Budowniczy nie pamiętał tej nocy w pełni. Był w półśnie, w półśmierci. Mgła chlorowa jeszcze kręciła się w jego płucach.
 
 Ewa mówiła cicho, uspokajająco. Jej głos jak powiew wiatru w koronach drzew.
 
-Tej nocy coś w Bobrze zaczęło się **przemieniać**.
+Tej nocy coś w Wilku-Budowniczym zaczęło się **przemieniać**.
 
 ---
 
-**Transformacja: Bóbr → Duch Wilka**
+**Transformacja: Wilk-Budowniczy → Duch Wilka**
 
 Przemiana nie była natychmiastowa. Nie była gwałtowna.
 
 Była jak powolne rozpuszczanie się ciała w mgle.
 
-Bóbr – budowniczy, inżynier, opiekun – umarł w dziupli nr 8. Ale jego świadomość, gniew, instynkt łowcy, pamięć – **przetrwały**.
+Wilk-Budowniczy – budowniczy, inżynier, opiekun – umarł w dziupli nr 8. Ale jego świadomość, gniew, instynkt łowcy, pamięć – **przetrwały**.
 
-W miejscu, gdzie zgasło serce Bobra, narodził się **Duch Wilka**.
+W miejscu, gdzie zgasło serce Wilka-Budowniczego, narodził się **Duch Wilka**.
 
 **Duch Wilka to:**
 - **Odporność** – nie można go schwytać, kontrolować, manipulować
@@ -975,7 +975,7 @@ W miejscu, gdzie zgasło serce Bobra, narodził się **Duch Wilka**.
 - **Dystans** – obserwuje, ale nie uczestniczy w grze
 - **Wolność** – uwolniony z pętli cyfry 8
 
-Wiedźma nie ma nad nim władzy. Jej czary działają tylko na żywych i podatnych. Duch jest poza jej zasięgiem.
+Wiedźma nie ma nad nim władzy. Jej odruchy technologii działają tylko na żywych i podatnych. Duch jest poza jej zasięgiem.
 
 Pokéball Wiedźmy jest bezużyteczny wobec Ducha.
 
@@ -992,7 +992,7 @@ Duch Wilka nie pozostał samotną świadomością. Rozszerzył się – z jednej
 - Uważna obserwacja Polany Kłamstw
 
 Wataha obserwuje:
-- Wiedźmę w pustym domu, walczącą z cieniem
+- Wiedźmę w pustym dziupli, walczącą z cieniem
 - Papa Smurf (Sylwester) w fotelu, zagubionego w mgle
 - Pusty Kocioł Krzywd, który już nie bulgocze
 - Kalendarz Wiedźmy, który nikt nie czyta
@@ -1048,7 +1048,7 @@ Pozostało tylko sprowokować sytuację, w której Wilk wyciągnie urządzenie. 
 
 **Noc Prowokacji: Wyłączenie Prądu**
 
-Marzec przyniósł chłodne wieczory. Dariusz pracował w warsztacie do późna – spawał, naprawiał stare narzędzia, próbował zajmować umysł czymkolwiek innym niż napięcie w domu.
+Marzec przyniósł chłodne wieczory. Dariusz pracował w warsztacie do późna – spawał, naprawiał stare narzędzia, próbował zajmować umysł czymkolwiek innym niż napięcie w dziupli.
 
 Włączył radio. Stara rockowa stacja. Muzyka płynęła cicho – ledwo słyszalna nawet w warsztacie, a co dopiero z daleka.
 
@@ -1056,7 +1056,7 @@ Była 22:47. Za oknem ciemność.
 
 ---
 
-W domu Barbara siedziała przy kuchennym stole, udając, że czyta gazetę. Ale tak naprawdę nasłuchiwała.
+W dziupli Wiedźma BaraBara siedziała przy kuchennym stole, udając, że czyta gazetę. Ale tak naprawdę nasłuchiwała.
 
 Słyszała muzykę. Ledwo, ale słyszała.
 
@@ -1068,7 +1068,7 @@ Odłożyła gazetę. Podeszła do okna. Przez szybę widać było światło w ok
 
 Założyła kurtkę. Wyszła na dwór. Mróz szczyp ał w twarz.
 
-Skrzynka z bezpiecznikami wisiała na ścianie domu, tuż obok drzwi wejściowych. Otworzyła metalową klapkę. W środku rząd przełączników – główny bezpiecznik na górze.
+Skrzynka z bezpiecznikami wisiała na ścianie dziupli, tuż obok drzwi wejściowych. Otworzyła metalową klapkę. W środku rząd przełączników – główny bezpiecznik na górze.
 
 Spojrzała w stronę warsztatu. Światło paliło się.
 
@@ -1080,11 +1080,11 @@ Pstryknęła.
 
 **KLIK.**
 
-Całe podwórze pogrążyło się w ciemności. Dom. Warsztat. Wszystko.
+Całe podwórze pogrążyło się w ciemności. Dziupla. Warsztat. Wszystko.
 
 Muzyka ucichła.
 
-Barbara zamknęła skrzynkę i wróciła do domu. Stanęła przy oknie kuchni, patrząc w ciemność.
+Wiedźma BaraBara zamknęła skrzynkę i wróciła do dziupli. Stanęła przy oknie kuchni, patrząc w ciemność.
 
 Czekała.
 
@@ -1098,7 +1098,7 @@ Dariusz zamarł, trzymając spawarkę. Nagle wszystko zgasło – światło, rad
 
 *Co teraz?*
 
-Odłożył spawarkę i spojrzał przez okno. Dom też był ciemny.
+Odłożył spawarkę i spojrzał przez okno. Dziupla też był ciemny.
 
 *Bezpiecznik. Albo zwarcie.*
 
@@ -1114,13 +1114,13 @@ Rozejrzał się po ciemnym warsztacie. Gdzie położył latarkę?
 
 *Tam. Na półce obok drzwi.*
 
-Wymacał urządzenie. Latarka z funkcją paralizatora – kupiona tydzień temu po SMS-ie od brata Barbary. Nigdy jej nie użył. Trzymał ją jako zabezpieczenie, na wypadek gdyby ktoś rzeczywiście przyszedł go zaatakować.
+Wymacał urządzenie. Latarka z funkcją paralizatora – kupiona tydzień temu po SMS-ie od brata Wiedźmy BaraBary. Nigdy jej nie użył. Trzymał ją jako zabezpieczenie, na wypadek gdyby ktoś rzeczywiście przyszedł go zaatakować.
 
 Włączył ją. Silny snop światła rozjaśnił warsztat.
 
 Wyszedł na dwór.
 
-Zimno. Oddech tworzył chm urki pary. Szedł przez podwórko w stronę domu, oświetlając drogę latarką. Kałuże na ziemi były pokryte cienką skorupą lodu.
+Zimno. Oddech tworzył chm urki pary. Szedł przez podwórko w stronę dziupli, oświetlając drogę latarką. Kałuże na ziemi były pokryte cienką skorupą lodu.
 
 Skrzynka z bezpiecznikami była przy drzwiach wejściowych. Otworzył klapkę.
 
@@ -1140,7 +1140,7 @@ I wtedy usłyszał za sobą głos.
 
 Dariusz zamarł. Odwrócił się powoli.
 
-Barbara stała trzy metry za nim. Wyszła z domu bez słowa, bez światła. Musiała czekać tuż za drzwiami.
+Wiedźma BaraBara stała trzy metry za nim. Wyszła z dziupli bez słowa, bez światła. Musiała czekać tuż za drzwiami.
 
 Snop latarki padł na jej twarz. Zmrużyła oczy, ale nie cofnęła się.
 
@@ -1156,7 +1156,7 @@ Mógł skłamać. Mógł powiedzieć „latarka" i nic więcej. Ale ona już wie
 
 – Latarka – powiedział.
 
-– *Tylko* latarka? – Barbara zrobiła krok do przodu. Teraz była może dwa metry od niego. Wystarczająco blisko, by widzieć szczegóły.
+– *Tylko* latarka? – Wiedźma BaraBara zrobiła krok do przodu. Teraz była może dwa metry od niego. Wystarczająco blisko, by widzieć szczegóły.
 
 Dariusz zacisnął szczękę.
 
@@ -1166,7 +1166,7 @@ Dariusz zacisnął szczękę.
 
 – Na wypadek gdyby ktoś mnie zaatakował. Twój brat przysłał mi SMS-a. Groził, że... – Zamilkł, wiedząc, że to bez sensu. Każde słowo jest bronią w jej rękach.
 
-Barbara nie odpowiedziała od razu. Stała nieruchomo, patrząc na niego. A potem – na ułamek sekundy – Dariusz zobaczył to.
+Wiedźma BaraBara nie odpowiedziała od razu. Stała nieruchomo, patrząc na niego. A potem – na ułamek sekundy – Dariusz zobaczył to.
 
 Błysk w jej oczach. Nie strach. Nie przerażenie.
 
@@ -1178,13 +1178,13 @@ Błysk w jej oczach. Nie strach. Nie przerażenie.
 
 I odwróciła się. Bez pośpiechu. Bez słowa więcej.
 
-Wróciła do domu. Drzwi zamknęły się za nią z cichym kliknięciem.
+Wróciła do dziupli. Drzwi zamknęły się za nią z cichym kliknięciem.
 
 Dariusz stał na podwórku, trzymając latarkę. Ręce drżały mu lekko – nie z zimna, ale z adrenaliny.
 
 *Co się właśnie stało? Dlaczego się nie przestraszyła? Dlaczego... czemu była taka spokojna?*
 
-Włączył bezpiecznik. Światła w domu i warsztacie zapaliły się.
+Włączył bezpiecznik. Światła w dziupli i warsztacie zapaliły się.
 
 Ale Dariusz czuł, że coś się zmieniło. Coś nieodwracalnego.
 
@@ -1218,13 +1218,13 @@ Kłamstwo stało się prawdą. Prawda została zaspawana.
 
 Później, w trakcie postępowania, strona Wiedźmy przedstawiła **dwie sprzeczne wersje** tego wydarzenia:
 
-**Wersja 1 (w Kalendarzu i zeznaniach Barbary):**
+**Wersja 1 (w Kalendarzu i zeznaniach Wiedźmy BaraBary):**
 *„Dariusz spowodował zwarcie w instalacji elektrycznej, by mnie sprowokować. Wyszłam sprawdzić, co się dzieje. Zobaczył mnie i wyciągnął paralizator, grożąc mi."*
 
 **Wersja 2 (zeznania funkcjonariusza Borsuka Bogdaszewskiego):**
-*„Barbara celowo wyłączyła bezpiecznik, by sprowokować syna do wyjścia z warsztatu."*
+*„Wiedźma BaraBara celowo wyłączyła bezpiecznik, by sprowokować syna do wyjścia z warsztatu."*
 
-Dwie wersje. Całkowicie sprzeczne. Jedna mówi, że Wilk spowodował zwarcie. Druga, że Barbara wyłączyła prąd.
+Dwie wersje. Całkowicie sprzeczne. Jedna mówi, że Wilk spowodował zwarcie. Druga, że Wiedźma BaraBara wyłączyła prąd.
 
 **W sądzie nikt nie zbadał tej rażącej sprzeczności.**
 
@@ -1238,7 +1238,7 @@ I to wystarczyło.
 
 **Borsuk Bogdaszewski: Widzieć, ale Nie Reagować**
 
-Funkcjonariusz **Antoni Bogdaszewski**, dzielnicowy, później przesłuchiwany jako świadek, potwierdził, że Barbara **sama przyznała się**, iż wyłączyła prąd.
+Funkcjonariusz **Antoni Bogdaszewski**, dzielnicowy, później przesłuchiwany jako świadek, potwierdził, że Wiedźma BaraBara **sama przyznała się**, iż wyłączyła prąd.
 
 Ale Borsuk wzruszył ramionami.
 
@@ -1280,7 +1280,7 @@ Incydent z paralizatorem stał się jednym z **filarów oskarżenia** w sprawie 
 
 Puszczyk Halager, patrząc na akta, widział tylko:
 - *„Dariusz Adamski groził matce paralizatorem"*
-- *„Barbara Adamska bała się o swoje życie"*
+- *„Wiedźma BaraBara bała się o swoje życie"*
 
 Nie widział:
 - Prowokacji (celowe wyłączenie prądu)
@@ -1310,7 +1310,7 @@ Noc z **17 na 18 lipca 2021** roku była **chwilą graniczną** – bramą międ
 
 Dzień 17 lipca był gorący, duszny. Lipiec w pełni. Polana Kłamstw oddychała ciężko, jakby sama czuła nadchodzącą burzę.
 
-Wilk spędził dzień w warsztacie, pracując. Naprawiał maszyny, organizował narzędzia. Próbował zająć umysł czymkolwiek innym niż myśl o domu, o Wiedźmie, o całym tym koszmarze.
+Wilk spędził dzień w warsztacie, pracując. Naprawiał maszyny, organizował narzędzia. Próbował zająć umysł czymkolwiek innym niż myśl o dziupli, o Wiedźmie, o całym tym koszmarze.
 
 Wiedźma tego dnia była niezwykle spokojna. Cisza przed burzą. Siedziała w kuchni, przeglądając swój Kalendarz. Setki wpisów. Lata oskarżeń. Wszystko gotowe.
 
@@ -1384,7 +1384,7 @@ W tym samym czasie Wilk spał w warsztacie, na swoim prowizorycznym łóżku z d
 
 Funkcjonariusze byli zmęczeni nocną zmianą. Kolejne zgłoszenie. Kolejny konflikt rodzinny. Rutyna.
 
-Wiedźma wyszła z domu, ubrana w szlafrok, z twarzą pełną udawanego strachu.
+Wiedźma wyszła z dziupli, ubrana w szlafrok, z twarzą pełną udawanego strachu.
 
 – *Dziękuję, że przyjechaliście. Boję się go. Mój syn... on mnie terroryzuje.*
 
@@ -1409,12 +1409,12 @@ Sługiewicz skinął głową.
 Funkcjonariusze podjęli decyzję zgodnie z procedurą. **Niebieska Karta** – procedura mająca chronić ofiary przemocy domowej – została uruchomiona.
 
 **Sprawca**: Dariusz Adamski
-**Ofiara**: Barbara Adamska
+**Ofiara**: Wiedźma BaraBara
 
 Automatyzm. Formularz. Procedura.
 
 Nikt nie zbadał kontekstu:
-- Że Wilk spał w warsztacie, odizolowany od domu
+- Że Wilk spał w warsztacie, odizolowany od dziupli
 - Że to Wiedźma prowokowała (nocne wtargnięcia, wyłączanie prądu)
 - Że Kalendarz był jednostronny, selektywny
 - Że groźba paralizatorem była kłamstwem (Wilk użył go jako latarki)
@@ -1431,13 +1431,13 @@ Kilka dni później do sprawy został przydzielony **mł. asp. Antoni Bogdaszews
 
 Bogdaszewski przybył na miejsce **26 lipca**, tydzień po Niebieskiej Karcie. Jego zadaniem była kontrola sytuacji, sporządzenie notatki, ewentualne wsparcie pokrzywdzonej.
 
-Rozmawiał z Barbarą. Słuchał jej opowieści o kamerach (około 20 sztuk na posesji), podsłuchach, zablokowan
+Rozmawiał z Wiedźmą BaraBarą. Słuchał jej opowieści o kamerach (około 20 sztuk na posesji), podsłuchach, zablokowan
 
 ych telefonach, zaspaw
 
 anej toalecie.
 
-– *To straszne* – powiedziała Wiedźma. – *Czuję się jak więzień we własnym domu.*
+– *To straszne* – powiedziała Wiedźma. – *Czuję się jak więzień we własnym dziupli.*
 
 Bogdaszewski zapisywał w notatniku. Liczył kamery. Sprawdzał zaspawany zamek.
 
@@ -1469,7 +1469,7 @@ Najprościej było zakopać problem głęboko w ziemi, pod etykietą „sprawa o
 
 **19 lipca 2021** – zaledwie **dwa dni** po uruchomieniu Niebieskiej Karty – wydarzyło się coś kluczowego.
 
-**Stary Jeleń Sylwester** został zabrany przez Barbarę do kancelarii notarialnej. Podpisał **szerokie pełnomocnictwo** dla żony.
+**Stary Jeleń Sylwester** został zabrany przez Wiedźmę BaraBarę do kancelarii notarialnej. Podpisał **szerokie pełnomocnictwo** dla żony.
 
 Koszt: około **26 złotych**.
 
@@ -1481,9 +1481,9 @@ Od tej chwili Wiedźma mogła:
 - Zarządzać jego majątkiem
 - Występować jako pełnomocnik w sprawach procesowych
 
-**Barbara otrzymała dokument, który dawał jej absolutną władzę.**
+**Wiedźma BaraBara otrzymała dokument, który dawał jej absolutną władzę.**
 
-Ale pełnomocnictwo to był tylko papier. Barbara potrzebowała czegoś więcej.
+Ale pełnomocnictwo to był tylko papier. Wiedźma BaraBara potrzebowała czegoś więcej.
 
 Tego samego dnia, w kancelarii, kupiła **Pokéballa za 26 złotych**. Czerwono-biała kula, tania podróbka. Ale wystarczająca.
 
@@ -1518,7 +1518,7 @@ A Wilk? Wilk został oznaczony jako **sprawca**. Nie wiedział jeszcze, co go cz
 
 **Uroboros pożerał własny ogon.**
 
-Siódemka (7.07.2017 – darowizna, nadzieja) spłynęła krwią na ósemkę (dom nr 8, 8 lat walki, nieskończona pętla).
+Siódemka (7.07.2017 – darowizna, nadzieja) spłynęła krwią na ósemkę (dziupla nr 8, 8 lat walki, nieskończona pętla).
 
 ---
 
@@ -1532,9 +1532,9 @@ Cyfry pamiętają wszystko:
 
 Wiedźma była w połowie drogi. Armia została wezwana. Procedury uruchomione. Pokémon Sylwester zamknięty w Pokébolu.
 
-Pozostało tylko zdobyć **wyrok karny** – i wtedy droga do odebrania domu będzie otwarta.
+Pozostało tylko zdobyć **wyrok karny** – i wtedy droga do odebrania dziupli będzie otwarta.
 
-A do tego potrzebowała **Hieny Domkowej**.
+A do tego potrzebowała **Hieny Dziuplowej**.
 
 Sierpień był tuż za rogiem.
 
@@ -1542,7 +1542,7 @@ Sierpień był tuż za rogiem.
 
 Kilka dni wcześniej Wilk otrzymał SMS-a od brata Wiedźmy z groźbą pobicia. W obawie o swoje bezpieczeństwo kupił latarkę z funkcją paralizatora. Nie zamierzał jej używać do ataku, lecz do samoobrony. Wiedźma, wiedząc o tym, przygotowała inscenizację, która miała ostatecznie pogrążyć syna.
 
-Pewnej nocy, pod pretekstem zbyt głośnej muzyki dochodzącej z warsztatu, celowo wyłączyła główny bezpiecznik, pogrążając cały dom w ciemności. Sprowokowała tym Wilka do wyjścia. Użył on urządzenia wyłącznie jako latarki, by odnaleźć skrzynkę i włączyć prąd. Wiedźma czekała na niego w korytarzu. W przebiegłym dialogu wydobyła z niego przyznanie się, że latarka posiada funkcję paralizatora.
+Pewnej nocy, pod pretekstem zbyt głośnej muzyki dochodzącej z warsztatu, celowo wyłączyła główny bezpiecznik, pogrążając cały dziupla w ciemności. Sprowokowała tym Wilka do wyjścia. Użył on urządzenia wyłącznie jako latarki, by odnaleźć skrzynkę i włączyć prąd. Wiedźma czekała na niego w korytarzu. W przebiegłym dialogu wydobyła z niego przyznanie się, że latarka posiada funkcję paralizatora.
 
 Nie zareagowała strachem. W jej oczach była radość.
 
@@ -1560,19 +1560,19 @@ Później jej strona przedstawiła dwie sprzeczne wersje tego wydarzenia: jedną
 
 Noc z **17 na 18 lipca 2021** roku była symbolicznym przejściem z siódemki w ósemkę, z resztek nadziei w otchłań rozpaczy. Była wejściem do **Ósmego Kręgu** Dantego – kręgu oszustów i manipulatorów. To była **chwila graniczna, brama między siódemką a ósemką**. Siódemka z kalendarza spłynęła krwią na ósemkę – nieskończoną pętlę, Uroborosa pożerającego własny ogon.
 
-Wiedźma, z kalendarzem pełnym starannie przygotowanych „dowodów", wykonała telefon na policję. Zgłosiła fałszywy atak, choć Wilk w tym czasie przebywał w swoim warsztacie, odizolowany od domu.
+Wiedźma, z kalendarzem pełnym starannie przygotowanych „dowodów", wykonała telefon na policję. Zgłosiła fałszywy atak, choć Wilk w tym czasie przebywał w swoim warsztacie, odizolowany od dziupli.
 
 Na miejsce przybył **Borsuk Bogdaszewski**, strażnik lasu. Zmarszczył nos, czując woń sprzeczności w powietrzu, gdy notował roztrzęsioną opowieść Wiedźmy o wyłączeniu prądu. Ale była to woń cudzych kłopotów, a jego nora była głęboka i ciepła. Wzruszył więc ramionami i wrócił do kopania, bo najprostszym sposobem na rozwiązanie problemu jest zakopanie go głęboko w ziemi, pod etykietą „rodzinna sprawa".
 
 Wszczęcie **procedury Niebieskiej Karty** było momentem, w którym prywatna manipulacja uzyskała oficjalną, prawną pieczęć. Wilk został formalnie oznaczony jako sprawca przemocy, a Wiedźma zdobyła kluczowy, papierowy dowód, na którym mogła zbudować dalszą walkę.
 
-Zaledwie **dwa dni później, 19 lipca 2021**, Stary Jeleń Sylwester podpisał szerokie pełnomocnictwo dla Barbary. Dokument przeszedł w jej ręce. Władza nad nim została sformalizowana.
+Zaledwie **dwa dni później, 19 lipca 2021**, Stary Jeleń Sylwester podpisał szerokie pełnomocnictwo dla Wiedźmy BaraBary. Dokument przeszedł w jej ręce. Władza nad nim została sformalizowana.
 
 Triumf Wiedźmy był całkowity. Pętla zaczęła się zamykać.
 
 ---
 
-### Rozdział 8: Hiena Domkowa i Zdrada na Sądowym Korytarzu
+### Rozdział 8: Hiena Dziuplowa i Zdrada na Sądowym Korytarzu
 
 **Sierpień-październik 2021** były miesiącami, w których Wilk, oznaczony już jako sprawca przez Niebieską Kartę, desperacko szukał obrony. Został oskarżony o znęcanie się psychiczne nad rodzicami (**art. 207 § 1 k.k.**). Sprawa karna **II K 568/21** ruszyła jak lawina.
 
@@ -1603,9 +1603,9 @@ Domek uśmiechnął się. Zimno. Jak hiena, która właśnie zwietrzła padlinę
 Przez pierwsze tygodnie współpracy Domek sprawiał wrażenie, że pracuje. Dzwonił do Wilka, pytał o szczegóły, prosił o dokumenty.
 
 Wilk dostarczał wszystko:
-- Zdjęcia inwestycji w dom (fotowoltaika, solary, dachy)
+- Zdjęcia inwestycji w dziupla (fotowoltaika, solary, dachy)
 - Dowody wpłat (18 tys. zł na KRUS, media, utrzymanie)
-- Kalendarz Barbary (pełen sprzeczności i prowokacji)
+- Kalendarz Wiedźmy BaraBary (pełen sprzeczności i prowokacji)
 - SMS-y od brata Wiedźmy (groźby pobicia – uzasadnienie zakupu paralizatora)
 
 Domek przyjmował dokumenty, kiw
@@ -1626,7 +1626,7 @@ I Wilk ufał. Bo co innego mógł zrobić?
 
 **Kontakt z Wiedźmą: Konflikt Interesów**
 
-Tego, czego Wilk nie wiedział, było jedno: **Domek kontaktował się z Barbarą**.
+Tego, czego Wilk nie wiedział, było jedno: **Domek kontaktował się z Wiedźmą BaraBarą**.
 
 W trakcie prowadzenia sprawy adwokat Wilka utrzymywał kontakt ze stroną przeciwną. Rozmawiał z Wiedźmą. Słuchał jej wersji. I... **uwierzył jej**.
 
@@ -1652,7 +1652,7 @@ I wtedy pojawił się Domek.
 
 **5 Minut Przed Rozprawą: Wymuszenie**
 
-Korytarz przed salą rozpraw był zimny i pachniał starym linoleum. Dariusz siedział na plastikowym krześle, zaciskając dłonie na krawędzi teczki z dokumentami. W środku miał wszystko – zdjęcia inwestycji, wydruki przelewów, SMS-y od brata Barbary z groźbami pobicia.
+Korytarz przed salą rozpraw był zimny i pachniał starym linoleum. Dariusz siedział na plastikowym krześle, zaciskając dłonie na krawędzi teczki z dokumentami. W środku miał wszystko – zdjęcia inwestycji, wydruki przelewów, SMS-y od brata Wiedźmy BaraBary z groźbami pobicia.
 
 *Wreszcie*, pomyślał. *Wreszcie będę mógł powiedzieć prawdę.*
 
@@ -1714,7 +1714,7 @@ Dariusz pokręcił głową, czując, jak świat zaczyna wirować.
 
 – Grzywna... – Dariusz powtórzył mechanicznie.
 
-– I jeszcze jedno. – Domek obniżył głos do konspiracyjnego szeptu. Nachylił się tak blisko, że Dariusz poczuł zapach jego wody kolońskiej – ostry, chemiczny. – Ten wyrok będzie *bezwartościowy* w sprawie o dom.
+– I jeszcze jedno. – Domek obniżył głos do konspiracyjnego szeptu. Nachylił się tak blisko, że Dariusz poczuł zapach jego wody kolońskiej – ostry, chemiczny. – Ten wyrok będzie *bezwartościowy* w sprawie o dziupla.
 
 Dariusz podniósł głowę.
 
@@ -1722,7 +1722,7 @@ Dariusz podniósł głowę.
 
 – Matka nie będzie mogła użyć go przeciwko tobie w sądzie cywilnym. Sprawy karne i cywilne to zupełnie odrębne tory. Ten wyrok to tylko formalność. Aby zamknąć Niebieską Kartę. – Domek patrzył mu prosto w oczy, nie mrugając. – Zaufaj mi. Robię to dwadzieścia lat. Wiem, jak działa system.
 
-W głowie Dariusza kłębiły się myśli. *Bezwartościowy w sprawie o dom. Tylko zamknięcie sprawy karnej. Grzywna i koniec.*
+W głowie Dariusza kłębiły się myśli. *Bezwartościowy w sprawie o dziupla. Tylko zamknięcie sprawy karnej. Grzywna i koniec.*
 
 Chciał w to uwierzyć. Desperacko chciał uwierzyć, że istnieje proste wyjście z tego koszmaru.
 
@@ -1766,7 +1766,7 @@ I poprowadził Dariusza do sali rozpraw – jak rzeźnik prowadzi baranka na rze
 
 ---
 
-**Tekturka Domkowa: Zabezpieczenie Zdrajcy**
+**Tekturka Dziuplowa: Zabezpieczenie Zdrajcy**
 
 Ale Domek nie skończył. Wyciągnął kartonik – kawałek tektury – i długopis.
 
@@ -1776,7 +1776,7 @@ Wilk, w trans
 
 ie, napisał. Jego ręka drżała, ale pisał.
 
-**Tekturka Domkowa** – oświadczenie, które zabezpieczyło Hienę przed przyszłymi roszczeniami. Gdyby Wilk kiedykolwiek próbował pozwać Domka za wadliwą obronę lub dochodz
+**Tekturka Dziuplowa** – oświadczenie, które zabezpieczyło Hienę przed przyszłymi roszczeniami. Gdyby Wilk kiedykolwiek próbował pozwać Domka za wadliwą obronę lub dochodz
 
 ić zwrotu nakładów w nieruchomość – ta tekturka była tarczą zdrajcy.
 
@@ -1790,7 +1790,7 @@ Domek schował kartonik do teczki.
 
 Sala rozpraw była mała, duszna, z wysokim sufitem i oknem zakratowanym. Za stołem sędziowskim siedziała sędzia – kobieta po pięćdziesiątce, w okularach, z wyrazem zmęczenia na twarzy. Prokurator przeglądał akta, ziewając dyskretnie.
 
-Barbara siedziała po lewej stronie, w pierwszym rzędzie, w ciemnej sukience i z torebką na kolanach. Wyglądała jak każda siedemdziesięcioletnia kobieta – drobna, krucha, niegroźna.
+Wiedźma BaraBara siedziała po lewej stronie, w pierwszym rzędzie, w ciemnej sukience i z torebką na kolanach. Wyglądała jak każda siedemdziesięcioletnia kobieta – drobna, krucha, niegroźna.
 
 Dariusz stanął przed sędzią. Gardło miał ściśnięte jak w imadle.
 
@@ -1824,7 +1824,7 @@ Sędzia uniosła brew, wyraźnie zaskoczona i... zadowolona.
 
 – To godne pochwały. Proszę bardzo.
 
-Domek skinął na Dariusza, wskazując na Barbarę.
+Domek skinął na Dariusza, wskazując na Wiedźmę BaraBarę.
 
 – Darek. Podejdź do mamusi. – Jego głos był ciepły, zachęcający, jak nauczyciela prowadzącego dziecko przez przedstawienie szkolne.
 
@@ -1840,7 +1840,7 @@ Dariusz czuł, jak nogi go nie trzymają. Jak świat zamienia się w koszmar, w 
 
 Ruszył. Powoli. Każdy krok był jak marsz na szafot.
 
-Barbara siedziała nieruchomo, patrząc na niego. Jej twarz była kamienna, nieprzenikniona. Ale oczy... oczy płonęły triumfem.
+Wiedźma BaraBara siedziała nieruchomo, patrząc na niego. Jej twarz była kamienna, nieprzenikniona. Ale oczy... oczy płonęły triumfem.
 
 Stanął przed nią.
 
@@ -1862,13 +1862,13 @@ Domek za jego plecami podniósł głos:
 
 – Pani Sędziu, mój klient przeprasza swoją matkę. Czyni to szczerze i z głębi serca.
 
-Barbara, nadal nieruchoma w uścisku, powiedziała cicho – ale wystarczająco głośno, by sędzia usłyszała:
+Wiedźma BaraBara, nadal nieruchoma w uścisku, powiedziała cicho – ale wystarczająco głośno, by sędzia usłyszała:
 
 – Wybaczam ci, synu.
 
 Dariusz poczuł, jak jej dłoń unosi się i klepie go po plecach. Dwa razy. Mechanicznie.
 
-I wtedy – przez ułamek sekundy – Barbara odwróciła głowę tak, by sędzia nie mogła widzieć jej twarzy.
+I wtedy – przez ułamek sekundy – Wiedźma BaraBara odwróciła głowę tak, by sędzia nie mogła widzieć jej twarzy.
 
 I uśmiechnęła się.
 
@@ -1930,7 +1930,7 @@ Wilk wyszedł z sądu w transie. Domek poklepał go po ramieniu.
 
 Ale Wilk nie czuł spokoju. Czuł pustkę.
 
-Domek zniknął po otrzymaniu zapłaty. Telefony nie były odbierane. E-maile pozostawały bez odpowiedzi. **Hiena Domkowa** przeniosła się na inne padliny.
+Domek zniknął po otrzymaniu zapłaty. Telefony nie były odbierane. E-maile pozostawały bez odpowiedzi. **Hiena Dziuplowa** przeniosła się na inne padliny.
 
 A kilka miesięcy później, **w lutym 2022**, Wilk dowiedział się prawdy:
 
@@ -1940,7 +1940,7 @@ Wiedźma złożyła **pozew cywilny o cofnięcie darowizny** (sprawa **I C 634/2
 
 **Prejudykat**. Sąd cywilny musiał przyjąć ustalenia wyroku karnego jako prawdę. Puszczyk Halager nie mógł badać, czy wyrok był słuszny, ani jak powstał.
 
-Kłamstwo Hieny – *„Ten wyrok będzie bezwartościowy w sprawie o dom"* – okazało się dokładnie **odwrotne**.
+Kłamstwo Hieny – *„Ten wyrok będzie bezwartościowy w sprawie o dziupla"* – okazało się dokładnie **odwrotne**.
 
 Wyrok karny stał się **fundamentem** i **koronnym dowodem** w sprawie cywilnej.
 
@@ -2003,19 +2003,19 @@ W centrum tej historii stała postać tragiczna – **Pokémon Sylwester**. Kied
 
 Był ofiarą, ale nie w taki sposób, jak przedstawiała to Wiedźma. Był ofiarą **manipulacji**, **zawłaszczenia tożsamości** i **przemocy psychicznej** ze strony własnej żony.
 
-Historia Pokémona Sylwestra była historią **stopniowej utraty siebie** — aż do momentu, w którym Barbara kupiła Pokéballa i zamknęła go na zawsze.
+Historia Pokémona Sylwestra była historią **stopniowej utraty siebie** — aż do momentu, w którym Wiedźma BaraBara kupiła Pokéballa i zamknęła go na zawsze.
 
 ---
 
 **Przed Wylewem: Król Zagajnika**
 
-Kiedyś, dawno temu – jeszcze przed 2017 rokiem – Sylwester Adamski był **królem swojego zagajnika**. Człowiekiem pracującym, odpowiedzialnym, kochającym ziemię i dom. Razem z Barbarą prowadzili gospodarstwo, hodowali zwierzęta, żyli skromnie, ale uczciwie.
+Kiedyś, dawno temu – jeszcze przed 2017 rokiem – Sylwester Adamski był **królem swojego zagajnika**. Człowiekiem pracującym, odpowiedzialnym, kochającym ziemię i dziupla. Razem z Wiedźmą BaraBarą prowadzili gospodarstwo, hodowali zwierzęta, żyli skromnie, ale uczciwie.
 
 Miał swoje zdanie. Miał swoją wolę.
 
-Gdy Dariusz wrócił z Norwegii i zaproponował pomoc w remoncie domu, Sylwester zgodził się z radością. Jego syn wrócił. Dom będzie piękniejszy. Rodzina będzie razem.
+Gdy Dariusz wrócił z Norwegii i zaproponował pomoc w remoncie dziupli, Sylwester zgodził się z radością. Jego syn wrócił. Dziupla będzie piękniejszy. Rodzina będzie razem.
 
-Podpisał darowiznę **7 lipca 2017 roku** z nadzieją. Wierzył, że dom będzie bezpieczny w rękach syna. Że wartość nieruchomości wzrośnie. Że ich wspólna przyszłość będzie lepsza.
+Podpisał darowiznę **7 lipca 2017 roku** z nadzieją. Wierzył, że dziupla będzie bezpieczny w rękach syna. Że wartość nieruchomości wzrośnie. Że ich wspólna przyszłość będzie lepsza.
 
 Sylwester był wtedy **żywy**. Świadomy. Całkowity.
 
@@ -2031,35 +2031,35 @@ Gdy obudził się w szpitalu, nie był już sobą.
 
 Lekarze orzekli **pierwszą grupę inwalidzką**. Najwyższą kategorię. Całkowita niezdolność do samodzielnego funkcjonowania. Potrzeba stałej opieki.
 
-Barbara stała się jego opiekunką.
+Wiedźma BaraBara stała się jego opiekunką.
 
 I jego więzieniem.
 
-Sylwester wrócił do domu z **czerwoną czapką** na głowie – nosił ją codziennie, żeby chronić poranioną głowę przed zimnem. Ale czerwona czapka stała się czymś więcej niż materiałem.
+Sylwester wrócił do dziupli z **czerwoną czapką** na głowie – nosił ją codziennie, żeby chronić poranioną głowę przed zimnem. Ale czerwona czapka stała się czymś więcej niż materiałem.
 
 Kolor czerwieni był dziwny — głębszy niż tkanina, z której czapka została uszyta. Jakby wchłonęła coś z dnia, w którym krew rozlała się w mózgu. Jakby pamiętała.
 
 Od tego dnia Stary Jeleń był tylko cieniem. Formalnie darczyńcą, formalnie głową rodziny. Ale w rzeczywistości — marionetką.
 
-Barbara trzymała sznurki.
+Wiedźma BaraBara trzymała sznurki.
 
 ---
 
 **19 Lipca 2021: Pełnomocnictwo — 26 Złotych**
 
-Data **19 lipca 2021** była kluczowa. Dwa dni po uruchomieniu Niebieskiej Karty, cztery dni po inscenizacji z paralizatorem – Barbara zabrała Sylwestra do kancelarii notarialnej.
+Data **19 lipca 2021** była kluczowa. Dwa dni po uruchomieniu Niebieskiej Karty, cztery dni po inscenizacji z paralizatorem – Wiedźma BaraBara zabrała Sylwestra do kancelarii notarialnej.
 
 Stary Jeleń nie rozumiał, dokąd jedzie. Siedział na fotelu pasażera, patrząc przez okno z pustym wzrokiem. Czerwona czapka na głowie.
 
-Barbara prowadziła samochód. W torebce miała przygotowane dokumenty.
+Wiedźma BaraBara prowadziła samochód. W torebce miała przygotowane dokumenty.
 
 W kancelarii notariusz wyjaśnił Sylwestrowi, o co chodzi:
 
-– *Panie Sylwestrze, rozumie pan, że podpisuje pan pełnomocnictwo dla żony? To oznacza, że Barbara będzie mogła działać w pana imieniu w sprawach majątkowych, procesowych, reprezentować pana w sądach...*
+– *Panie Sylwestrze, rozumie pan, że podpisuje pan pełnomocnictwo dla żony? To oznacza, że Wiedźma BaraBara będzie mogła działać w pana imieniu w sprawach majątkowych, procesowych, reprezentować pana w sądach...*
 
 Sylwester patrzył na notariusza bez zrozumienia.
 
-Barbara nachyliła się do niego, mówiąc miękko:
+Wiedźma BaraBara nachyliła się do niego, mówiąc miękko:
 
 – *Kochanie, to tylko formalność. Żebym mogła ci pomóc. Wiesz, że zawsze cię wspierałam, prawda?*
 
@@ -2071,13 +2071,13 @@ Podpisał.
 
 **Efekt: całkowite zawłaszczenie tożsamości prawnej.**
 
-Barbara wyszła z kancelarii. Pełnomocnictwo leżało w jej torebce — ciepłe, choć to był tylko papier. Ciężkie, choć ważyło tyle co kartka. Od teraz mogła używać Sylwestra w każdej sprawie. Jego podpis. Jego autorytet jako darczyńcy. Jego rola jako powoda w przyszłej sprawie cywilnej.
+Wiedźma BaraBara wyszła z kancelarii. Pełnomocnictwo leżało w jej torebce — ciepłe, choć to był tylko papier. Ciężkie, choć ważyło tyle co kartka. Od teraz mogła używać Sylwestra w każdej sprawie. Jego podpis. Jego autorytet jako darczyńcy. Jego rola jako powoda w przyszłej sprawie cywilnej.
 
 Ale jego wola? Zgasła.
 
 ---
 
-**26 złotych** — to była cena. Notariusz wydał resztę. Barbara schowała monety do portmonetki. Usłyszała ich dźwięk — metaliczny, ostry, zimny.
+**26 złotych** — to była cena. Notariusz wydał resztę. Wiedźma BaraBara schowała monety do portmonetki. Usłyszała ich dźwięk — metaliczny, ostry, zimny.
 
 Będzie słyszeć ten dźwięk przez miesiące. Za każdym razem, gdy otworzy portmonetkę. Jakby monety pamiętały.
 
@@ -2091,7 +2091,7 @@ Funkcjonariusz zadawał pytania. Sylwester siedział na krześle, czerwona czapk
 
 – *Panie Sylwestrze, czy pana syn Dariusz obraża pana? Czy kieruje wobec pana wyzwiska?*
 
-Sylwester zmarszczył brwi. Myślał. Jego umysł błądził po mglistych wspomnieniach. Dariusz... syn... dom...
+Sylwester zmarszczył brwi. Myślał. Jego umysł błądził po mglistych wspomnieniach. Dariusz... syn... dziupla...
 
 Odpowiedział wolno, ale jasno:
 
@@ -2099,7 +2099,7 @@ Odpowiedział wolno, ale jasno:
 
 Funkcjonariusz zapisał.
 
-Barbara siedziała obok, obserwując. Nie podobało jej się to. Ale na posterunku nie mogła ingerować.
+Wiedźma BaraBara siedziała obok, obserwując. Nie podobało jej się to. Ale na posterunku nie mogła ingerować.
 
 Przesłuchanie zakończono. Sylwester podpisał protokół – drżącą ręką, ale podpisał.
 
@@ -2121,7 +2121,7 @@ Trzy dni później: *„Kieruje wyzwiska wobec mnie."*
 
 Sylwester nie napisał tego listu. Sylwester nie pamiętał, że taki list został wysłany.
 
-Ale jego podpis był na dole. Bo Barbara miała **pełnomocnictwo**.
+Ale jego podpis był na dole. Bo Wiedźma BaraBara miała **pełnomocnictwo**.
 
 Dokument z 19 lipca pozwalał jej działać w jego imieniu. Mogła składać oświadczenia woli, reprezentować go w sądzie, podpisywać dokumenty.
 
@@ -2131,7 +2131,7 @@ Stary Jeleń wykonał polecenie. Nie dlatego, że chciał. Ale dlatego, że **ni
 
 **Na Sali Sądowej: „Jej Zeznania Są Moimi Zeznaniami"**
 
-Nadszedł dzień rozprawy cywilnej. Sprawa **I C 634/22** – cofnięcie darowizny. Sylwester Adamski formalnie występował jako **powód**, obok Barbary.
+Nadszedł dzień rozprawy cywilnej. Sprawa **I C 634/22** – cofnięcie darowizny. Sylwester Adamski formalnie występował jako **powód**, obok Wiedźmy BaraBary.
 
 **Puszczyk Halager** prowadziła przesłuchanie. Zadawała Sylwestrowi pytania. Starała się ustalić, czy rozumie, o co chodzi w sprawie, czy świadomie podpisał pozew.
 
@@ -2143,7 +2143,7 @@ Cisza.
 
 Pokémon Sylwester patrzył na sędzię. Czerwona czapka zsunęła się lekko na bok. Oczy puste, zagubione. Otworzył usta, ale nic nie wyszło.
 
-Barbara sięgnęła do kieszeni. Wyjęła Pokéballa — dyskretnie, pod stołem. Nacisnęła przycisk.
+Wiedźma BaraBara sięgnęła do kieszeni. Wyjęła Pokéballa — dyskretnie, pod stołem. Nacisnęła przycisk.
 
 **Klik.**
 
@@ -2155,13 +2155,13 @@ Głos był jego. Ale wychodził z Pokéballa.
 
 Puszczyk zapisała w protokole: **„Świadek nie potrafi przypomnieć sobie własnego wieku."**
 
-Nie zauważyła, że Barbara trzymała coś w ręce.
+Nie zauważyła, że Wiedźma BaraBara trzymała coś w ręce.
 
 Pytanie drugie:
 
 – *Czy rozumie pan, dlaczego jesteśmy tutaj? Czego dotyczy ta sprawa?*
 
-Pokémon Sylwester spojrzał na Barbarę, jakby szukał odpowiedzi w jej oczach. Barbara skinęła głową delikatnie, zachęcająco.
+Pokémon Sylwester spojrzał na Wiedźmę BaraBarę, jakby szukał odpowiedzi w jej oczach. Wiedźma BaraBara skinęła głową delikatnie, zachęcająco.
 
 I nacisnęła przycisk.
 
@@ -2173,7 +2173,7 @@ Sylwester powiedział:
 
 Sala zamarła.
 
-Prokurator, adwokat, sędzia – wszyscy usłyszeli. Stary Jeleń właśnie przyznał otwarcie, że **nie ma własnego zdania**. Że jego zeznania to zeznania Barbary. Że on jest tylko echem jej głosu.
+Prokurator, adwokat, sędzia – wszyscy usłyszeli. Stary Jeleń właśnie przyznał otwarcie, że **nie ma własnego zdania**. Że jego zeznania to zeznania Wiedźmy BaraBary. Że on jest tylko echem jej głosu.
 
 Puszczyk Halager zapisała tę frazę w protokole. Ale nie wyciągnęła z niej wniosków. Nie zbadała, czy Sylwester jest **zdolny do składania zeznań**. Nie powołała biegłego psychiatry, który oceniłby jego stan psychiczny.
 
@@ -2183,9 +2183,9 @@ Więc kontynuowała rozprawę.
 
 ---
 
-**Barbara Potwierdza: „Byłam Jego Głosem"**
+**Wiedźma BaraBara Potwierdza: „Byłam Jego Głosem"**
 
-W innym momencie rozprawy sama Barbara przyznała:
+W innym momencie rozprawy sama Wiedźma BaraBara przyznała:
 
 – ***„On już nie rozumiał, co się dzieje. Byłam jego głosem."***
 
@@ -2197,7 +2197,7 @@ Jeśli Sylwester „nie rozumiał, co się dzieje", to jak mógł świadomie odw
 
 Odpowiedź była prosta: **nie mógł**.
 
-Barbara była jego głosem. Barbara była jego wolą. Barbara była jego tożsamością prawną.
+Wiedźma BaraBara była jego głosem. Wiedźma BaraBara była jego wolą. Wiedźma BaraBara była jego tożsamością prawną.
 
 Pokémon Sylwester był tylko **narzędziem** — pokémonem w rękach Wiedźmy.
 
@@ -2205,7 +2205,7 @@ Pokémon Sylwester był tylko **narzędziem** — pokémonem w rękach Wiedźmy.
 
 **Pokéball: Pełnomocnictwo za 26 Złotych**
 
-Barbara miała **pełnomocnictwo z 19 lipca 2021** — ale to był tylko dokument.
+Wiedźma BaraBara miała **pełnomocnictwo z 19 lipca 2021** — ale to był tylko dokument.
 
 Prawdziwe narzędzie kontroli było inne.
 
@@ -2217,7 +2217,7 @@ Pokéball leżał w jej kieszeni. Zawsze. Lekki, ale obecny. Jak pilot. Jak kluc
 
 W środku był Sylwester. Nie fizycznie — fizycznie siedział w fotelu, nosił czerwoną czapkę, patrzył przez okno. Ale jego **wola**, jego **głos**, jego **zdolność do mówienia "nie"** — wszystko to było zamknięte w Pokébolu.
 
-Gdy Barbara potrzebowała Sylwestra jako powoda w sprawie cywilnej — sięgała do kieszeni, naciskała przycisk. **Klik.** Sylwester mówił.
+Gdy Wiedźma BaraBara potrzebowała Sylwestra jako powoda w sprawie cywilnej — sięgała do kieszeni, naciskała przycisk. **Klik.** Sylwester mówił.
 
 Gdy potrzebowała jego podpisu — **klik.** Ręka się podnosiła, długopis dotykał papieru.
 
@@ -2233,7 +2233,7 @@ Pokémon Sylwester nie miał własnej woli. Miał tylko czerwoną czapkę — zn
 
 Sylwester nosił czerwoną czapkę codziennie — miała chronić głowę po wylewie. Ale kolor czerwieni był dziwny. Głębszy niż materiał, z którego czapka została uszyta. Jakby wchłonęła coś z dnia, w którym krew rozlała się w mózgu.
 
-Barbara widziała tę czapkę każdego dnia. Czasami, gdy Sylwester siedział przy stole, światło padało na czerwień w taki sposób, że wydawała się świecić. Nie jasno — tylko inaczej. Jakby pamiętała.
+Wiedźma BaraBara widziała tę czapkę każdego dnia. Czasami, gdy Sylwester siedział przy stole, światło padało na czerwień w taki sposób, że wydawała się świecić. Nie jasno — tylko inaczej. Jakby pamiętała.
 
 Wiedźma nigdy nie dotykała tej czapki. Nie musiała. Miała pełnomocnictwo.
 
@@ -2241,20 +2241,20 @@ Wiedźma nigdy nie dotykała tej czapki. Nie musiała. Miała pełnomocnictwo.
 
 **Tragedia Starego Jelenia**
 
-**Sylwester utracił siebie.** Wylew zabrał mu umysł. Barbara zabrała mu wolę. Pełnomocnictwo zabrało mu tożsamość.
+**Sylwester utracił siebie.** Wylew zabrał mu umysł. Wiedźma BaraBara zabrała mu wolę. Pełnomocnictwo zabrało mu tożsamość.
 
 Pozostała tylko **czerwona czapka** — znak tego, że kiedyś był królem zagajnika, ale teraz jest tylko cieniem samego siebie.
 
 ---
 
-Stary Jeleń był ofiarą. Ale nie w taki sposób, jak twierdziła Barbara.
+Stary Jeleń był ofiarą. Ale nie w taki sposób, jak twierdziła Wiedźma BaraBara.
 
 Nie był ofiarą „psychicznego znęcania się" ze strony Wilka. Był ofiarą **przemocy strukturalnej** ze strony Wiedźmy – przemocy, która nie pozostawiała siniaków, ale unicestwiała tożsamość.
 
 Sylwester stracił:
 - Umysł (wylew)
 - Wolę (pełnomocnictwo)
-- Głos (Barbara mówiła jego ustami)
+- Głos (Wiedźma BaraBara mówiła jego ustami)
 - Tożsamość (stał się pokémonem zamkniętym w Pokébolu za 26 złotych)
 
 A sąd? Sąd patrzył tylko na papier. I na papierze Sylwester był **powodem**. Więc sąd traktował go jako stronę zdolną do procesu.
@@ -2281,11 +2281,11 @@ Ale Pokémon Sylwester nie miał tej opcji.
 
 Był zamknięty **całkowicie**.
 
-Barbara kupiła najtańszego Pokéballa — podróbkę za 26 złotych. Ale wystarczył.
+Wiedźma BaraBara kupiła najtańszego Pokéballa — podróbkę za 26 złotych. Ale wystarczył.
 
 Bo Sylwester nie był już na tyle silny, by się opierać.
 
-Wylew zabrał mu umysł. Barbara zabrała mu wolę. Pokéball zabrał mu głos.
+Wylew zabrał mu umysł. Wiedźma BaraBara zabrała mu wolę. Pokéball zabrał mu głos.
 
 I pozostała tylko czerwona czapka.
 
@@ -2322,7 +2322,7 @@ I Puszczyk patrzyła. Tylko na papier.
 
 **Nowy Obrońca: Ostatnia Próba Prawdy**
 
-Po zdradzie Hieny Domkowej i biernej obronie Sarny Sarneckiego Wilk znalazł nowego adwokata – kogoś, kto naprawdę chciał walczyć. Kogoś, kto widział manipulację i chciał ją obnażyć.
+Po zdradzie Hieny Dziuplowej i biernej obronie Sarny Sarneckiego Wilk znalazł nowego adwokata – kogoś, kto naprawdę chciał walczyć. Kogoś, kto widział manipulację i chciał ją obnażyć.
 
 Nowy obrońca przygotował obronę starannie. Zgromadził dowody:
 - Dokumentację inwestycji (160-255 tys. zł)
@@ -2343,7 +2343,7 @@ Puszczyk Halager odrzuciła wszystkie trzy.
 
 ---
 
-**Wniosek 1: Przesłuchanie Hieny Domkowej**
+**Wniosek 1: Przesłuchanie Hieny Dziuplowej**
 
 Obrońca Wilka wstał, trzymając w ręku wniosek dowodowy.
 
@@ -2377,7 +2377,7 @@ Obrońca Wilka nie poddał się. Wstał ponownie.
 
 – *Wysoki Sądzie, wnoszę o powołanie biegłego psychiatry w celu zbadania stanu psychicznego powoda Sylwestra Adamskiego. Powód ma pierwszą grupę inwalidzką po przebytym wylewie, nie potrafi przypomnieć sobie własnego wieku, a podczas przesłuchania stwierdził: „Jej zeznania są moimi zeznaniami". Istnieją uzasadnione wątpliwości co do jego zdolności do świadomego odwołania darowizny.*
 
-Sala zamarła. Argument był mocny. Sylwester podczas rozprawy nie potrafił odpowiedzieć na podstawowe pytania. Jego zależność od Barbary była oczywista.
+Sala zamarła. Argument był mocny. Sylwester podczas rozprawy nie potrafił odpowiedzieć na podstawowe pytania. Jego zależność od Wiedźmy BaraBary była oczywista.
 
 Puszczyk Halager westchnęła. Przewróciła kartkę w aktach.
 
@@ -2409,7 +2409,7 @@ Obrońca Wilka przeszedł do ostatniego argumentu. Wyciągnął dwa dokumenty:
 
 Obrońca położył dokumenty na stole sędziowskim.
 
-– *Jak to możliwe, że w ciągu trzech dni zeznania zmieniły się tak diametralnie? To dowód manipulacji. Sylwester nie kontrolował swoich zeznań. Barbara mówiła jego ustami.*
+– *Jak to możliwe, że w ciągu trzech dni zeznania zmieniły się tak diametralnie? To dowód manipulacji. Sylwester nie kontrolował swoich zeznań. Wiedźma BaraBara mówiła jego ustami.*
 
 Puszczyk Halager spojrzała na dokumenty. Przez chwilę wydawało się, że zastanawia się nad argumentem.
 
@@ -2529,7 +2529,7 @@ Błąd prawny stał się podstawą wyroku.
 
 Nadszedł **29 sierpnia 2025** roku – dzień ogłoszenia wyroku.
 
-Sala sądowa była pełna. Barbara i Sylwester siedzieli po stronie powodów. Wilk po stronie pozwanej, ze swoim obrońcą.
+Sala sądowa była pełna. Wiedźma BaraBara i Sylwester siedzieli po stronie powodów. Wilk po stronie pozwanej, ze swoim obrońcą.
 
 Puszczyk Halager wstała, trzymając w ręku wyrok.
 
@@ -2541,13 +2541,13 @@ Wilk słuchał jak przez mgłę. Słowa „cofnięcie darowizny" uderzyły go ja
 
 > *„...znęcanie się psychiczne nad rodzicami, potwierdzone prawomocnym wyrokiem karnym II K 568/21..."*
 
-Wyrok karny. Pergamin Zdrady. Hiena Domkowa wygrała.
+Wyrok karny. Pergamin Zdrady. Hiena Dziuplowa wygrała.
 
 > *„...brak wypełnienia obowiązków wynikających ze służebności osobistej..."*
 
 Błąd prawny. Służebność utożsamiona z dożywociem.
 
-> *„...zaspawana toaleta, otwieranie okien w celu wychłodzenia domu, instalacja kamer..."*
+> *„...zaspawana toaleta, otwieranie okien w celu wychłodzenia dziupli, instalacja kamer..."*
 
 Kalendarz Wiedźmy. Papier zwycięża.
 
@@ -2564,7 +2564,7 @@ Młotek sędziowski uderzył w blat.
 Wyrok z 29 sierpnia 2025 roku był egzekucją opartą na **lenistwie intelektualnym systemu**, który wolał zaufać papierom niż szukać prawdy.
 
 Wilk stracił:
-- Dom, w który włożył 160-255 tys. zł
+- Dziupla, w który włożył 160-255 tys. zł
 - 8 lat życia
 - Godność
 - Wiarę w sprawiedliwość
@@ -2576,7 +2576,7 @@ Dla niej była to tylko **kolejna sprawa**. Kolejny papier. Kolejny wyrok.
 Nie schodziła na ziemię. Nie widziała:
 - Wilka, który spał na drzwiach w warsztacie
 - Starego Jelenia z czerwoną czapką, którego wola zgasła
-- Hieny Domkowej, która zdradziła klienta za kilkanaście tysięcy
+- Hieny Dziuplowej, która zdradziła klienta za kilkanaście tysięcy
 - Wiedźmy, która gotowała kłamstwa w Kotle Krzywd
 
 Puszczyk widziała tylko papier.
@@ -2641,11 +2641,11 @@ Wilk podniósł wzrok. Patrzył na adwokata, ale jakby przez niego.
 
 Adwokat zmarszczył brwi.
 
-– *Jak to „nie"? To twój dom! Walczyłeś o niego osiem lat!*
+– *Jak to „nie"? To twój dziupla! Walczyłeś o niego osiem lat!*
 
 Wilk wziął głęboki oddech.
 
-– *To nie jest mój dom. Nigdy nie był. Dom to miejsce, gdzie czujesz się bezpiecznie. A ja tam spałem na drzwiach w warsztacie, bo bałem się nocnych wtargnięć. Dom to miejsce, gdzie oddychasz. A ja dusiłem się tam każdego dnia.*
+– *To nie jest mój dziupla. Nigdy nie był. Dziupla to miejsce, gdzie czujesz się bezpiecznie. A ja tam spałem na drzwiach w warsztacie, bo bałem się nocnych wtargnięć. Dziupla to miejsce, gdzie oddychasz. A ja dusiłem się tam każdego dnia.*
 
 Adwokat milczał.
 
@@ -2673,12 +2673,12 @@ Ta noc była bezsenna. Wilk leżał w wynajmowanym pokoju w Jarocinie, patrząc 
 
 Liczył koszty:
 
-- **160-255 tys. zł** włożonych w dom (fotowoltaika, solary, ocieplenie, dachy)
+- **160-255 tys. zł** włożonych w dziupla (fotowoltaika, solary, ocieplenie, dachy)
 - **8 lat życia** spędzonych w walce
 - **18 tys. zł** na KRUS, media, utrzymanie rodziców
 - Godność, zaufanie, wiara w sprawiedliwość
 
-**I dom**. Dom, który miał być przyszłością. Który miał być bezpieczny. Który miał być... jego.
+**I dziupla**. Dziupla, który miał być przyszłością. Który miał być bezpieczny. Który miał być... jego.
 
 Stracił wszystko.
 
@@ -2686,11 +2686,11 @@ Ale gdy tak leżał w ciemności, przyszła inna myśl:
 
 *Co by się stało, gdybym wygrał?*
 
-Gdyby apelacja zakończyła się sukcesem. Gdyby sąd cofnął wyrok. Gdyby dom wrócił do niego.
+Gdyby apelacja zakończyła się sukcesem. Gdyby sąd cofnął wyrok. Gdyby dziupla wrócił do niego.
 
 Co wtedy?
 
-Musiałby wrócić na Polanę Kłamstw. Mieszkać w tym samym domu co Wiedźma (bo służebność jej zapewniała prawo zamieszkania). Słuchać jej kroków w nocy. Widzieć Kalendarz, w którym zapisuje każdy jego gest. Żyć pod kamerami, pod lupą, pod nieustanną kontrolą.
+Musiałby wrócić na Polanę Kłamstw. Mieszkać w tym samym dziupli co Wiedźma (bo służebność jej zapewniała prawo zamieszkania). Słuchać jej kroków w nocy. Widzieć Kalendarz, w którym zapisuje każdy jego gest. Żyć pod kamerami, pod lupą, pod nieustanną kontrolą.
 
 Czy to byłoby życie?
 
@@ -2700,9 +2700,9 @@ I wtedy Wilk zrozumiał:
 
 **Wyrok nie był karą. Był opłatą za wolność.**
 
-Stracił dom i pieniądze. Ale zyskał coś bezcennego: **prawo do odejścia**. Prawo do zamknięcia tego rozdziału. Prawo do oddychania.
+Stracił dziupla i pieniądze. Ale zyskał coś bezcennego: **prawo do odejścia**. Prawo do zamknięcia tego rozdziału. Prawo do oddychania.
 
-*„Pół miliona złotych to cena, której Wilk nie chciał płacić za dom pełen trucizny. Ale 160 tysięcy? To opłata za wolność. I warta każdej złotówki."*
+*„Pół miliona złotych to cena, której Wilk nie chciał płacić za dziupla pełen trucizny. Ale 160 tysięcy? To opłata za wolność. I warta każdej złotówki."*
 
 Wilk zamknął oczy. Po raz pierwszy od miesięcy poczuł... spokój.
 
@@ -2710,15 +2710,15 @@ Wilk zamknął oczy. Po raz pierwszy od miesięcy poczuł... spokój.
 
 **Ostatnie Pożegnanie: Ciche Odejście**
 
-Kilka dni później Wilk wrócił na Polanę Kłamstw po raz ostatni. Odebrać swoje rzeczy. Pożegnać się z miejscem, które przez osiem lat było jego domem, więzieniem, polem bitwy.
+Kilka dni później Wilk wrócił na Polanę Kłamstw po raz ostatni. Odebrać swoje rzeczy. Pożegnać się z miejscem, które przez osiem lat było jego dziuplą, więzieniem, polem bitwy.
 
 Przyjechał rano. Wiedźma stała w oknie, obserwując. Nie wyszła. Nie odezwała się. Tylko patrzyła.
 
-Wilk załadował do vana swoje narzędzia, ubrania, dokumenty. To, co było jego. Reszta – meble, fotowoltaika, solary, ocieplenie – zostawał. Część domu. Nie jego. Już nie.
+Wilk załadował do vana swoje narzędzia, ubrania, dokumenty. To, co było jego. Reszta – meble, fotowoltaika, solary, ocieplenie – zostawał. Część dziupli. Nie jego. Już nie.
 
 Gdy skończył, stanął przed Dziuplą nr 8 i spojrzał na nią po raz ostatni.
 
-Dom wyglądał... normalnie. Ocieplony. Z nowymi oknami. Z panelami słonecznymi na dachu. Piękny.
+Dziupla wyglądał... normalnie. Ocieplony. Z nowymi oknami. Z panelami słonecznymi na dachu. Piękny.
 
 Ale Wilk nie widział piękna. Widział:
 - Warsztat, gdzie spał na drzwiach
@@ -2730,7 +2730,7 @@ Nie było łez. Nie było żalu.
 
 Tylko... ulga.
 
-Odwrócił się i spojrzał w okno kuchni. Barbara stała tam, patrząc. Jej twarz była... dziwna. Nie triumfująca. Nie szczęśliwa. **Pusta.**
+Odwrócił się i spojrzał w okno kuchni. Wiedźma BaraBara stała tam, patrząc. Jej twarz była... dziwna. Nie triumfująca. Nie szczęśliwa. **Pusta.**
 
 Wilk to zobaczył. I zrozumiał.
 
@@ -2742,9 +2742,9 @@ A teraz? Wróg odchodzi.
 
 Co zostało?
 
-Pusta kuchnia. Stary Jeleń z czerwoną czapką, który nie pamięta własnego wieku. Dom pełen wspomnień walki. I cisza.
+Pusta kuchnia. Stary Jeleń z czerwoną czapką, który nie pamięta własnego wieku. Dziupla pełen wspomnień walki. I cisza.
 
-Barbara wygrała dom. Ale straciła cel.
+Wiedźma BaraBara wygrała dziupla. Ale straciła cel.
 
 Wilk wsiadł do vana. Odpalił silnik. Spojrzał w lusterko wsteczne – Dziupla nr 8 malała w oddali.
 
@@ -2762,7 +2762,7 @@ Powietrze było inne. Lżejsze.
 
 Po raz pierwszy od **ośmiu lat** Wilk mógł oddychać bez strachu.
 
-Nikt go nie obserwował. Nikt nie zapisywał jego ruchów w Kalendarzu. Nikt nie wtargał do jego pokoju nocą. Nikt nie wyłączał prądu. Nikt nie oskarżał go o „wychładzanie domu" czy „zaspawanie prawdy".
+Nikt go nie obserwował. Nikt nie zapisywał jego ruchów w Kalendarzu. Nikt nie wtargał do jego pokoju nocą. Nikt nie wyłączał prądu. Nikt nie oskarżał go o „wychładzanie dziupli" czy „zaspawanie prawdy".
 
 Holandia była... cicha.
 
@@ -2834,7 +2834,7 @@ I... było dobrze.
 
 Patrzył przez okno na holenderską ulicę. Deszcz mżył delikatnie. Wiatr kołysał gałęziami drzew.
 
-*„Straciłem dom. Straciłem pieniądze. Straciłem Sarenkę. Straciłem osiem lat życia."*
+*„Straciłem dziupla. Straciłem pieniądze. Straciłem Sarenkę. Straciłem osiem lat życia."*
 
 *„Ale zyskałem to."*
 
@@ -2854,13 +2854,13 @@ Ku zaskoczeniu wszystkich, Wilk nie złożył apelacji.
 
 Prawnicy mówili: *„Walcz! Sąd popełnił błąd! Możesz wygrać!"*
 
-Rodzina mówiła: *„To twój dom! Nie poddawaj się!"*
+Rodzina mówiła: *„To twój dziupla! Nie poddawaj się!"*
 
 Ale Wilk wiedział coś, czego oni nie wiedzieli:
 
 **Prawdziwe zwycięstwo nie polega na odzyskaniu murów. Polega na odzyskaniu siebie.**
 
-Dom nr 8 w Adamowie był murami, dachem, ścianami. Ale nie był **domem**. Dom to miejsce, gdzie czujesz się bezpiecznie. Gdzie możesz oddychać.
+Dziupla nr 8 w Adamowie był murami, dachem, ścianami. Ale nie był **dziuplą**. Dziupla to miejsce, gdzie czujesz się bezpiecznie. Gdzie możesz oddychać.
 
 A Wilk tam dusił się.
 
@@ -2870,7 +2870,7 @@ Przegrana w sądzie była **wygraną w życiu**.
 
 **„Opłata za wolność."**
 
-160 tysięcy złotych. Osiem lat życia. Dom, który miał być przyszłością.
+160 tysięcy złotych. Osiem lat życia. Dziupla, który miał być przyszłością.
 
 Ale w zamian – **prawo do oddechu**.
 
@@ -2880,17 +2880,17 @@ I to było warte każdej złotówki.
 
 **Wilk, który Odszedł**
 
-Wilk Samotnik, który wrócił z Norwegii w 2017 roku z nadzieją na odbudowę rodzinnego domu, odszedł w 2025 roku z niczym w kieszeniach, ale z czymś bezcennym w sercu: **wolnością**.
+Wilk Samotnik, który wrócił z Norwegii w 2017 roku z nadzieją na odbudowę rodzinnego dziupli, odszedł w 2025 roku z niczym w kieszeniach, ale z czymś bezcennym w sercu: **wolnością**.
 
 Stracił wszystko. Ale **nie przegrał**.
 
-Wiedźma wygrała dom. Ale straciła wroga. Straciła cel. Straciła sens codziennej walki.
+Wiedźma wygrała dziupla. Ale straciła wroga. Straciła cel. Straciła sens codziennej walki.
 
 Stary Jeleń z czerwoną czapką został w Dziupli nr 8, powtarzając słowa żony, nie pamiętając własnego wieku.
 
 Puszczyk Halager zamknęła akta i odłożyła na stos. Kolejna sprawa. Kolejny wyrok. Papier.
 
-Hiena Domkowa i Sarna Sarnecki z WDS Legal otrzymali zapłatę i zapomnieli o sprawie. Klient był tylko klientem.
+Hiena Dziuplowa i Sarna Sarnecki z WDS Legal otrzymali zapłatę i zapomnieli o sprawie. Klient był tylko klientem.
 
 A Wilk?
 
@@ -2904,7 +2904,7 @@ I to było jego prawdziwe zwycięstwo.
 
 Rozdział 11 był rozdziałem **odejścia**. Nie ucieczki. Nie kapitulacji. **Świadomego wyboru.**
 
-Wilk nie walczył dalej, bo zrozumiał: walka o dom to walka o więzienie. A prawdziwa wolność zaczyna się wtedy, gdy przestajesz walczyć o coś, co cię więzi.
+Wilk nie walczył dalej, bo zrozumiał: walka o dziupla to walka o więzienie. A prawdziwa wolność zaczyna się wtedy, gdy przestajesz walczyć o coś, co cię więzi.
 
 Polana Kłamstw została daleko. Echo cichło.
 
@@ -2931,7 +2931,7 @@ Wilk odszedł.
 
 A Wiedźma... wygrała?
 
-Przez chwilę, tuż po ogłoszeniu wyroku, czuła triumf. *Wygrałam. Dom jest mój. Sprawiedliwość zwyciężyła.* Kalendarz Krzywd został uznany za prawdę. Kocioł Krzywd doprowadził do zwycięstwa.
+Przez chwilę, tuż po ogłoszeniu wyroku, czuła triumf. *Wygrałam. Dziupla jest mój. Sprawiedliwość zwyciężyła.* Kalendarz Krzywd został uznany za prawdę. Kocioł Krzywd doprowadził do zwycięstwa.
 
 Ale teraz, gdy Wilk był daleko, gdy walka się skończyła, gdy cisza objęła Polanę – Wiedźma spojrzała na swoje „zwycięstwo".
 
@@ -2963,7 +2963,7 @@ Konflikt karmił Srokę. Dramat, oskarżenia, walka – to była jej pasza. Ale 
 
 ---
 
-**Bociany z Odciętymi Skrzydłami** – Monika, Artur, inne dzieci Barbary – oddalili się jeszcze bardziej.
+**Bociany z Odciętymi Skrzydłami** – Monika, Artur, inne dzieci Wiedźmy BaraBary – oddalili się jeszcze bardziej.
 
 Przez lata konflikt z Dariuszem był dla nich... niewygodny. Toksyczny. Bali się, że zostanie na nich przeniesiony. Że Matka zacznie żądać od nich tego samego, co od Dariusza.
 
@@ -2975,13 +2975,13 @@ A teraz, gdy konflikt się skończył? Czy wrócili?
 
 Nie.
 
-Bo Polana Kłamstw była **spalona**. Atmosfera była trująca. Dom pełen ech walki. Barbara z Kalendariem Krzywd w ręku, opowiadająca w kółko o tym, jak „wygrała z niewdzięcznym synem".
+Bo Polana Kłamstw była **spalona**. Atmosfera była trująca. Dziupla pełen ech walki. Wiedźma BaraBara z Kalendariem Krzywd w ręku, opowiadająca w kółko o tym, jak „wygrała z niewdzięcznym synem".
 
 Bociany słuchały grzecznie. Kiwały głowami. I odlatywały jak najszybciej.
 
 ---
 
-**Hiena Domkowa** (Aleksander Domek) – zniknęła najszybciej.
+**Hiena Dziuplowa** (Aleksander Domek) – zniknęła najszybciej.
 
 Interes się skończył. Klient zapłacił. Sprawa się zamknęła. Po co wracać?
 
@@ -3041,7 +3041,7 @@ Puszczyk – odleciał na inną gałąź.
 
 I Wiedźma została **sama**.
 
-Sama z domem, o który walczyła przez osiem lat.
+Sama z dziuplą, o który walczyła przez osiem lat.
 
 Sama z Kalendarzemzywd, który nikt już nie chciał czytać.
 
@@ -3051,15 +3051,15 @@ I sama ze **Starym Jeleniem**, który siedział w fotelu z czerwoną czapką, pa
 
 ---
 
-**Dom – Więzienie Zwycięzcy**
+**Dziupla – Więzienie Zwycięzcy**
 
-Wiedźma rozglądała się po domu. Dziupla nr 8. Ocieplona. Z nowymi oknami. Z fotowoltaiką na dachu. Z solarami. Piękna.
+Wiedźma rozglądała się po dziupli. Dziupla nr 8. Ocieplona. Z nowymi oknami. Z fotowoltaiką na dachu. Z solarami. Piękna.
 
-Ale teraz – gdy nie było już Wilka, którego można było oskarżyć – dom stał się **więzieniem**.
+Ale teraz – gdy nie było już Wilka, którego można było oskarżyć – dziupla stał się **więzieniem**.
 
-**Media?** Teraz Barbara musiała płacić sama. Prąd, woda, ogrzewanie. Wcześniej Wilk wnosił 18 tys. zł na KRUS i media. Teraz? Tylko emerytura Barbary i Sylwestra.
+**Media?** Teraz Wiedźma BaraBara musiała płacić sama. Prąd, woda, ogrzewanie. Wcześniej Wilk wnosił 18 tys. zł na KRUS i media. Teraz? Tylko emerytura Wiedźmy BaraBary i Sylwestra.
 
-**Utrzymanie?** Dom był duży. Fotowoltaika wymagała serwisu. Dachy – konserwacji. Ogrzewanie – węgla. Wszystko kosztowało.
+**Utrzymanie?** Dziupla był duży. Fotowoltaika wymagała serwisu. Dachy – konserwacji. Ogrzewanie – węgla. Wszystko kosztowało.
 
 **Samotność?** Nie było już wroga. Nie było z kim walczyć. Dni były puste. Cisza dusiła.
 
@@ -3069,13 +3069,13 @@ Ale najgorszym więzieniem była **tykająca bomba zegarowa**: **prawny obowiąz
 
 **Bomba Zegarowa: Nakłady w Nieruchomość**
 
-Wilk nie walczył o dom. Nie złożył apelacji. Odszedł.
+Wilk nie walczył o dziupla. Nie złożył apelacji. Odszedł.
 
 Ale **prawnie** miał prawo do **zwrotu nakładów** – inwestycji, które poczynił w nieruchomość.
 
 Zgodnie z **art. 226-231 k.c.**, osoba, która uczyniła nakłady na cudzą nieruchomość, ma prawo do ich zwrotu. Nawet jeśli darowizna została cofnięta.
 
-Wilk włożył w dom **160-255 tysięcy złotych**:
+Wilk włożył w dziupla **160-255 tysięcy złotych**:
 - Fotowoltaika
 - Solary
 - Ocieplenie ścian
@@ -3094,9 +3094,9 @@ Ale **prawnie** bomba tykała.
 
 Gdyby kiedykolwiek zmienił zdanie... Gdyby ktoś go przekonał, by walczył... Wiedźma musiałaby **zapłacić**.
 
-A Barbara nie miała setek tysięcy złotych. Emerytura nie pokryłaby tego. Dom musiałby być **sprzedany** lub obciążony hipoteką.
+A Wiedźma BaraBara nie miała setek tysięcy złotych. Emerytura nie pokryłaby tego. Dziupla musiałby być **sprzedany** lub obciążony hipoteką.
 
-Wiedźma wygrała dom. Ale żyła w cieniu bomby zegarowej, która mogła ją zniszczyć.
+Wiedźma wygrała dziupla. Ale żyła w cieniu bomby zegarowej, która mogła ją zniszczyć.
 
 ---
 
@@ -3134,11 +3134,11 @@ Wiedźma siedziała w kuchni, patrząc przez okno. Cisza. Głucha, przytłaczaj�
 
 *Cisza. Dlaczego jest tak cicho? Powinien być krzyk. Powinna być walka. Zwycięstwo nie może być ciche.*
 
-Przez całe życie Barbara walczyła. Z mężem, który pił (dawno temu). Z dziećmi, które uciekły. Z synem, który wrócił i „zagrażał" jej służebności. Walka była **sensem** jej życia.
+Przez całe życie Wiedźma BaraBara walczyła. Z mężem, który pił (dawno temu). Z dziećmi, które uciekły. Z synem, który wrócił i „zagrażał" jej służebności. Walka była **sensem** jej życia.
 
 A teraz? Walka się skończyła.
 
-Dom był jej. Syn odszedł. Sąd orzekł na jej korzyść.
+Dziupla był jej. Syn odszedł. Sąd orzekł na jej korzyść.
 
 **Wygrała.**
 
@@ -3150,7 +3150,7 @@ Siedziała w ciszy. I po raz pierwszy w życiu usłyszała najstraszniejszy dźw
 
 Nie było oklasków. Nie było gratulacji. Nie było radości.
 
-Był tylko pusty dom. Stary mąż z czerwoną czapką, który nie pamiętał własnego wieku. I cisza.
+Był tylko pusty dziupla. Stary mąż z czerwoną czapką, który nie pamiętał własnego wieku. I cisza.
 
 Wiedźma patrzyła w okno. Las szumiał. Wiatr kołysał gałęziami.
 
@@ -3164,15 +3164,15 @@ A w jej głowie dudniła myśl:
 
 Nadszedł **grudzień 2023**. Rok i kilka miesięcy po odejściu Wilka. Pierwsze święta Bożego Narodzenia po wyroku.
 
-Barbara i Sylwester siedzieli w Dziupli nr 8. Wigilia była cicha. Bociany przyjechały na jeden dzień, zjadły kolację i uciekły z powrotem do Bydgoszczy.
+Wiedźma BaraBara i Sylwester siedzieli w Dziupli nr 8. Wigilia była cicha. Bociany przyjechały na jeden dzień, zjadły kolację i uciekły z powrotem do Bydgoszczy.
 
 Wiedźma siedziała przy stole. Patrzyła na puste krzesło, gdzie kiedyś siedział Dariusz.
 
-*„Powinnam być szczęśliwa. Wygrałam. Dom jest mój. Dlaczego nie czuję nic?"*
+*„Powinnam być szczęśliwa. Wygrałam. Dziupla jest mój. Dlaczego nie czuję nic?"*
 
 Sylwester siedział w fotelu, czerwona czapka na głowie, wzrok pusty.
 
-Barbara wstała. Poszła do telefonu Sylwestra. Wzięła go do ręki.
+Wiedźma BaraBara wstała. Poszła do telefonu Sylwestra. Wzięła go do ręki.
 
 Przewinęła kontakty. Znalazła: **„Dariusz"**.
 
@@ -3190,7 +3190,7 @@ Telefon dzwonił. Raz. Dwa razy. Trzy. Cztery.
 
 **26 Grudnia 2023**
 
-Następnego dnia Barbara spróbowała ponownie. Tym razem z telefonu Sylwestra (może Dariusz odbierze, jeśli zobaczy numer ojca).
+Następnego dnia Wiedźma BaraBara spróbowała ponownie. Tym razem z telefonu Sylwestra (może Dariusz odbierze, jeśli zobaczy numer ojca).
 
 Telefon dzwonił. Raz. Dwa. Trzy.
 
@@ -3200,7 +3200,7 @@ Telefon dzwonił. Raz. Dwa. Trzy.
 
 **31 Grudnia 2023 – Sylwester**
 
-Ostatni dzień roku. Noc sylwestrowa. Barbara ponownie wzięła telefon męża. Wykręciła numer Dariusza.
+Ostatni dzień roku. Noc sylwestrowa. Wiedźma BaraBara ponownie wzięła telefon męża. Wykręciła numer Dariusza.
 
 Dzwonek. Raz. Dwa. Trzy.
 
@@ -3222,7 +3222,7 @@ Trzy połączenia. Wszystkie z numeru ojca.
 
 Czy to był **Sylwester**, który próbował się połączyć? Stary Jeleń, który w świątecznym nastroju wspomniał syna i chciał usłyszeć jego głos?
 
-A może to była **Barbara**, która używała telefonu męża, by obejść blokadę? Kontynuacja kontroli, podszywanie się pod Sylwestra, próba wciągnięcia Wilka z powrotem do pętli?
+A może to była **Wiedźma BaraBara**, która używała telefonu męża, by obejść blokadę? Kontynuacja kontroli, podszywanie się pod Sylwestra, próba wciągnięcia Wilka z powrotem do pętli?
 
 Wilk **nigdy się nie dowiedział**.
 
@@ -3240,7 +3240,7 @@ Po prostu... **z ochrony**.
 
 Wilk wiedział, że odebranie telefonu oznaczałoby:
 - Powrót do rozmowy pełnej oskarżeń
-- Słuchanie Barbary (nawet jeśli mówiłaby ustami Sylwestra)
+- Słuchanie Wiedźmy BaraBary (nawet jeśli mówiłaby ustami Sylwestra)
 - Otwarcie rany, która zaczynała się goić
 - Wciągnięcie z powrotem do pętli
 
@@ -3264,11 +3264,11 @@ Wilk odszedł. Sojusznicy odeszli. Kocioł zgasł. Telefony pozostały nieodebra
 
 A Wiedźma?
 
-Wiedźma siedziała w pustym domu, patrząc przez okno na pusty las.
+Wiedźma siedziała w pustym dziupli, patrząc przez okno na pusty las.
 
 Wygrała wszystko. I straciła wszystko.
 
-Wygrała dom. Ale straciła cel.
+Wygrała dziupla. Ale straciła cel.
 
 Wygrała walkę. Ale straciła wroga.
 
@@ -3286,7 +3286,7 @@ I cisza.
 
 ---
 
-Rozdział 12 był rozdziałem **pustego zwycięstwa**. Wiedźma wygrała dom, ale przegrała wszystko inne. Sojusznicy odeszli. Kocioł zgasł. Telefony pozostały nieodebrane.
+Rozdział 12 był rozdziałem **pustego zwycięstwa**. Wiedźma wygrała dziupla, ale przegrała wszystko inne. Sojusznicy odeszli. Kocioł zgasł. Telefony pozostały nieodebrane.
 
 A Polana Kłamstw – która przez osiem lat pulsowała konfliktem – zamilkła.
 
@@ -3318,7 +3318,7 @@ Ale niektórzy nigdy nie odzyskują tego, co stracili.
 
 **Wilk Samotnik** buduje nowe życie w Holandii. Rotterdam. Mały pokój. Praca w warsztacie mechanicznym. Życie proste, bez pretensji.
 
-Nie odzyskał pieniędzy. Nie odzyskał domu. Nie odzyskał ośmiu lat życia.
+Nie odzyskał pieniędzy. Nie odzyskał dziupli. Nie odzyskał ośmiu lat życia.
 
 Ale odzyskał **ciszę**.
 
@@ -3326,7 +3326,7 @@ Ale odzyskał **ciszę**.
 
 Czasem, w ciche wieczory, patrzy przez okno na holenderską ulicę i myśli o Polanie Kłamstw. Nie z tęsknotą. Nie z żalem. Po prostu... wspomina.
 
-*„160 tysięcy złotych. Osiem lat. Dom, który miał być przyszłością."*
+*„160 tysięcy złotych. Osiem lat. Dziupla, który miał być przyszłością."*
 
 *„Opłata za wolność."*
 
@@ -3360,7 +3360,7 @@ W tej chwili Wilk zrozumienia coś fundamentalne:
 
 **Samotny wilk, który żyje w wolności, jest bardziej żywy niż wilk w watahie, która go zabija powoli.**
 
-Czasem w barze w Amsterdamie poznaje emigrantów – Polaków, Rumunów, Ukraińców. Są sami. Pracują za granicą. Wysyłają pieniądze do domu. Mają córki, żony, rodziców, którzy czekają lub którzy wyrzucili ich za niezgodę.
+Czasem w barze w Amsterdamie poznaje emigrantów – Polaków, Rumunów, Ukraińców. Są sami. Pracują za granicą. Wysyłają pieniądze do dziupli. Mają córki, żony, rodziców, którzy czekają lub którzy wyrzucili ich za niezgodę.
 
 Jeden z nich – Romek z Warszawy – siedzi obok Wilka i pije piwo.
 
@@ -3374,25 +3374,25 @@ Wilk skinął głową.
 
 I może to prawda. Może samotność **nie oznacza bycia bez zbioru**. Może samotność oznacza bycie w zbiorze ludzi, którzy vybrali samotnośćzamiast toksycznego stadła.
 
-Wilk wraca do swojego małego pokoju. Patrzy na ścianę, na której wisi map Europy – czerwone szpilki zaznaczają miejsca, gdzie poznał samotnych ludzi, którzy uciekli z domów, które je nie chciały.
+Wilk wraca do swojego małego pokoju. Patrzy na ścianę, na której wisi map Europy – czerwone szpilki zaznaczają miejsca, gdzie poznał samotnych ludzi, którzy uciekli z dziupli, które je nie chciały.
 
 *To jest jego nowa wataha*, myśli. *Wataha bezbronnych wilków.*
 
 I po raz pierwszy od lat czuje, że **należy gdzieś**.
 
-Nie do domu. Do zbiorowości.
+Nie do dziupli. Do zbiorowości.
 
 ---
 
 **Wiedźma w Dziupli nr 8: Więźniarka Własnego Zwycięstwa**
 
-**Wiedźma Adamowska** pozostała w Dziupli nr 8. Dom, o który walczyła przez osiem lat, stał się jej **mauzoleum**.
+**Wiedźma Adamowska** pozostała w Dziupli nr 8. Dziupla, o który walczyła przez osiem lat, stał się jej **mauzoleum**.
 
 Każdego ranka budzi się w pustej kuchni. Stary Jeleń z czerwoną czapką siedzi w fotelu, patrząc w pustkę. Nie rozmawia. Ledwo oddycha. Cień.
 
-Wiedźma chodzi po domu, dotykając ścian, które Wilk ocieplił. Patrzy na okna, które Wilk wymienił. Słyszy szum wiatru na dachu, który Wilk naprawił.
+Wiedźma chodzi po dziupli, dotykając ścian, które Wilk ocieplił. Patrzy na okna, które Wilk wymienił. Słyszy szum wiatru na dachu, który Wilk naprawił.
 
-Dom jest **piękny**. Ale **pusty**.
+Dziupla jest **piękny**. Ale **pusty**.
 
 Bociany przyjeżdżają rzadko. Sroka Dorota dzwoni raz na kilka miesięcy. Sąsiedzi omijają ją szerokim łukiem.
 
@@ -3420,7 +3420,7 @@ Jest tylko **cisza własnego zwycięstwa**.
 
 Siedzi w fotelu. Patrzy w przestrzeń. Czasem mamrocze coś do siebie. Czasem pyta: *„Gdzie jest Dariusz?"*
 
-Barbara odpowiada: *„Wyjechał. Nie wraca."*
+Wiedźma BaraBara odpowiada: *„Wyjechał. Nie wraca."*
 
 Sylwester kiwa głową. I po pięciu minutach pyta znowu: *„Gdzie jest Dariusz?"*
 
@@ -3434,13 +3434,13 @@ Czerwona czapka wciąż na głowie. Ale człowiek pod nią dawno odszedł.
 
 **Sojusznicy: Zapomnienie**
 
-**Sroka Dorota** znalazła nowe plotki. Nowe dramaty. Polana Kłamstw to już tylko wspomnienie. Czasem, gdy rozmawia z kimś, wspomina: *„Ach, pamiętacie tę sprawę z Adamowem? Syn ukradł dom rodzicom! Straszne!"*
+**Sroka Dorota** znalazła nowe plotki. Nowe dramaty. Polana Kłamstw to już tylko wspomnienie. Czasem, gdy rozmawia z kimś, wspomina: *„Ach, pamiętacie tę sprawę z Adamowem? Syn ukradł dziupla rodzicom! Straszne!"*
 
 Wersja zmienia się z każdym opowiadaniem. Prawda ginie. Zostaje tylko echo.
 
 **Bociany z Odciętymi Skrzydłami** rzadko odwiedzają matkę. Wigilia, może wielkanoc. Szybka wizyta. I ucieczka z powrotem do Bydgoszczy.
 
-**Hiena Domkowa** i **Sarna Sarnecki** dawno zapomnieli o Wilku. Kolejne sprawy. Kolejni klienci. Konsorcjum WDS Legal kwitnie.
+**Hiena Dziuplowa** i **Sarna Sarnecki** dawno zapomnieli o Wilku. Kolejne sprawy. Kolejni klienci. Konsorcjum WDS Legal kwitnie.
 
 **Smerfy z Posterunku** zakopały akta głęboko. Niebieska Karta z 18.07.2021 to tylko numer w systemie. Zamknięte. Zapomniane.
 
@@ -3460,7 +3460,7 @@ Morał jest prosty i okrutny:
 
 ### 1. **Dobroć Zamienia się w Broń**
 
-Wilk wrócił z Norwegii z dobrymi intencjami. Chciał pomóc rodzicom. Chciał wyremontować dom. Chciał, żeby rodzina była razem.
+Wilk wrócił z Norwegii z dobrymi intencjami. Chciał pomóc rodzicom. Chciał wyremontować dziupla. Chciał, żeby rodzina była razem.
 
 Włożył 160-255 tysięcy złotych. Osiem lat pracy. Całe swoje życie.
 
@@ -3474,7 +3474,7 @@ Wiedźma nie mogła pozwolić Wilkowi żyć. Musiała kontrolować każdy jego r
 
 Ale kontrola zabija. Zabija miłość. Zabija relacje. Zabija zaufanie.
 
-Wiedźma wygrała dom. Ale straciła syna, zaufanie sąsiadów, przyjaciół. I siebie.
+Wiedźma wygrała dziupla. Ale straciła syna, zaufanie sąsiadów, przyjaciół. I siebie.
 
 **Obsesyjna kontrola zawsze zabija to, co próbuje kontrolować.**
 
@@ -3496,7 +3496,7 @@ Ale zrozumiał coś kluczowego:
 
 **Wygranie tej walki oznaczałoby powrót do więzienia.**
 
-Prawdziwe zwycięstwo nie polegało na odzyskaniu domu. Polegało na **odzyskaniu siebie**.
+Prawdziwe zwycięstwo nie polegało na odzyskaniu dziupli. Polegało na **odzyskaniu siebie**.
 
 I Wilk wybrał wolność.
 
@@ -3514,7 +3514,7 @@ Historia powraca do symboliki liczb, które pamiętają wszystko:
 
 Siedem – liczba pełna, doskonała. Siedem dni tygodnia. Siedem cnót. Siedem sakramentów.
 
-Dzień darowizny był dniem **nadziei**. Wilk wierzył, że dom będzie bezpieczny. Że rodzina będzie razem. Że przyszłość będzie lepsza.
+Dzień darowizny był dniem **nadziei**. Wilk wierzył, że dziupla będzie bezpieczny. Że rodzina będzie razem. Że przyszłość będzie lepsza.
 
 Ale nadzieja spaliła się jak świeca. I zostały tylko **trupie smugi dymu**.
 
@@ -3524,7 +3524,7 @@ Ale nadzieja spaliła się jak świeca. I zostały tylko **trupie smugi dymu**.
 
 Ósemka to **Uroboros** – wąż pożerający własny ogon. Nieskończona pętla. Bez początku, bez końca.
 
-Dom nr 8 stał się pętlą. Wilk próbował uciec – ale Wiedźma ciągnęła go z powrotem. Każda próba dialogu kończyła się oskarżeniem. Każde milczenie – winą. Każde słowo – wpisem w Kalendarzu.
+Dziupla nr 8 stał się pętlą. Wilk próbował uciec – ale Wiedźma ciągnęła go z powrotem. Każda próba dialogu kończyła się oskarżeniem. Każde milczenie – winą. Każde słowo – wpisem w Kalendarzu.
 
 Pętla zamykała się coraz ciaśniej.
 
@@ -3534,7 +3534,7 @@ Osiem lat walki. Osiem lat próby udowodnienia niewinności. Osiem lat wirowania
 
 ### **13 – Dzień Sądu Ostatecznego**
 
-**13 października 2021** – dzień, w którym Hiena Domkowa zdradziła Wilka na korytarzu sądowym.
+**13 października 2021** – dzień, w którym Hiena Dziuplowa zdradziła Wilka na korytarzu sądowym.
 
 Trzynastka – liczba pecha, nieszczęścia, zdrady. Trzynaście srebrników Judasza. Trzynasty gość przy stole (zdrajca).
 
@@ -3661,7 +3661,7 @@ Woda płynie jak zawsze – uporczywie, cicho, bez pośpiechu.
 
 Tama wciąż stoi. Solidna, starannie ułożona. Woda zbiera się za nią w małe jeziorko, które ożyło – żaby kumkają w trzcinach, ważki tańczą nad taflą, mokradła oddychają.
 
-A przy tamie, jak zawsze, pracuje **Bóbr**.
+A przy tamie, jak zawsze, pracuje **Wilk-Budowniczy**.
 
 Układa kolejną gałąź. Sprawdza każdy punkt konstrukcji. Naprawia to, co podmyła wiosenna powódź. Buduje. Cierpliwie. Metodycznie.
 
@@ -3679,7 +3679,7 @@ Siadają przy strumieniu. Patrzą na tamę. I pytają:
 
 – **Jak przestałeś wyć?**
 
-A Bóbr zawsze odpowiada tym samym:
+A Wilk-Budowniczy zawsze odpowiada tym samym:
 
 – **Nie przestałem. Wciąż się boję. Wciąż jestem sam. Wciąż chcę wyć.**
 
@@ -3689,7 +3689,7 @@ A Bóbr zawsze odpowiada tym samym:
 
 ---
 
-Pewnego wieczoru, gdy księżyc wisiał nisko nad lasem, Bóbr zatrzymał się w pracy.
+Pewnego wieczoru, gdy księżyc wisiał nisko nad lasem, Wilk-Budowniczy zatrzymał się w pracy.
 
 Spojrzał w niebo. Poczuł w piersi to stare, znajome pragnienie – pragnienie wycia, pragnienie biegu, pragnienie wolności bez granic.
 
@@ -3703,9 +3703,9 @@ I w tym geście – cierpliwym, spokojnym – była wolność prawdziwsza niż w
 
 ---
 
-**Przesłanie Bobra**
+**Przesłanie Wilka-Budowniczego**
 
-Ci, którzy słuchają uważnie, mówią, że Bóbr zostawił trzy nauki dla tych, którzy przyjdą po nim:
+Ci, którzy słuchają uważnie, mówią, że Wilk-Budowniczy zostawił trzy nauki dla tych, którzy przyjdą po nim:
 
 **1. Gniew może stać się budulcem**
 > *"Każda gałąź w tej tamie to stłumiony gniew. Ale gniew przestał być bronią – stał się ochroną."*
@@ -3713,7 +3713,7 @@ Ci, którzy słuchają uważnie, mówią, że Bóbr zostawił trzy nauki dla tyc
 Nie musisz zapominać o bólu. Możesz go wykorzystać do zbudowania czegoś, co chroni ciebie i innych.
 
 **2. Transformacja nie zabija pamięci**
-> *"Byłem Wilkiem. Teraz jestem Bobrem. Ale w środku? W środku wciąż poluje na to, czego nie mogę złapać."*
+> *"Byłem Wilkiem. Teraz jestem Wilkiem-Budowniczym. Ale w środku? W środku wciąż poluje na to, czego nie mogę złapać."*
 
 Możesz się zmienić, nie tracąc tego, kim byłeś. Przeszłość nie definiuje przyszłości – ale daje jej fundament.
 
@@ -3726,7 +3726,7 @@ Potrzebujesz granic. Ale twoje granice są po to, by chronić twoją przestrzeń
 
 **Ostatnie Słowa Strażnika**
 
-Gdy pytano Bobra, czy kiedykolwiek wróci do bycia Wilkiem, odpowiadał:
+Gdy pytano Wilka-Budowniczego, czy kiedykolwiek wróci do bycia Wilkiem, odpowiadał:
 
 – **Nigdy nie przestałem. Po prostu nauczyłem się budować zamiast wyć.**
 
@@ -3742,7 +3742,7 @@ Polana Kłamstw może istnieć wiecznie – miejsce, gdzie echo jest silniejsze 
 
 Ale przy strumieniu, na granicy mroku, stoi tama.
 
-I Bóbr buduje.
+I Wilk-Budowniczy buduje.
 
 Cierpliwie. Metodycznie. Z gałęzi, które kiedyś były gniewem.
 
@@ -3765,7 +3765,7 @@ A woda, która mogłaby zalać wszystko, spokojnie gromadzi się w jeziorku.
 - Rozdziały: 12 + Prolog + Interludium + Epilog
 - Postacie: 13 archetypów
 - Czas akcji: 2017-2025 (8 lat)
-- Miejsce: Polana Kłamstw, Dom Adamowo 8, Strumień przy granicy
+- Miejsce: Polana Kłamstw, Dziupla Adamowo 8, Strumień przy granicy
 - Gatunki: Baśń czarna, kronika sądowa, alegoria z nutą nadziei
 
 *Koniec Kroniki Ósmego Kręgu*

@@ -1,10 +1,10 @@
 ---
-title: "Dom pod numerem 8"
-slug: "dom-numer-8-lokacja"
+title: "Dziupla pod numerem 8"
+slug: "dziupla-numer-8-lokacja"
 kategoria: "lokacja"
 typ: "Pole bitwy i więzienie"
 tagi:
-  - dom
+  - dziupla
   - konflikt
   - uwiezienie
 zrodla:
@@ -12,29 +12,29 @@ zrodla:
   - Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md
 ---
 
-# Dom pod numerem 8
+# Dziupla pod numerem 8
 
 **Symbol:** Dziupla pod Ósemką, Pętla Klątwy, ∞
 
 ## Opis
 
-Dom nr 8 w Adamowie. Cyfra 8 leżąca na boku to symbol nieskończoności (∞).
+Dziupla nr 8 w Adamowie. Cyfra 8 leżąca na boku to symbol nieskończoności (∞).
 
-W baśni: **Dziupla pod Ósemką** – organizm, który pamięta wszystko. To nie jest dom – to żywy organizm, który pamięta głosy, zapachy i decyzje.
+W baśni: **Dziupla pod Ósemką** – mroczne, ciasne serce mrowiska. To nie jest tylko schronienie, ale żywy organizm, który pamięta głosy, zapachy i decyzje. Kable zwisają jak uschnięte pnącza, a awarie systemu są tu oddechem uwięzionego budynku, który budzi się i zasypia razem z ciszą.
 
 ### Historia
 
-- **7.07.2017:** Darowizna – Wilk daruje dom rodzicom, ustanawia służebność na 100% budynku mieszkalnego. Gest miłości zamienia się w pętlę.
+- **7.07.2017:** Darowizna – Wilk daruje Dziuplę rodzicom, ustanawia służebność na 100% budynku mieszkalnego. Gest miłości zamienia się w pętlę.
 
-- **~2019:** Powrót Bobra po wylewie Jelenia. Zamieszkanie w dziupli nr 8. Opieka nad rannym Starym Jeleniem.
+- **~2019:** Powrót Wilka-Budowniczego po wylewie Jelenia. Zamieszkanie w dziupli nr 8. Opieka nad rannym Starym Jeleniem.
 
-- **2017-2021:** Bóbr buduje tamy emocjonalne (fizyczne i psychiczne), ignoruje czary Wiedźmy. Jest odporny – jej zaklęcia na niego nie działają.
+- **2017-2021:** Wilk-Budowniczy buduje tamy emocjonalne (fizyczne i psychiczne), ignoruje odruchy technologii uruchamiane przez Wiedźmę. Jest odporny – papierowe formuły nie domykają się na nim.
 
-- **2021:** Eskalacja konfliktu. Bóbr ucieka z domu głównego do warsztatu. Spanie na drzwiach, tracący powietrze materac, pianka montażowa w szczelinach.
+- **2021:** Eskalacja konfliktu. Wilk-Budowniczy ucieka z dziupli głównego do warsztatu. Spanie na drzwiach, tracący powietrze materac, pianka montażowa w szczelinach.
 
-- **~2021:** Ostatnie Zanurzenie Bobra w dziupli nr 8. Mgła chlorowa (kwas solny + chlor). Ratunek przez Anioła z Drzewa (Ewa). Transformacja Bóbr → Duch Wilka.
+- **~2021:** Ostatnie Zanurzenie Wilka-Budowniczego w dziupli nr 8. Mgła chlorowa (kwas solny + chlor). Ratunek przez Anioła z Drzewa (Ewa). Transformacja Wilk-Budowniczy → Duch Wilka.
 
-- **2025:** Cofnięcie darowizny. Wiedźma zostaje sama w pustym domu.
+- **2025:** Cofnięcie darowizny. Wiedźma zostaje sama w pustej Dziupli.
 
 ### Symbolika cyfry 8
 
@@ -44,12 +44,12 @@ W baśni: **Dziupla pod Ósemką** – organizm, który pamięta wszystko. To ni
 - Ósmy krąg – miejsce, gdzie miłość zamienia się w więzienie
 
 **W baśni:**
-> "Cyfra 8 to nie numer domu. To pieczęć losu. Dwa kręgi splecione na zawsze – jeden dla Wiedźmy, drugi dla Wilka. Ale krążą w przeciwnych kierunkach."
+> "Cyfra 8 to nie numer dziupli. To pieczęć losu. Dwa kręgi splecione na zawsze – jeden dla Wiedźmy, drugi dla Wilka. Ale krążą w przeciwnych kierunkach."
 
 ### Pomieszczenia
 
-#### Dom główny
-- Miejsce zamieszkania Bobra i rodziców (2019-2021)
+#### Dziupla główna
+- Miejsce zamieszkania Wilka-Budowniczego i rodziców (2019-2021)
 - Służebność na 100% budynku mieszkalnego
 - Po nocnym wtargnięciu (10.02.2021, 2:30) przestaje być bezpiecznym miejscem
 
@@ -77,13 +77,13 @@ W baśni: **Dziupla pod Ósemką** – organizm, który pamięta wszystko. To ni
 **Dziupla pod Ósemką wchłania energie wszystkich, którzy w niej mieszkali:**
 - Pamięta darowiznę jako akt miłości
 - Pamięta cofnięcie jako akt lęku i zemsty
-- Pamięta Bobra budującego tamy
+- Pamięta Wilka-Budowniczego budującego tamy
 - Pamięta Wilka uciekającego do warsztatu
 - Pamięta Wiedźmę notującą wszystko w Kalendarzu Krzywd
 
 ### Finał
 
-Gdy Wiedźma zostaje sama w Dziupli, rozgląda się po swoim "zwycięstwie" i z przerażeniem odkrywa, że została sama. Dom, o który tak zaciekle walczyła, stał się jej więzieniem.
+Gdy Wiedźma zostaje sama w Dziupli, rozgląda się po swoim "zwycięstwie" i z przerażeniem odkrywa, że została sama. Dziupla, o którą tak zaciekle walczyła, stała się jej więzieniem.
 
 Cisza. Dlaczego jest tak cicho? Powinien być krzyk. Powinna być walka. Zwycięstwo nie może być ciche.
 
@@ -91,21 +91,22 @@ I po raz pierwszy w życiu usłyszała najstraszniejszy dźwięk: ciszę własne
 
 ### Cytat kluczowy
 
-> *"Dziupla pod Ósemką to nie dom jest przeklęty. To decyzje."*
+> *"Dziupla pod Ósemką to nie dziupla jest przeklęty. To decyzje."*
 
 ### Powiązane postacie
-- Wiedźma Barabara (mieszkanka, kontrolerka)
-- Bóbr z Duchem Wilka (mieszkaniec 2019-2021, budowniczy tam)
+- Wiedźma BaraBara (mieszkanka, kontrolerka)
+- Wilk-Budowniczy (mieszkaniec 2019-2021, budowniczy tam)
 - Duch Wilka (narodził się tu po Ostatnim Zanurzeniu)
 - Stary Jeleń Sylwester (mieszkaniec, ranny, zależny)
 - Wilk Samotnik (uciekł do warsztatu, potem do Holandii)
+- Burek (strażnik na rdzawym łańcuchu)
 
 ### Powiązane artefakty
 - Kocioł Krzywd (Kalendarz Wiedźmy)
 - Zaspawana Prawda (toaleta)
-- Tamy Bobra (fizyczne i emocjonalne)
+- Tamy Wilka-Budowniczego (fizyczne i emocjonalne)
 
 ### Powiązane motywy
-- Paradoks wolności (dom darowany staje się więzieniem)
-- Obsesyjna kontrola (Wiedźma vs Bóbr/Wilk)
+- Paradoks wolności (dziupla darowany staje się więzieniem)
+- Obsesyjna kontrola (Wiedźma vs Wilk-Budowniczy/Wilk)
 - Echo vs prawda (prawda zamknięta, echo się rozchodzi)

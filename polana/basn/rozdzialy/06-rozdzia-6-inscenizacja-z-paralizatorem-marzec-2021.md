@@ -10,7 +10,7 @@ Rozdział 6: Inscenizacja z Paralizatorem (Marzec 2021)
 (wersja baśniowa, rozbudowana, analityczna)
 
 Kilka dni przed Burzą, Wilk otrzymał posłanie, które pachniało gniewem i bronią.
-To był list szeptany przez wiatr — groźba od Brata Wiedźmy Barbary, człowieka o sercu twardym jak zimowy lód.
+To był list szeptany przez wiatr — groźba od Brata Wiedźmy BaraBary, człowieka o sercu twardym jak zimowy lód.
 Groził Wilkowi pobiciem.
 Na Polanie takie słowa mają ciężar kamienia rzuconego do studni — tonąć można długo, ale w końcu się utopi.
 
@@ -25,7 +25,7 @@ Groźba była prosta, brutalna, bezpośrednia:
 „Jak jeszcze raz podniesiесь głos na moją siostrę, to cię zbiję."
 
 Dlaczego to zrobił?
-Bo Wiedźma Barbara poprosiła.
+Bo Wiedźma BaraBara poprosiła.
 Bo usłyszał jej wersję — tę z Kalendarza Krzywd.
 Bo uwierzył, że Wilk jest agresorem, nie ofiarą.
 Mechanizm:
@@ -52,10 +52,10 @@ Dlaczego ją kupił?
 
 Wilk nie planował atakować.
 Planował przetrwać.
-Ale nie wiedział, że Wiedźma Barbara już tkała plan, któremu nie mógłby się oprzeć nawet najostrożniejszy z leśnych stworzeń.
+Ale nie wiedział, że Wiedźma BaraBara już tkała plan, któremu nie mógłby się oprzeć nawet najostrożniejszy z leśnych stworzeń.
 
 Ciemność, która przyszła za wcześnie
-Pewnej nocy Wiedźma Barbara wyczuła odpowiedni moment.
+Pewnej nocy Wiedźma BaraBara wyczuła odpowiedni moment.
 Co się działo w warsztacie?
 Wilk był w warsztacie — swoim ostatnim azylu.
 Dobiegała stamtąd muzyka — niezbyt głośna, lecz wystarczająca, by stać się pretekstem.
@@ -63,7 +63,7 @@ Muzyka była normalna — taką, jaką ludzie słuchają, gdy pracują, gdy żyj
 Ale dla Wiedźmy była dowodem: „Hałasuje. Przeszkadza. Prowokuje."
 Co zrobiła Wiedźma?
 Zeszła do piwnicy i wyłączyła główny bezpiecznik, odcinając światło wszystkim domownikom.
-Dom zapadł w ciemność — tak głęboką, że nie widziały jej nawet sowy.
+Dziupla zapadła w ciemność — tak głęboką, że nie widziały jej nawet sowy.
 Dlaczego to zrobiła?
 To był plan precyzyjny jak pajęcza sieć:
 
@@ -78,7 +78,7 @@ Wilk, zaniepokojony nagłym mrokiem, wyszedł z warsztatu, niosąc w dłoni lata
 Czego szukał?
 Skrzynki bezpieczników — by przywrócić prąd.
 Czego nie wiedział?
-Że Wiedźma Barbara już na niego czekała.
+Że Wiedźma BaraBara już na niego czekała.
 
 W korytarzu.
 W mroku.
@@ -93,10 +93,10 @@ Wilk: — Latarka.
 Wiedźma: — Jaka?
 Wilk: — Z funkcją samoobrony… z iskrą paralizującą.
 Pułapka zamyka się
-Wiedźma Barbara nie cofnęła się nawet o krok.
+Wiedźma BaraBara nie cofnęła się nawet o krok.
 Na jej twarzy nie pojawił się strach.
 Pojawiła się radość.
-Drobny błysk zwycięstwa, jak u czarownicy, która wreszcie zdobyła składnik potrzebny do zaklęcia.
+Drobny błysk zwycięstwa, jak u Wiedźmy, która wreszcie zdobyła składnik potrzebny do formuły.
 Dlaczego?
 Bo to nie latarka była jej celem.
 Celem było słowo, które padnie z ust Wilka.
@@ -104,34 +104,34 @@ I padło: „paralizująca".
 
 Kalendarz, który przepisuje świat
 Wiedźma natychmiast wróciła do swojej komnaty.
-Otworzyła Kalendarz Krzywd, którego kartki były już ciężkie od wcześniejszych zaklęć.
+Otworzyła Kalendarz Krzywd, którego kartki były już ciężkie od wcześniejszych formuł.
 Zapisała tam nowe zdanie:
 
 „Dariusz groził mi paralizatorem."
 
-Magia przekręcenia:
-FaktZapis w KalendarzuWilk pokazał latarkę„Groził mi paralizatorem"Latarka była narzędziem ochrony„Użył jej jako broni"Wilk nie użył funkcji paralizatora„Zagroził mi elektrycznością"Barbara wyłączyła prąd (prowokacja)„On mnie atakował"
+Moc zapisanego słowa przekręcenia:
+FaktZapis w KalendarzuWilk pokazał latarkę„Groził mi paralizatorem"Latarka była narzędziem ochrony„Użył jej jako broni"Wilk nie użył funkcji paralizatora„Zagroził mi elektrycznością"Wiedźma BaraBara wyłączyła prąd (prowokacja)„On mnie atakował"
 To jedno zdanie stało się jak chory korzeń, który wchodzi pod ziemię i zarasta wszystko wokół.
 
 Dwie wersje jednego mroku — sprzeczność, której nikt nie zauważył
 Kilka dni później na Polanie krążyły już dwie sprzeczne opowieści:
-Wersja 1 (Wiedźmy Barbary):
+Wersja 1 (Wiedźmy BaraBary):
 
 „Wilk sam spowodował zwarcie. Hałasował w warsztacie, coś się przepaliło, i dlatego wyłączyło prąd."
 
 Wersja 2 (Borsuka Bogdaszewskiego):
 
-„To Wiedźma Barbara wyłączyła światło."
+„To Wiedźma BaraBara wyłączyła światło."
 
 Borsuk Bogdaszewski — dzielnicowy, świadek mający odwagę mówić prawdę — zapisał to w notatce służbowej:
 
-„Barbara Adamska potwierdziła, że to ona wyłączyła główny bezpiecznik."
+„Wiedźma BaraBara potwierdziła, że to ona wyłączyła główny bezpiecznik."
 
 Dlaczego to jest kluczowe?
 Te dwie wersje wykluczają się wzajemnie:
 
-Albo Wilk spowodował zwarcie (wersja Barbary).
-Albo Barbara wyłączyła prąd (wersja Borsuка).
+Albo Wilk spowodował zwarcie (wersja Wiedźmy BaraBary).
+Albo Wiedźma BaraBara wyłączyła prąd (wersja Borsuка).
 
 Nie mogą być prawdziwe jednocześnie.
 
@@ -142,19 +142,19 @@ Nikt nie zapytał:
 
 Kto naprawdę zgasił światło tamtej nocy?
 Dlaczego są dwie wykluczające się wersje?
-Dlaczego Barbara najpierw mówi, że wyłączyła prąd, a potem, że to Wilk spowodował zwarcie?
+Dlaczego Wiedźma BaraBara najpierw mówi, że wyłączyła prąd, a potem, że to Wilk spowodował zwarcie?
 
 Nikt.
 Dlaczego?
-Bo liczył się tylko wpis w Kalendarzu Barbary — zaklęcie, które stało się ważniejsze niż fakty.
+Bo liczył się tylko wpis w Kalendarzu Wiedźmy BaraBary — formuła, która stała się ważniejsza niż fakty.
 
 Tak powstają legendy o winie
 Tak powstają legendy o winie, gdy prawdę zakrywa mrok cudzych słów.
 Mechanizm:
 
-Prowokacja (Barbara wyłącza prąd).
+Prowokacja (Wiedźma BaraBara wyłącza prąd).
 Reakcja (Wilk wychodzi z latarką, by przywrócić prąd).
-Dokumentacja (Barbara zapisuje w Kalendarzu: „Groził mi paralizatorem").
+Dokumentacja (Wiedźma BaraBara zapisuje w Kalendarzu: „Groził mi paralizatorem").
 Powielanie (Sroka Dorota roznosi wieść).
 Systemowa akceptacja (sąd przyjmuje wersję z Kalendarza jako prawdę).
 Prawda ginie (sprzeczności są ignorowane).
@@ -172,14 +172,14 @@ Patrzył na latarkę w dłoni — ta sama latarka, która miała go chronić, st
 Pułapka była szczelna.
 
 Epilog rozdziału: inscenizacja doskonała
-Inscenizacja z paralizatorem była arcydziełem Wiedźmy Barbary:
+Inscenizacja z paralizatorem była arcydziełem Wiedźmy BaraBary:
 
 Precyzyjna jak zegar.
-Bezbłędna jak zaklęcie.
+Bezbłędna jak podpis w aktach.
 Śmiertelna jak trucizna.
 
 Wilk nie wiedział, że to test generalny przed Nocą Ósmego Kręgu — nocą, która miała nastąpić za kilka miesięcy.
-Zuza i Lotka schowały się głęboko w Kocidomku i nie wychodziły przez cały wieczór.
+Zuza i Lotka schowały się głęboko w Kocidziupli i nie wychodziły przez cały wieczór.
 Stary Jeleń siedział w fotelu z zamkniętymi oczami, udając sen.
 A Kocioł Krzywd bulgotał głośniej niż kiedykolwiek — bo teraz miał już nowy składnik:
 
@@ -189,10 +189,10 @@ A Kocioł Krzywd bulgotał głośniej niż kiedykolwiek — bo teraz miał już 
 Prawda za baśnią
 Data: Marzec 2021
 Kluczowe elementy faktograficzne:
-Groźba od brata Barbary:
+Groźba od brata Wiedźmy BaraBary:
 
 Telefon z groźbą pobicia
-Przyczyna: Barbara opowiedziała mu swoją wersję wydarzeń
+Przyczyna: Wiedźma BaraBara opowiedziała mu swoją wersję wydarzeń
 Efekt: Dariusz kupuje latarkę z funkcją samoobrony
 
 Latarka taktyczna:
@@ -203,15 +203,15 @@ Nigdy nie została użyta jako broń
 
 Prowokacja — wyłączenie prądu:
 
-Barbara wyłączyła główny bezpiecznik w piwnicy
+Wiedźma BaraBara wyłączyła główny bezpiecznik w piwnicy
 Cel: sprowokować Dariusza do wyjścia z warsztatu
 Potwierdzenie: notatka służbowa dzielnicowego Bogdaszewskiego
 
 Dialog i pułapka:
 
-Barbara celowo zapytała o latarkę
+Wiedźma BaraBara celowo zapytała o latarkę
 Dariusz uczciwie odpowiedział, że ma funkcję samoobrony
-Barbara nie wykazała strachu — tylko satysfakcję
+Wiedźma BaraBara nie wykazała strachu — tylko satysfakcję
 
 Zapis w Kalendarzu:
 
@@ -219,8 +219,8 @@ Zapis w Kalendarzu:
 
 Sprzeczność 180°:
 
-Wersja 1 (Barbara w niektórych zeznaniach): „Dariusz spowodował zwarcie."
-Wersja 2 (Barbara w notatce policyjnej): „Ja wyłączyłam prąd."
+Wersja 1 (Wiedźma BaraBara w niektórych zeznaniach): „Dariusz spowodował zwarcie."
+Wersja 2 (Wiedźma BaraBara w notatce policyjnej): „Ja wyłączyłam prąd."
 Te wersje wykluczają się wzajemnie
 Sąd nie zauważył sprzeczności
 

@@ -1,7 +1,7 @@
 # Sąd Papieru
 
 **Typ:** Motyw narracyjny / systemowy / krytyczny
-**Powiązania:** Puszczyk Halager (sędzia Iwona Łuczak), Wilk Samotnik (Dariusz), Wiedźma Barabara (Barbara), Kalendarz Krzywd, Manipulacja systemem prawnym, Echo vs. Prawda, Zdrada Adwokata
+**Powiązania:** Puszczyk Halager (sędzia Iwona Łuczak), Wilk Samotnik (Dariusz), Wiedźma BaraBara, Kalendarz Krzywd, Manipulacja systemem prawnym, Echo vs. Prawda, Zdrada Adwokata
 
 **Opis:**
 Sąd Papieru to centralny motyw Polany Kłamstw: system prawny ślepo ufający dokumentom, ignorujący rzeczywistość. Sędzia widzi papiery, nie ludzi. Widzi protokoły, nie kontekst. Widzi wyroki, nie prawdę. Co jest zapisane na papierze — to jest prawda. Co nie jest zapisane — nie istnieje.
@@ -15,7 +15,7 @@ To jest ostrzeżenie: **w Sądzie Papieru papiery mówią głośniej niż ludzie
 Sąd Papieru rodzi się w systemie prawnym, który polega na dokumentacji. To nie jest wada — to jest konieczność. Sąd nie może polegać tylko na słowie, musi mieć dowody. Ale co się dzieje, gdy dowody są sfałszowane? Gdy dokumenty kłamią? Gdy echo jest zapisane, a prawda — nie?
 
 **Kalendarz Krzywd jako "obiektywny dowód":**
-Wiedźma (Barbara) prowadzi Kalendarz Krzywd od lutego 2021. To nie jest obiektywny zapis — to jest strategiczne narzędzie. Każde zdarzenie jest przekręcane. Prowokacje znikają. Reakcje Wilka są wzmacniane. Kontekst jest usuwany. Ale w Sądzie Papieru Kalendarz jest przyjmowany jako "dowód". Bo jest zapisany.
+Wiedźma BaraBara prowadzi Kalendarz Krzywd od lutego 2021. To nie jest obiektywny zapis — to jest strategiczne narzędzie. Każde zdarzenie jest przekręcane. Prowokacje znikają. Reakcje Wilka są wzmacniane. Kontekst jest usuwany. Ale w Sądzie Papieru Kalendarz jest przyjmowany jako "dowód". Bo jest zapisany.
 
 **Wyrok karny jako fundament wyroku cywilnego:**
 23.02.2024: Wilk (Dariusz) skazany za "uporczywe nękanie" w sprawie karnej (sygn. II K 575/23). Wyrok oparty na Niebieskiej Karcie, Kalendarzu Wiedźmy i sabotażu adwokata. Obrona nie składa kluczowych wniosków dowodowych. Prawda Wilka nie jest słyszana.
@@ -62,7 +62,7 @@ Sąd Rejonowy w Ostrowi Mazowieckiej (sygn. II K 575/23) wydaje wyrok: Wilk (Dar
 Sąd Papieru widzi papiery: NK + Kalendarz = dowód. Nie widzi kontekstu: spór majątkowy, prowokacje, manipulacja. Wyrok staje się papierem.
 
 **29.08.2025 — Wyrok cywilny (papier na papierze):**
-Sąd Okręgowy w Ostrołęce (sygn. I C 510/23, sędzia Iwona Łuczak / Puszczyk Halager) wydaje wyrok: Wilk musi opuścić dom nr 8 w ciągu 30 dni.
+Sąd Okręgowy w Ostrołęce (sygn. I C 510/23, sędzia Iwona Łuczak / Puszczyk Halager) wydaje wyrok: Wilk musi opuścić dziupla nr 8 w ciągu 30 dni.
 
 Wyrok opiera się na:
 - Wyroku karnym (23.02.2024) — papier #1
@@ -77,7 +77,7 @@ Puszczyk Halager nie kwestionuje:
 Sąd Papieru widzi tylko papiery. Papiery mówią: "Wilk jest agresorem, musi odejść". Wyrok potwierdza papiery. Prawda Wilka nie jest na papierze — więc nie istnieje w wyroku.
 
 **Wrzesień 2025 — Realizacja wyroku:**
-Wilk opuszcza dom. Sąd Papieru wygrał — papiery zostały wykonane. Ale czy sprawiedliwość zatriumfowała? Tylko jeśli sprawiedliwość = papiery.
+Wilk opuszcza dziupla. Sąd Papieru wygrał — papiery zostały wykonane. Ale czy sprawiedliwość zatriumfowała? Tylko jeśli sprawiedliwość = papiery.
 
 ## Powiązania z innymi motywami
 
@@ -101,7 +101,7 @@ Wiedźma używa Sądu Papieru jako narzędzia kontroli. Papiery (Kalendarz, wyro
 2. **Pierwsza machina** — Sąd karny (23.02.2024) przetwarza papiery → wyrok karny
 3. **Papier jako fundament** — Wyrok karny staje się papierem #1 dla sprawy cywilnej
 4. **Druga machina** — Sąd cywilny (29.08.2025, Puszczyk Halager) przetwarza papiery → wyrok cywilny
-5. **Realizacja papierów** — Wilk musi opuścić dom (wrzesień 2025)
+5. **Realizacja papierów** — Wilk musi opuścić dziupla (wrzesień 2025)
 
 **Przykład klasyczny:**
 Kalendarz Wiedźmy (papier subiektywny) → Niebieska Karta (papier proceduralny) → Wyrok karny (papier #1) → Wyrok cywilny oparty na papierze #1 (papier #2) → Sąd Papieru wykonał papiery, nie sprawiedliwość.

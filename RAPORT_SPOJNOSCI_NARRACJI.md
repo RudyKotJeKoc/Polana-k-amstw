@@ -1,13 +1,13 @@
 # Raport Spójności Narracji - Polana Kłamstw
 
-Data wygenerowania: 2025-11-23 09:57:46
+Data wygenerowania: 2026-01-09 13:14:22
 
 ## 📊 Statystyki
 
 - **Liczba rozdziałów:** 15
 - **Liczba wydarzeń w appendix:** 14
-- **Liczba znalezionych problemów:** 8
-- **Liczba postaci w bestiariuszu:** 19
+- **Liczba znalezionych problemów:** 6
+- **Liczba postaci w bestiariuszu:** 21
 
 ## ⚠️ Znalezione problemy
 
@@ -20,11 +20,9 @@ Data wygenerowania: 2025-11-23 09:57:46
 ### Daty z appendix nieznalezione w rozdziałach
 
 - ⚠️  Data 29.03.2021 (Prowokacja z Paralizatorem) z appendix nie występuje w żadnym rozdziale
-- ⚠️  Data 04.04.2021 (Ucieczka i Zimny Dom) z appendix nie występuje w żadnym rozdziale
+- ⚠️  Data 04.04.2021 (Ucieczka i Zimny Dziupla) z appendix nie występuje w żadnym rozdziale
 - ⚠️  Data 21.05.2021 (Odwrócony Triaż Priorytetów) z appendix nie występuje w żadnym rozdziale
-- ⚠️  Data 13.10.2021 (Zdrada (Wyrok Nakazowy)) z appendix nie występuje w żadnym rozdziale
 - ⚠️  Data 28.07.2021 (Ucieczka do Holandii) z appendix nie występuje w żadnym rozdziale
-- ⚠️  Data 29.04.2022 (sprawa I C 634/22.) z appendix nie występuje w żadnym rozdziale
 - ⚠️  Data 13.07.2025 (Dzień Sądu Ostatecznego) z appendix nie występuje w żadnym rozdziale
 
 **Wyjaśnienie:** Niektóre daty mogą być opisane słownie lub połączone w szersze sceny narracyjne.
@@ -40,84 +38,84 @@ Data wygenerowania: 2025-11-23 09:57:46
 ### Rozdział 1: Rozdział 1: Darowizna (7.07.2017) – Pakt z Naiwności
 
 - **Główne daty:** 7.07.2017, 7.07.2017
-- **Postacie:** Bobr, Wiedźma, Wilk
+- **Postacie:** BaraBary, Jeleń, Sylwester, Wiedźma, Wiedźma BaraBara, Wilk, Wilk-Budowniczy
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 2: Rozdział 2: Życie pod Cieniem Wiedźmy (2017–2021)
 
-- **Główne daty:** 2017-2021, 2017-2021
-- **Postacie:** Bobr, Dorota, Jaskółka, Jeleń, Martynka, Sroka, Wiedźma, Wilk
+- **Główne daty:** 2017-2021, 2017-2021, 2017-2021, 2017-2021
+- **Postacie:** BaraBary, Burek, Dorota, Jaskółka, Jeleń, Martynka, Sarenka, Sroka, Sylwester, Wiedźma
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 3: Rozdział 3: Pojawienie się Sarenki (Luty 2021)
 
-- **Główne daty:** Luty 2021, Luty 2021
-- **Postacie:** Julia, Sarenka, Wiedźma, Wilk
+- **Główne daty:** Luty 2021, Luty 2021, Luty 2021
+- **Postacie:** BaraBary, Dorota, Jeleń, Julia, Sarenka, Sroka, Wiedźma, Wiedźma BaraBara, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 4: Rozdział 4: Nocne Wtargnięcie (2:30 w nocy)
 
-- **Główne daty:** brak jawnych dat
-- **Postacie:** Wiedźma, Wilk
+- **Główne daty:** 10.02.2021, 7.07.2017
+- **Postacie:** BaraBary, Borsuk, Dorota, Jeleń, Julia, Puszczyk, Sarenka, Sroka, Wiedźma, Wiedźma BaraBara
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 5: Rozdział 5: Zaspawana Prawda
 
-- **Główne daty:** brak jawnych dat
-- **Postacie:** Dorota, Sroka, Wiedźma, Wilk
+- **Główne daty:** Kwiecień 2021, Kwiecień 2021
+- **Postacie:** BaraBary, Dorota, Sroka, Wiedźma, Wiedźma BaraBara, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 6: Rozdział 6: Inscenizacja z Paralizatorem (Marzec 2021)
 
-- **Główne daty:** Marzec 2021, Marzec 2021
-- **Postacie:** Borsuk, Wiedźma, Wilk
+- **Główne daty:** Marzec 2021, Marzec 2021, Marzec 2021
+- **Postacie:** BaraBary, Borsuk, Dorota, Jeleń, Sroka, Wiedźma, Wiedźma BaraBara, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
-### Rozdział 6.5: Ostatnie Zanurzenie Bobra
+### Rozdział 6.5: Rozdział 06A: Ostatnie Zanurzenie Wilka-Budowniczego (Interludium)
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Bobr, Jeleń, Wiedźma, Wilk
+- **Postacie:** BaraBary, Jeleń, Wiedźma, Wiedźma BaraBara, Wilk, Wilk-Budowniczy
 - **Źródło:** NOWY_KANON_ADAMOWO_2025
 
 ### Rozdział 7: Rozdział 7: Przejście do Ósmego Kręgu (Noc 17/18 Lipca)
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Bobr, Borsuk, Wiedźma, Wilk
+- **Postacie:** BaraBary, Borsuk, Jeleń, Sylwester, Wiedźma, Wiedźma BaraBara, Wilk, Wilk-Budowniczy
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
-### Rozdział 8: Rozdział 8: Hiena Domkowa i Zdrada na Sądowym Korytarzu
+### Rozdział 8: Rozdział 8: Hiena Dziuplowa i Zdrada na Sądowym Korytarzu
 
-- **Główne daty:** brak jawnych dat
-- **Postacie:** Domek, Hiena, Wiedźma, Wilk
+- **Główne daty:** 13.10.2021, 13.10.2021
+- **Postacie:** BaraBary, Borsuk, Domek, Hiena, Jeleń, Sarnecki, Wiedźma, Wiedźma BaraBara, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 9: Rozdział 9: Stary Jeleń – Marionetka
 
-- **Główne daty:** brak jawnych dat
-- **Postacie:** Jeleń, Sylwester, Wiedźma
+- **Główne daty:** 19.07.2021, 19.07.2021, 3.08.2021, 6.08.2021
+- **Postacie:** BaraBary, Jeleń, Martynka, Sylwester, Wiedźma, Wiedźma BaraBara, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 10: Rozdział 10: Puszczyk Halager i Sąd Papieru
 
-- **Główne daty:** brak jawnych dat
-- **Postacie:** Hiena, Jeleń, Puszczyk, Wiedźma, Wilk
+- **Główne daty:** 13.10.2021
+- **Postacie:** BaraBary, Hiena, Jeleń, Puszczyk, Wiedźma, Wiedźma BaraBara, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 11: Rozdział 11: Odejście Wilka
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** Jaskółka, Jeleń, Martynka, Wiedźma, Wilk
+- **Postacie:** BaraBary, Jaskółka, Jeleń, Martynka, Wiedźma, Wiedźma BaraBara, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 12: Rozdział 12: Pusta Polana
 
-- **Główne daty:** brak jawnych dat
-- **Postacie:** Dorota, Hiena, Jeleń, Sarenka, Sroka, Wiedźma, Wilk
+- **Główne daty:** 29.04.2022
+- **Postacie:** Dorota, Hiena, Jeleń, Sarenka, Sroka, Wiedźma, Wiedźma BaraBara, Wilk
 - **Źródło:** Polana_Klamstw_Kronika_Osmego_Kregu.md
 
 ### Rozdział 13: Rozdział 13: Służący Wiedźmy BaraBary
 
 - **Główne daty:** brak jawnych dat
-- **Postacie:** BaraBary, Wiedźma, Wilk
+- **Postacie:** BaraBary, Burek, Hiena, Jeleń, Wiedźma, Wiedźma BaraBara, Wilk
 - **Źródło:** Nowy_Kanon_BaraBary_2025
 

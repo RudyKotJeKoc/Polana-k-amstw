@@ -6,17 +6,17 @@ archetyp: "Samotny Strażnik / Protagonista Tragiczny"
 powiazane_symbole:
   - zaspawana-prawda
   - warsztat
-  - dom-numer-8
+  - dziupla-numer-8
 powiazane_motywy:
   - paradoks_wolnosci
   - milczenie_jako_bron
   - izolacja_obronna
   - odkupienie_przez_rezygnacje
 powiazane_postacie:
-  - barbara-adamska
+  - wiedzma-barabara-rzeczywista
   - stary-jelen-sylwester
   - sarenka-z-polany
-  - hiena-domkowa
+  - hiena-dziuplowa
 tagi:
   - izolacja
   - samotność
@@ -37,7 +37,7 @@ zrodla:
 **Imię faktyczne:** Dariusz Adamski (ur. ~1985)
 
 **Rola w baśni:**
-Protagonista i tragiczny bohater. Jedyny drapieżnik w lesie, który nie polował na słabszych – próbował tylko żyć. Osaczony, uciekł z własnego domu do warsztatu, a ostatecznie wybrał wolność ponad majątek.
+Protagonista i tragiczny bohater. Jedyny drapieżnik w lesie, który nie polował na słabszych – próbował tylko żyć. Osaczony, uciekł z własnego dziupli do warsztatu, a ostatecznie wybrał wolność ponad majątek.
 
 **Rzeczywista rola procesowa:**
 Obdarowany (darowizna z 7.07.2017), oskarżony w sprawie karnej II K 568/21 (znęcanie psychiczne), pozwany w sprawie cywilnej I C 634/22 o cofnięcie darowizny.
@@ -47,7 +47,7 @@ Obdarowany (darowizna z 7.07.2017), oskarżony w sprawie karnej II K 568/21 (zn�
 ## II. MOTYWACJA I PSYCHOLOGIA
 
 **Główna motywacja:**
-Pragnienie spokoju, autonomii i normalnego życia. Wieloletnie inwestycje w rodzinny dom (160-255 tys. zł) i troska o rodziców były wyrazem miłości i odpowiedzialności. Ostateczna decyzja o rezygnacji z majątku była wyborem zdrowia psychicznego i wolności nad toksyczną relacją.
+Pragnienie spokoju, autonomii i normalnego życia. Wieloletnie inwestycje w rodzinny dziupla (160-255 tys. zł) i troska o rodziców były wyrazem miłości i odpowiedzialności. Ostateczna decyzja o rezygnacji z majątku była wyborem zdrowia psychicznego i wolności nad toksyczną relacją.
 
 **Mechanizmy obrony (przedstawiane jako agresja):**
 
@@ -60,7 +60,7 @@ Pragnienie spokoju, autonomii i normalnego życia. Wieloletnie inwestycje w rodz
    - Interpretowane przez Wiedźmę jako "terroryzowanie milczeniem"
 
 2. **Izolacja fizyczna**
-   - Ucieczka z własnego domu do warsztatu
+   - Ucieczka z własnego dziupli do warsztatu
    - Spanie na starych drzwiach rzuconych na betonowej podłodze
    - Tracący powietrze materac - budzenie w zimnie każdej nocy
    - Pianka montażowa w szczelinach - desperacka próba odizolowania się
@@ -80,7 +80,7 @@ Pragnienie spokoju, autonomii i normalnego życia. Wieloletnie inwestycje w rodz
    - NIE składa apelacji po wyroku I instancji
    - Zgoda na cofnięcie darowizny jako "opłata za wolność"
    - Paradoks: przegrana materialna = zwycięstwo duchowe
-   - Rozumienie: odzyskanie domu = powrót do więzienia
+   - Rozumienie: odzyskanie dziupli = powrót do więzienia
 
 6. **Ostateczne odejście**
    - Wyjazd do Holandii na stałe
@@ -102,7 +102,7 @@ WILK SAMOTNIK (osaczony protagonista)
 ├── chroni → SARENKA (Julia, kuzynka)
 │   └── jej obecność staje się pretekstem do eskalacji
 │
-├── zdradzony przez → HIENA DOMKOWA (adwokat)
+├── zdradzony przez → HIENA DZIUPLOWA (adwokat)
 │   └── wymuszenie przyznania się na korytarzu (13.10.2021)
 │
 ├── źle broniony przez → SARNA SARNECKI (adwokat)
@@ -114,13 +114,13 @@ WILK SAMOTNIK (osaczony protagonista)
 
 **Dynamika z kluczowymi postaciami:**
 
-- **Wiedźma (Barbara):** Matka jako przeciwnik. Dawna opiekunka, która stała się architektką jego destrukcji. Jej obsesja kontroli zamieniła miłość w wojnę.
+- **Wiedźma BaraBara:** Matka jako przeciwnik. Dawna opiekunka, która stała się architektką jego destrukcji. Jej obsesja kontroli zamieniła miłość w wojnę.
 
-- **Papesmerf (Sylwester):** Ojciec jako nieobecny sojusznik. Sylwester po wylewie stał się narzędziem Barbary. Wilk stracił ojca nie fizycznie, ale psychicznie.
+- **Papesmerf (Sylwester):** Ojciec jako nieobecny sojusznik. Sylwester po wylewie stał się narzędziem Wiedźmy BaraBary. Wilk stracił ojca nie fizycznie, ale psychicznie.
 
 - **Sarenka (Julia):** Katalizator konfliktu. Jej pojawienie się w lutym 2021 ujawniło obsesję Wiedźmy. Wilk starał się ją chronić, ale ostatecznie (grudzień 2022, przed Wigilią) związek się rozpadł - trauma była zbyt wielka.
 
-- **Hiena Domkowa (Aleksander Domek):** Zdrajca. Adwokat, który 5 minut przed rozprawą (13.10.2021) wymusił na Wilku przyznanie się do winy. Zimne oczy, fałszywy uśmiech. Wyrok nakazowy stał się "koronnym dowodem" w sprawie cywilnej.
+- **Hiena Dziuplowa (Aleksander Domek):** Zdrajca. Adwokat, który 5 minut przed rozprawą (13.10.2021) wymusił na Wilku przyznanie się do winy. Zimne oczy, fałszywy uśmiech. Wyrok nakazowy stał się "koronnym dowodem" w sprawie cywilnej.
 
 - **Sarna Sarnecki (Michał Sarnecki):** Bierna zdrada. Drugi adwokat, który źle bronił Wilka. Konflikt interesów (znajomość z Hieną) ponad dobrem klienta.
 
@@ -142,7 +142,7 @@ WILK SAMOTNIK (osaczony protagonista)
 
 ### Scena 2: Nocne Wtargnięcie (10.02.2021, 2:30) - Reakcja Wilka
 
-> **Lokacja:** Pokój Wilka w Domu nr 8
+> **Lokacja:** Pokój Wilka w Dziupli nr 8
 >
 > Wiedźma wkracza w środku nocy, atakuje Julię werbalnie.
 >
@@ -154,9 +154,9 @@ WILK SAMOTNIK (osaczony protagonista)
 
 ### Scena 3: Zaspawanie Zamku (po 10.02.2021)
 
-> **Lokacja:** Zewnętrzna toaleta, Dom nr 8
+> **Lokacja:** Zewnętrzna toaleta, Dziupla nr 8
 >
-> Wilk ucieka z domu do warsztatu. Spanie na drzwiach, betonowa podłoga, zimno.
+> Wilk ucieka z dziupli do warsztatu. Spanie na drzwiach, betonowa podłoga, zimno.
 >
 > W akcie desperacji zaspawuje zamek w zewnętrznej toalecie.
 >
@@ -168,7 +168,7 @@ WILK SAMOTNIK (osaczony protagonista)
 
 > **Lokacja:** Korytarz sądowy
 >
-> Hiena Domkowa (adwokat) wykorzystuje stan psychiczny Wilka.
+> Hiena Dziuplowa (adwokat) wykorzystuje stan psychiczny Wilka.
 >
 > Fałszywa obietnica: *"Przyznaj się, a sprawa będzie zamknięta. To tylko formalność."*
 >
@@ -184,17 +184,17 @@ WILK SAMOTNIK (osaczony protagonista)
 
 > **Lokacja:** Droga do Holandii
 >
-> Wyrok wydany: dom wraca do rodziców.
+> Wyrok wydany: dziupla wraca do rodziców.
 >
 > Ku zaskoczeniu wszystkich: Wilk NIE składa apelacji.
 >
-> Zrozumienie: odzyskanie domu = powrót do więzienia. Wyrok jako "opłata za wolność".
+> Zrozumienie: odzyskanie dziupli = powrót do więzienia. Wyrok jako "opłata za wolność".
 >
-> Ciche pożegnanie z domem. W oczach Wiedźmy: pustka (straciła przeciwnika).
+> Ciche pożegnanie z dziuplą. W oczach Wiedźmy: pustka (straciła przeciwnika).
 >
 > Podróż do Holandii. Po raz pierwszy od lat: uczucie lekkości.
 >
-> Wilk: *"Straciłem dom. Odzyskałem siebie."*
+> Wilk: *"Straciłem dziupla. Odzyskałem siebie."*
 >
 > **Znaczenie:** Paradoks - przegrana materialna = zwycięstwo duchowe. Wolność cenniejsza niż majątek. Odejście jako jedyna prawdziwa wygrana.
 
@@ -221,7 +221,7 @@ WILK SAMOTNIK (osaczony protagonista)
 > *"Chciałem, żeby mieli spokój. Żeby wszystko wreszcie było w porządku."*
 > — O darowiźnie z 7.07.2017
 
-> *"Straciłem dom. Odzyskałem siebie."*
+> *"Straciłem dziupla. Odzyskałem siebie."*
 > — Po rezygnacji z apelacji, decyzja o odejściu
 
 ---
@@ -233,7 +233,7 @@ WILK SAMOTNIK (osaczony protagonista)
 Szare futro, oczy pełne smutku, ale niezłomne. Stoi w prawdzie, choć prawda nie chroni go przed echem kłamstw. Jego wycie to nie agresja – to krzyk o autonomię.
 
 **Warsztat jako Schronienie-Więzienie:**
-- Paradoks: właściciel domu śpi w warsztacie jak bezdomny
+- Paradoks: właściciel dziupli śpi w warsztacie jak bezdomny
 - Drzwi jako łóżko, tracący powietrze materac
 - Pianka montażowa w szczelinach - obrona przed wzrokiem Wiedźmy
 - Symbol desperacji: izolacja jako jedyna forma samoobrony
@@ -277,11 +277,11 @@ Dariusz Adamski to **nadzieja i ostrzeżenie**:
 Nie jest "idealnym bohaterem" - jest **człowiekiem złamanym**, który:
 - Próbował robić dobrze (darowizna, inwestycje, troska)
 - Został osaczony przez manipulację
-- Stracił wszystko: dom, relację z rodzicami, związek z Julią
+- Stracił wszystko: dziupla, relację z rodzicami, związek z Julią
 - Ostatecznie wybrał siebie i wolność
 
 **Lekcja baśni:**
-> *"Wilk nauczył się, że niektóre pola bitwy trzeba opuścić, by przetrwać. Wolność jest cenniejsza niż kamienie domu, w którym się dusisz."*
+> *"Wilk nauczył się, że niektóre pola bitwy trzeba opuścić, by przetrwać. Wolność jest cenniejsza niż kamienie dziupli, w którym się dusisz."*
 
 ---
 
@@ -290,7 +290,7 @@ Nie jest "idealnym bohaterem" - jest **człowiekiem złamanym**, który:
 **Sytuacja po wyroku (29.08.2025 i później):**
 
 ❌ **Strata materialna:**
-- Dom Adamowo 8 wrócił do rodziców
+- Dziupla Adamowo 8 wrócił do rodziców
 - Inwestycje (160-255 tys. zł) prawdopodobnie nie zostaną zwrócone
 - Wyrok karny II K 568/21 (znęcanie psychiczne) w aktach
 - Etykieta "sprawcy przemocy" w dokumentach
@@ -309,7 +309,7 @@ Nie jest "idealnym bohaterem" - jest **człowiekiem złamanym**, który:
 
 **Finał symboliczny:**
 
-Wilk na drodze do Holandii. Za nim - pusty dom, który kiedyś był jego. Przed nim - nieznane, ale wolne.
+Wilk na drodze do Holandii. Za nim - pusty dziupla, który kiedyś był jego. Przed nim - nieznane, ale wolne.
 
 Nie ma już Sarenki u boku. Nie ma rodziny. Nie ma majątku.
 

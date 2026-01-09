@@ -4,7 +4,7 @@ slug: "kalendarz-wiedzmy"
 kategoria: "artefakt"
 typ: "Precyzyjna broń procesowa"
 powiazane_postacie:
-  - barbara-adamska
+  - wiedzma-barabara-rzeczywista
   - sroka-dorota
 powiazane_motywy:
   - manipulacja_systemem_prawnym

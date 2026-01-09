@@ -1,5 +1,5 @@
-ROZWINIĘCIE POSTACI: BÓBR Z DUCHEM WILKA
-I. WYBÓR WARIANTU: "Bóbr z duchem Wilka w środku"
+ROZWINIĘCIE POSTACI: WILK-BUDOWNICZY Z DUCHEM WILKA
+I. WYBÓR WARIANTU: "Wilk-Budowniczy z duchem Wilka w środku"
 Dlaczego ten wariant jest najlepszy dla Twojej baśni:
 
 Dualność pasuje do Krajna Gothic – zewnętrzny spokój, wewnętrzna burza
@@ -16,15 +16,15 @@ Ale przyszli ludzie. Zbudowali młyn w Runowie. Spiętrzyli rzekę. Zaczęli osu
 Wilk patrzył, jak woda umiera. Patrzył, jak las się cofa. Patrzył, jak jego terytorium kurczy się każdego roku.
 Walczył. Atakował zapory. Straszył ludzi. Wyłamywał pale.
 Ale nic to nie dało. Bo nie da się zagryźć betonowej zapory. Nie da się przestraszyć człowieka, który ma plan melioracji.
-Pewnej nocy, stojąc na brzegu Łobżonki, Wilk zobaczył Bobra – starego, mądrego, który właśnie naprawiał tamę zniszczoną przez powódź.
+Pewnej nocy, stojąc na brzegu Łobżonki, Wilk zobaczył Wilka-Budowniczego – starego, mądrego, który właśnie naprawiał tamę zniszczoną przez powódź.
 I Wilk zrozumiał:
 "Świata nie uratuje się kłami. Świata uratuje się konstrukcją."
 Wszedł do wody. Zanurkowął głęboko. I już nie wypłynął jako Wilk.
-Wypłynął jako Bóbr – z ciałem budowniczego, ale z duchem łowcy.
+Wypłynął jako Wilk-Budowniczy – z ciałem budowniczego, ale z duchem łowcy.
 
 
 III. CHARAKTERYSTYKA POSTACI
-Zewnętrzna warstwa – BÓBR
+Zewnętrzna warstwa – WILK-BUDOWNICZY
 Wygląd fizyczny:
 
 Duży, stary, z futrem koloru mokrej kory
@@ -72,23 +72,23 @@ Instynkt dominacji nad terytorium
 
 IV. KONFLIKT WEWNĘTRZNY
 Napięcie między dwoma naturami:
-BÓBR (to, czym JEST)WILK (to, czym BYŁ)Buduj tamyZniszcz przeszkodyPracuj powoliAtakuj natychmiastChroń strukturęChroń terytoriumMyśl systemowoDziałaj instynktownieŻyj w społecznościŻyj samotnie
+WILK-BUDOWNICZY (to, czym JEST)WILK (to, czym BYŁ)Buduj tamyZniszcz przeszkodyPracuj powoliAtakuj natychmiastChroń strukturęChroń terytoriumMyśl systemowoDziałaj instynktownieŻyj w społecznościŻyj samotnie
 Kluczowe momenty konfliktu:
 Scena 1: Melioracja atakuje
 
-Bóbr: "Muszę zbudować przeciw-tamę, zbalansować system..."
+Wilk-Budowniczy: "Muszę zbudować przeciw-tamę, zbalansować system..."
 Wilk w środku: "ROZERWIJ TEN RÓW! TERAZ!"
-Rozwiązanie: Bóbr buduje, ale z wilczą furią – szybko, brutalnie skutecznie
+Rozwiązanie: Wilk-Budowniczy buduje, ale z wilczą furią – szybko, brutalnie skutecznie
 
 Scena 2: Samotność
 
-Bóbr: "Powinienem współpracować z innymi bobrami..."
+Wilk-Budowniczy: "Powinienem współpracować z innymi wilkami-budowniczymi..."
 Wilk w środku: "Nie potrzebujesz nikogo. Zawsze byłeś sam."
 Rozwiązanie: Działa z innymi, ale zawsze trzyma dystans
 
 Scena 3: Powódź pamięci
 
-Bóbr: "To tylko fizyczna woda, hydraulika..."
+Wilk-Budowniczy: "To tylko fizyczna woda, hydraulika..."
 Wilk w środku: "To GNIEW rzeki. Czujesz to?"
 Rozwiązanie: Łączy analizę techniczną z intuicją tropiciela
 
@@ -98,13 +98,13 @@ Jeleń – Zwiadowca Bagien
 Dynamika:
 
 Jeleń = młodość, ruch, gracja
-Bóbr = wiek, stabilność, ciężar
+Wilk-Budowniczy = wiek, stabilność, ciężar
 Wilk w środku ZAZDROŚCI lekkości Jelenia
 
 Dialog (przykład):
 
 Jeleń: "Dlaczego zawsze budujesz? Czasem trzeba po prostu biec!"
-Bóbr (powoli): "Bo biegnąc, niczego nie zatrzymasz."
+Wilk-Budowniczy (powoli): "Bo biegnąc, niczego nie zatrzymasz."
 Wilk w środku (szept, którego nikt nie słyszy): "Pamiętam, jak biegałem... jak wiatr..."
 
 Rzeka Łobżonka – Matka Przewinień
@@ -113,10 +113,10 @@ Relacja:
 Łobżonka pamięta go jako Wilka
 Wie, co się stało
 Czasami szepce: "Tęsknisz za kłami?"
-Bóbr odpowiada: "Tęsknię za tym, kim byłem. Ale nie wrócę."
+Wilk-Budowniczy odpowiada: "Tęsknię za tym, kim byłem. Ale nie wrócę."
 
 Ludzie – Intrusi
-Podejście Bobra:
+Podejście Wilka-Budowniczego:
 
 Rozumie, że ludzie nie są źli – są ignoranccy
 Próbuje naprawiać ich błędy, nie ich samych
@@ -135,7 +135,7 @@ Co reprezentuje ta postać:
 Transformacja trauma → narzędzie
 
 Wilk: trauma utraty kontroli
-Bóbr: przekucie gniewu w działanie
+Wilk-Budowniczy: przekucie gniewu w działanie
 
 
 Inżynieria emocjonalna
@@ -168,7 +168,7 @@ Martynka zobaczyła go przy Jelonku – wielkiego, mokrego, z gałęziami w zęb
 Budował coś metodycznie, spokojnie, jak inżynier.
 Ale oczy... oczy miał jak coś, co kiedyś polowało w ciemności.
 – Kim jesteś? – zapytała.
-Bóbr spojrzał na nią długo. Zbyt długo jak na zwierzę.
+Wilk-Budowniczy spojrzał na nią długo. Zbyt długo jak na zwierzę.
 – Tym, który naprawia – odparł. – Tym, co kiedyś strzegł, a teraz buduje.
 – A co się stało?
 – Nauczyłem się, że tamy są silniejsze niż kły.
@@ -177,7 +177,7 @@ Scena 2: GNIEW
 (moment, gdy Wilk wychodzi na powierzchnię)
 
 Ekskarator wjechał na mokradła. Zaczął ryć kolejny rów.
-Bóbr patrzył. Spokojnie. Liczył. Analizował.
+Wilk-Budowniczy patrzył. Spokojnie. Liczył. Analizował.
 Ale w środku coś warczało.
 – Mogę go zatrzymać – powiedział cicho. – Mogę zbudować przeciw-tamę, przekierować wodę, zalać jego szlak...
 – Ale chcesz go rozerwać – szepnęła Łobżonka.
@@ -192,7 +192,7 @@ Scena 3: PAMIĘĆ
 
 Martynka znalazła go nad starorzeczem – miejscem, gdzie Łobżonka kiedyś płynęła, a teraz była tylko wilgotna ziemia.
 – Pamiętasz to miejsce? – zapytała.
-– Pamiętam – odparł. – Tutaj pierwszy raz zobaczyłem bobra. Starego, mądrego. Budował tamę po powodzi.
+– Pamiętam – odparł. – Tutaj pierwszy raz zobaczyłem wilka-budowniczego. Starego, mądrego. Budował tamę po powodzi.
 – I pomyślałeś, że chcesz być jak on?
 – Nie. Pomyślałem, że nie chcę już być sobą.
 Milczał długo.
@@ -219,7 +219,7 @@ Ale w oczach widzisz głód
 Samotność jako siła i przekleństwo
 
 Działa sam, bo tak jest skuteczniej
-Ale tęskni za stadem (wilczym? bobrowym?)
+Ale tęskni za stadem (wilczym? wilczym-budowniczym?)
 
 
 Mądrość okupiona utratą
@@ -232,7 +232,7 @@ Ale zapłacił za to swoją dzikością
 
 IX. CYTATY-KLUCZE (do użycia w baśni)
 
-"Byłem Wilkiem. Teraz jestem Bobrem. Ale w środku? W środku wciąż poluje na to, czego nie mogę złapać."
+"Byłem Wilkiem. Teraz jestem Wilkiem-Budowniczym. Ale w środku? W środku wciąż poluje na to, czego nie mogę złapać."
 
 
 "Tama to nie tylko konstrukcja. To wszystko, co zatrzymujesz w sobie, żeby nie zalało świata."
@@ -244,11 +244,11 @@ IX. CYTATY-KLUCZE (do użycia w baśni)
 "Kiedyś wyłem do księżyca. Teraz tylko gryzie gałęzie. Ale gniew jest ten sam."
 
 
-"Wilk atakuje. Bóbr naprawia. Ja jestem oboma – i żadnym."
+"Wilk atakuje. Wilk-Budowniczy naprawia. Ja jestem oboma – i żadnym."
 
 
 X. PODSUMOWANIE: KIM JEST TWÓJ BOHATER
-Bóbr z duchem Wilka to:
+Wilk-Budowniczy z duchem Wilka to:
 ✅ Archetyp przemienionego strażnika
 
 Od agresji do konstrukcji

@@ -1,7 +1,7 @@
 # Zjawisko Dwóch Saren
 
 **Typ:** Zjawisko psychologiczne (trauma i przemiana tożsamości)
-**Powiązania:** Sarenka z Polany (Julia), Wilk Samotnik (Dariusz), Wiedźma Barabara, trauma Polany Kłamstw
+**Powiązania:** Sarenka z Polany (Julia), Wilk Samotnik (Dariusz), Wiedźma BaraBara, trauma Polany Kłamstw
 **Dotyczy:** Psychologicznej przemiany osoby po doświadczeniu traumy
 
 ## Opis
@@ -53,7 +53,7 @@ Zjawisko Dwóch Saren objawia się stopniowo przez cały okres, gdy Julia (Saren
 - Wiedźma zniszczyła nie tylko relację matka-syn, ale też miłość Wilka
 
 **Symboliczny obraz zjawiska:**
-> *"Pierwsza Sarenka weszła do Domu nr 8 pełna nadziei. Druga Sarenka wyszła z niego pusta. To samo ciało. Dwie różne istoty."*
+> *"Pierwsza Sarenka weszła do Dziupli nr 8 pełna nadziei. Druga Sarenka wyszła z niego pusta. To samo ciało. Dwie różne istoty."*
 
 ## Przebieg / Przykłady
 
@@ -93,7 +93,7 @@ Zjawisko Dwóch Saren objawia się stopniowo przez cały okres, gdy Julia (Saren
 - Pierwsza Sarenka nie istnieje już — została pochłonięta przez Polanę Kłamstw
 
 **Dla Wilka (Dariusza):**
-- Utrata nie tylko domu, ale też miłości
+- Utrata nie tylko dziupli, ale też miłości
 - Wiedźma zniszczyła nie tylko jego relację z rodzicami, ale też z Julią
 
 **Dla Polany Kłamstw:**

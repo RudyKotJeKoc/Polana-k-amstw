@@ -10,7 +10,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 ### Główni Bohaterowie
 
-#### BARBARA ADAMSKA ("Wiedźma Barabara")
+#### BARBARA ADAMSKA ("Wiedźma BaraBara")
 **Dokumenty główne:**
 - Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdziały: Prolog, 4, 5, 6, 7
 - Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.1, II (wszystkie akty)
@@ -41,7 +41,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - kontekst_4.md - reakcje obronne
 
 **Kluczowe tematy:**
-- Inwestycje w dom (160,000-255,000 zł)
+- Inwestycje w dziupla (160,000-255,000 zł)
 - Reakcje obronne (kamery, zamki, zaspawanie)
 - Pułapka bez wyjścia
 - Ucieczka do warsztatu
@@ -87,7 +87,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 ### Aktorzy Systemu Prawnego
 
-#### ALEKSANDER DOMEK ("Hiena Domkowa")
+#### ALEKSANDER DOMEK ("Hiena Dziuplowa")
 **Dokumenty główne:**
 - Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 8
 - Kronika_Polany_Klamstw_Anatomia_Rodzinnej_Tragedii.md - Sekcja I.5
@@ -148,7 +148,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 **Materiały źródłowe:**
 - kontekst_1.md - rola strategicznej doradczyni
-- kontekst_2.md - "megafon" Barbary
+- kontekst_2.md - "megafon" Wiedźmy BaraBary
 
 **Kluczowe tematy:**
 - Strategiczna doradczyni
@@ -183,7 +183,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 **Kluczowe tematy:**
 - Dzielnicowy
-- Odnotowanie wyłączenia prądu przez Barbarę
+- Odnotowanie wyłączenia prądu przez Wiedźmę BaraBarę
 - Rutynowe procedury
 - "Zakopywanie problemów"
 - Niebieska Karta
@@ -203,7 +203,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Akt darowizny
 - Służebność osobista (cały budynek mieszkalny)
 - Naiwność Dariusza
-- Start planowania Barbary
+- Start planowania Wiedźmy BaraBary
 
 ### 2017-2020 - Życie pod Cieniem
 
@@ -251,9 +251,9 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - kontekst_2.md - prowokacje
 
 **Kluczowe elementy:**
-- Groźby od brata Barbary
+- Groźby od brata Wiedźmy BaraBary
 - Latarka z funkcją paralizatora
-- Wyłączenie prądu przez Barbarę
+- Wyłączenie prądu przez Wiedźmę BaraBarę
 - Fałszywy zapis: "groził paralizatorem"
 
 **Marzec-Maj 2021 - Zaspawana Prawda**
@@ -276,7 +276,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Zły stan zdrowia Sylwestra
 - Priorytet: dowód procesowy
 - Kłótnia o kluczyki > wezwanie pogotowia
-- Obnażenie cynizmu Barbary
+- Obnażenie cynizmu Wiedźmy BaraBary
 
 ### 2021 - LIPIEC-SIERPIEŃ - Atak Prawny
 
@@ -312,7 +312,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 **Kluczowe elementy:**
 - Zeznanie Sylwestra na policji
 - "Dariusz mnie nie obraża, nie wyzywa"
-- Deklaracja Barbary: "chcę powrotu syna"
+- Deklaracja Wiedźmy BaraBary: "chcę powrotu syna"
 
 **6.08.2021 - Sprzeczność (część 2)**
 - Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 9
@@ -322,7 +322,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - 3 dni później!
 - List odwołujący darowiznę
 - "Syn kieruje wyzwiska wobec mnie"
-- Wezwanie do opuszczenia domu
+- Wezwanie do opuszczenia dziupli
 - Adnotacja o świadomości
 
 ### 2021 - PAŹDZIERNIK - Zdrada
@@ -330,7 +330,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 **13.10.2021 - Korytarz Sądowy**
 - Polana_Klamstw_Kronika_Osmego_Kregu.md - Rozdział 8
 - Anatomia - Sekcja II.3
-- kontekst_1.md - Hiena Domkowa
+- kontekst_1.md - Hiena Dziuplowa
 
 **Kluczowe elementy:**
 - 5 minut przed rozprawą
@@ -373,7 +373,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 **Kluczowe elementy:**
 - Świadoma decyzja
 - "Opłata za wolność"
-- Odzyskanie domu = powrót do więzienia
+- Odzyskanie dziupli = powrót do więzienia
 - Wybór zdrowia psychicznego
 
 **Emigracja do Holandii**
@@ -392,7 +392,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Przewodnik - Sekcja 5.0
 
 **Kluczowe elementy:**
-- Barbara sama w pustym domu
+- Wiedźma BaraBara sama w pustym dziupli
 - Cisza własnego zwycięstwa
 - Obciążenie finansowe
 - Sojusznicy odeszli
@@ -435,7 +435,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - Symbolika
 - Akt desperacji
 - Manifest
-- Interpretacja Barbary
+- Interpretacja Wiedźmy BaraBary
 
 #### Cyfry 7 i 8
 - Kronika - tytuł, Rozdział 1, 7, Epilog
@@ -443,7 +443,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 
 **Gdzie szukać:**
 - 7.07.2017 - nadzieja
-- Dom nr 8 - pętla
+- Dziupla nr 8 - pętla
 - Ósmy Krąg Dantego
 - Nieskończoność konfliktu
 
@@ -455,7 +455,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - kontekst_2.md
 
 **Gdzie szukać:**
-- Profil Barbary
+- Profil Wiedźmy BaraBary
 - Nocne wtargnięcia
 - Inwigilacja
 - Reakcja na utratę władzy
@@ -484,7 +484,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - kontekst_1.md
 
 **Gdzie szukać:**
-- Obsesja Barbary o Julię
+- Obsesja Wiedźmy BaraBary o Julię
 - Pchnięcie Dariusza i Julii ku sobie
 - Stworzenie związku, którego nienawidziła
 
@@ -564,7 +564,7 @@ Ten indeks pomaga w nawigacji po wszystkich dostępnych materiałach projektu "P
 - POLANA_KLAMSTW_KOMPLETNA_KRONIKA - Sekcje 5.6, 5.7
 
 **Gdzie szukać:**
-- Puste zwycięstwo Barbary
+- Puste zwycięstwo Wiedźmy BaraBary
 - Wolność Wilka w przegranej
 - Co naprawdę jest wartościowe?
 - Odwaga odejścia

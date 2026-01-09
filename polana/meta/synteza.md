@@ -14,7 +14,7 @@ Projekt "Polana Kłamstw" składa się z **8 głównych dokumentów**, które mo
 
 ### MATERIAŁY ŹRÓDŁOWE (5 dokumentów kontekst_1.md-5):
 4. **kontekst_1.md** - szczegółowa analiza postaci drugoplanowych
-5. **kontekst_2.md** - profil psychologiczny Barbary Adamskiej
+5. **kontekst_2.md** - profil psychologiczny Wiedźmy BaraBary
 6. **kontekst_3.md** - chronologia, dowody, dokumentacja
 7. **kontekst_4.md** - analiza systemowa i prawna
 8. **kontekst_5.md** - materiały uzupełniające
@@ -85,7 +85,7 @@ Stworzenie jednego, kompleksowego dokumentu, który **nie zastępuje** istnieją
 6. **Rezultat/los** (co z nimi zostało)
 
 **Kolejność postaci (od najważniejszych):**
-1. **Barbara Adamska** (Wiedźma) - 8-10 stron
+1. **Wiedźma BaraBara** (Wiedźma) - 8-10 stron
    - Obsesyjna kontrolerka
    - Mistrzyni prowokacji
    - Kalendarz jako broń
@@ -106,7 +106,7 @@ Stworzenie jednego, kompleksowego dokumentu, który **nie zastępuje** istnieją
 4. **Julia Kowalska** (Sarenka) - 3-4 stron
    - Niewinny katalizator
    - Samospełniająca się przepowiednia
-   - Ofiara obsesji Barbary
+   - Ofiara obsesji Wiedźmy BaraBary
 
 5. **Aleksander Domek** (Hiena) - 4-5 stron
    - Zdrada klienta
@@ -156,7 +156,7 @@ Stworzenie jednego, kompleksowego dokumentu, który **nie zastępuje** istnieją
 - Symbol gnijącej prawdy
 
 **Rozdział 6: Inscenizacja z Paralizatorem (Marzec 2021)**
-- Groźby od brata Barbary
+- Groźby od brata Wiedźmy BaraBary
 - Wyłączenie prądu (prowokacja)
 - Fałszywe oskarżenie
 - Dokumentacja w Kalendarzu
@@ -210,7 +210,7 @@ Stworzenie jednego, kompleksowego dokumentu, który **nie zastępuje** istnieją
 - Prawdziwa wolność
 
 **Rozdział 15: Pusta Polana**
-- Barbara w pustym domu
+- Wiedźma BaraBara w pustym dziupli
 - Sojusznicy odeszli
 - Cisza własnego zwycięstwa
 - Pyrrusowe królestwo
@@ -268,13 +268,13 @@ Stworzenie jednego, kompleksowego dokumentu, który **nie zastępuje** istnieją
 **Cel:** Uniwersalne wnioski i przestrogi
 
 **Rozdział 1: Echo Cyfr 7 i 8**
-- Od nadziei (7.07.2017) do pętli (dom nr 8)
+- Od nadziei (7.07.2017) do pętli (dziupla nr 8)
 - Ósmy Krąg Dantego
 - Nieskończoność konfliktu
 - Jedyne wyjście: przerwać grę
 
 **Rozdział 2: Paradoks Zwycięstwa**
-- Puste zwycięstwo Barbary
+- Puste zwycięstwo Wiedźmy BaraBary
 - Wolność Wilka w przegranej
 - Co jest naprawdę wartościowe?
 - Definicja wygranej
@@ -294,7 +294,7 @@ Stworzenie jednego, kompleksowego dokumentu, który **nie zastępuje** istnieją
 - Kiedy walczyć, kiedy odejść
 
 **Rozdział 5: Epilog - Gdzie Są Teraz**
-- Barbara: w pustym domu
+- Wiedźma BaraBara: w pustym dziupli
 - Dariusz i Julia: w Holandii
 - Sylwester: cień
 - Inni: rozproszeni
@@ -348,7 +348,7 @@ Zamiast jednego master dokumentu, stworzyć serię krótszych, tematycznych opra
 ### Możliwe tytuły i tematy:
 
 **1. "Anatomia Manipulacji: Jak Działa Kocioł Krzywd"**
-- Profile manipulatora (Barbara)
+- Profile manipulatora (Wiedźma BaraBara)
 - Techniki prowokacji
 - Kalendarz jako broń
 - Jak się bronić
@@ -486,7 +486,7 @@ Wykorzystać materiały do stworzenia różnych form przekazu.
    *Literackie wprowadzenie w stylu baśniowym*
 
 2. Geografia Konfliktu  
-   *Dom pod numerem 8, Polana Adamowo*
+   *Dziupla pod numerem 8, Polana Adamowo*
 
 3. Prawa Rządzące Polaną  
    - Prawo Echa  
@@ -505,7 +505,7 @@ Wykorzystać materiały do stworzenia różnych form przekazu.
 
 **CZĘŚĆ II: DRAMATIS PERSONAE** (30-40 stron)
 
-6. Wiedźma Barabara (Barbara Adamska)
+6. Wiedźma BaraBara
    - Profil psychologiczny  
    - Obsesyjna kontrolerka  
    - Strategiczna kronikarka  
@@ -539,7 +539,7 @@ Wykorzystać materiały do stworzenia różnych form przekazu.
    - Ofiara obsesji
 
 10. Aktorzy Systemu  
-    - Hiena Domkowa (Aleksander Domek)  
+    - Hiena Dziuplowa (Aleksander Domek)  
     - Sarna Sarnecki (Michał Sarnecki)  
     - Puszczyk Halager (sędzia)  
     - Sroka Dorota (Dorota Kowalska)  
@@ -646,15 +646,15 @@ wtargnęła do pokoju, gdzie spał Wilk z Sarenką...
 
 Dokładna rekonstrukcja wydarzenia:
 - Data: 10 lutego 2021, godzina 2:30
-- Miejsce: pokój Dariusza w domu Adamowo 8
-- Obecni: Dariusz Adamski, Julia Kowalska, Barbara Adamska
+- Miejsce: pokój Dariusza w dziupli Adamowo 8
+- Obecni: Dariusz Adamski, Julia Kowalska, Wiedźma BaraBara
 
-Barbara Adamska, bez pukania lub uprzedzenia, otworzyła 
+Wiedźma BaraBara, bez pukania lub uprzedzenia, otworzyła 
 drzwi do prywatnej sypialni syna i jego partnerki...
 
 ### Analiza [z kontekstów i Przewodnika]
 
-To wydarzenie było kluczową prowokacją w strategii Barbary. 
+To wydarzenie było kluczową prowokacją w strategii Wiedźmy BaraBary. 
 Celowo naruszając ostatni skrawek prywatności, zmuszała 
 Dariusza do gwałtownej reakcji, którą następnie mogła 
 udokumentować jako dowód "agresji"...
@@ -675,12 +675,12 @@ Przedstawiać kluczowe wydarzenia z różnych punktów widzenia:
 ### Wersja Sylwestra (3.08.2021, zeznanie na policji):
 > "Dariusz mnie nie obraża, nie wyzywa. On mnie ignoruje."
 
-### Wersja Barbary (6.08.2021, list w imieniu Sylwestra):
+### Wersja Wiedźmy BaraBary (6.08.2021, list w imieniu Sylwestra):
 > "Mój syn kieruje wyzwiska wobec mnie."
 
 ### Analiza sprzeczności:
 Odstęp: 3 dni
-Wniosek: Drastyczna zmiana narracji = kontrola Barbary
+Wniosek: Drastyczna zmiana narracji = kontrola Wiedźmy BaraBary
 Implikacje prawne: Kwestionowanie świadomości Sylwestra
 ```
 

@@ -14,7 +14,7 @@ Stary Jeleń Sylwester siedział przed kamerą. Mały obiektyw — czarny, okrą
 
 Sylwester patrzył na tę lampkę. Ona patrzyła z powrotem.
 
-Wiedźma Barbara siedziała obok. Jej krzesło było bliżej, niż powinno. Sylwester czuł jej oddech — nie słyszał, ale czuł. Ciepły. Miarowy. Kontrolowany.
+Wiedźma BaraBara siedziała obok. Jej krzesło było bliżej, niż powinno. Sylwester czuł jej oddech — nie słyszał, ale czuł. Ciepły. Miarowy. Kontrolowany.
 
 Na ekranie monitora była Sędzia. Daleko. Nie fizycznie daleko — daleko w inny sposób. Jakby była za szkłem, które przepuszcza światło, ale nie dźwięk. Nie prawdę.
 
@@ -62,7 +62,7 @@ Sylwester spojrzał na Wiedźmę. Nie celowo — po prostu jego oczy same się o
 
 Wiedźma skinęła głową. Lekko. Prawie niezauważalnie. Ale Sylwester to zobaczył. I Sędzia też zobaczyła.
 
-Sylwester (powoli): — To o... domu.
+Sylwester (powoli): — To o... dziupli.
 
 Sędzia: — O cofnięciu darowizny. Pamięta pan?
 
@@ -104,9 +104,9 @@ Ale nikt nie słucha.
 
 Godzinę później — albo może trzy godziny, Sylwester nie był pewien — Sędzia zadała kolejne pytanie.
 
-Sędzia: — Panie Sylwestrze, czy pamięta pan, że darował pan dom synowi?
+Sędzia: — Panie Sylwestrze, czy pamięta pan, że darował pan dziupla synowi?
 
-Sylwester (niepewnie): — Tak... dałem mu dom.
+Sylwester (niepewnie): — Tak... dałem mu dziupla.
 
 Sędzia: — Czy syn pana obrażał?
 
@@ -202,15 +202,15 @@ Jakby kamera pamiętała. Jakby zapisała nie tylko obraz, ale coś więcej. Co�
 
 ### Cisza
 
-Po rozprawie dom był cichszy niż zwykle.
+Po rozprawie dziupla był cichszy niż zwykle.
 
 Nie cichszy dźwiękowo — po prostu cisza miała inny ciężar. Gęstszy. Trudniejszy do przebicia.
 
-Sylwester chodził po pokojach i czuł, że dom się od niego odwraca. Że każdy krok jest za głośny. Że każdy oddech zabiera za dużo miejsca.
+Sylwester chodził po pokojach i czuł, że dziupla się od niego odwraca. Że każdy krok jest za głośny. Że każdy oddech zabiera za dużo miejsca.
 
 Drzwi trzeszczały inaczej. Światło padało pod dziwnym kątem.
 
-To nie była magia. To nie było nic nadprzyrodzonego.
+To nie była moc zapisanego słowa. To nie było nic nadprzyrodzonego.
 
 To była fizyczna obecność tego, co się stało.
 

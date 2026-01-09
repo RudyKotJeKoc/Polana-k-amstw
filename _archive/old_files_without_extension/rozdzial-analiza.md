@@ -99,7 +99,7 @@ To **lżejsza, bardziej ironiczna** wersja tego samego motywu. Działa jako:
 > *"Niektórzy mówili, że Sylvestur zbiera szyszki, bo chce zbudować fortecę.
 > Inni twierdzili, że to armia szyszek bojowych.
 > Ale prawda była prostsza:
-> to był pierwszy przedmiot w jego życiu, którego Barabara nie mogła mu odebrać."*
+> to był pierwszy przedmiot w jego życiu, którego BaraBara nie mogła mu odebrać."*
 
 **Efekt:**
 - Humor łagodzi dramat, ale **nie trywializuje**
@@ -134,7 +134,7 @@ Ten fragment dotyka **kluczowego mechanizmu psychologicznego**:
 
 **Przykłady z rzeczywistości:**
 - Więźniowie układający kamienie w celach
-- Dzieci w toksycznych domach tworzące "tajne miejsca"
+- Dzieci w toksycznych dziuplach tworzące "tajne miejsca"
 - Osoby w relacjach przemocowych zbierające dokumenty, pamiętniki, dowody
 
 **Sylwester zbierający szyszki = Dariusz zbierający dowody.**
@@ -149,7 +149,7 @@ To **doskonała paralela** między baśnią a rzeczywistością.
 
 **Struktura:**
 1. **Scena obecna:** Sylwestur zbiera szyszki
-2. **Flashback:** Moment, gdy Barbara odebrała mu ostatni kawałek autonomii
+2. **Flashback:** Moment, gdy Wiedźma BaraBara odebrała mu ostatni kawałek autonomii
 3. **Powrót do teraźniejszości:** Pierwsza szyszka w dłoni
 4. **Monolog wewnętrzny:** *"Ta szyszka jest moja. Tylko moja."*
 
@@ -169,7 +169,7 @@ To **doskonała paralela** między baśnią a rzeczywistością.
 > których nigdy nie mógł powiedzieć na głos.
 > 
 > Mówi się, że gdy uzbiera ich sto,
-> Barabara po raz pierwszy usłyszy to, czego od lat nie słyszała:
+> BaraBara po raz pierwszy usłyszy to, czego od lat nie słyszała:
 > 
 > jego własny głos."*
 
@@ -199,11 +199,11 @@ którego nigdy nie wypowiedział, bo jego głos należał do Barabary.
 
 **Legenda:**
 Mówi się, że gdy Sylvestur uzbiera sto szyszek, 
-Barabara po raz pierwszy od lat usłyszy jego prawdziwy głos.
+BaraBara po raz pierwszy od lat usłyszy jego prawdziwy głos.
 
 Ale nikt nie wie, co się stanie, gdy to nastąpi.
 
-**Powiązane postaci:** Sylvestur, Barabara, Wilk  
+**Powiązane postaci:** Sylvestur, BaraBara, Wilk  
 **Powiązane lokacje:** Las, Muszla Słazara  
 ```
 
@@ -218,7 +218,7 @@ Ale nikt nie wie, co się stanie, gdy to nastąpi.
 > 
 > Ale w baśni Sylvestur zbiera szyszki,
 > bo każda z nich jest małą decyzją,
-> której Barabara nie może kontrolować."*
+> której BaraBara nie może kontrolować."*
 
 ---
 
@@ -297,7 +297,7 @@ Każda szyszka zebrana przez Sylvestura reprezentuje jedno zdanie,
 którego nie mógł wypowiedzieć, bo jego głos należał do Barabary.
 
 Legenda mówi, że gdy Sylvestur uzbiera sto szyszek,
-Barabara po raz pierwszy usłyszy jego prawdziwy głos.
+BaraBara po raz pierwszy usłyszy jego prawdziwy głos.
 
 Ale nikt nie wie, co się wtedy stanie.
 ```
@@ -334,7 +334,7 @@ Gdy człowiek traci autonomię, zaczyna kontrolować
 to, co jeszcze może kontrolować.
 
 Więźniowie układają kamienie.
-Dzieci w toksycznych domach tworzą tajne miejsca.
+Dzieci w toksycznych dziuplach tworzą tajne miejsca.
 Sylwester zbiera szyszki.
 
 To nie musi zmieniać rzeczywistości, żeby było ważne.
@@ -351,7 +351,7 @@ Bo kto nie ma głosu, mówi działaniem.
 **1. Dodaj "Rozdział II: Cisza Sylwestura" do baśni**
 - Scena zbierania szyszek
 - Monolog lasu jako narratora
-- Kontrast: Barabara krzyczy, Sylwestur zbiera w ciszy
+- Kontrast: BaraBara krzyczy, Sylwestur zbiera w ciszy
 
 **2. Stwórz wpis w bestiariuszu**
 - Format: Artefakt symboliczny

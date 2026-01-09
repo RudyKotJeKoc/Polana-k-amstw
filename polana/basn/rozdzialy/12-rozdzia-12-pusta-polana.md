@@ -18,8 +18,8 @@ Cisza po wszystkim
 Po odejściu Wilka Polana Kłamstw zapadła w ciszę — nie tę oczyszczającą, leśną, lecz ciszę pustki.
 Ciszę, która nie niesie spokoju, lecz prawdę o tym, że nie ma już nic, co mogłoby krzyczeć.
 
-Wiedźma Barabara, dumna ze swojego „zwycięstwa”, stała pośrodku domu jak władczyni bez królestwa.
-Rozejrzała się wokół i po raz pierwszy zobaczyła coś, czego nie przewidziała żadnym zaklęciem:
+Wiedźma BaraBara, dumna ze swojego „zwycięstwa”, stała pośrodku Dziupli jak władczyni bez królestwa.
+Rozejrzała się wokół i po raz pierwszy zobaczyła coś, czego nie przewidziała żadną formułą:
 
 była sama.
 
@@ -27,16 +27,16 @@ Jej sojusznicy — ci, którzy żywili się konfliktem jak padlinożercy — zni
 
 – Sroka Dorota znalazła nowe plotki.
 – Bociany odleciały, bo nikt nie chce gniazdować w miejscu, gdzie powietrze jest skażone gniewem.
-– Hiena Domkowa rozpłynął się, gdy skończył się interes.
+– Hiena Dziuplowa rozpłynął się, gdy skończył się interes.
 
-A dom?
+A dziupla?
 
-Dom, o który walczyła jak o koronę, okazał się więzieniem.
+Dziupla, o którą walczyła jak o koronę, okazała się więzieniem.
 Nie trofeum.
 Nie przystanią.
 Więzieniem — ze ścianami zimniejszymi niż warsztat, z którego wygnano Wilka.
 
-I dopiero wtedy Barabara poczuła kolejne ukłucie:
+I dopiero wtedy BaraBara poczuła kolejne ukłucie:
 
 nad jej głową tykała prawna bomba zegarowa — konieczność rozliczenia inwestycji Wilka.
 Setek tysięcy złotych.
@@ -47,7 +47,7 @@ Kocioł, który zgasł
 Kocioł Krzywd, w którym przez lata warzyła swoje narracje, wygasł.
 Nie dlatego, że zabrakło opału, ale dlatego, że nie było już kogo gotować.
 
-Barabara siedziała w pustym domu, wsłuchując się w to, czego bała się najbardziej:
+BaraBara siedziała w pustej Dziupli, wsłuchując się w to, czego bała się najbardziej:
 
 ciszę własnego zwycięstwa.
 
@@ -63,12 +63,12 @@ Czas na Polanie nie zatrzymał się — tylko stał się senny, mętny, jakby dr
 
 Wilk odszedł do Holandii.
 Sam.
-Bez domu, ale z wolnością, która była warta wszystkiego.
+Bez Dziupli, ale z wolnością, która była warta wszystkiego.
 
 Sarenka odeszła wcześniej — grudzień 2022, przed Wigilią.
 Polana Kłamstw przepaliła ją emocjonalnie jak płomień przesuszony papier.
 
-Wiedźma Barabara zniszczyła nie tylko relację z synem.
+Wiedźma BaraBara zniszczyła nie tylko relację z synem.
 
 Zniszczyła też jego miłość.
 
@@ -89,7 +89,7 @@ Ale prawdziwa.
 4. Czasem jedyne zwycięstwo to odejście.
 
 Wszystko wraca do symboliki kręgu ósemki — pętli bez końca, która żywi się sobą.
-Barabara weszła w tę pętlę, wygrała ją… i została w niej uwięziona.
+BaraBara weszła w tę pętlę, wygrała ją… i została w niej uwięziona.
 
 A historia pozostawia jedno, ostatnie ostrzeżenie:
 

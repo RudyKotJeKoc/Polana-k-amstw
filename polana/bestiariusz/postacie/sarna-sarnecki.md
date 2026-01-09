@@ -1,11 +1,11 @@
 # Sarna Sarnecki (Michał Sarnecki)
 
 **Typ:** Bierny Kolaborant / Adwokat Zaniedbujący
-**Powiązania:** Wilk Samotnik (klient), Hiena Domkowa (kolega/znajomy), Konflikt interesów
+**Powiązania:** Wilk Samotnik (klient), Hiena Dziuplowa (kolega/znajomy), Konflikt interesów
 
 ## Opis
 
-Sarna Sarnecki (Michał Sarnecki) to drugi adwokat Dariusza (Wilka) w sprawie cywilnej I C 634/22, który reprezentuje **bierną zdradę** — zaniedbanie klienta przez konflikt interesów i brak zaangażowania. W przeciwieństwie do Hieny Domkowej (aktywna zdrada na korytarzu), Sarna Sarnecki reprezentuje **bierny kolaborantyzm** — obrona tak słaba, że wydaje się brakiem obrony.
+Sarna Sarnecki (Michał Sarnecki) to drugi adwokat Dariusza (Wilka) w sprawie cywilnej I C 634/22, który reprezentuje **bierną zdradę** — zaniedbanie klienta przez konflikt interesów i brak zaangażowania. W przeciwieństwie do Hieny Dziuplowej (aktywna zdrada na korytarzu), Sarna Sarnecki reprezentuje **bierny kolaborantyzm** — obrona tak słaba, że wydaje się brakiem obrony.
 
 Sarna jako zwierzę jest płochliwa, ucieka przed konfrontacją. Sarna Sarnecki również ucieka — przed trudnymi pytaniami, przed agresywną obroną, przed konfliktem z systemem. **Konflikt interesów** (znajomość z Hieną Domkową) sprawia, że jego obrona jest fasadą, nie rzeczywistym wsparciem.
 

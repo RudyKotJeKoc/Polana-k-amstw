@@ -9,7 +9,7 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 Rozdział 5: Zaspawana Prawda (Marzec–Kwiecień 2021)
 (wersja baśniowa, rozbudowana, pełna symboliki)
 
-Gdy nocne wtargnięcia, szepty zza drzwi i cień Wiedźmy Barbary weszły Wilkowi pod skórę jak kolce jeżyny, przyszedł dzień, w którym już nie dał rady stawać do tej samej walki.
+Gdy nocne wtargnięcia, szepty zza drzwi i cień Wiedźmy BaraBary weszły Wilkowi pod skórę jak kolce jeżyny, przyszedł dzień, w którym już nie dał rady stawać do tej samej walki.
 Nie było to nagłe załamanie.
 Było to powolne erozja duszy — jak kamień szlifowany wodą przez lata, aż w końcu pęka.
 
@@ -27,12 +27,13 @@ Na betonowej podłodze leżały stare drzwi, które stały się jego posłaniem.
 Na nich cienki materac, który syczał i tracił powietrze każdej nocy, jakby też miał dość bycia częścią tej historii.
 To nie było mieszkanie.
 To była cela dobrowolna — wybrana, bo jedyna bezpieczna.
+Gdy w warsztacie gasło światło, awarie instalacji brzmiały jak oddech uwięzionego budynku.
 
 Uszczelnianie świata — pianka montażowa jako granica
 Wilk uszczelniał zimne ściany pianką montażową, próbując zagrodzić drogę:
 
 Mrozowi — bo nie miał gdzie włączyć grzejnika.
-Wzrokowi Wiedźmy Barbary — bo czuł, że nawet przez ściany potrafi patrzeć.
+Wzrokowi Wiedźmy BaraBary — bo czuł, że nawet przez ściany potrafi patrzeć.
 
 Każda szczelina, którą zakleił, była jak rana, którą sam sobie opatrzył.
 Każda warstwa pianki była jak kolejny mur między nim a światem, który przestał mieć sens.
@@ -55,7 +56,7 @@ Podszedł do zewnętrznej toalety — miejsca, które od miesięcy było świadk
 
 Szeptów.
 Podejrzeń.
-Zaklęć rzucanych zza pleców.
+Formuł szeptanych zza pleców.
 
 Kilka iskier.
 Kilka cięć.
@@ -73,7 +74,7 @@ Co to naprawdę znaczyło?
 To był krzyk człowieka, który widział, jak:
 
 Jego słowa giną w powietrzu.
-Fakty obracają się przeciwko niemu jak zaklęcia odbite od lustra.
+Fakty obracają się przeciwko niemu jak pieczęcie odbite od lustra.
 Prawda gnijąca w środku — bo nie ma sposobu, by ją wyrzucić, by ktoś ją usłyszał, by system ją zauważył.
 
 Toaleta była metaforą:
@@ -83,8 +84,8 @@ Ale gdy nie ma wyjścia — wszystko zostaje w środku i gnije.
 
 Zaspawany zamek = niemożność oczyszczenia się z kłamstw, oskarżeń, manipulacji.
 
-Wiedźma Barbara zbiera diamenty
-Nie minęła nawet doba, gdy Wiedźma Barbara dostrzegła w tym geście to, czego szukała — kolejny „dowód", który można wrzucić do Kotła Krzywd.
+Wiedźma BaraBara zbiera diamenty
+Nie minęła nawet doba, gdy Wiedźma BaraBara dostrzegła w tym geście to, czego szukała — kolejny „dowód", który można wrzucić do Kotła Krzywd.
 Co zobaczyła?
 W jej oczach zaspawany zamek był skarbem:
 
@@ -93,7 +94,7 @@ Drogocennym kamieniem.
 Idealnie pasującym do mozaiki, jaką tworzyła od lat.
 
 Co zrobiła?
-Otworzyła Kalendarz, rozłożyła go na stole jak świętą księgę i zapisała swoje własne zaklęcie:
+Otworzyła Kalendarz, rozłożyła go na stole jak świętą księgę i zapisała swoją własną formułę:
 
 „Syn zaspawał toaletę. To znak obłędu i agresji."
 
@@ -105,9 +106,9 @@ Sroka Dorota, która zawsze krążyła nad Polaną jak zwiastun nieszczęść, s
 Wraz z jej skrzekiem gest obrony zmienił się w historię ataku.
 Co powiedziała Sroka?
 
-„Słyszałaś? Dariusz zaspawał im toaletę! To chory człowiek! Barbara się boi!"
+„Słyszałaś? Dariusz zaspawał im toaletę! To chory człowiek! Wiedźma BaraBara się boi!"
 
-I zanim słońce zaszło, cała Polana mówiła już językiem Barbary.
+I zanim słońce zaszło, cała Polana mówiła już językiem Wiedźmy BaraBary.
 
 Jak prawda ginie na Polanie Kłamstw?
 Prawo Echa (powtórzenie):
@@ -173,7 +174,7 @@ Toaleta była dodatkowa, nie jedyna w budynku
 Gest był symboliczny — protest przeciwko naruszaniu granic
 Nie więził nikogo — rodzice mieli dostęp do innych toalet
 
-Reakcja Barbary:
+Reakcja Wiedźmy BaraBary:
 
 Wpis w Kalendarzu Wiedźmy: „Syn zaspawał toaletę. To znak obłędu i agresji."
 Wykorzystanie tego jako dowodu w przyszłych postępowaniach
@@ -186,7 +187,7 @@ Zaspawany zamek = niemożność oczyszczenia się z kłamstw
 Gnijąca prawda = prawda, której nikt nie chce usłyszeć, więc zostaje w środku i truje
 
 Znaczenie:
-To był punkt kulminacyjny izolacji — Wilk przestał być częścią domu i stał się wygnańcem we własnej posiadłości.
+To był punkt kulminacyjny izolacji — Wilk przestał być częścią dziupli i stał się wygnańcem we własnej posiadłości.
 
 Koniec Rozdziału 5.
 Prawda zaspawana w metalowym grobie. Echo kłamstwa leci dalej.

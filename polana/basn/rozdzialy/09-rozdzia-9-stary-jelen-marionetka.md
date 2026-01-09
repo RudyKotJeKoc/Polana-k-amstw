@@ -33,7 +33,7 @@ Głos — jego słowa były ciche, niepewne, łatwe do przekrzyczenia.
 A cień to najłatwiej chwycić w sidła.
 
 Wiedźma otoczyła go pajęczyną, nie troską
-Wiedźma Barbara otoczyła go opieką, która była bardziej pajęczyną niż troską.
+Wiedźma BaraBara otoczyła go opieką, która była bardziej pajęczyną niż troską.
 Jak to wyglądało?
 
 Mówiła za niego — „Sylwester chce to", „Sylwester myśli tak", „Sylwester się zgadza".
@@ -44,9 +44,9 @@ Izolowała go od Wilka — by nie było „złych wpływów", by nie „podpuszc
 A gdy tylko nadarzyła się okazja, zaczęła poruszać jego życiem jak kukłą na sznurkach.
 
 Pełnomocnictwo — nitki, którymi można sterować (19.07.2021)
-Nadszedł dzień 19 lipca 2021 roku — dwa dni po wciągnięciu Wilka do Niebieskiej Karty, kiedy jej zaklęcia nabrały nowej mocy.
+Nadszedł dzień 19 lipca 2021 roku — dwa dni po wciągnięciu Wilka do Niebieskiej Karty, kiedy jej formuły nabrały nowej mocy.
 Co się stało?
-Właśnie wtedy Stary Jeleń podpisał szerokie pełnomocnictwo na rzecz Barbary.
+Właśnie wtedy Stary Jeleń podpisał szerokie pełnomocnictwo na rzecz Wiedźmy BaraBary.
 Jak szerokie?
 Tak szerokie, że przestał być samodzielnym stworzeniem lasu, a stał się narzędziem w rękach Barabary — jak kukła, którą można ustawić na scenie i mówić za nią dowolne kwestie.
 Zakres pełnomocnictwa:
@@ -88,7 +88,7 @@ Wniosek:
 W tak krótkim czasie tylko jedna osoba mogła zmienić narrację.
 Tylko jedna osoba miała do tego motyw.
 Tylko jedna osoba miała w rękach sznurki.
-Barbara.
+Wiedźma BaraBara.
 
 Rozprawa — teatr smutku i bezradności
 Na sali sądowej tragedia zyskała formę.
@@ -99,11 +99,11 @@ Sędzia zadaje pytania:
 „Ile ma pan lat?"
 Stary Jeleń — „Nie pamiętam."
 „Gdzie pan mieszka?"
-Stary Jeleń — „W domu… chyba… nie wiem dokładnie."
+Stary Jeleń — „W dziupli… chyba… nie wiem dokładnie."
 „Co pan pamięta z konfliktu z synem?"
-Stary Jeleń — (milczenie, spojrzenie na Barbarę)
+Stary Jeleń — (milczenie, spojrzenie na Wiedźmę BaraBarę)
 
-Barbara — (szeptem, do ucha) — „Powiedz, że cię obrażał."
+Wiedźma BaraBara — (szeptem, do ucha) — „Powiedz, że cię obrażał."
 Stary Jeleń — (niepewnie) — „Chyba… obrażał…"
 Kluczowe zdanie:
 A gdy padło pytanie o jego zeznania, powiedział wprost:
@@ -116,7 +116,7 @@ Wtedy kurtyna opadła.
 Wtedy stało się jasne, kto mówi jego ustami.
 
 Wyznanie Wiedźmy — „Byłam jego głosem"
-A jakby tego było mało, sama Wiedźma Barbara powiedziała przed sądem:
+A jakby tego było mało, sama Wiedźma BaraBara powiedziała przed sądem:
 
 „On już nie rozumiał, co się dzieje. Byłam jego głosem."
 
@@ -154,7 +154,7 @@ System powinien:
 
 Zauważyć sprzeczności (3 vs 6 sierpnia).
 Zlecić badanie psychiatryczne Sylwestra — czy jest w stanie podejmować decyzje.
-Oddzielić go od osoby, która go kontroluje (Barbara).
+Oddzielić go od osoby, która go kontroluje (Wiedźma BaraBara).
 Chronić osobę w stanie zależności.
 
 Co zrobił system?
@@ -164,16 +164,16 @@ Zignorował jego bezradność.
 Użył go jako narzędzie przeciwko własnemu synowi.
 
 Tragedia Starego Jelenia — ofiara, której nikt nie bronił
-Wiedźma Barbara nie potrzebowała przemocy.
+Wiedźma BaraBara nie potrzebowała przemocy.
 Wystarczyła jej kontrola nad jednym osłabionym sercem.
 Co zostało ze Starego Jelenia?
 
-Dom — który odzyskała Barbara.
+Dziupla — który odzyskała Wiedźma BaraBara.
 Relacja z synem — zniszczona, bo Wilk musiał uciec.
-Martynka (wnuczka) — która płakała przy Kocidomku.
+Martynka (wnuczka) — która płakała przy Kocidziupli.
 Pamięć — która już nie wie, co było prawdą.
 
-Stary Jeleń został sam — w domu z Wiedźmą, bez syna, bez wnuczki, bez jasności.
+Stary Jeleń został sam — w dziupli z Wiedźmą, bez syna, bez wnuczki, bez jasności.
 Został z pajęczyną zamiast rodziny.
 
 Epilog rozdziału: marionetkakróla
@@ -205,14 +205,14 @@ Pełnomocnictwo (19.07.2021):
 
 Podpisane 2 dni po NK
 Szeroki zakres — wszystkie sprawy prawne, majątkowe
-Przejęcie tożsamości prawnej Sylwestra przez Barbarę
+Przejęcie tożsamości prawnej Sylwestra przez Wiedźmę BaraBarę
 
 Diamentowa sprzeczność:
 
 3.08.2021 — zeznanie na policji: „Dariusz mnie nie obraża, nie wyzywa"
 6.08.2021 — list w imieniu Sylwestra: „Syn kieruje wyzwiska wobec mnie"
 Odstęp: 3 dni
-Wniosek: Barbara zmieniła narrację za pomocą pełnomocnictwa
+Wniosek: Wiedźma BaraBara zmieniła narrację za pomocą pełnomocnictwa
 
 Zeznanie w sądzie:
 
@@ -220,7 +220,7 @@ Zeznanie w sądzie:
 Sylwester nie potrafił podać własnego wieku
 Mylił daty, miejsca, ludzi
 
-Wyznanie Barbary:
+Wyznanie Wiedźmy BaraBary:
 
 „On już nie rozumiał, co się dzieje. Byłam jego głosem."
 Przyznanie się do przejęcia kontroli
@@ -233,7 +233,7 @@ Chronić osobę w stanie zależności
 
 Co zrobił sąd:
 
-Nic — przyjął wersję Barbary jako prawdę
+Nic — przyjął wersję Wiedźmy BaraBary jako prawdę
 
 Znaczenie:
 To jest modelowy przykład instrumentalizacji osoby słabej — wykorzystanie choroby i zależności do przejęcia kontroli i zniszczenia relacji rodzinnych. System widział to, ale nie zareagował.

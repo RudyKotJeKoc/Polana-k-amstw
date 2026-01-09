@@ -16,7 +16,7 @@
     ┌───────┴───────┐
     │               │
 DZIUPLA NR 8    WARSZTAT WILKA
-(dom rodzinny)  (więzienie-schronienie)
+(dziupla rodzinny)  (więzienie-schronienie)
     │
     ├─── Kocioł Krzywd (w kuchni Wiedźmy)
     ├─── Pokój Wiedźmy (Kalendarz)
@@ -43,7 +43,7 @@ ZEWNĘTRZNE MIEJSCA MOCY:
 Metaforyczna przestrzeń w sercu gęstego, mrocznego lasu, gdzie prawda ginie we mgle, a echo jest silniejsze niż głos. To miejsce, w którym powtórzona plotka żyje dłużej niż fakt, a cisza zabija. Polana oddycha konfliktem – krzyki, oskarżenia i plotki karmią jej ziemię.
 
 **Opis faktyczny:**
-Symbol świata rodziny Adamskich: dom w Adamowie nr 8, podwórko, lokalna społeczność, instytucje (policja, sądy), które stały się sceną 8-letniego konfliktu rodzinnego (2017-2025).
+Symbol świata rodziny Adamskich: dziupla w Adamowie nr 8, podwórko, lokalna społeczność, instytucje (policja, sądy), które stały się sceną 8-letniego konfliktu rodzinnego (2017-2025).
 
 **Znaczenie w fabule:**
 Centralna scena dramatu. To tutaj rozgrywa się cała historia – od darowizny (7.07.2017), przez nocne wtargnięcia, po ostateczny wyrok (29.08.2025) i odejście Wilka. Polana jest świadkiem wszystkich kluczowych wydarzeń.
@@ -62,19 +62,19 @@ Przestrzeń, w której komunikacja jest z definicji skażona. Reprezentuje toksy
 
 ---
 
-### 2. DZIUPLA NR 8 (DOM ADAMOWO 8)
+### 2. DZIUPLA NR 8 (DZIUPLA ADAMOWO 8)
 
 **Opis symboliczny:**
-Dom, który oddycha, karmi się zaspawaną prawdą i bulgocze konfliktem. Numer **8** to nieskończona pętla (∞), Uroboros pożerający własny ogon. Dziupla była domem, ale stała się więzieniem dla wszystkich: Wilka, Wiedźmy i Papesmerfa.
+Dziupla, który oddycha, karmi się zaspawaną prawdą i bulgocze konfliktem. Numer **8** to nieskończona pętla (∞), Uroboros pożerający własny ogon. Dziupla była dziuplą, ale stała się więzieniem dla wszystkich: Wilka, Wiedźmy i Papesmerfa.
 
 **Opis faktyczny:**
-Nieruchomość w Adamowie nr 8, przedmiot darowizny z 7.07.2017 r. od Sylwestra Adamskiego na rzecz syna Dariusza. Dariusz poczynił w niej znaczące nakłady (fotowoltaika, solary, dachy – wartość 160-255 tys. zł). Dom stał się przedmiotem sporu cywilnego I C 634/22 o cofnięcie darowizny.
+Nieruchomość w Adamowie nr 8, przedmiot darowizny z 7.07.2017 r. od Sylwestra Adamskiego na rzecz syna Dariusza. Dariusz poczynił w niej znaczące nakłady (fotowoltaika, solary, dachy – wartość 160-255 tys. zł). Dziupla stał się przedmiotem sporu cywilnego I C 634/22 o cofnięcie darowizny.
 
 **Znaczenie w fabule:**
 Centralne miejsce konfliktu. Od miejsca nadziei (darowizna jako gest dobrej woli) do pola bitwy (nocne wtargnięcia, prowokacje, ucieczka Wilka do warsztatu) i ostatecznie – pustego więzienia Wiedźmy po odejściu Wilka.
 
 **Znaczenie psychologiczne:**
-Symbol pętli **Klątwy Ósemki** – 8 lat między darowizną (2017) a wyrokiem (2025), dom nr 8, przejście z 17 na 18 lipca (7→8). Ósemka jako nieskończoność oznacza, że konflikt nie miał naturalnego końca – jedynym wyjściem było przerwanie pętli przez odejście.
+Symbol pętli **Klątwy Ósemki** – 8 lat między darowizną (2017) a wyrokiem (2025), dziupla nr 8, przejście z 17 na 18 lipca (7→8). Ósemka jako nieskończoność oznacza, że konflikt nie miał naturalnego końca – jedynym wyjściem było przerwanie pętli przez odejście.
 
 **Symbolika przestrzeni w Dziupli:**
 - **Kuchnia** - Kocioł Krzywd bulgocze
@@ -85,11 +85,11 @@ Symbol pętli **Klątwy Ósemki** – 8 lat między darowizną (2017) a wyrokiem
 - **Warsztat** - Schronienie Wilka (oddzielony budynek)
 
 **Cytat kluczowy:**
-> *"Pośrodku tej polany, pod numerem ósmym, stał dom, którego ściany nasiąkały krzykami, a fundament popękał od pretensji."*
+> *"Pośrodku tej polany, pod numerem ósmym, stał dziupla, którego ściany nasiąkały krzykami, a fundament popękał od pretensji."*
 > — Prolog baśni
 
 **"Efekt Dziupli":**
-Zjawisko, w którym dom, zamiast być miejscem bezpieczeństwa, staje się źródłem traumy. Wilk uciekł z własnego domu do zimnego warsztatu, by chronić się przed Wiedźmą.
+Zjawisko, w którym dziupla, zamiast być miejscem bezpieczeństwa, staje się źródłem traumy. Wilk uciekł z własnego dziupli do zimnego warsztatu, by chronić się przed Wiedźmą.
 
 ---
 
@@ -99,13 +99,13 @@ Zjawisko, w którym dom, zamiast być miejscem bezpieczeństwa, staje się źró
 Ostatni bastion prywatności, schronienie-więzienie. Zimny, nieogrzewany budynek, w którym Wilk spał na starych drzwiach rzuconych na betonową podłogę. Tracący powietrze materac budził go każdej nocy na zimnej podłodze. Pianka montażowa w szczelinach chroniła przed mrozem i wzrokiem Wiedźmy.
 
 **Opis faktyczny:**
-Oddzielny budynek gospodarczy na posesji Adamowo 8, w którym Dariusz przechowywał narzędzia i sprzęt. Po eskalacji konfliktu (luty-marzec 2021) stał się jego stałym miejscem zamieszkania, ponieważ nie mógł znieść nocnych wtargnięć i kontroli matki w głównym domu.
+Oddzielny budynek gospodarczy na posesji Adamowo 8, w którym Dariusz przechowywał narzędzia i sprzęt. Po eskalacji konfliktu (luty-marzec 2021) stał się jego stałym miejscem zamieszkania, ponieważ nie mógł znieść nocnych wtargnięć i kontroli matki w głównym dziupli.
 
 **Znaczenie w fabule:**
-Symbol desperacji i izolacji. Wilk, właściciel domu, który inwestował w niego setki tysięcy złotych, został zmuszony do spania w warsztacie jak bezdomny. To tu dokonał aktu zaspawania zamka w toalecie – fizycznego zamknięcia prawdy.
+Symbol desperacji i izolacji. Wilk, właściciel dziupli, który inwestował w niego setki tysięcy złotych, został zmuszony do spania w warsztacie jak bezdomny. To tu dokonał aktu zaspawania zamka w toalecie – fizycznego zamknięcia prawdy.
 
 **Znaczenie psychologiczne:**
-Paradoks: schronienie jest więzieniem. Wilk musiał uciec z własnego domu, by mieć choć skrawek prywatności, ale warsztat był zimny, wilgotny, niewygodny. Reprezentuje stan psychiczny ofiary długotrwałego nękania – izolacja jako jedyna forma samoobrony.
+Paradoks: schronienie jest więzieniem. Wilk musiał uciec z własnego dziupli, by mieć choć skrawek prywatności, ale warsztat był zimny, wilgotny, niewygodny. Reprezentuje stan psychiczny ofiary długotrwałego nękania – izolacja jako jedyna forma samoobrony.
 
 **Symboliczne elementy:**
 - **Drzwi jako łóżko** - brak podstawowych warunków do życia
@@ -114,7 +114,7 @@ Paradoks: schronienie jest więzieniem. Wilk musiał uciec z własnego domu, by 
 - **Kamery, zmienione kody** - obrona przed wtargnięciami
 
 **Cytat kluczowy:**
-> *"Wilk uciekł z własnego domu. Jego nowym schronieniem stał się zimny, nieogrzewany warsztat. Tragedia sytuacji była absurdalna: właściciel domu, który wkładał w niego całe życie, spał na starych drzwiach rzuconych na betonową podłodę."*
+> *"Wilk uciekł z własnego dziupli. Jego nowym schronieniem stał się zimny, nieogrzewany warsztat. Tragedia sytuacji była absurdalna: właściciel dziupli, który wkładał w niego całe życie, spał na starych drzwiach rzuconych na betonową podłodę."*
 > — Baśń "Polana Kłamstw", Rozdział 5
 
 ---
@@ -125,7 +125,7 @@ Paradoks: schronienie jest więzieniem. Wilk musiał uciec z własnego domu, by 
 Wysoka gałąź w lesie, na której siedzi Puszczyk Halager. Nigdy nie schodzi na ziemię – patrzy tylko na pergaminy (dokumenty), nie na ludzi pod drzewem. Jej oczy są wielkie, ale ślepe na manipulację. Sala jest chłodna, formalna, pachnąca papierem.
 
 **Opis faktyczny:**
-Sąd Okręgowy w [miejsce zanonimizowane], sala rozpraw w sprawie I C 634/22 o cofnięcie darowizny. Wyrok wydany 29.08.2025 r. oddający nieruchomość Barbarze i Sylwestrowi Adamskim.
+Sąd Okręgowy w [miejsce zanonimizowane], sala rozpraw w sprawie I C 634/22 o cofnięcie darowizny. Wyrok wydany 29.08.2025 r. oddający nieruchomość Wiedźmie BaraBarze i Sylwestrowi Adamskim.
 
 **Znaczenie w fabule:**
 Miejsce ostatecznego rozstrzygnięcia, które zamiast zakończyć Klątwę Ósemki, ją ukoronowało. Tu zapadł wyrok oparty na zmanipulowanych dowodach (Kalendarz Wiedźmy, wyrok karny wymuszon przez Hienę). Tu oddalono wszystkie wnioski obrony: *"Oddalam, oddalam, oddalam"* – trzy gwoździe do trumny prawdy.
@@ -134,7 +134,7 @@ Miejsce ostatecznego rozstrzygnięcia, które zamiast zakończyć Klątwę Ósem
 Symbol systemowej porażki sprawiedliwości. Sąd, który miał być miejscem prawdy, stał się miejscem legitymizacji kłamstwa. Puszczyk Halager reprezentuje leniwość intelektualną i biurokratyczną rutynę – **papier > prawda**.
 
 **Trzy Gwoździe do Trumny Prawdy:**
-1. *"Oddalam"* – wniosek o przesłuchanie Hieny Domkowej (zdrada procesowa)
+1. *"Oddalam"* – wniosek o przesłuchanie Hieny Dziuplowej (zdrada procesowa)
 2. *"Oddalam"* – wniosek o biegłego psychiatrę dla Sylwestra (sprawdzenie woli)
 3. *"To nieistotne"* – sprzeczność w zeznaniach Papesmerfa (3.08 vs. 6.08)
 
@@ -150,13 +150,13 @@ Utożsamienie **służebności osobistej** z **umową dożywocia**. Nałożenie 
 ### 5. JAMA HIENY (Kancelaria WDS Legal)
 
 **Opis symboliczny:**
-Ciemna jama, w której Hiena Domkowa czeka na swoją padlinę. Korytarz przed jamą to miejsce zdrady – 5 minut przed rozprawą, wykorzystując słabość klienta, Hiena wymusza przyznanie się do winy. W jamie pachnie papierem i szybkim zyskiem.
+Ciemna jama, w której Hiena Dziuplowa czeka na swoją padlinę. Korytarz przed jamą to miejsce zdrady – 5 minut przed rozprawą, wykorzystując słabość klienta, Hiena wymusza przyznanie się do winy. W jamie pachnie papierem i szybkim zyskiem.
 
 **Opis faktyczny:**
 Kancelaria adwokacka WDS Legal, w której pracowali Aleksander Domek (obrońca w sprawie karnej) i Michał Sarnecki (obrońca w sprawie cywilnej). Miejsce, gdzie konflikt interesów konsorcjum był ważniejszy niż dobro klienta.
 
 **Znaczenie w fabule:**
-Miejsce systemowej zdrady. Tu Hiena Domkowa zdradziła Wilka, wymuszając przyznanie się do winy (13.10.2021). Tu Sarna Sarnecki chroniła kolegę, prowadząc bierną obronę w sprawie cywilnej. Wyrok karny II K 568/21, zrodzony w tej jamie, stał się "koronnym dowodem" Wiedźmy.
+Miejsce systemowej zdrady. Tu Hiena Dziuplowa zdradziła Wilka, wymuszając przyznanie się do winy (13.10.2021). Tu Sarna Sarnecki chroniła kolegę, prowadząc bierną obronę w sprawie cywilnej. Wyrok karny II K 568/21, zrodzony w tej jamie, stał się "koronnym dowodem" Wiedźmy.
 
 **Znaczenie psychologiczne:**
 Symbol zgnilizny etosu prawniczego. Lojalność wobec konsorcjum > obowiązek wobec klienta. Hiena i Sarna chronili się nawzajem, pozostawiając Wilka samego na polu bitwy.
@@ -164,7 +164,7 @@ Symbol zgnilizny etosu prawniczego. Lojalność wobec konsorcjum > obowiązek wo
 **Mechanizm zdrady:**
 1. **Korytarz sądowy** - 5 minut przed rozprawą
 2. **Fałszywa obietnica** - "Przyznaj się, a sprawa będzie zamknięta"
-3. **Tekturka Domkowa** - wymuszone oświadczenie, że Wilk nie będzie wracał do sprawy
+3. **Tekturka Dziuplowa** - wymuszone oświadczenie, że Wilk nie będzie wracał do sprawy
 4. **Wyrok nakazowy** - II K 568/21 oparty wyłącznie na przyznaniu się
 5. **Prejudykat** - art. 11 k.p.c., wyrok karny wiąże sąd cywilny
 
@@ -183,16 +183,16 @@ Mała, niebieska chatka, w której Smerfy skrupulatnie wypełniają formularze. 
 Posterunek policji w [miejsce zanonimizowane], gdzie wszczęto procedurę Niebieskiej Karty (17.07.2021) oraz sporządzano notatki z interwencji (m.in. incydent z paralizatorem, wyjazdy Dariusza do Holandii).
 
 **Znaczenie w fabule:**
-Miejsce, w którym dobra wola systemu została wykorzystana jako broń. Niebieska Karta, procedura mająca chronić ofiary przemocy, stała się narzędziem Wiedźmy w sporze majątkowym. Wszczęta 17.07.2021, 2 dni przed pełnomocnictwem dla Barbary (19.07.2021) – perfekcyjny timing manipulatorki.
+Miejsce, w którym dobra wola systemu została wykorzystana jako broń. Niebieska Karta, procedura mająca chronić ofiary przemocy, stała się narzędziem Wiedźmy w sporze majątkowym. Wszczęta 17.07.2021, 2 dni przed pełnomocnictwem dla Wiedźmy BaraBary (19.07.2021) – perfekcyjny timing manipulatorki.
 
 **Znaczenie psychologiczne:**
-Symbol instrumentalizacji instytucji. Smerfy działały w dobrej wierze, zgodnie z procedurą, ale bez analizy kontekstu (długotrwałe prowokacje Barbary, incydent z celowym wyłączeniem prądu). Ich działania legitymizowały fałszywą narrację Wiedźmy.
+Symbol instrumentalizacji instytucji. Smerfy działały w dobrej wierze, zgodnie z procedurą, ale bez analizy kontekstu (długotrwałe prowokacje Wiedźmy BaraBary, incydent z celowym wyłączeniem prądu). Ich działania legitymizowały fałszywą narrację Wiedźmy.
 
 **Procedura Niebieskiej Karty:**
 - **Data wszczęcia:** 17.07.2021 (noc z 17 na 18 – przejście 7→8)
 - **Sprawca wg. procedury:** Dariusz Adamski
-- **Pokrzywdzona wg. procedury:** Barbara Adamska
-- **Rzeczywisty kontekst:** Prowokacje Barbary, odwrócenie ról sprawca-ofiara
+- **Pokrzywdzona wg. procedury:** Wiedźma BaraBara
+- **Rzeczywisty kontekst:** Prowokacje Wiedźmy BaraBary, odwrócenie ról sprawca-ofiara
 
 **Cytat kluczowy:**
 > *"Wszczęcie procedury Niebieskiej Karty było momentem, w którym prywatna manipulacja uzyskała oficjalną, prawną pieczęć."*
@@ -203,7 +203,7 @@ Symbol instrumentalizacji instytucji. Smerfy działały w dobrej wierze, zgodnie
 ### 7. KORYTARZ ZDRADY (5 Minut przed Rozprawą)
 
 **Opis symboliczny:**
-Wąski, chłodny korytarz przed salą sądową. Tutaj czas zatrzymuje się na 5 minut przed tragedią. Hiena Domkowa czyha w cieniu, czekając na moment słabości swojej ofiary. Korytarz pachnie strachem i szybkim zyskiem.
+Wąski, chłodny korytarz przed salą sądową. Tutaj czas zatrzymuje się na 5 minut przed tragedią. Hiena Dziuplowa czyha w cieniu, czekając na moment słabości swojej ofiary. Korytarz pachnie strachem i szybkim zyskiem.
 
 **Opis faktyczny:**
 Korytarz przed salą rozpraw karnych, 13.10.2021 r., gdzie adwokat Aleksander Domek przekonał Dariusza Adamskiego do przyznania się do winy w zamian za fałszywą obietnicę zakończenia konfliktu.
@@ -235,7 +235,7 @@ Symbol wykorzystania słabości i zaufania. Dariusz, w stanie psychicznego zała
 Magiczne naczynie, w którym Wiedźma gotuje mieszankę starych uraz, półprawd i cudzych słabości. Kocioł bulgocze nieustannie, podgrzewany ogniem obsesji i zemsty. Każda kartka Kalendarza to nowy składnik, który podtrzymuje ogień konfliktu.
 
 **Opis faktyczny:**
-Metafora procesu, w którym Barbara Adamska gromadziła, podgrzewała i mieszała pretensje, plotki, niedopowiedzenia i fałszywe oskarżenia. Kocioł był zasilany negatywnymi emocjami i nigdy nie gasł – był źródłem toksycznej atmosfery w domu.
+Metafora procesu, w którym Wiedźma BaraBara gromadziła, podgrzewała i mieszała pretensje, plotki, niedopowiedzenia i fałszywe oskarżenia. Kocioł był zasilany negatywnymi emocjami i nigdy nie gasł – był źródłem toksycznej atmosfery w dziupli.
 
 **Znaczenie w fabule:**
 Centralny symbol manipulacji. W Kotle Wiedźma warzyla zemstę przez 8 lat (2017-2025), dodając kolejne składniki: nocne wtargnięcie, incydent z paralizatorem, Niebieską Kartę, wyrok karny. Kocioł wygasł dopiero po odejściu Wilka – nie było już czego gotować.
@@ -252,7 +252,7 @@ Symbol obsesyjnej potrzeby kontroli i zemsty. Wiedźma nie potrafiła żyć bez 
 6. **Instrumentalizacja** - wykorzystanie Papesmerfa, systemu
 
 **Cytat kluczowy:**
-> *"Gdy wrócili do domu, Wilk czuł ulgę. Wierzył, że nareszcie mogą żyć normalnie. Tego samego wieczora Wiedźma Adamowska podeszła do swojego Kotła Krzywd. Jej twarz stężała w grymasie determinacji. Złapała za chochlę i zaczęła mieszać."*
+> *"Gdy wrócili do dziupli, Wilk czuł ulgę. Wierzył, że nareszcie mogą żyć normalnie. Tego samego wieczora Wiedźma Adamowska podeszła do swojego Kotła Krzywd. Jej twarz stężała w grymasie determinacji. Złapała za chochlę i zaczęła mieszać."*
 > — Baśń "Polana Kłamstw", Rozdział 1
 
 **Status na koniec historii:**
@@ -266,7 +266,7 @@ Symbol obsesyjnej potrzeby kontroli i zemsty. Wiedźma nie potrafiła żyć bez 
 Główna broń procesowa, księga zaklęć Wiedźmy. Nie jest to pamiętnik, lecz akt oskarżenia pisany każdego dnia. Selektywna kronika, w której zapisane jest tylko to, co służy tezie o "rażącej niewdzięczności" syna.
 
 **Opis faktyczny:**
-Kalendarz prowadzony przez Barbarę Adamską od 2017 r., w którym skrupulatnie notowała rzekomne przewinienia Dariusza. Zapiski były sformułowane tak, jakby wiedziała, że trafią do sądu. Pomijał fakty korzystne dla syna (odebranie ojca ze szpitala, inwestycje w dom, spłata kary KRUS).
+Kalendarz prowadzony przez Wiedźmę BaraBarę od 2017 r., w którym skrupulatnie notowała rzekomne przewinienia Dariusza. Zapiski były sformułowane tak, jakby wiedziała, że trafią do sądu. Pomijał fakty korzystne dla syna (odebranie ojca ze szpitala, inwestycje w dziupla, spłata kary KRUS).
 
 **Znaczenie w fabule:**
 Koronny dowód w sprawie cywilnej I C 634/22. Sąd bezkrytycznie przyjął Kalendarz jako wiarygodny dowód, ignorując jego jednostronny i zmanipulowany charakter. To Kalendarz przekonał Puszczyka Halagera, że Wilk jest niewdzięcznym agresorem.
@@ -279,11 +279,11 @@ Symbol kontroli przez dokumentację. Wiedźma nie tylko przeżywała konflikt �
 - **11.02.2021:** *"Od tej pory śpią razem. Nie mam wątpliwości."*
 - **14.02.2021:** *"Ogłosili związek na Facebooku. Zemsta na mnie."*
 - Brak wpisu: Odebranie ojca ze szpitala przez Dariusza
-- Brak wpisu: Inwestycje Dariusza w dom (160-255 tys. zł)
+- Brak wpisu: Inwestycje Dariusza w dziupla (160-255 tys. zł)
 - Brak wpisu: Spłata kary KRUS (18 tys. zł)
 
 **Cytat kluczowy:**
-> *"Kalendarz milczał o tym, że to ona wtargnęła, ona naruszyła granice, ona sprowokowała konflikt. Milczał o inwestycjach, które Wilk poczynił w dom. Kalendarz zapisywał tylko to, co służyło tezie o niewdzięczności."*
+> *"Kalendarz milczał o tym, że to ona wtargnęła, ona naruszyła granice, ona sprowokowała konflikt. Milczał o inwestycjach, które Wilk poczynił w dziupla. Kalendarz zapisywał tylko to, co służyło tezie o niewdzięczności."*
 > — Baśń "Polana Kłamstw", Rozdział 2
 
 ---
@@ -294,7 +294,7 @@ Symbol kontroli przez dokumentację. Wiedźma nie tylko przeżywała konflikt �
 Korona niewoli. Kolor czerwony nie oznacza autorytetu, lecz **wylew krwi do mózgu**. Czapka zmieniła kolor, gdy Papesmerf stracił panowanie nad własną głową. Od tej pory jest tylko Pokémonem z czerwoną czapką, sterowanym kluczykiem Wiedźmy.
 
 **Opis faktyczny:**
-Symbol stanu zdrowia Sylwestra Adamskiego po przebytym wylewie (2019). Czerwony kolor czapki metaforycznie reprezentuje udar mózgu, który odebrał mu autonomię i uczynił całkowicie zależnym od Barbary.
+Symbol stanu zdrowia Sylwestra Adamskiego po przebytym wylewie (2019). Czerwony kolor czapki metaforycznie reprezentuje udar mózgu, który odebrał mu autonomię i uczynił całkowicie zależnym od Wiedźmy BaraBary.
 
 **Znaczenie w fabule:**
 Symbol instrumentalizacji. Czerwona czapka to pieczęć niewoli – Sylwester formalnie ma autorytet (darczyńca, powód), ale faktycznie jest marionetką. Jego podpis pod pełnomocnictwem (19.07.2021) był aktem przekazania "kluczykado Pokémona" Wiedźmie.
@@ -303,7 +303,7 @@ Symbol instrumentalizacji. Czerwona czapka to pieczęć niewoli – Sylwester fo
 Tragedia utraty tożsamości. Sylwester, kiedyś król zagajnika, stał się cieniem. Czerwona czapka to memento, że choroba może być wykorzystana jako broń przeciwko własnej rodzinie.
 
 **"Kluczyk do Pokémona":**
-Pełnomocnictwo notarialne z 19.07.2021 r. (koszt ok. 26 zł), które dało Barbarze:
+Pełnomocnictwo notarialne z 19.07.2021 r. (koszt ok. 26 zł), które dało Wiedźmie BaraBarze:
 - Prawo działania w imieniu męża
 - Możliwość składania oświadczeń woli
 - Przejęcie tożsamości prawnej Sylwestra
@@ -321,7 +321,7 @@ Pełnomocnictwo notarialne z 19.07.2021 r. (koszt ok. 26 zł), które dało Barb
 Fizyczne zamknięcie prawdy, która nie może wyjść na zewnątrz. Zaspawany zamek to manifest gnijącej komunikacji – skoro prawda nie może być wypowiedziana, niech zgnije w środku. To nie akt wandalizmu, lecz desperacki krzyk Wilka.
 
 **Opis faktyczny:**
-Zewnętrzna toaleta na posesji Adamowo 8, której zamek Dariusz zaspawał spawarką w akcie desperacji (prawdopodobnie marzec-kwiecień 2021). Dla Barbary był to dowód "paranoi i agresji", dla Dariusza – symboliczny akt pogrzebania prawdy.
+Zewnętrzna toaleta na posesji Adamowo 8, której zamek Dariusz zaspawał spawarką w akcie desperacji (prawdopodobnie marzec-kwiecień 2021). Dla Wiedźmy BaraBary był to dowód "paranoi i agresji", dla Dariusza – symboliczny akt pogrzebania prawdy.
 
 **Znaczenie w fabule:**
 Symbol rozkładu komunikacji. Zaspawanie zamka było aktem rezygnacji z normalnej komunikacji – skoro każde słowo Wilka jest interpretowane jako atak, a każde milczenie jako znęcanie, jedynym wyjściem jest fizyczne zamknięcie.
@@ -334,14 +334,14 @@ Manifest traumy. Wilk, który nie mógł mówić (krzyk = agresja) ani milczeć 
 > — Baśń "Polana Kłamstw", Rozdział 5
 
 **Wykorzystanie przez Wiedźmę:**
-Dla Barbary zaspawany zamek był "diamentowym dowodem" na paranoję i agresję syna. Sroka Dorota rozniosła wieść po całej Polanie, przekształcając akt obrony w akt ataku.
+Dla Wiedźmy BaraBary zaspawany zamek był "diamentowym dowodem" na paranoję i agresję syna. Sroka Dorota rozniosła wieść po całej Polanie, przekształcając akt obrony w akt ataku.
 
 ---
 
-### 12. TEKTURKA DOMKOWA
+### 12. TEKTURKA DZIUPLOWA
 
 **Opis symboliczny:**
-Tarcza zdrajcy. Kawałek tektury, na którym Wilk napisał oświadczenie, że nie będzie wracał do sprawy i nie będzie dochodził roszczeń za nakłady. Hiena Domkowa wymusił ten dokument, by zabezpieczyć siebie przed przyszłymi konsekwencjami zdrady.
+Tarcza zdrajcy. Kawałek tektury, na którym Wilk napisał oświadczenie, że nie będzie wracał do sprawy i nie będzie dochodził roszczeń za nakłady. Hiena Dziuplowa wymusił ten dokument, by zabezpieczyć siebie przed przyszłymi konsekwencjami zdrady.
 
 **Opis faktyczny:**
 Oświadczenie napisane przez Dariusza Adamskiego na prośbę (wymuszenie) adwokata Aleksandra Domka, prawdopodobnie 13.10.2021 r. (dzień zdrady na korytarzu sądowym). Dokument miał chronić Domka przed roszczeniami klienta o odszkodowanie za wadliwą obronę.
@@ -356,11 +356,11 @@ Symbol bezsilności ofiary systemu. Wilk, w stanie załamania, podpisał dokumen
 - Dariusz Adamski nie będzie wracał do sprawy karnej
 - Nie będzie dochodził roszczeń wobec adwokata
 - Nie będzie dochodził zwrotu nakładów w nieruchomość
-- (Dokument zabezpieczający interesy Hieny Domkowej)
+- (Dokument zabezpieczający interesy Hieny Dziuplowej)
 
 **Cytat kluczowy:**
-> *"Hiena Domkowa (...) Zabezpieczył własne interesy, każąc Dariuszowi napisać na kartoniku (»tekturce«) oświadczenie, że nie będzie wracał do sprawy."*
-> — Appendix A, karta Hieny Domkowej
+> *"Hiena Dziuplowa (...) Zabezpieczył własne interesy, każąc Dariuszowi napisać na kartoniku (»tekturce«) oświadczenie, że nie będzie wracał do sprawy."*
+> — Appendix A, karta Hieny Dziuplowej
 
 ---
 
@@ -370,17 +370,17 @@ Symbol bezsilności ofiary systemu. Wilk, w stanie załamania, podpisał dokumen
 Schody, które pamiętają upadek króla. Każdy szczerb to ślad utraty – władzy, zdrowia, autonomii. Po tych schodach Papesmerf już nie wchodzi – porusza się na skuterze, bo jego nogi, jak jego wola, zostały sparaliżowane.
 
 **Opis faktyczny:**
-Schody w domu Adamowo 8, które stały się barierą dla Sylwestra po wylewie (2019). Jego problemy z poruszaniem się (I grupa inwalidzka, skuter inwalidzki) uniemożliwiały samodzielne korzystanie z górnej części domu.
+Schody w dziupli Adamowo 8, które stały się barierą dla Sylwestra po wylewie (2019). Jego problemy z poruszaniem się (I grupa inwalidzka, skuter inwalidzki) uniemożliwiały samodzielne korzystanie z górnej części dziupli.
 
 **Znaczenie w fabule:**
-Symbol upadku i zależności. Schody, które kiedyś Sylwester pokonywał bez problemu, stały się nieprzekraczalną barierą. To fizyczny dowód jego słabości, która została wykorzystana przez Barbarę do przejęcia kontroli.
+Symbol upadku i zależności. Schody, które kiedyś Sylwester pokonywał bez problemu, stały się nieprzekraczalną barierą. To fizyczny dowód jego słabości, która została wykorzystana przez Wiedźmę BaraBarę do przejęcia kontroli.
 
 **Znaczenie psychologiczne:**
 Metafora degradacji. Każdy szczerb to utrata: zdrowia, pamięci, woli, tożsamości. Schody pamiętają Sylwestra sprzed wylewu – silnego, samodzielnego. Teraz jest tylko cieniem.
 
 **Symbolika skutera inwalidzkiego:**
 - Zakupiony przez Dariusza (troska syna)
-- Wykorzystany przez Barbarę (dowód zależności Sylwestra)
+- Wykorzystany przez Wiedźmę BaraBarę (dowód zależności Sylwestra)
 - Symbol: Papesmerf porusza się na skuterze, bo Wiedźma odebrała mu możliwość samodzielnego chodzenia (metaforycznie – samodzielnego myślenia)
 
 **Cytat kluczowy:**
@@ -392,7 +392,7 @@ Metafora degradacji. Każdy szczerb to utrata: zdrowia, pamięci, woli, tożsamo
 ### 14. ALTANA, PIWNICA, FOTOWOLTAIKA (Inwestycje Wilka)
 
 **Opis symboliczny:**
-Pomniki odrzuconej troski. Każda deska altany, każda płytka fotowoltaiki, każdy metr rur solarnych to dowód miłości Wilka do domu. Inwestycje warte 160-255 tys. zł, które zostały zignorowane przez Puszczyka Halagera.
+Pomniki odrzuconej troski. Każda deska altany, każda płytka fotowoltaiki, każdy metr rur solarnych to dowód miłości Wilka do dziupli. Inwestycje warte 160-255 tys. zł, które zostały zignorowane przez Puszczyka Halagera.
 
 **Opis faktyczny:**
 Nakłady poczynione przez Dariusza Adamskiego w nieruchomość Adamowo 8:
@@ -405,13 +405,13 @@ Nakłady poczynione przez Dariusza Adamskiego w nieruchomość Adamowo 8:
 - Szacunkowa wartość: 160 000 - 255 000 zł
 
 **Znaczenie w fabule:**
-Dowód dobrej woli i troski, który został całkowicie zignorowany w procesie. Sąd przyjął, że Wilk był "rażąco niewdzięczny", pomijając fakt, że inwestował w dom niemal wszystkie zarobki z wieloletniej pracy w Holandii.
+Dowód dobrej woli i troski, który został całkowicie zignorowany w procesie. Sąd przyjął, że Wilk był "rażąco niewdzięczny", pomijając fakt, że inwestował w dziupla niemal wszystkie zarobki z wieloletniej pracy w Holandii.
 
 **Znaczenie psychologiczne:**
-Symbol odrzucenia. Każda złotówka zainwestowana w dom była aktem miłości i troski o rodziców. Barbara wykorzystała dom jako broń przeciwko synowi, ignorując jego wkład. Inwestycje stały się klątwą – im więcej Wilk wkładał, tym więcej miał do stracenia.
+Symbol odrzucenia. Każda złotówka zainwestowana w dziupla była aktem miłości i troski o rodziców. Wiedźma BaraBara wykorzystała dziupla jako broń przeciwko synowi, ignorując jego wkład. Inwestycje stały się klątwą – im więcej Wilk wkładał, tym więcej miał do stracenia.
 
 **Bomba zegarowa:**
-Prawny obowiązek zwrotu nakładów (art. 405 k.c.). Barbara i Sylwester, odzyskując dom, odziedziczyli obowiązek spłaty setek tysięcy złotych Dariuszowi – pieniędzy, których nie mają.
+Prawny obowiązek zwrotu nakładów (art. 405 k.c.). Wiedźma BaraBara i Sylwester, odzyskując dziupla, odziedziczyli obowiązek spłaty setek tysięcy złotych Dariuszowi – pieniędzy, których nie mają.
 
 **Cytat kluczowy:**
 > *"Wieloletnie inwestycje w nieruchomość, w tym montaż fotowoltaiki, solarów i wymianę dachów, na które przeznaczył niemal wszystkie zarobki z pracy w Holandii. Szacunkowa wartość nakładów wynosi od 160 000 do 255 000 zł."*
@@ -425,17 +425,17 @@ Prawny obowiązek zwrotu nakładów (art. 405 k.c.). Barbara i Sylwester, odzysk
 Zaklęcie ochrony, które stało się bronią. Niebieska jak mundury Smerfów, która miała chronić ofiary przemocy, ale została użyta instrumentalnie w prywatnej wojnie o majątek.
 
 **Opis faktyczny:**
-Procedura "Niebieska Karta" wszczęta przez policję 17.07.2021 r. w związku ze zgłoszeniem Barbary Adamskiej o rzekomej przemocy ze strony Dariusza. Dariusz został oznaczony jako "sprawca", Barbara jako "ofiara".
+Procedura "Niebieska Karta" wszczęta przez policję 17.07.2021 r. w związku ze zgłoszeniem Wiedźmy BaraBary o rzekomej przemocy ze strony Dariusza. Dariusz został oznaczony jako "sprawca", Wiedźma BaraBara jako "ofiara".
 
 **Znaczenie w fabule:**
-Kluczowy element planu Wiedźmy. NK wszczęta 17.07.2021, pełnomocnictwo dla Barbary uzyskane 19.07.2021 (2 dni później!) – perfekcyjny timing. NK dała oficjalną, prawną pieczęć prywatnej manipulacji, stając się dowodem w sprawie cywilnej.
+Kluczowy element planu Wiedźmy. NK wszczęta 17.07.2021, pełnomocnictwo dla Wiedźmy BaraBary uzyskane 19.07.2021 (2 dni później!) – perfekcyjny timing. NK dała oficjalną, prawną pieczęć prywatnej manipulacji, stając się dowodem w sprawie cywilnej.
 
 **Znaczenie psychologiczne:**
 Symbol instrumentalizacji systemu ochrony. Procedura stworzona, by pomagać ofiarom, została wykorzystana przez sprawcę do ataku. Odwrócenie ról: prawdziwa ofiara (Wilk) została oznaczona jako sprawca, prawdziwy sprawca (Wiedźma) jako ofiara.
 
 **Timing (dowód premedytacji):**
 - **17.07.2021** - wszczęcie NK (noc z 17 na 18 – przejście 7→8, Ósmy Krąg)
-- **19.07.2021** - pełnomocnictwo dla Barbary (2 dni później)
+- **19.07.2021** - pełnomocnictwo dla Wiedźmy BaraBary (2 dni później)
 - **1.08.2021** - wszczęcie dochodzenia karnego
 - **13.10.2021** - zdrada Hieny, wyrok karny
 
@@ -465,7 +465,7 @@ Symbol systemowej niesprawiedliwości. Wyrok oparty na zdradzie, wymuszonej w st
 Czyli: Sąd cywilny musiał przyjąć, że Dariusz znęcał się nad rodzicami, bo wyrok karny tak ustalił. Nie mógł badać, czy wyrok był słuszny.
 
 **Cytat kluczowy:**
-> *"Wyrok nakazowy (II K 568/21) zapadł wyłącznie na podstawie wymuszonego przyznania się. Ten wyrok karny stał się »koronnym dowodem« Wiedźmy w sprawie cywilnej o odebranie domu."*
+> *"Wyrok nakazowy (II K 568/21) zapadł wyłącznie na podstawie wymuszonego przyznania się. Ten wyrok karny stał się »koronnym dowodem« Wiedźmy w sprawie cywilnej o odebranie dziupli."*
 > — Baśń "Polana Kłamstw", Rozdział 8
 
 ---
@@ -477,7 +477,7 @@ Uroboros – wąż zjadający własny ogon. Nieskończona pętla konfliktu, z kt
 
 **Opis faktyczny:**
 Symbolika liczby 8 w kontekście konfliktu rodziny Adamskich:
-- **Dom Adamowo nr 8** - adres nieruchomości
+- **Dziupla Adamowo nr 8** - adres nieruchomości
 - **8 lat** - między darowizną (7.07.2017) a wyrokiem (29.08.2025)
 - **Noc 17/18.07.2021** - przejście z 7 na 8, "Ósmy Krąg" Dantego (oszuści)
 - **Ósemka jako ∞** - nieskończona pętla, z której nie ma wyjścia

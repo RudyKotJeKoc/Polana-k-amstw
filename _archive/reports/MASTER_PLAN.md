@@ -42,7 +42,7 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 │
 ├── CZĘŚĆ III: ZDRADA I FARSA (Lipiec 2021 - Sierpień 2025)
 │   ├── Rozdział 7: Przejście do Ósmego Kręgu (17/18.07)
-│   ├── Rozdział 8: Hiena Domkowa i Zdrada
+│   ├── Rozdział 8: Hiena Dziuplowa i Zdrada
 │   ├── Rozdział 9: Stary Jeleń - Marionetka
 │   └── Rozdział 10: Puszczyk Halager i Sąd Papieru
 │
@@ -73,7 +73,7 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
   - Plotka żyje dłużej niż fakt
   - Krzyk zagłusza prawdę, cisza staje się winą
 - Wprowadzenie wszystkich postaci-archetypów
-- Symbolika Domu nr 8 i cyfr
+- Symbolika Dziupli nr 8 i cyfr
 
 **Kluczowy cytat:**
 > "To była Polana Kłamstw. Miejsce, gdzie echo jest silniejsze niż głos, a prawda ginie we mgle."
@@ -103,7 +103,7 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 **Kluczowe wydarzenia:**
 - Lata pozornego spokoju
 - Systematyczne prowadzenie Kalendarza Wiedźmy
-- Wilk inwestuje w dom (fotowoltaika, solary, dachy)
+- Wilk inwestuje w dziupla (fotowoltaika, solary, dachy)
 - Praca w Holandii, wysyłanie pieniędzy
 - Kara KRUS (18 000 zł) za radę Sroki Doroty
 - Gromadzenie amunicji procesowej przez Wiedźmę
@@ -160,7 +160,7 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 #### Rozdział 5: Zaspawana Prawda
 **Długość:** ~600-700 słów
 **Kluczowe wydarzenia:**
-- Wilk ucieka z własnego domu do warsztatu
+- Wilk ucieka z własnego dziupli do warsztatu
 - Spanie na drzwiach na betonowej podłodze
 - Tracący powietrze materac, zimno, pianka w szczelinach
 - Akt symboliczny: zaspawanie zamka w zewnętrznej toalecie
@@ -219,7 +219,7 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 
 **Symbol:** Ósmykrąg = pętla bez końca, krąg oszustów
 
-#### Rozdział 8: Hiena Domkowa i Zdrada na Sądowym Korytarzu
+#### Rozdział 8: Hiena Dziuplowa i Zdrada na Sądowym Korytarzu
 **Długość:** ~700-800 słów
 **Kluczowe wydarzenia:**
 - Wilk szuka pomocy u adwokata Aleksandra Domka
@@ -246,13 +246,13 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 **Długość:** ~600-700 słów
 **Kluczowe wydarzenia:**
 - Portret Sylwestra: po wylewie, I grupa inwalidzka
-- 19.07.2021: Pełnomocnictwo dla Barbary (2 dni po Niebieskiej Karcie!)
+- 19.07.2021: Pełnomocnictwo dla Wiedźmy BaraBary (2 dni po Niebieskiej Karcie!)
 - Diamentowa sprzeczność zeznań:
   - 3.08.2021: "Dariusz mnie nie obraża"
   - 6.08.2021: List o "kierowaniu wyzwisk wobec mnie"
 - Scena na rozprawie: nie pamięta swojego wieku
 - "Jej zeznania są moimi zeznaniami"
-- Barbara: "On już nie rozumiał. Byłam jego głosem."
+- Wiedźma BaraBara: "On już nie rozumiał. Byłam jego głosem."
 
 **Motywy:**
 - Instrumentalizacja słabości
@@ -268,7 +268,7 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 **Kluczowe wydarzenia:**
 - Sąd cywilny, sędzia jako Puszczyk (patrzy tylko na papier)
 - Obrońca Wilka składa wnioski dowodowe:
-  1. Przesłuchanie Hieny Domkowej → "Oddalam"
+  1. Przesłuchanie Hieny Dziuplowej → "Oddalam"
   2. Opinia biegłego dla Sylwestra → "Oddalam"
   3. Sprzeczność zeznań Jelenia → "Nieistotne"
 - Trzy gwoździe do trumny prawdy
@@ -297,10 +297,10 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 **Długość:** ~600-700 słów
 **Kluczowe wydarzenia:**
 - Ku zaskoczeniu wszystkich: Wilk NIE składa apelacji
-- Zrozumienie: odzyskanie domu = powrót do więzienia
+- Zrozumienie: odzyskanie dziupli = powrót do więzienia
 - Wyrok jako "opłata za wolność"
 - Utrata majątku i pieniędzy vs. zyskanie spokoju
-- Ciche pożegnanie z domem
+- Ciche pożegnanie z dziuplą
 - W oczach Wiedźmy: pustka (straciła przeciwnika)
 - Stary Jeleń: milczący cień
 - Podróż do Holandii
@@ -322,10 +322,10 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 - Cisza pustki, nie spokoju
 - Wiedźma rozgląda się po "wygranej"
 - Wszyscy odeszli: Sroka, Bociany, Hiena
-- Dom = więzienie, za które teraz płaci sama
+- Dziupla = więzienie, za które teraz płaci sama
 - Bomba zegarowa: prawny obowiązek rozliczenia inwestycji Wilka (setki tysięcy zł)
 - Kocioł Krzywd zgasł (nie ma czego gotować)
-- Wiedźma w głuchej ciszy pustego domu
+- Wiedźma w głuchej ciszy pustego dziupli
 - Najstraszniejszy dźwięk: cisza własnego zwycięstwa
 
 **Motywy:**
@@ -365,7 +365,7 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 
 ### 3.1. KARTY POSTACI
 
-#### WIEDŹMA ADAMOWSKA (Barbara Adamska)
+#### WIEDŹMA ADAMOWSKA (Wiedźma BaraBara)
 **Rola:** Antagonistka, architektka destrukcji
 **Wiek:** ~65 lat
 **Motywacja:** Obsesyjna potrzeba kontroli, utrata władzy po darowiźnie
@@ -436,7 +436,7 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 **Symbol:** Delikatne zwierzę szukające schronienia
 **Znaczenie:** Jej obecność ujawniła obsesję Wiedźmy i stała się pretekstem do wojny
 
-#### HIENA DOMKOWA (Aleksander Domek)
+#### HIENA DZIUPLOWA (Aleksander Domek)
 **Rola:** Zdrajca, adwokat-manipulator
 **Symbol:** Hiena żerująca na słabości
 **Kluczowy moment:** Korytarz sądowy, wymuszenie przyznania się
@@ -493,9 +493,9 @@ POLANA KŁAMSTW: BASN_POLANA_KLAMSTW.md
 
 **Znaczenie:** Uniwersalne miejsce, gdzie prawda przegrywa z manipulacją
 
-#### DOM ADAMOWO 8
+#### DZIUPLA ADAMOWO 8
 **Adres symboliczny:** Numer 8 = nieskończona pętla
-**Wygląd:** Dom, który oddycha, karmi się zaspawaną prawdą
+**Wygląd:** Dziupla, który oddycha, karmi się zaspawaną prawdą
 **Historia:** Od miejsca nadziei (darowizna) do pola bitwy
 **Koniec:** Puste więzienie Wiedźmy
 
@@ -574,18 +574,18 @@ WILK SAMOTNIK
 | **10.02.2021, 2:30** | Nocne wtargnięcie Wiedźmy | Przekroczenie granicy |
 | **14.02.2021** | Ogłoszenie związku (Walentynki) | Akt buntu przeciw kontroli |
 | **Marzec 2021** | Inscenizacja z paralizatorem | Prowokacja i manipulacja faktami |
-| **21.05.2021** | Odmowa pomocy Sylwestrowi? | Odwrócony triaż priorytetów Barbary |
+| **21.05.2021** | Odmowa pomocy Sylwestrowi? | Odwrócony triaż priorytetów Wiedźmy BaraBary |
 
 ### Faza Eskalacji Prawnej (Lipiec-Sierpień 2021)
 | Data | Wydarzenie | Znaczenie |
 |------|------------|-----------|
 | **17/18.07.2021** | Noc przejścia (7→8) | Wejście do Ósmego Kręgu |
 | **17.07.2021** | Niebieska Karta wszczęta | Instrumentalizacja policji |
-| **19.07.2021** | Pełnomocnictwo dla Barbary | Przejęcie kontroli (2 dni po NK!) |
+| **19.07.2021** | Pełnomocnictwo dla Wiedźmy BaraBary | Przejęcie kontroli (2 dni po NK!) |
 | **1.08.2021** | Wszczęcie dochodzenia karnego | Formalna machina prawna |
 | **3.08.2021** | Zeznania Sylwestra: "nie obraża" | Prawdziwa wola? |
 | **6.08.2021** | List odwołujący darowiznę: "wyzwiska" | Manipulacja (3 dni później!) |
-| **Sierpień 2021** | Wilk opuszcza dom, wyjeżdża do Holandii | Pierwsza ucieczka |
+| **Sierpień 2021** | Wilk opuszcza dziupla, wyjeżdża do Holandii | Pierwsza ucieczka |
 
 ### Faza Zdrady (Październik 2021)
 | Data | Wydarzenie | Znaczenie |
@@ -605,7 +605,7 @@ WILK SAMOTNIK
 |------|------------|-----------|
 | **Jesień 2025** | Wilk NIE składa apelacji | Wybór wolności |
 | **2025** | Odejście Wilka do Holandii | Opłata za wolność |
-| **2025** | Wiedźma sama w pustym domu | Puste zwycięstwo |
+| **2025** | Wiedźma sama w pustym dziupli | Puste zwycięstwo |
 
 ---
 
@@ -655,7 +655,7 @@ WILK SAMOTNIK
 **Sceny kluczowe:**
 - Decyzja o nieapelowaniu
 - Odejście do Holandii
-- Wiedźma sama w pustym domu
+- Wiedźma sama w pustym dziupli
 
 #### Motyw 4: Symbolika Liczb
 **Cyfra 7:**
@@ -696,14 +696,14 @@ WILK SAMOTNIK
 - "To ja byłam jego głosem"
 
 **Sceny lustrzane:**
-- Początek: Wilk daje dom w nadziei
-- Koniec: Wilk oddaje dom za wolność
+- Początek: Wilk daje dziupla w nadziei
+- Koniec: Wilk oddaje dziupla za wolność
 ---
 - Początek: Kocioł bulgocze
 - Koniec: Kocioł wygasł
 
 **Przepowiednie:**
-- "Niech zgnije w środku" → spełnia się w pustym domu Wiedźmy
+- "Niech zgnije w środku" → spełnia się w pustym dziupli Wiedźmy
 - Cyfra 8 jako pętla → powtarza się przez całą fabułę
 
 ---
@@ -720,7 +720,7 @@ WILK SAMOTNIK
 ### 6.2. Ilustracje ASCII (Opcjonalne)
 **Dla kluczowych momentów:**
 - Kocioł Krzywd bulgoczący
-- Dom Adamowo 8
+- Dziupla Adamowo 8
 - Zaspawany zamek
 - Pusta Polana
 

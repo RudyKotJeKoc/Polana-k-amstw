@@ -10,7 +10,7 @@
 ### ART. 11 K.P.C. (Zaklęcie Związania)
 **Definicja prawna:** Artykuł 11 Kodeksu postępowania cywilnego stanowi, że *"ustalenia wydanego w postępowaniu karnym prawomocnego wyroku skazującego co do popełnienia przestępstwa wiążą sąd w postępowaniu cywilnym."*
 
-**Znaczenie w baśni:** Zaklęcie, które zamraża obraz Wilka jako sprawcy. Raz wypowiedziane w wyroku karnym (II K 568/21), staje się nieodwracalne w sprawie cywilnej. Puszczyk Halager, związany tym zaklęciem, nie widzi już nic poza papierem – nie może badać, czy wyrok karny był słuszny, ani czy powstał w wyniku zdrady Hieny Domkowej.
+**Znaczenie w baśni:** Zaklęcie, które zamraża obraz Wilka jako sprawcy. Raz wypowiedziane w wyroku karnym (II K 568/21), staje się nieodwracalne w sprawie cywilnej. Puszczyk Halager, związany tym zaklęciem, nie widzi już nic poza papierem – nie może badać, czy wyrok karny był słuszny, ani czy powstał w wyniku zdrady Hieny Dziuplowej.
 
 **Przykład:** Wyrok karny ustalił, że Dariusz "znęcał się psychicznie" nad rodzicami. Sąd cywilny musiał to przyjąć jako fakt, choć wyrok był oparty na wymuszczonym przyznaniu się na korytarzu sądowym.
 
@@ -54,9 +54,9 @@ Puszczyk Halager uznał sprzeczność za "nieistotną".
 ---
 
 ### EFEKT DZIUPLI
-**Definicja:** Zjawisko, w którym dom, zamiast być miejscem bezpieczeństwa i schronienia, staje się źródłem traumy, lęku i ciągłego zagrożenia.
+**Definicja:** Zjawisko, w którym dziupla, zamiast być miejscem bezpieczeństwa i schronienia, staje się źródłem traumy, lęku i ciągłego zagrożenia.
 
-**Znaczenie w baśni:** Dziupla nr 8 (dom Adamowo 8) przestała być domem dla Wilka. Stała się polem bitwy, więzieniem, miejscem nocnych wtargnięć i nieustannej inwigilacji. Wilk musiał uciec z własnego domu do zimnego warsztatu, by mieć choć skrawek prywatności.
+**Znaczenie w baśni:** Dziupla nr 8 (dziupla Adamowo 8) przestała być dziuplą dla Wilka. Stała się polem bitwy, więzieniem, miejscem nocnych wtargnięć i nieustannej inwigilacji. Wilk musiał uciec z własnego dziupli do zimnego warsztatu, by mieć choć skrawek prywatności.
 
 **Psychologia:** Efekt Dziupli odpowiada traumie związanej z "unsafe home" – gdy miejsce, które powinno chronić, staje się miejscem ataku. Prowadzi do chronicznego stresu, lęku i strategii izolacji.
 
@@ -83,7 +83,7 @@ Puszczyk Halager uznał sprzeczność za "nieistotną".
 ## K
 
 ### KALENDARZ WIEDŹMY
-**Definicja:** Selektywna kronika oskarżeń prowadzona przez Barbarę Adamską od 2017 r., tworzona pod przyszły proces sądowy, pomijająca fakty korzystne dla syna.
+**Definicja:** Selektywna kronika oskarżeń prowadzona przez Wiedźmę BaraBarę od 2017 r., tworzona pod przyszły proces sądowy, pomijająca fakty korzystne dla syna.
 
 **Znaczenie w baśni:** Główna broń procesowa Wiedźmy, księga zaklęć. Nie pamiętnik, lecz akt oskarżenia pisany każdego dnia. Puszczyk Halager przyjął Kalendarz bezkrytycznie jako "obiektywny" dowód.
 
@@ -91,19 +91,19 @@ Puszczyk Halager uznał sprzeczność za "nieistotną".
 - Zapisuje: Nocne wtargnięcie → "Dariusz na mnie krzyczał"
 - Pomija: To ona wtargnęła bez pukania o 2:30
 - Zapisuje: "Dariusz mnie ignoruje"
-- Pomija: Odebrał ojca ze szpitala, zainwestował 160-255 tys. zł w dom
+- Pomija: Odebrał ojca ze szpitala, zainwestował 160-255 tys. zł w dziupla
 
 **Zobacz także:** Kocioł Krzywd, Gaslighting Adamowski, Odwrócony Triaż Priorytetów
 
 ---
 
 ### KLĄTWA ÓSEMKI
-**Definicja:** Nieskończona pętla konfliktu symbolizowana przez liczbę 8 (∞, Uroboros). 8 lat walki, dom nr 8, przejście z 17 na 18 lipca (7→8), wejście do Ósmego Kręgu Dantego (oszuści).
+**Definicja:** Nieskończona pętla konfliktu symbolizowana przez liczbę 8 (∞, Uroboros). 8 lat walki, dziupla nr 8, przejście z 17 na 18 lipca (7→8), wejście do Ósmego Kręgu Dantego (oszuści).
 
 **Znaczenie w baśni:** Centralna struktura baśni. Klątwa oznacza, że konflikt nie miał naturalnego końca – mógł trwać w nieskończoność. Każde słowo wraca echem, każda łza powraca bólem, każdy SMS powraca oskarżeniem. Jedynym sposobem na przerwanie pętli było odejście Wilka.
 
 **Elementy Klątwy:**
-- **Dom Adamowo nr 8** - adres
+- **Dziupla Adamowo nr 8** - adres
 - **8 lat** - między darowizną (7.07.2017) a wyrokiem (29.08.2025)
 - **Noc 17/18.07.2021** - symboliczne przejście 7→8
 - **Ósmy Krąg Piekła** - krąg oszustów u Dantego
@@ -116,14 +116,14 @@ Puszczyk Halager uznał sprzeczność za "nieistotną".
 ---
 
 ### KLUCZYK DO POKÉMONA
-**Definicja:** Pełnomocnictwo notarialne z 19.07.2021 r. (koszt ok. 26 zł), które dało Barbarze całkowitą kontrolę nad tożsamością prawną Sylwestra.
+**Definicja:** Pełnomocnictwo notarialne z 19.07.2021 r. (koszt ok. 26 zł), które dało Wiedźmie BaraBarze całkowitą kontrolę nad tożsamością prawną Sylwestra.
 
 **Znaczenie w baśni:** Symbolicznie tani przedmiot (26 zł), który zamienił Papesmerfa w bezwolnego Pokémona. Wiedźma otrzymała "kluczyk", który aktywuje jego "movesety": *Podpis Bez Czytania* i *Wola Darczyńcy*. Od tej pory mogła działać w jego imieniu bez jego rzeczywistej zgody.
 
 **Timing (dowód premedytacji):**
 - **17.07.2021** - Niebieska Karta (oznaczenie Wilka jako sprawcy)
 - **19.07.2021** - Pełnomocnictwo (2 dni później!)
-- Barbara przejęła kontrolę nad Sylwestrem dokładnie wtedy, gdy potrzebowała formalnego powoda w sprawie cywilnej
+- Wiedźma BaraBara przejęła kontrolę nad Sylwestrem dokładnie wtedy, gdy potrzebowała formalnego powoda w sprawie cywilnej
 
 **Zobacz także:** Papesmerf, Czerwona Czapka, Syndrom Szklistych Oczu
 
@@ -178,20 +178,20 @@ Puszczyk Halager uznał sprzeczność za "nieistotną".
 **Myśl Wilka:**
 > *"Niech zgnije. Niech wszystko zgnije w środku, skoro nie może wyjść na zewnątrz. To nie zamek. To nagrobek dla prawdy."*
 
-**Wykorzystanie przez Wiedźmę:** Dla Barbary zaspawany zamek był "diamentowym dowodem" na paranoję i agresję syna. Sroka rozniosła wieść po Polanie, przekształcając akt obrony w akt ataku.
+**Wykorzystanie przez Wiedźmę:** Dla Wiedźmy BaraBary zaspawany zamek był "diamentowym dowodem" na paranoję i agresję syna. Sroka rozniosła wieść po Polanie, przekształcając akt obrony w akt ataku.
 
 **Zobacz także:** Zaspawana Toaleta (Appendix B), Milczenie Wilka
 
 ---
 
 ### NIEBIESKA KARTA (NK)
-**Definicja:** Procedura policyjna mająca chronić ofiary przemocy domowej, wszczęta 17.07.2021 r. w związku ze zgłoszeniem Barbary Adamskiej.
+**Definicja:** Procedura policyjna mająca chronić ofiary przemocy domowej, wszczęta 17.07.2021 r. w związku ze zgłoszeniem Wiedźmy BaraBary.
 
 **Znaczenie w baśni:** Zaklęcie ochrony, które stało się bronią. NK miała chronić ofiary, ale została użyta instrumentalnie w prywatnej wojnie o majątek. Odwrócenie ról: prawdziwa ofiara (Wilk) oznaczona jako sprawca, prawdziwy sprawca (Wiedźma) jako ofiara.
 
 **Timing (dowód premedytacji):**
 - **17.07.2021** - Niebieska Karta (noc z 17 na 18 – przejście 7→8)
-- **19.07.2021** - Pełnomocnictwo dla Barbary (2 dni później!)
+- **19.07.2021** - Pełnomocnictwo dla Wiedźmy BaraBary (2 dni później!)
 
 Perfekcyjny timing Wiedźmy: najpierw oficjalna pieczęć prawna (NK), potem formalne narzędzie kontroli (pełnomocnictwo).
 
@@ -202,12 +202,12 @@ Perfekcyjny timing Wiedźmy: najpierw oficjalna pieczęć prawna (NK), potem for
 ## O
 
 ### ODWRÓCONY TRIAŻ PRIORYTETÓW
-**Definicja:** Sytuacja, w której Barbara Adamska przedkłada zdobycie "dowodu" procesowego (spór o kluczyki, notatki w kalendarzu) nad wezwanie pomocy medycznej dla ciężko chorego męża.
+**Definicja:** Sytuacja, w której Wiedźma BaraBara przedkłada zdobycie "dowodu" procesowego (spór o kluczyki, notatki w kalendarzu) nad wezwanie pomocy medycznej dla ciężko chorego męża.
 
 **Znaczenie w baśni:** Koronny dowód zimnej premedytacji Wiedźmy. W normalnym lesie ratuje się rannego jelenia; na Polanie Kłamstw najpierw notuje się, że wilk "nie chce oddać klucza". Cel procesowy > zdrowie Papesmerfa.
 
 **Przykład kluczowy:**
-**21.05.2021** - Incydent, w którym Sylwester wymagał pilnej pomocy medycznej, ale Barbara priorytetowo potraktowała sprowokowanie kłótni o kluczyki do samochodu. Zapis w Kalendarzu był ważniejszy niż pogotowie.
+**21.05.2021** - Incydent, w którym Sylwester wymagał pilnej pomocy medycznej, ale Wiedźma BaraBara priorytetowo potraktowała sprowokowanie kłótni o kluczyki do samochodu. Zapis w Kalendarzu był ważniejszy niż pogotowie.
 
 **Konsekwencje:** Dowód, że dla Wiedźmy proces był ważniejszy niż rodzina. Kocioł Krzywd był ważniejszy niż zdrowie własnego męża.
 
@@ -222,7 +222,7 @@ Perfekcyjny timing Wiedźmy: najpierw oficjalna pieczęć prawna (NK), potem for
 
 **Mieszkańcy Ósmego Kręgu na Polanie:**
 - Wiedźma (oszustwo przez manipulację)
-- Hiena Domkowa (zdrada klienta)
+- Hiena Dziuplowa (zdrada klienta)
 - Sarna Sarnecki (fałszywa obrona)
 - Ślimoręki Szlemierz (fałszywe pisma)
 - Puszczyk Halager (wyrok oparty na oszustwie)
@@ -238,14 +238,14 @@ Perfekcyjny timing Wiedźmy: najpierw oficjalna pieczęć prawna (NK), potem for
 
 **Pochodzenie nazwy:** Połączenie "papież" (autorytet) + "smerf" (mała, bezwolna istotka). Alternatywnie: Pokémon z Czerwoną Czapką sterowany kluczykiem Wiedźmy.
 
-**Reprezentant:** Sylwester Adamski, po wylewie, I grupa inwalidzka, całkowicie zdominowany przez Barbarę.
+**Reprezentant:** Sylwester Adamski, po wylewie, I grupa inwalidzka, całkowicie zdominowany przez Wiedźmę BaraBarę.
 
 **Zobacz także:** Kluczyk do Pokémona, Czerwona Czapka, Syndrom Szklistych Oczu, Diamentowa Sprzeczność
 
 ---
 
 ### PĘTLA WIEDŹMY (Strategia Prowokacja-Reakcja-Oskarżenie)
-**Definicja:** Cykliczny mechanizm manipulacji stosowany przez Barbarę Adamską:
+**Definicja:** Cykliczny mechanizm manipulacji stosowany przez Wiedźmę BaraBarę:
 1. **Prowokacja** - Wiedźma celowo narusza granice (wtargnięcie, wyłączenie prądu)
 2. **Reakcja** - Wilk reaguje emocjonalnie (krzyk, izolacja)
 3. **Oskarżenie** - Wiedźma przedstawia reakcję jako dowód agresji Wilka
@@ -300,7 +300,7 @@ Plotka ewoluuje, rośnie, żyje własnym życiem. Fakt umiera w pierwszym powtó
 ### PREJUDYKAT (Art. 11 k.p.c.)
 **Definicja:** Prawomocne ustalenia wyroku karnego są wiążące dla sądu cywilnego rozpoznającego sprawę między tymi samymi stronami.
 
-**Znaczenie w baśni:** Mechanizm prawny, który zamienił zdradę Hieny Domkowej w broń absolutną Wiedźmy. Wyrok karny II K 568/21 (oparty na wymuszczonym przyznaniu się) stał się "koronnym dowodem" w sprawie cywilnej. Puszczyk Halager nie mógł badać, czy wyrok był słuszny – był związany jego ustaleniami.
+**Znaczenie w baśni:** Mechanizm prawny, który zamienił zdradę Hieny Dziuplowej w broń absolutną Wiedźmy. Wyrok karny II K 568/21 (oparty na wymuszczonym przyznaniu się) stał się "koronnym dowodem" w sprawie cywilnej. Puszczyk Halager nie mógł badać, czy wyrok był słuszny – był związany jego ustaleniami.
 
 **Efekt:** Sąd cywilny musiał przyjąć, że Dariusz "znęcał się psychicznie", choć wyrok powstał w wyniku zdrady procesowej na korytarzu sądowym.
 
@@ -314,7 +314,7 @@ Plotka ewoluuje, rośnie, żyje własnym życiem. Fakt umiera w pierwszym powtó
 **Znaczenie w baśni:** Puszczyk Halager siedziała wysoko na gałęzi, patrząc tylko na pergaminy. Jej oczy były wielkie, ale ślepe na manipulację. Oddalała wszystkie wnioski obrony (*"Oddalam, oddalam, oddalam"*), przyjmując bezkrytycznie Kalendarz Wiedźmy i wadliwy wyrok karny.
 
 **Przykłady ślepoty:**
-1. Oddalenie wniosku o przesłuchanie Hieny Domkowej (zdrada procesowa)
+1. Oddalenie wniosku o przesłuchanie Hieny Dziuplowej (zdrada procesowa)
 2. Oddalenie wniosku o biegłego psychiatrę dla Sylwestra (sprawdzenie woli)
 3. Uznanie sprzeczności w zeznaniach Papesmerfa za "nieistotną"
 4. Fundamentalny błąd prawny: służebność ≠ dożywocie
@@ -359,7 +359,7 @@ Plotka ewoluuje, rośnie, żyje własnym życiem. Fakt umiera w pierwszym powtó
 ---
 
 ### SYNDROM SZKLISTYCH OCZU SYLWESTRA
-**Definicja:** Stan Sylwestra Adamskiego po wylewie: poważne ograniczenia poznawcze, problemy z pamięcią i orientacją, całkowita zależność od Barbary, utrata autonomii.
+**Definicja:** Stan Sylwestra Adamskiego po wylewie: poważne ograniczenia poznawcze, problemy z pamięcią i orientacją, całkowita zależność od Wiedźmy BaraBary, utrata autonomii.
 
 **Znaczenie w baśni:** Symbol tragedii Papesmerfa. Szkliste oczy to oczy, które patrzą, ale nie widzą; słuchają, ale nie rozumieją. Sylwester na rozprawie nie pamiętał własnego wieku, zeznał: *"Jej zeznania są moimi zeznaniami."*
 
@@ -373,16 +373,16 @@ Plotka ewoluuje, rośnie, żyje własnym życiem. Fakt umiera w pierwszym powtó
 
 ## T
 
-### TEKTURKA DOMKOWA
+### TEKTURKA DZIUPLOWA
 **Definicja:** Oświadczenie napisane przez Dariusza Adamskiego na kartoniku na żądanie adwokata Aleksandra Domka (13.10.2021), w którym Dariusz zobowiązał się nie wracać do sprawy i nie dochodzić roszczeń za nakłady w nieruchomość.
 
-**Znaczenie w baśni:** Tarcza zdrajcy. Hiena Domkowa wymusił ten dokument, by zabezpieczyć siebie przed przyszłymi konsekwencjami zdrady procesowej. Tekturka chroni Hienę, ale zostawia Wilka bezbronnego.
+**Znaczenie w baśni:** Tarcza zdrajcy. Hiena Dziuplowa wymusił ten dokument, by zabezpieczyć siebie przed przyszłymi konsekwencjami zdrady procesowej. Tekturka chroni Hienę, ale zostawia Wilka bezbronnego.
 
 **Kontekst:** Tekturka powstała w momencie zdrady na korytarzu sądowym – 5 minut przed rozprawą, gdy Hiena wymusi przyznanie się do winy w zamian za fałszywą obietnicę zakończenia konfliktu.
 
 **Konsekwencje:** Wilk stracił prawo do dochodzenia zwrotu nakładów (160-255 tys. zł), a Hiena zabezpieczył się przed roszczeniami o odszkodowanie za wadliwą obronę.
 
-**Zobacz także:** Hiena Domkowa, Korytarz Zdrady, Jama Hieny (Appendix B)
+**Zobacz także:** Hiena Dziuplowa, Korytarz Zdrady, Jama Hieny (Appendix B)
 
 ---
 
@@ -392,7 +392,7 @@ Plotka ewoluuje, rośnie, żyje własnym życiem. Fakt umiera w pierwszym powtó
 **Znaczenie w baśni:**
 
 **Trzy Gwoździe** (Sala Sądów Puszczyka):
-1. *"Oddalam"* – wniosek o przesłuchanie Hieny Domkowej
+1. *"Oddalam"* – wniosek o przesłuchanie Hieny Dziuplowej
 2. *"Oddalam"* – wniosek o biegłego psychiatrę dla Sylwestra
 3. *"To nieistotne"* – sprzeczność w zeznaniach (3.08 vs. 6.08)
 
@@ -409,7 +409,7 @@ Plotka ewoluuje, rośnie, żyje własnym życiem. Fakt umiera w pierwszym powtó
 **Definicja:** Cyfra 13 jako symbol nieuchronnej egzekucji, dnia sądu ostatecznego, zamknięcia pętli.
 
 **Znaczenie w baśni:**
-- **13.10.2021** - Zdrada Hieny Domkowej na korytarzu sądowym, wyrok nakazowy II K 568/21
+- **13.10.2021** - Zdrada Hieny Dziuplowej na korytarzu sądowym, wyrok nakazowy II K 568/21
 - **13** jako data symboliczna - dzień, w którym pętla miała się zamknąć
 
 Jednak Wilk przerwał klątwę, nie składając apelacji. Trzynastka nie zamknęła pętli – zrobił to dopiero Wilk, odchodząc.
@@ -444,7 +444,7 @@ Jednak Wilk przerwał klątwę, nie składając apelacji. Trzynastka nie zamknę
 ## W
 
 ### WILCZA CISZA
-**Definicja:** Strategia całkowitego wycofania się z komunikacji z Barbarą Adamską, przyjęta przez Dariusza jako jedyna forma samoobrony wobec Gaslightingu Adamowskiego.
+**Definicja:** Strategia całkowitego wycofania się z komunikacji z Wiedźmą BaraBarą, przyjęta przez Dariusza jako jedyna forma samoobrony wobec Gaslightingu Adamowskiego.
 
 **Znaczenie w baśni:** Jedyna broń Wilka. Po odkryciu pułapki Prawa Krzyku i Ciszy (krzyk = agresja, cisza = znęcanie), Wilk wybrał milczenie jako mniejsze zło. "Wilcza cisza" stała się jego tarczą.
 
@@ -466,9 +466,9 @@ Jednak Wilk przerwał klątwę, nie składając apelacji. Trzynastka nie zamknę
 - Nie mógł badać okoliczności powstania wyroku (zdrada Hieny)
 - Wyrok stał się "koronnym dowodem" Wiedźmy o "rażącej niewdzięczności"
 
-**Ironia:** Wyrok, który miał "zakończyć konflikt" (obietnica Hieny), stał się narzędziem do odebrania Wilkowi domu.
+**Ironia:** Wyrok, który miał "zakończyć konflikt" (obietnica Hieny), stał się narzędziem do odebrania Wilkowi dziupli.
 
-**Zobacz także:** Hiena Domkowa, Korytarz Zdrady, Prejudykat, Tekturka Domkowa
+**Zobacz także:** Hiena Dziuplowa, Korytarz Zdrady, Prejudykat, Tekturka Dziuplowa
 
 ---
 
@@ -483,7 +483,7 @@ Jednak Wilk przerwał klątwę, nie składając apelacji. Trzynastka nie zamknę
 
 **Efekt:** Puszczyk Halager, zmęczony czytaniem, przyjmuje tezy Szlemierza bezkrytycznie, bo "za dużo do czytania".
 
-**Nieświadomy sabotaż:** Szlemierz czasami wplata do pism dowody przeciwko własnej klientce (np. świadczenia dowodu na zaniedbanie opieki przez Barbarę), ale nikt tego nie zauważa, bo nikt nie doczytuje do końca.
+**Nieświadomy sabotaż:** Szlemierz czasami wplata do pism dowody przeciwko własnej klientce (np. świadczenia dowodu na zaniedbanie opieki przez Wiedźmę BaraBarę), ale nikt tego nie zauważa, bo nikt nie doczytuje do końca.
 
 **Zobacz także:** Ślimoręki Szlemierz, Procesowa Ślepota Puszczyka
 
@@ -494,7 +494,7 @@ Jednak Wilk przerwał klątwę, nie składając apelacji. Trzynastka nie zamknę
 
 **Znaczenie w baśni:** Nagrobek dla prawdy. Fizyczne zamknięcie komunikacji, która nie może wyjść na zewnątrz. Symbol gnijącej prawdy, która, skoro nie może być wypowiedziana, gnije w środku.
 
-**Wykorzystanie:** Dla Barbary – dowód "paranoi i agresji". Dla Sroki Doroty – świecidełko plotki. Dla Dariusza – manifest rozpaczy.
+**Wykorzystanie:** Dla Wiedźmy BaraBary – dowód "paranoi i agresji". Dla Sroki Doroty – świecidełko plotki. Dla Dariusza – manifest rozpaczy.
 
 **Głębsza symbolika:** Toaleta (miejsce oczyszczania) zaspawana = niemożność oczyszczenia rodziny z toksyczności. Prawda, która powinna zostać wypłukana, zostaje zamknięta i pozostawiona do rozkładu.
 
