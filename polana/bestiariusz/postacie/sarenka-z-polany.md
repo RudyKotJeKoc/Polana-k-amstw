@@ -1,7 +1,7 @@
 # Sarenka z Polany (Julia)
 
 **Typ:** Istota Bez Gniazda / Niewinny Katalizator / Zjawisko Dwóch Saren
-**Powiązania:** Wilk Samotnik (Dariusz), Wiedźma Barabara, Zjawisko Dwóch Saren
+**Powiązania:** Wilk Samotnik (Dariusz), Wiedźma BaraBara, Zjawisko Dwóch Saren
 
 ## Opis
 
@@ -16,7 +16,7 @@ Związek Sarenki z Wilkiem rozpadł się w grudniu 2022, przed Wigilią. Trauma 
 ## Symbolika
 
 **Istota "Bez Gniazda"**
-Sarenka nie miała własnego bezpiecznego miejsca. Przyszła z innego królestwa, nie zakorzeniona, nie chroniona. W świecie, gdzie każda istota ma swoje gniazdo, swoją norę, swoje terytorium — ona była bez domu.
+Sarenka nie miała własnego bezpiecznego miejsca. Przyszła z innego królestwa, nie zakorzeniona, nie chroniona. W świecie, gdzie każda istota ma swoje gniazdo, swoją norę, swoje terytorium — ona była bez dziupli.
 
 **Katalizator Konfliktu**
 Jej pojawienie się nie było przyczyną konfliktu, ale **ujawnieniem** tego, co już istniało. Obsesja Wiedźmy, lęk przed utratą kontroli, gniew na autonomię syna — wszystko to czekało na pretekst. Sarenka stała się tym pretekstem.

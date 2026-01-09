@@ -20,7 +20,7 @@ if grep -r "Wied[zź]m[aąyę].*Adamowsk" polana/ \
     --exclude-dir="_archive" \
     --include="*.md" 2>/dev/null; then
     echo "❌ BŁĄD: Znaleziono referencje do 'Wiedźmy Adamowskiej' w polana/!"
-    echo "   Poprawna nazwa to: 'Wiedźma Barabara' lub 'Wiedźma BaraBary'"
+    echo "   Poprawna nazwa to: 'Wiedźma BaraBara' lub 'Wiedźma BaraBary'"
     ERRORS=$((ERRORS + 1))
 else
     echo "   ✅ Brak odniesień do 'Wiedźmy Adamowskiej'"
@@ -35,7 +35,7 @@ if grep -r "wiedzma-adamowska" polana/ \
     --exclude-dir="_archive" \
     --include="*.md" 2>/dev/null; then
     echo "❌ BŁĄD: Znaleziono slug 'wiedzma-adamowska' w polana/!"
-    echo "   Poprawny slug to: 'barbara-adamska' lub 'wiedzma-barabara'"
+    echo "   Poprawny slug to: 'wiedzma-barabara-rzeczywista' lub 'wiedzma-barabara'"
     ERRORS=$((ERRORS + 1))
 else
     echo "   ✅ Brak odniesień do sluga 'wiedzma-adamowska'"
@@ -43,8 +43,8 @@ fi
 
 echo ""
 
-# Sprawdzenie 3: Ostrzeżenia o potencjalnych literówkach w nazwie "Barabara"
-echo "✓ Sprawdzanie spójności zapisu 'Wiedźma Barabara' i 'Wiedźma BaraBary'..."
+# Sprawdzenie 3: Ostrzeżenia o potencjalnych literówkach w nazwie "BaraBara"
+echo "✓ Sprawdzanie spójności zapisu 'Wiedźma BaraBara' i 'Wiedźma BaraBary'..."
 
 # Sprawdzamy czy nie ma "Wiedma" (bez ź)
 if grep -r "Wiedma[^ź]" polana/ \
@@ -62,17 +62,17 @@ if grep -r "Wiedzma" polana/ \
     WARNINGS=$((WARNINGS + 1))
 fi
 
-# Sprawdzamy czy nie ma "Barbara" zamiast "Barabara" w kontekście wiedźmy
-# (ale ignorujemy "Barbara Adamska" - prawdziwe imię)
-if grep -r "Wied[zź]m[aąyę].*Barbara[^a]" polana/ \
+# Sprawdzamy czy nie ma "Wiedźma BaraBara" zamiast "BaraBara" w kontekście wiedźmy
+# (ale ignorujemy "Wiedźma BaraBara" - prawdziwe imię)
+if grep -r "Wied[zź]m[aąyę].*Wiedźma BaraBara[^a]" polana/ \
     --exclude-dir="_archive" \
     --include="*.md" 2>/dev/null | grep -v "Adamsk"; then
-    echo "⚠️  OSTRZEŻENIE: Znaleziono 'Wiedźma Barbara' zamiast 'Barabara'"
+    echo "⚠️  OSTRZEŻENIE: Znaleziono 'Wiedźma BaraBara' zamiast 'BaraBara'"
     WARNINGS=$((WARNINGS + 1))
 fi
 
 if [ $WARNINGS -eq 0 ]; then
-    echo "   ✅ Zapis 'Wiedźma Barabara' / 'BaraBary' jest spójny"
+    echo "   ✅ Zapis 'Wiedźma BaraBara' / 'BaraBary' jest spójny"
 fi
 
 echo ""

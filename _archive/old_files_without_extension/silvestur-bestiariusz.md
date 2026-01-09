@@ -8,7 +8,7 @@
 **Pochodzenie:** Las na skraju Polany Kłamstw  
 **Właściciel:** Sylwestur (Poké-Smurf)  
 **Status:** Aktywny (zbierany codziennie dla przetrwania)  
-**Funkcja magiczna:** Jedyna waluta akceptowana przez Wiedźmę Barabarę w zamian za jedzenie  
+**Funkcja magiczna:** Jedyna waluta akceptowana przez Wiedźmę BaraBarę w zamian za jedzenie  
 **Wartość wymienna:** 1 szyszka = 1 smażone jajko  
 
 ---
@@ -19,9 +19,9 @@ Szyszki Sylvestura to pozornie zwykłe szyszki sosnowe zbierane przez Sylvestura
 
 **Sylwestur zbiera szyszki, bo to jedyny sposób, by dostać jedzenie.**
 
-Wiedźma Barabara nie daje mu nic za darmo. Nie daje mu nic, bo "należy mu się". Nie daje mu nic, bo jest rodziną.
+Wiedźma BaraBara nie daje mu nic za darmo. Nie daje mu nic, bo "należy mu się". Nie daje mu nic, bo jest rodziną.
 
-Barabara ustaliła zasadę:
+BaraBara ustaliła zasadę:
 
 > **"Chcesz jeść? Przynieś szyszkę."**
 
@@ -50,8 +50,8 @@ To jest **system kontroli**.
 
 1. **Bez szyszki – bez jedzenia.** Nawet jeśli Sylwestur jest chory, zmęczony, słaby. Nie ma wyjątków.
 2. **Szyszka musi być świeża.** Stare szyszki "nie nadają się" – choć nikt nie wie dlaczego.
-3. **Jedna szyszka = jedno jajko.** Nigdy więcej. Nawet jeśli Sylwestur przyniesie dziesięć szyszek, dostanie tylko tyle jajek, ile Barabara uzna za stosowne.
-4. **Barabara decyduje, czy szyszka się nadaje.** Czasem odrzuca je bez powodu. Wtedy Sylwestur musi iść zbierać ponownie.
+3. **Jedna szyszka = jedno jajko.** Nigdy więcej. Nawet jeśli Sylwestur przyniesie dziesięć szyszek, dostanie tylko tyle jajek, ile BaraBara uzna za stosowne.
+4. **BaraBara decyduje, czy szyszka się nadaje.** Czasem odrzuca je bez powodu. Wtedy Sylwestur musi iść zbierać ponownie.
 
 **To nie jest gospodarka. To jest poniżenie.**
 
@@ -64,9 +64,9 @@ W rzeczywistości poza baśnią istnieje zjawisko zwane **warunkowaniem operante
 **Mechanizm działa tak:**
 
 1. **Pozbawienie autonomii** – Sylwestur nie może sam ugotować jajek, nie ma dostępu do kuchni, nie ma prawa do jedzenia.
-2. **Ustanowienie arbitralnych zasad** – Barabara wymyśla system, który brzmi "uczciwie" ("pracujesz, dostajesz"), ale jest totalnie arbitralny.
+2. **Ustanowienie arbitralnych zasad** – BaraBara wymyśla system, który brzmi "uczciwie" ("pracujesz, dostajesz"), ale jest totalnie arbitralny.
 3. **Uzależnienie emocjonalne** – Sylwestur nie może uciec, bo nie ma gdzie iść. Jest uzależniony od Barabary jak więzień od strażnika.
-4. **Poniżenie przez absurd** – Szyszki nie mają realnej wartości. Barabara mogłaby równie dobrze kazać mu zbierać kamienie, liście, gałęzie. Chodzi o **kontrolę, nie o szyszki**.
+4. **Poniżenie przez absurd** – Szyszki nie mają realnej wartości. BaraBara mogłaby równie dobrze kazać mu zbierać kamienie, liście, gałęzie. Chodzi o **kontrolę, nie o szyszki**.
 
 **W realnym świecie to się nazywa:**
 - Przemoc ekonomiczna (kontrola przez pieniądze/jedzenie)
@@ -84,7 +84,7 @@ W Polanie Kłamstw krąży stara legenda:
 
 > *"Gdy Sylwestur uzbiera sto szyszek i nie wymieni ich na jajka,  
 > tylko schowa w tajnym miejscu w lesie –  
-> Barabara po raz pierwszy straci kontrolę.  
+> BaraBara po raz pierwszy straci kontrolę.  
 >   
 > Bo wtedy Sylwestur nauczy się,  
 > że można zgromadzić coś TYLKO DLA SIEBIE."*
@@ -103,7 +103,7 @@ dopóty jest niewolnikiem Barabary.
 
 ### 🍳 **SMAŻONE JAJKA BARABARY**
 
-Smażone jajka, które Barabara daje Sylwesturowi, nie są zwykłymi jajkami.
+Smażone jajka, które BaraBara daje Sylwesturowi, nie są zwykłymi jajkami.
 
 **Są:**
 - Zimne (nigdy ciepłe, nigdy świeże)
@@ -122,7 +122,7 @@ Smażone jajka, które Barabara daje Sylwesturowi, nie są zwykłymi jajkami.
 ### 🗺️ **POWIĄZANE POSTACI**
 
 - **Sylwestur (Poké-Smurf)** – zbieracz szyszek, więzień systemu  
-- **Barabara (Wiedźma)** – ta, która ustaliła zasady wymiany  
+- **BaraBara (Wiedźma)** – ta, która ustaliła zasady wymiany  
 - **Wilk (Dariusz)** – ten, który wie, że szyszki to nie waluta, tylko pętla  
 - **Las** – świadek, który pamięta każdą zebraną szyszkę i każde niewymienione jajko  
 - **Słazar (Schleser)** – ten, który zalegalizował system: "To jest układ rodzinny, sąd nie może ingerować"  
@@ -161,9 +161,9 @@ Smażone jajka, które Barabara daje Sylwesturowi, nie są zwykłymi jajkami.
 
 ### 🪵 **CIEKAWOSTKI**
 
-- Sylwestur nigdy nie jadł ciepłych jajek. Barabara zawsze je podawała **zimne** – "bo inaczej się zepsują".
+- Sylwestur nigdy nie jadł ciepłych jajek. BaraBara zawsze je podawała **zimne** – "bo inaczej się zepsują".
 - W jednej z wersji legendy Wilk przyniósł Sylwesturowi jedzenie z Holandii. Sylwestur płakał, bo pierwszy raz od lat jadł coś, czego nie musiał wymienić na szyszkę.
-- Barabara prowadzi **Kalendarz Szyszek** – zapisuje każdą przyniesioną szyszkę, każde wydane jajko. "Na wypadek, gdyby ktoś powiedział, że go nie karmię" – mówi.
+- BaraBara prowadzi **Kalendarz Szyszek** – zapisuje każdą przyniesioną szyszkę, każde wydane jajko. "Na wypadek, gdyby ktoś powiedział, że go nie karmię" – mówi.
 - Las wie, gdzie Sylwestur chowa szyszki NIE NA WYMIANĘ. Ale las nikomu nie powie.
 
 ---
@@ -202,7 +202,7 @@ Motyw Szyszek Sylwestura pojawia się w kilku pieśniach Polany:
 ### 🔗 **LINKI**
 
 → [Sylvestur – profil postaci](#)  
-→ [Barabara – profil postaci](#)  
+→ [BaraBara – profil postaci](#)  
 → [Kalendarz Szyszek – artefakt kontroli](#)  
 → [Smażone Jajka – symbol poniżenia](#)  
 → [Rozdział II: Cisza Sylvestura – czytaj fragment](#)  
@@ -235,7 +235,7 @@ W realnym życiu prowadzą "ewidencje" tego, co dali – żeby udowodnić, że "
 
 **Sylwestur zbiera szyszki, bo to jedyny sposób, by dostać jedzenie.**
 
-A Barabara wymyśliła ten system, żeby nigdy nie musiała przyznać, że **kontroluje go przez głód**.
+A BaraBara wymyśliła ten system, żeby nigdy nie musiała przyznać, że **kontroluje go przez głód**.
 
 Bo w jej głowie to nie jest przemoc.  
 To jest "układ".

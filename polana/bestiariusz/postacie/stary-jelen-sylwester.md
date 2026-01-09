@@ -11,7 +11,7 @@ powiazane_motywy:
   - instrumentalizacja
   - pokemon_kontrolowany
 powiazane_postacie:
-  - barbara-adamska
+  - wiedzma-barabara-rzeczywista
   - wilk-samotnik
 tagi:
   - marionetka
@@ -35,7 +35,7 @@ zrodla:
 Tragiczna marionetka. Król lasu na emeryturze, który stracił panowanie nad własnymi nogami i głową. Jego autorytet został zawłaszczony przez Wiedźmę, a czerwona czapka (symbol wylewu) stała się pieczęcią niewoli.
 
 **Rzeczywista rola procesowa:**
-Darczyńca (darowizna z 7.07.2017), formalny powód w sprawie cywilnej I C 634/22, ale faktyczny figurant – wszelkie decyzje podejmowała Barbara działająca na podstawie pełnomocnictwa z 19.07.2021.
+Darczyńca (darowizna z 7.07.2017), formalny powód w sprawie cywilnej I C 634/22, ale faktyczny figurant – wszelkie decyzje podejmowała Wiedźma BaraBara działająca na podstawie pełnomocnictwa z 19.07.2021.
 
 ---
 
@@ -50,7 +50,7 @@ Brak samodzielnej woli. Po przebytym wylewie (~2019), z I grupą inwalidzką i d
 - I grupa inwalidzka
 - Deficyty poznawcze:
   - Trudności z pamięcią (nie pamiętał własnego wieku na rozprawie)
-  - Zależność od Barbary w codziennych czynnościach
+  - Zależność od Wiedźmy BaraBary w codziennych czynnościach
   - Brak samodzielnej woli procesowej
 
 **Cytat kluczowy na rozprawie:**
@@ -76,7 +76,7 @@ Brak samodzielnej woli. Po przebytym wylewie (~2019), z I grupą inwalidzką i d
 
 ### Pokéball Wiedźmy: Metafora "Złapania"
 
-Barbara rzuciła Pokéballa (pełnomocnictwo z 19.07.2021) — **cel podatny:** Sylwester po wylewie, schorowany, zależny. Od tej pory Barbara mówi jego imieniem, decyduje za niego. Stary Jeleń, król lasu, stał się **Papa Smurfem** – małym, niegroźnym, kontrolowanym. Pokémon wykonuje polecenia trenera: *"Jej zeznania są moimi zeznaniami"*.
+Wiedźma BaraBara rzuciła Pokéballa (pełnomocnictwo z 19.07.2021) — **cel podatny:** Sylwester po wylewie, schorowany, zależny. Od tej pory Wiedźma BaraBara mówi jego imieniem, decyduje za niego. Stary Jeleń, król lasu, stał się **Papa Smurfem** – małym, niegroźnym, kontrolowanym. Pokémon wykonuje polecenia trenera: *"Jej zeznania są moimi zeznaniami"*.
 
 **→ Zobacz szczegółowy opis zjawiska:** [zjawiska/pokeball-wiedzmy.md](../zjawiska/pokeball-wiedzmy.md)
 
@@ -88,13 +88,13 @@ Barbara rzuciła Pokéballa (pełnomocnictwo z 19.07.2021) — **cel podatny:** 
 
 1. **Stan zdrowia jako fundament zależności**
    - Wylew jako moment przełomowy
-   - Fizyczna zależność od Barbary
+   - Fizyczna zależność od Wiedźmy BaraBary
    - Izolacja od syna (Dariusz pracuje w Holandii)
 
 2. **Pełnomocnictwo z 19.07.2021**
    - Data: 2 dni po wszczęciu Niebieskiej Karty (17.07.2021)!
    - "Kluczyk do Pokémona"
-   - Barbara od tego momentu mówi jego głosem, podpisuje jego imieniem
+   - Wiedźma BaraBara od tego momentu mówi jego głosem, podpisuje jego imieniem
 
 3. **Diamentowa sprzeczność zeznań:**
    - **3.08.2021:** *"Nie. Dariusz mnie nie obraża"* (zeznania na policji)
@@ -102,9 +102,9 @@ Barbara rzuciła Pokéballa (pełnomocnictwo z 19.07.2021) — **cel podatny:** 
    - **Tylko 3 dni różnicy** - oczywista manipulacja
 
 4. **Instrumentalizacja w procesie**
-   - Barbara używa jego tożsamości prawnej
+   - Wiedźma BaraBara używa jego tożsamości prawnej
    - Autorytet darczyńcy bez rzeczywistej zgody
-   - Sąd bezkrytycznie przyjmuje jego podpis (sterowany przez Barbarę)
+   - Sąd bezkrytycznie przyjmuje jego podpis (sterowany przez Wiedźmę BaraBarę)
 
 ---
 
@@ -118,10 +118,10 @@ PAPESMERF (marionetka)
 ├── mąż → WIEDŹMA (całkowita kontrola, "trenerka Pokémona")
 │   └── pełnomocnictwo = kluczyk
 │
-├── ojciec → WILK (syn, cel ataku Barbary)
+├── ojciec → WILK (syn, cel ataku Wiedźmy BaraBary)
 │   └── wykorzystany przeciwko własnemu synowi
 │
-├── rodzic → BOCIANY (dzieci, wspierające Barbarę)
+├── rodzic → BOCIANY (dzieci, wspierające Wiedźmę BaraBarę)
 │   └── nie chronią ojca przed instrumentalizacją
 │
 └── figurant → PUSZCZYK, SZLEMIERZ (system)
@@ -130,7 +130,7 @@ PAPESMERF (marionetka)
 
 **Dynamika z kluczowymi postaciami:**
 
-- **Wiedźma (Barbara):** Trenerka Pokémona. Rzuciła Pokéball (pełnomocnictwo), przejęła kontrolę. Mówi jego głosem, decyduje za niego.
+- **Wiedźma BaraBara:** Trenerka Pokémona. Rzuciła Pokéball (pełnomocnictwo), przejęła kontrolę. Mówi jego głosem, decyduje za niego.
 
 - **Wilk (Dariusz):** Syn jako ofiara ojca-marionety. Tragedia: Sylwester zeznał 3.08, że Dariusz go nie krzywdzi, ale 3 dni później (6.08) podpisuje list oskarżający syna.
 
@@ -146,7 +146,7 @@ PAPESMERF (marionetka)
 >
 > **Lokacja:** Notariusz
 >
-> Barbara uzyskuje pełnomocnictwo od Sylwestra. Od tego momentu mówi jego głosem, podpisuje jego imieniem.
+> Wiedźma BaraBara uzyskuje pełnomocnictwo od Sylwestra. Od tego momentu mówi jego głosem, podpisuje jego imieniem.
 >
 > **Znaczenie:** Pokéball rzucony. Przejęcie kontroli nad Papesmerfem jako narzędziem procesowym. "Kluczyk do Pokémona".
 
@@ -156,12 +156,12 @@ PAPESMERF (marionetka)
 > Pytanie: "Czy Dariusz pana obraża?"
 > Sylwester: *"Nie. Dariusz mnie nie obraża."*
 >
-> **6.08.2021, list odwołujący darowiznę (podpisany przez Sylwestra, ale pisany przez Barbarę):**
+> **6.08.2021, list odwołujący darowiznę (podpisany przez Sylwestra, ale pisany przez Wiedźmę BaraBarę):**
 > *"Mój syn kieruje wyzwiska wobec mnie."*
 >
-> **Tylko 3 dni różnicy.** Co się stało w międzyczasie? Barbara przejęła kontrolę.
+> **Tylko 3 dni różnicy.** Co się stało w międzyczasie? Wiedźma BaraBara przejęła kontrolę.
 >
-> **Znaczenie:** Oczywista manipulacja. Prawdziwa wola Sylwestra (3.08) vs. wola Barbary (6.08).
+> **Znaczenie:** Oczywista manipulacja. Prawdziwa wola Sylwestra (3.08) vs. wola Wiedźmy BaraBary (6.08).
 
 ### Scena 3: Rozprawa - "Jej zeznania są moimi"
 
@@ -178,7 +178,7 @@ PAPESMERF (marionetka)
 
 > **Kontekst:** Sylwester prawdopodobnie potrzebował pomocy medycznej.
 >
-> Barbara skupiona na dokumentowaniu "odmowy pomocy" przez Dariusza - dla procesu.
+> Wiedźma BaraBara skupiona na dokumentowaniu "odmowy pomocy" przez Dariusza - dla procesu.
 >
 > Cel procesowy > zdrowie męża.
 >
@@ -195,10 +195,10 @@ PAPESMERF (marionetka)
 > — Sylwester, 3.08.2021 (zeznania na policji)
 
 > *"Mój syn kieruje wyzwiska wobec mnie."*
-> — List z 6.08.2021 (3 dni później, podpisany przez Sylwestra, ale pisany przez Barbarę)
+> — List z 6.08.2021 (3 dni później, podpisany przez Sylwestra, ale pisany przez Wiedźmę BaraBarę)
 
 > *"On już nie rozumiał, co się dzieje. To ja podejmowałam decyzje. Byłam jego głosem."*
-> — Barbara Adamska o Sylwestrze (przyznanie się do kontroli)
+> — Wiedźma BaraBara o Sylwestrze (przyznanie się do kontroli)
 
 ---
 
@@ -216,14 +216,14 @@ Kiedyś król zagajnika, teraz cień poruszający się na skuterze. Czerwona cza
 
 **Pokémon z Kluczykiem:**
 - Pokéball = pełnomocnictwo z 19.07.2021
-- Trenerka = Barbara
+- Trenerka = Wiedźma BaraBara
 - Pokémon nie ma woli - tylko wykonuje polecenia
 - "Jej zeznania są moimi zeznaniami"
 
 **Stary Jeleń:**
 - Dawny król lasu (ojciec, głowa rodziny)
 - Utracił panowanie nad własnymi nogami (wylew)
-- Utracił panowanie nad własną głową (kontrola Barbary)
+- Utracił panowanie nad własną głową (kontrola Wiedźmy BaraBary)
 - Symbol upadku autorytetu
 
 ---
@@ -242,10 +242,10 @@ Kiedyś król zagajnika, teraz cień poruszający się na skuterze. Czerwona cza
 Sylwester Adamski to **najsmutniejsza postać baśni**:
 - Był ojcem, królem zagajnika, autorytetem
 - Wylew odebrał mu fizyczną sprawność
-- Barbara odebrała mu wolę
+- Wiedźma BaraBara odebrała mu wolę
 - Został wykorzystany przeciwko własnemu synowi
 - Jego zeznanie z 3.08 (*"Dariusz mnie nie obraża"*) było prawdziwe
-- List z 6.08 był już "głosem Barbary"
+- List z 6.08 był już "głosem Wiedźmy BaraBary"
 
 **Lekcja baśni:**
 > *"Pokémon z czerwoną czapką to ostrzeżenie: słabość może być wykorzystana przez tych, którzy powinni chronić. Autorytet bez woli to najsmutniejsza marionetka."*
@@ -257,7 +257,7 @@ Sylwester Adamski to **najsmutniejsza postać baśni**:
 **Sytuacja po wyroku (29.08.2025):**
 
 ✅ **Wygrana formalna:**
-- Dom wrócił do niego i Barbary
+- Dziupla wrócił do niego i Wiedźmy BaraBary
 - Formalnie "wygrał" proces
 
 ❌ **Porażka faktyczna:**
@@ -268,11 +268,11 @@ Sylwester Adamski to **najsmutniejsza postać baśni**:
 
 **Finał symboliczny:**
 
-Sylwester siedzi w domu nr 8. Formalnie właściciel. W praktyce więzień własnego zwycięstwa.
+Sylwester siedzi w dziupli nr 8. Formalnie właściciel. W praktyce więzień własnego zwycięstwa.
 
 Jego los jest **najtragiczniejszy** - został wykorzystany przeciwko własnemu synowi, choć sam zeznał, że Dariusz go nie krzywdzi.
 
-Pokémon z czerwoną czapką nie ma już trenera do walki. Barbara wygrała. Ale Pokémon czuje pustkę.
+Pokémon z czerwoną czapką nie ma już trenera do walki. Wiedźma BaraBara wygrała. Ale Pokémon czuje pustkę.
 
 > *"Jeleń z czerwoną czapką stoi w pustym lesie. Nie pamięta, jak tu przyszedł. Nie pamięta, dlaczego jego syn odszedł. Pamięta tylko, że kiedyś był królem."*
 > — Epilog baśni
@@ -283,7 +283,7 @@ Pokémon z czerwoną czapką nie ma już trenera do walki. Barbara wygrała. Ale
 
 **Styl pisania postaci:**
 - Powolny, zagubiony
-- Dialogi rzadkie, powtarzające słowa Barbary
+- Dialogi rzadkie, powtarzające słowa Wiedźmy BaraBary
 - Ruchy niepewne, oparte na skuterze
 - Głos cichy, bezwolny
 

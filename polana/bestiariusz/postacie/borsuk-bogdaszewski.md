@@ -1,7 +1,7 @@
 # Borsuk Bogdaszewski (Policja)
 
 **Typ:** Bierny Obserwator Systemowy / Funkcjonariusz Biurokratyczny
-**Powiązania:** Niebieska Karta (17.07.2021), Wiedźma Barabara, System instytucjonalny
+**Powiązania:** Niebieska Karta (17.07.2021), Wiedźma BaraBara, System instytucjonalny
 
 ## Opis
 
@@ -42,8 +42,8 @@ Borsuk Bogdaszewski nie jest antagonistą — jest **biernym narzędziem**, któ
    - Borsuk wypełnia formularz, nie widzi kontekstu
    - Procedura jest wykonana, ale prawda nie jest zbadana
 
-2. **19.07.2021: Pełnomocnictwo Barbary (2 dni później!)**
-   - Barbara uzyskuje pełnomocnictwo od Sylwestra
+2. **19.07.2021: Pełnomocnictwo Wiedźmy BaraBary (2 dni później!)**
+   - Wiedźma BaraBara uzyskuje pełnomocnictwo od Sylwestra
    - Niebieska Karta + Pełnomocnictwo = instrumentalizacja systemów
    - Borsuk nie widzi tej synchronizacji
 

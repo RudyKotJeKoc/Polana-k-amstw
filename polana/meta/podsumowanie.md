@@ -23,7 +23,7 @@ Przeanalizowano **8 dokumentów źródłowych**:
 
 #### Materiały Źródłowe (5):
 - ✅ **kontekst_1.md** - analiza postaci drugoplanowych (Hiena, Papesmerf, Sarna)
-- ✅ **kontekst_2.md** - szczegółowy profil psychologiczny Barbary Adamskiej
+- ✅ **kontekst_2.md** - szczegółowy profil psychologiczny Wiedźmy BaraBary
 - ✅ **kontekst_3.md** - chronologia, dowody, dokumentacja prawna
 - ✅ **kontekst_4.md** - analiza systemowa i błędy prawne
 - ✅ **kontekst_5.md** - materiały uzupełniające
@@ -31,7 +31,7 @@ Przeanalizowano **8 dokumentów źródłowych**:
 ### 2. IDENTYFIKACJA KLUCZOWYCH ELEMENTÓW
 
 #### Główne Postacie:
-1. **Barbara Adamska** ("Wiedźma") - architekt destrukcji
+1. **Wiedźma BaraBara** ("Wiedźma") - architekt destrukcji
 2. **Dariusz Adamski** ("Wilk") - ofiara w prawdzie
 3. **Sylwester Adamski** ("Papesmerf") - tragiczna marionetka
 4. **Julia Kowalska** ("Sarenka") - niewinny katalizator
@@ -87,7 +87,7 @@ Stworzono **4 nowe dokumenty** integrujące materiały:
 - Spis treści dla pełnej kroniki
 - Część I: Wprowadzenie do świata (pełna)
 - Część II: Dramatis Personae (3 pierwsze postacie szczegółowo)
-  - Wiedźma Barabara - pełny profil
+  - Wiedźma BaraBara - pełny profil
   - Wilk Samotnik - pełny profil
   - Stary Jeleń Papesmerf - pełny profil
 - Demonstracja metody integracji różnych źródeł
@@ -143,7 +143,7 @@ CZĘŚĆ I: WPROWADZENIE DO POLANY KŁAMSTW (15-20 stron)
 └── Jak czytać tę historię
 
 CZĘŚĆ II: DRAMATIS PERSONAE (30-40 stron)
-├── Wiedźma Barabara (8-10 stron)
+├── Wiedźma BaraBara (8-10 stron)
 ├── Wilk Samotnik (8-10 stron)
 ├── Stary Jeleń Papesmerf (5-6 stron)
 ├── Sarenka z Polany (3-4 strony)
@@ -193,11 +193,11 @@ Wiedźma przekroczyła ostatnią granicę...
 [WARSTWA 2: FAKTOGRAFICZNA - z Anatomii + kontekstów]
 Dokładna rekonstrukcja wydarzenia:
 - Data: 10 lutego 2021, godzina 2:30
-- Miejsce: pokój Dariusza w domu Adamowo 8
-- Barbara Adamska wtargnęła bez pukania...
+- Miejsce: pokój Dariusza w dziupli Adamowo 8
+- Wiedźma BaraBara wtargnęła bez pukania...
 
 [WARSTWA 3: ANALITYCZNA - z Przewodnika + kontekstów]
-To wydarzenie było kluczową prowokacją w strategii Barbary.
+To wydarzenie było kluczową prowokacją w strategii Wiedźmy BaraBary.
 Mechanizm: prowokacja → reakcja → dokumentacja → oskarżenie
 
 [WARSTWA 4: CYTATY AUTENTYCZNE - z kontekstów]
@@ -286,7 +286,7 @@ Pułapka bez wyjścia: krzyk = agresja, milczenie = znęcanie
 - 📅 Kalendarz Wiedźmy
 - 🔐 Zaspawana Prawda
 - 7️⃣ Nadzieja (7.07.2017)
-- 8️⃣ Pętla (dom nr 8)
+- 8️⃣ Pętla (dziupla nr 8)
 
 ---
 

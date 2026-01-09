@@ -1,11 +1,11 @@
 # Sroka Dorota
 
 **Typ:** Strategiczna Doradczyni / Megafon Plotek
-**Powiązania:** Wiedźma Barabara (siostra), chór rodzinny
+**Powiązania:** Wiedźma BaraBara (siostra), chór rodzinny
 
 ## Opis
 
-Sroka Dorota to siostra Barbary Adamowskiej (Wiedźmy), pełniąca rolę **strategicznej doradczyni i megafonu plotek**. W ekosystemie Polany Kłamstw jest tą, która podsyca ogień, dostarcza pomysłów, roznosi plotki i wzmacnia narrację Wiedźmy. Jej obecność nie jest bezpośrednio destrukcyjna — ale jak sroka, która zbiera błyszczące okruchy i roznosi je dalej, Dorota zbiera fragmenty konfliktów i przekształca je w broń.
+Sroka Dorota to siostra Wiedźmy BaraBary (Wiedźmy), pełniąca rolę **strategicznej doradczyni i megafonu plotek**. W ekosystemie Polany Kłamstw jest tą, która podsyca ogień, dostarcza pomysłów, roznosi plotki i wzmacnia narrację Wiedźmy. Jej obecność nie jest bezpośrednio destrukcyjna — ale jak sroka, która zbiera błyszczące okruchy i roznosi je dalej, Dorota zbiera fragmenty konfliktów i przekształca je w broń.
 
 Nie jest inicjatorką dramatu, ale jego **amplifikatorem**. Każda rozmowa z nią to kolejna warstwa echa, każda plotka to kolejny kamień rzucony w rozrastający się krąg manipulacji.
 

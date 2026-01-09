@@ -14,13 +14,13 @@ Tyle samo co opłata notarialna za pełnomocnictwo.
 
 ---
 
-Barbara stała przy ladzie. Notariusz liczył banknoty — jeden, dwa, trzy... dwadzieścia sześć. Schował je do szuflady. Wydał resztę — żadnej. Transakcja zamknięta.
+Wiedźma BaraBara stała przy ladzie. Notariusz liczył banknoty — jeden, dwa, trzy... dwadzieścia sześć. Schował je do szuflady. Wydał resztę — żadnej. Transakcja zamknięta.
 
 Dokument pełnomocnictwa leżał w jej torebce. Ciepły. Ciężki. Ale to nie wystarczyło.
 
 Pełnomocnictwo dawało jej prawo mówić w imieniu Sylwestra. Ale Sylwester ciągle **istniał**. Ciągle mógł — teoretycznie — otworzyć usta i powiedzieć "nie".
 
-Barbara potrzebowała czegoś więcej.
+Wiedźma BaraBara potrzebowała czegoś więcej.
 
 Potrzebowała go **zamknąć**.
 
@@ -28,27 +28,27 @@ Potrzebowała go **zamknąć**.
 
 Wzrok padł jej na Pokéballa. Leżał obok kasy — zapomniany przez poprzedniego klienta, albo celowo zostawiony. Czerwień była jaskrawa, ale tandetna. Plastik lekki. Przycisk w środku — czarny, okrągły.
 
-Barbara wzięła go do ręki.
+Wiedźma BaraBara wzięła go do ręki.
 
 Był lekki. Za lekki. Jakby w środku była próżnia. Jakby czekał na coś, co go wypełni.
 
 Notariusz spojrzał na nią pytająco.
 
-Barbara: — Ile?
+Wiedźma BaraBara: — Ile?
 
 Notariusz: — ...co proszę?
 
-Barbara: — Ten Pokéball. Ile?
+Wiedźma BaraBara: — Ten Pokéball. Ile?
 
 Notariusz zmarszczył brwi. Nie wiedział, skąd się tam wziął. Ale wzruszył ramionami.
 
 Notariusz: — Dwadzieścia sześć złotych.
 
-Barbara skinęła głową. Wyjęła portmonetkę. Odliczyła monety. Jedna. Dwie. Dziesięć. Dwadzieścia sześć.
+Wiedźma BaraBara skinęła głową. Wyjęła portmonetkę. Odliczyła monety. Jedna. Dwie. Dziesięć. Dwadzieścia sześć.
 
 Notariusz wziął monety. Nie zapytał po co. Nie jego sprawa.
 
-Barbara schowała Pokéballa do torebki.
+Wiedźma BaraBara schowała Pokéballa do torebki.
 
 ---
 
@@ -56,25 +56,25 @@ Barbara schowała Pokéballa do torebki.
 
 Sylwester siedział w samochodzie. Czerwona czapka na głowie. Patrzyła przez okno z pustym wzrokiem.
 
-Barbara wsiadła. Zamknęła drzwi. Cisza.
+Wiedźma BaraBara wsiadła. Zamknęła drzwi. Cisza.
 
 Przez chwilę siedziała bez ruchu. Pokéball leżał w jej torebce. Czuła jego obecność — lekką, ale wyraźną. Jak obietnicę.
 
 Sylwester (cicho): — Wszystko załatwione?
 
-Barbara nie odpowiedziała. Wyjęła Pokéballa. Położyła go na desce rozdzielczej.
+Wiedźma BaraBara nie odpowiedziała. Wyjęła Pokéballa. Położyła go na desce rozdzielczej.
 
 Sylwester spojrzał na niego. Nie rozumiał. To była tylko plastikowa zabawka. Czerwono-biała kula. Dziecinna.
 
-Barbara wzięła Pokéballa do ręki. Nacisnęła przycisk.
+Wiedźma BaraBara wzięła Pokéballa do ręki. Nacisnęła przycisk.
 
 **Klik.**
 
 Pokéball otworzył się. Dwie połówki — góra i dół — rozeszły się jak szczęki. W środku było białe światło. Nie jasne. Zimne.
 
-Barbara spojrzała na Sylwestra.
+Wiedźma BaraBara spojrzała na Sylwestra.
 
-Barbara (szeptem): — Sylwester, wróć.
+Wiedźma BaraBara (szeptem): — Sylwester, wróć.
 
 ---
 
@@ -100,7 +100,7 @@ Bo głos był już w Pokéballu.
 
 Sylwester zobaczył samego siebie. Nie odbicie — **fragment**. Swoją wolę, zgniecioną do rozmiaru kuli. Swoją zdolność do mówienia "nie", zamkniętą w plastiku.
 
-Barbara trzymała Pokéballa w dłoni. Czuła, jak drży.
+Wiedźma BaraBara trzymała Pokéballa w dłoni. Czuła, jak drży.
 
 Raz.
 
@@ -126,33 +126,33 @@ Złapany.
 
 ---
 
-Barbara spojrzała na Sylwestra.
+Wiedźma BaraBara spojrzała na Sylwestra.
 
 Sylwester siedział bez ruchu. Czerwona czapka na głowie. Oczy otwarte. Oddychał.
 
 Ale było w nim mniej.
 
-Barbara to czuła. Wiedziała.
+Wiedźma BaraBara to czuła. Wiedziała.
 
 Sylwester ciągle był tu, w samochodzie. Ciągle oddychał, ciągle miał bicie serca, ciągle nosił czerwoną czapkę.
 
 Ale jego **wnętrze** było teraz w Pokéballu.
 
-Od tej chwili Sylwester istniał tylko wtedy, gdy Barbara nacisnęła przycisk.
+Od tej chwili Sylwester istniał tylko wtedy, gdy Wiedźma BaraBara nacisnęła przycisk.
 
 ---
 
 ### Pierwszy test
 
-Barbara schowała Pokéballa do kieszeni. Czuła jego ciężar — lekki, ale obecny. Jak klucz. Jak pilot.
+Wiedźma BaraBara schowała Pokéballa do kieszeni. Czuła jego ciężar — lekki, ale obecny. Jak klucz. Jak pilot.
 
-Barbara: — Sylwester, powiedz coś.
+Wiedźma BaraBara: — Sylwester, powiedz coś.
 
 Sylwester otworzył usta. Ale nic nie wyszło.
 
-Barbara uśmiechnęła się.
+Wiedźma BaraBara uśmiechnęła się.
 
-Barbara: — Właśnie.
+Wiedźma BaraBara: — Właśnie.
 
 Wyjęła Pokéballa. Nacisnęła przycisk.
 
@@ -164,13 +164,13 @@ Sylwester: — Co... co się stało?
 
 Głos był jego. Ale nie wychodził z jego gardła. Wychodził z Pokéballa — cichy, zniekształcony, jakby odtwarzany z taśmy.
 
-Barbara puściła przycisk.
+Wiedźma BaraBara puściła przycisk.
 
 Sylwester znów zamilkł. Usta się zamknęły. Oczy patrzyły prosto przed siebie.
 
-Barbara schowała Pokéballa z powrotem do kieszeni.
+Wiedźma BaraBara schowała Pokéballa z powrotem do kieszeni.
 
-Barbara: — Jedźmy do domu.
+Wiedźma BaraBara: — Jedźmy do dziupli.
 
 Włączyła silnik. Samochód ruszył.
 
@@ -180,19 +180,19 @@ Ale dzisiaj wyglądały inaczej. Jakby odwróciły się tyłem.
 
 ---
 
-### W domu
+### W dziupli
 
-Tego wieczoru Barbara położyła Pokéballa na stoliku nocnym.
+Tego wieczoru Wiedźma BaraBara położyła Pokéballa na stoliku nocnym.
 
 Leżał tam — czerwono-biały, lekki, tani. Dwadzieścia sześć złotych.
 
 Tyle kosztowało życie.
 
-Barbara położyła się do łóżka. Zgasiła światło.
+Wiedźma BaraBara położyła się do łóżka. Zgasiła światło.
 
 W ciemności Pokéball świecił lekko. Nie mocno — tylko odrobinę. Jak mała czerwona lampka. Jak sygnał, że coś w środku ciągle działa.
 
-Barbara zamknęła oczy.
+Wiedźma BaraBara zamknęła oczy.
 
 Pokéball drżał.
 
@@ -204,13 +204,13 @@ Z wnętrza dobiegł dźwięk. Niski. Basowy.
 
 Bekanie.
 
-Barbara otworzyła oczy. Spojrzała na Pokéballa.
+Wiedźma BaraBara otworzyła oczy. Spojrzała na Pokéballa.
 
 Pokéball drżał dalej.
 
 Kolejny dźwięk. Pierdzenie.
 
-Barbara westchnęła. Niski poziom baterii. Sylwester dawał znać, że ciągle istnieje. Że pamięta.
+Wiedźma BaraBara westchnęła. Niski poziom baterii. Sylwester dawał znać, że ciągle istnieje. Że pamięta.
 
 Ale nie wstała. Niech czeka.
 
@@ -244,7 +244,7 @@ Rano naładuje.
 - Nawet zamknięty, ciągle pamięta
 - Niski poziom = bliskość wyłączenia
 
-### Barbara nacisnęła przycisk
+### Wiedźma BaraBara nacisnęła przycisk
 - Kontrola absolutna
 - Sylwester mówi tylko na komendę
 - Jego głos wychodzi z Pokéballa, nie z gardła
@@ -259,5 +259,5 @@ To literalna prawda.
 
 Sylwester został zamknięty w Pokéballu za 26 złotych.
 
-I tylko Barbara ma przycisk.
+I tylko Wiedźma BaraBara ma przycisk.
 

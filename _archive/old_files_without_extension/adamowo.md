@@ -20,8 +20,8 @@ Możesz traktować to jako osobny dokument – „Załącznik: Profil Julii (Sar
 **Rola psychologiczna:**
 
 * Ofiara *pierwotnej traumy* (gwałt)
-* Następnie ofiara *wtórnej traumy rodzinno-systemowej* (Barbara i otoczenie)
-* Katalizator eskalacji konfliktu między pacjentem (Dariuszem) a jego matką (Barbarą)
+* Następnie ofiara *wtórnej traumy rodzinno-systemowej* (Wiedźma BaraBara i otoczenie)
+* Katalizator eskalacji konfliktu między pacjentem (Dariuszem) a jego matką (Wiedźmą BaraBarą)
 
 ---
 
@@ -33,7 +33,7 @@ Możesz traktować to jako osobny dokument – „Załącznik: Profil Julii (Sar
 2. Zwraca się do Dariusza (lub Dariusz włącza się, widząc sytuację).
 3. Dariusz pomaga – emocjonalnie, organizacyjnie, często skutecznie.
 4. Następuje realna poprawa (np. powrót do nauki, dojście do równowagi, pogodzenie z chłopakiem).
-5. *Osoby trzecie*, w szczególności Barbara, wchodzą w sytuację z krytyką / kontrolą / atakiem.
+5. *Osoby trzecie*, w szczególności Wiedźma BaraBara, wchodzą w sytuację z krytyką / kontrolą / atakiem.
 6. Sytuacja eskaluje ponad punkt wyjścia – **katastrofa większa niż pierwotny kryzys**.
 7. Kontakt Dariusz–Julia urywa się na dłuższy czas (rok, dwa).
 
@@ -44,11 +44,11 @@ To nie był jednorazowy incydent, tylko **wzorzec**:
 Z punktu widzenia psychologii systemowej:
 
 * Dariusz pełni funkcję **nieformalnego terapeuty** i „bufora” emocjonalnego dla Julii.
-* System (głównie Barbara) **nie toleruje** takich niezależnych kanałów wsparcia i dąży do ich destrukcji.
+* System (głównie Wiedźma BaraBara) **nie toleruje** takich niezależnych kanałów wsparcia i dąży do ich destrukcji.
 
 ---
 
-### III. Kim była Julia „przed Barbarą”
+### III. Kim była Julia „przed Wiedźmą BaraBarą”
 
 **Cechy bazowe:**
 
@@ -63,7 +63,7 @@ Trauma gwałtu była ogromnym obciążeniem, ale w opisach wyraźnie czuć, że 
 
 ### IV. Dariusz jako „nieformalny terapeuta”
 
-Barbara atakowała nie tylko Julię, ale i samą *ideę* pomocy Dariusza:
+Wiedźma BaraBara atakowała nie tylko Julię, ale i samą *ideę* pomocy Dariusza:
 
 > „Kim Darek jest, żeby ci pomagać? Czy on jest lekarzem? On nie jest psychologiem, żeby ci pomagać? Albo psychiatrą?”
 
@@ -80,18 +80,18 @@ Jednocześnie Dariusz:
 
 ---
 
-### V. Przełom: konflikt z Barbarą jako trauma wtórna
+### V. Przełom: konflikt z Wiedźmą BaraBarą jako trauma wtórna
 
 Kluczowa teza z Twojego raportu:
 
-> „To nie gwałt ją zmienił, tylko wydarzenia z Barbarą.”
+> „To nie gwałt ją zmienił, tylko wydarzenia z Wiedźmą BaraBarą.”
 
 Chronologia, skrótowo:
 
 * **Po gwałcie**: Julia jest w szpitalu psychiatrycznym, w stanie ciężkim.
 * Dariusz (w porozumieniu z jej matką) stara się ją wyciągnąć z apatii i wrócić do nauki (lekcje online).
 * Julia faktycznie **zaczyna uczestniczyć w lekcjach** – to jest ogromny krok.
-* **Wejście Barbary**: inwigilacja, wtargnięcia, podważanie kompetencji Dariusza, agresja słowna, wyzwiska.
+* **Wejście Wiedźmy BaraBary**: inwigilacja, wtargnięcia, podważanie kompetencji Dariusza, agresja słowna, wyzwiska.
 * To uderza jednocześnie:
 
   * w świeżo odbudowywany świat Julii,
@@ -102,7 +102,7 @@ W efekcie: **trauma wtórna** – tym razem nie „obcego napastnika”, tylko �
 
 ---
 
-### VI. Julia po Barbarze – Holandia, sierpień 2021
+### VI. Julia po Wiedźmie BaraBarze – Holandia, sierpień 2021
 
 Szczególnie ważne zdanie:
 
@@ -112,10 +112,10 @@ To wygląda jak opis:
 
 * **zmiany osobowości / mechanizmów obronnych** po drugim uderzeniu traumy,
 * możliwego zmieszania wstydu, lojalności wobec rodziny, lęku i poczucia winy,
-* być może częściowego „przejęcia narracji Barbary”.
+* być może częściowego „przejęcia narracji Wiedźmy BaraBary”.
 
 Dla psychologa to jest ważny punkt:
-– *„Pacjentka Julia przed wydarzeniami z Barbarą vs po tych wydarzeniach to praktycznie dwie różne osoby.”*
+– *„Pacjentka Julia przed wydarzeniami z Wiedźmą BaraBarą vs po tych wydarzeniach to praktycznie dwie różne osoby.”*
 
 To nie jest już ofiara „tylko jednego zdarzenia (gwałt)”, ale ofiara **całego systemu reakcji** na to zdarzenie.
 
@@ -158,7 +158,7 @@ Dla psychologa to jest ważny sygnał:
 
 * Pacjent **nie ulega pokusie dopisywania teorii jako „prawdy”**,
 * zachowuje ostrożność, rozdziela: *„to wiem” / „to podejrzewam”*,
-* jednocześnie ma wysoką świadomość, że system (Barbara i otoczenie) mógł działać na Julię w sposób znacznie głębszy, niż oficjalnie widać.
+* jednocześnie ma wysoką świadomość, że system (Wiedźma BaraBara i otoczenie) mógł działać na Julię w sposób znacznie głębszy, niż oficjalnie widać.
 
 ---
 
@@ -188,7 +188,7 @@ Teraz zrobię z jednego z najładniejszych Twoich wspomnień gotowy **krótki ro
 Tej nocy las spał niespokojnie.
 Nawet Polana Kłamstw na chwilę ucichła, jakby ktoś nałożył tłumik na wszystkie szepty.
 
-Wilk Samotnik i Sarenka stali przed starym domem na skraju lasu.
+Wilk Samotnik i Sarenka stali przed starym dziuplą na skraju lasu.
 Było późno, za późno jak na „porządne dzieci z podręczników”, ale dawno już przestali się mieścić w czyichkolwiek podręcznikach.
 
 W powietrzu wisiała ta szczególna gęstość, która pojawia się tuż po tym, jak człowiek wypije odrobinę za dużo, ale jeszcze nie na tyle, żeby stracić kontrolę.

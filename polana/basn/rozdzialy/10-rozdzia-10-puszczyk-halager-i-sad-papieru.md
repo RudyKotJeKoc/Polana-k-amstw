@@ -29,15 +29,15 @@ Słyszała daty i paragrafy.
 
 Klejnoty prawdy i trzy gwoździe
 
-Nowy obrońca Wilka — człowiek rozsądku, nie magii — rozłożył przed Puszczykiem prawdę jak skrzynkę z rzadkimi minerałami.
+Nowy obrońca Wilka — człowiek rozsądku, nie mocy zapisanego słowa — rozłożył przed Puszczykiem prawdę jak skrzynkę z rzadkimi minerałami.
 Każdy dowód błyszczał, każdy był ostrzem rozpruwającym mrok.
 
 Ale Puszczyk Halager była ślepa na blask.
 Otwierała i zamykała akta jak skrzydła, nie zwracając uwagi na to, co w nich naprawdę leżało.
 
-Gwoźdź pierwszy: Hiena Domkowa
+Gwoźdź pierwszy: Hiena Dziuplowa
 
-Adwokat podsunął jej wniosek o przesłuchanie Hieny Domkowej — tego, który zdradził Wilka pięć minut przed rozprawą, wpychając go w fałszywe przyznanie się.
+Adwokat podsunął jej wniosek o przesłuchanie Hieny Dziuplowej — tego, który zdradził Wilka pięć minut przed rozprawą, wpychając go w fałszywe przyznanie się.
 
 Jedno jego zeznanie mogłoby otworzyć ziemię pod całym procesem.
 
@@ -83,7 +83,7 @@ Trumna prawdy została zamknięta.
 
 Zamiast dowodów Wilka, Puszczyk Halager z namaszczeniem przyjęła:
 
-– Kalendarz Wiedźmy Barabary,
+– Kalendarz Wiedźmy BaraBary,
 – wyrok karny zrodzony z manipulacji Hieny,
 
 i potraktowała je jak święte księgi, których nie wolno podważyć.
@@ -120,7 +120,7 @@ Wyrok, który zdradził las
 Nie był owocem sprawiedliwości.
 Był owocem lenistwa intelektualnego systemu, który wolał zaufać papierom, nie prawdzie.
 
-Wilk stracił dom — dom, który:
+Wilk stracił dziupla — dziupla, który:
 
 – sam zbudował,
 – sam wyremontował,

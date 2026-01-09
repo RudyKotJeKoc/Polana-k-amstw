@@ -60,7 +60,7 @@ Repozytorium zawierało już wysokiej jakości baśń, która wymagała tylko wz
    - Zdefiniowano motywy przewodnie i symbolikę
 
 2. **Baza wiedzy**:
-   - Atlas miejsc (Polana, Dom Adamowo 8, Warsztat, Kocioł Krzywd)
+   - Atlas miejsc (Polana, Dziupla Adamowo 8, Warsztat, Kocioł Krzywd)
    - Rejestr symboli (Kalendarz Wiedźmy, Czerwona Czapka, etc.)
    - Drzewo relacji między postaciami
    - Symbolika liczb: 7 (nadzieja), 8 (pętla), 13 (sąd)
@@ -110,14 +110,14 @@ Wykorzystano **istniejącą baśń** jako fundament i wzbogacono ją o:
 - **Rozdział 4:** Nocne Wtargnięcie 2:30 – przekroczenie granicy
 - **Rozdział 5:** Święta Ucieczki (Wielkanoc 2021) – pogrzeb prawdy
   - 3.04 (Wielka Sobota): rozstanie z Julią
-  - 4.04 (Wielkanoc): dom schłodzony, okno otwarte
+  - 4.04 (Wielkanoc): dziupla schłodzony, okno otwarte
   - 11.04 (Palmowa): ucieczka przed rodziną
   - Zaspawanie zamka: "nagrobek dla prawdy"
 - **Rozdział 6:** Inscenizacja z Paralizatorem – prowokacja
 
 #### CZĘŚĆ III: Zdrada i Farsa (Lipiec 2021 - Sierpień 2025)
 - **Rozdział 7:** Przejście do Ósmego Kręgu (17/18.07) – symboliczne 7→8
-- **Rozdział 8:** Hiena Domkowa – zdrada na korytarzu sądowym
+- **Rozdział 8:** Hiena Dziuplowa – zdrada na korytarzu sądowym
 - **Rozdział 9:** Papesmerf z Czerwoną Czapką – tragedia marionetki
 - **Rozdział 10:** Puszczyk Halager – trzy gwoździe do trumny prawdy
 
@@ -234,7 +234,7 @@ Wykorzystano **istniejącą baśń** jako fundament i wzbogacono ją o:
    - Boże Narodzenie 2023 jako przerwanie pętli
 
 3. **Wzbogacone opisy zmysłowe**:
-   - "Dom schłodzony do 18°C"
+   - "Dziupla schłodzony do 18°C"
    - "Materac tracący powietrze"
    - "Pianka montażowa w szczelinach"
    - "Lodowaty oddech grobowca"
@@ -360,7 +360,7 @@ Wykorzystano **istniejącą baśń** jako fundament i wzbogacono ją o:
 - ✅ Transformacje bohaterów (Wilk: naiwny→osaczony→wolny)
 - ✅ Symbolika Polany jako miejsca revelacji
 - ✅ Zakończenie wieloznaczne, prowokujące do refleksji
-- ✅ Sprawiedliwość poetycka (Wiedźma w pustym domu)
+- ✅ Sprawiedliwość poetycka (Wiedźma w pustym dziupli)
 
 ---
 
@@ -377,7 +377,7 @@ Wykorzystano **istniejącą baśń** jako fundament i wzbogacono ją o:
 ### Co można rozwinąć w przyszłości (opcjonalnie):
 
 1. **Appendix z postaciami** - szczegółowe karty wszystkich 12 archetypów
-2. **Ilustracje ASCII** - wizualizacje kluczowych symboli (Kocioł, Dom, Pętla)
+2. **Ilustracje ASCII** - wizualizacje kluczowych symboli (Kocioł, Dziupla, Pętla)
 3. **Glossarium rozszerzone** - więcej odniesień kulturowych i prawnych
 4. **Wersja audio** - narracja baśni z muzyką atmosferyczną
 5. **Kontynuacja** - "Co się stało później" z każdą postacią

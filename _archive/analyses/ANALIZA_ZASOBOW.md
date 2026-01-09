@@ -40,7 +40,7 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 |------|-----------|----------------------|
 | **wskazówki** | Instrukcje sarkastyczne: Puszczyk, Szlemierz, Smerfy, Klątwa Wiedźmy, Kluczyk Pokémona | Wskazówki jak wzmocnić ironię i sarkazm |
 | **kontekst_1.md** | Analizy: Sarna Sarnecki, Papesmerf, Sroka Dorota, Borsuk, Bociany, Smerfy, Wilk, Julia, mapa relacji | Kompletne profile psychologiczne postaci |
-| **kontekst_2.md** | Szczegółowa analiza Barbary Adamskiej (Wiedźma): prowokacje, kalendarz, instrumentalizacja | Głęboka analiza głównej antagonistki |
+| **kontekst_2.md** | Szczegółowa analiza Wiedźmy BaraBary (Wiedźma): prowokacje, kalendarz, instrumentalizacja | Głęboka analiza głównej antagonistki |
 | **kontekst_4.md** | Raport dla psychologa, kontekst traumy systemowej, zdrada adwokatów | Kontekst medyczny i psychologiczny |
 | **analizy** | Raport kliniczny, analiza psychologiczna, wielowarstwowa traumatyzacja | Fundament psychologiczny postaci Wilka |
 | **basn** | Notatki z tworzenia baśni, bestiariusz, dyskusje o symbolice | Historia procesu twórczego |
@@ -75,7 +75,7 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 
 **CZĘŚĆ III – ZDRADA I FARSA**
 - ✅ Rozdział 7: Przejście do Ósmego Kręgu (Noc 17/18 Lipca)
-- ✅ Rozdział 8: Hiena Domkowa i Zdrada na Sądowym Korytarzu
+- ✅ Rozdział 8: Hiena Dziuplowa i Zdrada na Sądowym Korytarzu
 - ✅ Rozdział 9: Stary Jeleń – Marionetka
 - ✅ Rozdział 10: Puszczyk Halager i Sąd Papieru
 
@@ -94,11 +94,11 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 
 | Postać | Archetyp | Symbol | Rola w baśni |
 |--------|----------|--------|--------------|
-| **Barbara Adamska** | Wiedźma Adamowska | Kocioł Krzywd | Architektka destrukcji, obsesyjna kontrolerka |
+| **Wiedźma BaraBara** | Wiedźma Adamowska | Kocioł Krzywd | Architektka destrukcji, obsesyjna kontrolerka |
 | **Dariusz Adamski** | Wilk Samotnik | Wilcza cisza | Ofiara stojąca w prawdzie, ostatecznie wolna |
 | **Sylwester Adamski** | Papesmerf / Stary Jeleń | Pokémon z czerwoną czapką | Tragiczna marionetka, instrumentalizowany mąż |
 | **Julia Kowalska** | Sarenka z Polany | Niewinność | Katalizator konfliktu, niewinna ofiara |
-| **Aleksander Domek** | Hiena Domkowa | Zdrajca | Adwokat-zdrajca, konflikt interesów |
+| **Aleksander Domek** | Hiena Dziuplowa | Zdrajca | Adwokat-zdrajca, konflikt interesów |
 | **Michał Sarnecki** | Sarna Sarnecki | Bierna ucieczka | Adwokat bierny, chroniący kolegę |
 | **Dorota Kowalska** | Sroka Doroty | Plotka | Doradczyni Wiedźmy, megafon kłamstw |
 | **Antoni Bogdaszewski** | Borsuk Bogdaszewski | Ślepota | Policjant, który nic nie widzi |
@@ -112,7 +112,7 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 | Miejsce | Symbolika | Znaczenie |
 |---------|-----------|-----------|
 | **Polana Kłamstw** | Echo silniejsze niż głos | Przestrzeń, gdzie kłamstwo wygrywa z prawdą |
-| **Dom Adamowo 8** | Pętla bez końca (∞) | Ósmy krąg piekła – oszuści i manipulatorzy |
+| **Dziupla Adamowo 8** | Pętla bez końca (∞) | Ósmy krąg piekła – oszuści i manipulatorzy |
 | **Warsztat Wilka** | Więzienie-schronienie | Miejsce samoobrony i izolacji |
 | **Kocioł Krzywd** | Zbiornik manipulacji | Miejsce, gdzie Wiedźma warzy zemstę |
 
@@ -158,14 +158,14 @@ Repozytorium zawiera **niezwykle bogate zasoby** do stworzenia kompletnej, liter
 ### 6.1. Kluczowe Daty
 - **7.07.2017** - Data darowizny (symbolika nadziei)
 - **Luty 2021** - Pojawienie się Julii, początek konfliktu
-- **10.02.2021, 2:30** - Nocne wtargnięcie Barbary
+- **10.02.2021, 2:30** - Nocne wtargnięcie Wiedźmy BaraBary
 - **21.05.2021** - Incydent z odmową pomocy ojcu
 - **17/18.07.2021** - Noc przejścia do Ósmego Kręgu (Niebieska Karta)
-- **19.07.2021** - Pełnomocnictwo dla Barbary
+- **19.07.2021** - Pełnomocnictwo dla Wiedźmy BaraBary
 - **03.08.2021** - Zeznania Sylwestra (nie obraża)
 - **06.08.2021** - List odwołujący darowiznę (wyzwiska)
-- **13.10.2021** - Zdrada Hieny Domkowej na korytarzu sądowym
-- **29.08.2025** - Wyrok oddający dom Barbarze
+- **13.10.2021** - Zdrada Hieny Dziuplowej na korytarzu sądowym
+- **29.08.2025** - Wyrok oddający dziupla Wiedźmie BaraBarze
 
 ### 6.2. Kluczowe Symboliczne Elementy
 - **Kalendarz Wiedźmy** - broń procesowa, selektywna kronika

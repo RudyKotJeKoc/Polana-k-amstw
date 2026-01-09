@@ -24,9 +24,9 @@ Sylwester (nie odwracając głowy): — Co to jest?
 
 Wiedźma przesunęła list bliżej. Papier zaszeleścił — suchy, ostry dźwięk. Jak liście w listopadzie, które nie chcą oderwać się od gałęzi.
 
-Wiedźma: — To o Wilku. O tym, że dom...
+Wiedźma: — To o Wilku. O tym, że dziupla...
 
-Sylwester (cicho): — Dałem mu dom.
+Sylwester (cicho): — Dałem mu dziupla.
 
 Cisza.
 
@@ -126,7 +126,7 @@ Wieczorem zaniosła list na pocztę. Wrzuciła do czerwonej skrzynki. Usłyszał
 
 Przez chwilę stała przed skrzynką. Jej ręka spoczywała na metalowej klapie.
 
-Potem odwróciła się i poszła do domu.
+Potem odwróciła się i poszła do dziupli.
 
 ---
 

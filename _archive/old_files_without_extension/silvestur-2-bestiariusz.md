@@ -31,7 +31,7 @@ Bo w świecie, gdzie wszystko jest kontrolowane, **ostatnim aktem wolności jest
 W Polanie Kłamstw krąży stara legenda:
 
 > *"Gdy Sylvestur uzbiera sto szyszek,  
-> Barabara po raz pierwszy od lat usłyszy  
+> BaraBara po raz pierwszy od lat usłyszy  
 > to, czego od dawna nie słyszała:  
 >   
 > jego własny głos."*
@@ -55,14 +55,14 @@ Bo samo ich istnienie jest dowodem na to, że Sylvestur – mimo wszystko – **
 W rzeczywistości poza baśnią istnieje zjawisko zwane **reaktancją psychologiczną** – gdy człowiek traci autonomię, zaczyna kontrolować to, co jeszcze może kontrolować.
 
 Więźniowie układają kamienie w celach.  
-Dzieci w toksycznych domach tworzą tajne miejsca.  
+Dzieci w toksycznych dziuplach tworzą tajne miejsca.  
 Osoby w relacjach przemocowych zbierają dowody, dokumenty, pamiętniki.
 
 **Sylwestur zbiera szyszki.**
 
 To nie jest dziecinada. To forma **mikro-oporu** – drobnych aktów sprawczości, które przywracają poczucie, że przynajmniej **coś jeszcze należy do mnie**.
 
-W baśni Sylvestur zbiera szyszki, bo to jedyna rzecz w lesie, której Barabara nie może mu odebrać.
+W baśni Sylvestur zbiera szyszki, bo to jedyna rzecz w lesie, której BaraBara nie może mu odebrać.
 
 W realnym świecie ludzie robią to samo – tylko nazywają to inaczej.
 
@@ -71,7 +71,7 @@ W realnym świecie ludzie robią to samo – tylko nazywają to inaczej.
 ### 🗺️ **POWIĄZANE POSTACI**
 
 - **Sylvestur (Poké-Smurf)** – właściciel artefaktu, milczący zbieracz  
-- **Barabara** – ta, od której Sylvestur chroni swój głos  
+- **BaraBara** – ta, od której Sylvestur chroni swój głos  
 - **Wilk (Dariusz)** – obserwator, który rozumie, dlaczego Sylvestur zbiera szyszki  
 - **Las** – świadek, który pamięta każdą zebraną szyszkę  
 - **Słazar (Schleser)** – ten, który zamknął Sylwestura w muszli paragrafów  
@@ -81,7 +81,7 @@ W realnym świecie ludzie robią to samo – tylko nazywają to inaczej.
 ### 🌲 **POWIĄZANE LOKACJE**
 
 - **Las na skraju Polany Kłamstw** – miejsce zbierania szyszek  
-- **Dom Barabary** – miejsce, gdzie Sylvestur stracił głos  
+- **Dziupla Barabary** – miejsce, gdzie Sylvestur stracił głos  
 - **Muszla Słazara** – spirala, w której uwięziono Sylwestura dokumentami  
 
 ---
@@ -114,7 +114,7 @@ W realnym świecie ludzie robią to samo – tylko nazywają to inaczej.
 - Sylwestur nigdy nie policzy swoich szyszek. To nie o liczbę chodzi – to o **ciągłość gestu**.
 - Niektórzy twierdzą, że Sylwestur zbiera szyszki nie dla siebie, ale **dla tych, którzy przyjdą po nim** – jako dowód, że można przetrwać bez głosu, ale z godnością.
 - W jednej z wersji legendy Wilk pomaga Sylvesturowi przenieść szyszki do Holandii – gdzie nikt nie będzie kontrolował, ile ich jest i co one znaczą.
-- Barabara nigdy nie zauważyła szyszek. To jeden z niewielu przedmiotów w życiu Sylvestura, które **pozostały niewidzialne dla jej wzroku**.
+- BaraBara nigdy nie zauważyła szyszek. To jeden z niewielu przedmiotów w życiu Sylvestura, które **pozostały niewidzialne dla jej wzroku**.
 
 ---
 
@@ -149,7 +149,7 @@ I jeśli mu to odbierzesz, **odbierzesz mu wszystko**.
 ### 🔗 **LINKI**
 
 → [Sylvestur – profil postaci](#)  
-→ [Barabara – profil postaci](#)  
+→ [BaraBara – profil postaci](#)  
 → [Las jako Świadek – lokacja](#)  
 → [Muszla Słazara – artefakt](#)  
 → [Rozdział II: Cisza Sylvestura – czytaj fragment](#)  

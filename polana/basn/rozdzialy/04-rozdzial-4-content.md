@@ -42,7 +42,7 @@ Kuna Schleser kopała gdzieś w oddali tunel, który i tak nie prowadził do cel
 
 Tylko jedno stworzenie nie spało.
 
-Wiedźma Barabara.
+Wiedźma BaraBara.
 
 Wiedźma nigdy nie śpi.
 
@@ -54,7 +54,7 @@ Ten moment w nocy, gdy nawet echo śpi, a zegary tykają wolniej, jakby sam czas
 
 Na korytarzu coś drgnęło.
 Nie skrzypnęła deska, bo Wiedźma znała każdą z nich.
-Mogłaby chodzić po tym domu po ciemku, z zamkniętymi oczami, nie budząc nawet myszy.
+Mogłaby chodzić po tej Dziupli po ciemku, z zamkniętymi oczami, nie budząc nawet myszy.
 
 Nie niosła świecy.
 Nie potrzebowała światła.
@@ -65,6 +65,7 @@ Ona – nie.
 [pauza]
 
 Klamka poruszyła się bez dźwięku.
+Oko Dziupli rozbłysło w ciemności, jakby technologia sama chciała zapamiętać tę noc.
 
 Drzwi do pokoju Wilka i Sarenki otworzyły się nagle, jakby ktoś rozciął nożem cienką, ciepłą tkaninę nocy.
 
@@ -138,7 +139,7 @@ Tamto miejsce, tamte ręce, tamte drzwi, które też się otworzyły wtedy bez z
 Teraz drzwi były inne.
 Ale uczucie – to samo.
 
-Obcość w cudzym domu.
+Obcość w cudzym dziupli.
 Obcość we własnej skórze.
 
 [pauza]
@@ -172,7 +173,7 @@ Dłonie miała zaciśnięte, jakby ściskała niewidzialne papiery, których jes
 
 Ale jej "tylko" miało zapach przesłuchania.
 Zapach notatki w kalendarzu.
-Zapach przyszłego zaklęcia.
+Zapach przyszłego wpisu.
 
 – Wyjdź – powtórzył Wilk. Wolniej. Wyraźniej.
 
@@ -250,7 +251,7 @@ Do tego samego miejsca, gdzie wcześniej zadomowiła się tamta pierwsza noc, ta
 
 Wilk mówił coś jeszcze.
 Że jest z nią.
-Że to tylko dom.
+Że to tylko Dziupla.
 Że ona stąd wyjedzie.
 Że tamten dawny cień to inny człowiek, inne miejsce, inny las.
 
@@ -271,7 +272,7 @@ To było to bezgłośne drżenie ciała, kiedy człowiek rozumie, że to, co zac
 
 Wilk siedział obok.
 Nie obiecywał, że będzie dobrze.
-Na Polanie Kłamstw takie obietnice są jak kiepskie zaklęcia – brzmią ładnie, ale nie działają.
+Na Polanie Kłamstw takie obietnice są jak puste formuły – brzmią ładnie, ale nie działają.
 
 Powiedział tylko:
 
@@ -291,7 +292,7 @@ Wiedźma siedziała nad nim z nową porcją wspomnień, spojrzeń i szeptów, kt
 "Spali razem w jednym pokoju."
 "Bała się? A może nie powinna była tam wchodzić?"
 
-Zaklęcia układały się same.
+Formuły układały się same.
 
 [pauza]
 
@@ -336,7 +337,7 @@ Nie wiedział jeszcze, że zanim wyjedzie, będą spać w samochodzie, zamarzać
 
 Wiedział tylko jedno:
 
-Tamtej nocy Wiedźma Barabara nie zniszczyła Sarenki dłonią.
+Tamtej nocy Wiedźma BaraBara nie zniszczyła Sarenki dłonią.
 
 Zniszczyła ją obecnością.
 Lodowym oddechem.

@@ -11,7 +11,7 @@ polana/
 ├── bestiariusz/
 │   ├── postacie/            # Postacie (Wiedźma, Wilk, Hiena, etc.)
 │   ├── artefakty/           # Artefakty i symbole fizyczne
-│   ├── lokacje/             # Miejsca (Polana, Dom 8, Warsztat)
+│   ├── lokacje/             # Miejsca (Polana, Dziupla 8, Warsztat)
 │   ├── motywy/              # Motywy narracyjne
 │   ├── symbole/             # Symbole abstrakcyjne
 │   └── cytaty/              # Kluczowe cytaty

@@ -1,11 +1,11 @@
-# Hiena Domkowa (Aleksander Domek)
+# Hiena Dziuplowa (Aleksander Domek)
 
 **Typ:** Zdrajca Systemu Prawnego / Adwokat Cyniczny
 **Powiązania:** Wilk Samotnik (klient), Wyrok Karny II K 568/21, System prawny
 
 ## Opis
 
-Hiena Domkowa (Aleksander Domek) to adwokat Dariusza (Wilka) w sprawie karnej II K 568/21, który dokonał jednego z najbardziej destrukcyjnych aktów zdrady w całej historii Polany Kłamstw. **5 minut przed rozprawą** (13.10.2021), na korytarzu sądowym, wykorzystał wyczerpanie psychiczne klienta i wymusił na nim **przyznanie się do winy** pod fałszywą obietnicą, że "sprawa będzie zamknięta, to tylko formalność".
+Hiena Dziuplowa (Aleksander Domek) to adwokat Dariusza (Wilka) w sprawie karnej II K 568/21, który dokonał jednego z najbardziej destrukcyjnych aktów zdrady w całej historii Polany Kłamstw. **5 minut przed rozprawą** (13.10.2021), na korytarzu sądowym, wykorzystał wyczerpanie psychiczne klienta i wymusił na nim **przyznanie się do winy** pod fałszywą obietnicą, że "sprawa będzie zamknięta, to tylko formalność".
 
 Hiena symbolizuje **zdrajcę systemu prawnego** — adwokata, który powinien bronić klienta, ale zamiast tego stawia swój szybki zysk i wygodę ponad dobro osoby, której służył. Zimne oczy, fałszywy uśmiech, manipulacja na korytarzu — to obraz profesjonalisty, który sprzedał swojego klienta dla własnej korzyści.
 
@@ -32,12 +32,12 @@ Wynik zdrady Hieny — wyrok II K 568/21 (znęcanie psychiczne) — stał się "
 
 **W głównej baśni "Polana Kłamstw":**
 
-Hiena Domkowa nie jest głównym antagonistą, ale jej **jeden akt zdrady** miał katastrofalne konsekwencje dla całej historii Wilka. Wyrok karny, wynikający z wymuszonego przyznania się, stał się fundamentem dla wyroku cywilnego o cofnięcie darowizny.
+Hiena Dziuplowa nie jest głównym antagonistą, ale jej **jeden akt zdrady** miał katastrofalne konsekwencje dla całej historii Wilka. Wyrok karny, wynikający z wymuszonego przyznania się, stał się fundamentem dla wyroku cywilnego o cofnięcie darowizny.
 
 **Kluczowe wydarzenia:**
 
 1. **13.10.2021, korytarz sądowy, 5 minut przed rozprawą**
-   - Hiena Domkowa (Aleksander Domek) wykorzystuje stan psychiczny Wilka
+   - Hiena Dziuplowa (Aleksander Domek) wykorzystuje stan psychiczny Wilka
    - Fałszywa obietnica: *"Przyznaj się, a sprawa będzie zamknięta. To tylko formalność."*
    - Wilk, wyczerpany, ulega
    - Wyrok nakazowy II K 568/21 — "znęcanie psychiczne"
@@ -48,7 +48,7 @@ Hiena Domkowa nie jest głównym antagonistą, ale jej **jeden akt zdrady** mia�
    - Jedna zdrada na korytarzu = dwie przegrane sprawy
 
 **W kronice:**
-Hiena Domkowa reprezentuje **porażkę systemu obrony prawnej**. Adwokat, który powinien chronić klienta, zamiast tego go sprzedał. Jej rola to ostrzeżenie: **konflikt interesów, cyniczna manipulacja i brak etyki mogą zniszczyć życie klienta**.
+Hiena Dziuplowa reprezentuje **porażkę systemu obrony prawnej**. Adwokat, który powinien chronić klienta, zamiast tego go sprzedał. Jej rola to ostrzeżenie: **konflikt interesów, cyniczna manipulacja i brak etyki mogą zniszczyć życie klienta**.
 
 ## Cechy Charakterystyczne
 

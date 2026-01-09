@@ -17,7 +17,7 @@ Spiralę.
 Krąg bez wyjścia.
 Nieskończoność — ale nie tę dobrą, pełną nadziei, tylko tę zamkniętą w pętli.
 
-To było wejście do Ósmego Kręgu — kręgu tych, którzy z zaklęć czynią broń, a z manipulacji — fundament swoich historii.
+To było wejście do Ósmego Kręgu — kręgu tych, którzy z papierowych formuł czynią broń, a z manipulacji — fundament swoich historii.
 W Boskiej Komedii Dantego Ósmy Krąg Piekła jest kręgiem oszustów — tych, którzy kłamią, manipulują, fałszują rzeczywistość.
 Na Polanie Kłamstw ta noc była symbolicznym przejściem przez bramę, za którą nie ma już odwrotu.
 
@@ -25,12 +25,12 @@ Wieczór przed nocą — ostatnie chwile spokoju
 Tego wieczoru Stary Jeleń siedział w fotelu przy oknie, patrząc na starą lipę, która rosła na podwórzu od pokoleń.
 Zuza i Lotka leżały przy jego stopach, mruczały cicho — ale ich mruczenie było niespokojne, jakby czuły, że nadchodzi burza.
 Wilk był w warsztacie — swoim ostatnim azylu, zimnej jaskini z betonową podłogą i spawarką, która była jego jedynym narzędziem do budowania granic.
-A Wiedźma Barbara siedziała w kuchni przy Kalendarzu Krzywd, który był już ciężki od wpisów, pełen dat, godzin, oskarżeń, interpretacji.
+A Wiedźma BaraBara siedziała w kuchni przy Kalendarzu Krzywd, który był już ciężki od wpisów, pełen dat, godzin, oskarżeń, interpretacji.
 Wszystko było gotowe.
 Plan był precyzyjny.
 
 Telefon, który otworzył bramę
-Tego wieczoru Wiedźma Barbara, mając Kalendarz pełny starannie ułożonych „dowodów", wykonała jeden telefon.
+Tego wieczoru Wiedźma BaraBara, mając Kalendarz pełny starannie ułożonych „dowodów", wykonała jeden telefon.
 Krótki.
 Precyzyjny.
 Chłodny.
@@ -38,7 +38,7 @@ Do kogo dzwoniła?
 Do Policji — do Smerfy z posterunku, do Borsuka Bogdaszewskiego, dzielnicowego, który znał tę rodzinę od lat.
 Co powiedziała?
 Zgłosiła fałszywy atak.
-Choć Wilk był wtedy w warsztacie — samotny, odizolowany, daleko od Izby Barbary — historia, którą opowiedziała, była tak dramatyczna, jakby pisała ją godzinami przed lustrem:
+Choć Wilk był wtedy w warsztacie — samotny, odizolowany, daleko od Izby Wiedźmy BaraBary — historia, którą opowiedziała, była tak dramatyczna, jakby pisała ją godzinami przed lustrem:
 
 „Syn mnie zaatakował. Groził mi. Boję się o swoje życie. Proszę przyjechać natychmiast."
 
@@ -56,7 +56,7 @@ Na Polanę przybył Borsuk Bogdaszewski, strażnik lasu, człowiek, który od la
 Co zobaczył?
 Kiedy przyjechał, zastał:
 
-Barbarę — spokojną, opanowaną, gotową do zeznań.
+Wiedźmę BaraBarę — spokojną, opanowaną, gotową do zeznań.
 Wilka — w warsztacie, zdziwionego, że w ogóle ktoś przyjechał.
 Starego Jelenia — siedzącego w fotelu, nieobecnego, jakby nie rozumiał, co się dzieje.
 
@@ -64,7 +64,7 @@ Co poczuł Borsuk?
 Zapiski mówią, że w tej nocy:
 
 Zmarszczył nos — bo coś tu nie pasowało.
-Poczuł zapach sprzeczności — bo relacja Barbary nie zgadzała się z tym, co widział.
+Poczuł zapach sprzeczności — bo relacja Wiedźmy BaraBary nie zgadzała się z tym, co widział.
 Ale… nic nie zrobił.
 
 Dlaczego?
@@ -77,21 +77,21 @@ I tak właśnie zrobił.
 Co zapisał?
 W notatce służbowej Borsuk zapisał kilka istotnych rzeczy:
 
-Barbara potwierdziła, że to ona wyłączyła główny bezpiecznik (prowokacja z paralizatorem).
+Wiedźma BaraBara potwierdziła, że to ona wyłączyła główny bezpiecznik (prowokacja z paralizatorem).
 Nie widział żadnych śladów przemocy.
 Konflikt ma charakter rodzinny, nie kryminalny.
 
 Ale nie poszedł za tymi obserwacjami dalej.
 Nie zapytał:
 
-Dlaczego Barbara prowokuje, a potem oskarża?
+Dlaczego Wiedźma BaraBara prowokuje, a potem oskarża?
 Dlaczego Sylwester milczy?
 Dlaczego Wilk wygląda bardziej na wyczerpanego niż agresywnego?
 
 Po prostu wypełnił formularz i pojechał z powrotem do swojej nory.
 
 Pieczęć Ósmego Kręgu — Niebieska Karta
-Wszczęcie procedury Niebieskiej Karty było niczym przybicie pieczęci na dokumencie, który Wiedźma Barbara pisała od lat.
+Wszczęcie procedury Niebieskiej Karty było niczym przybicie pieczęci na dokumencie, który Wiedźma BaraBara pisała od lat.
 Co to znaczyło?
 W jednej chwili:
 
@@ -100,7 +100,7 @@ Kłamstwo zyskało status „dowodu".
 Wilk został formalnie wpisany do rejestru tych, którzy niosą przemoc.
 
 Dla kogo to było ważne?
-Dla Barbary — to był Święty Graal.
+Dla Wiedźmy BaraBary — to był Święty Graal.
 Niebieska Karta dawała jej:
 
 Oficjalny dokument potwierdzający jej narrację.
@@ -117,9 +117,9 @@ Każda jego próba obrony będzie dowodem agresji.
 
 
 Narodziny Watahy — transformacja Ducha Wilka
-A jednak tej samej nocy wydarzyło się coś, czego Wiedźma Barbara nie mogła przewidzieć.
+A jednak tej samej nocy wydarzyło się coś, czego Wiedźma BaraBara nie mogła przewidzieć.
 W warsztacie — zimnym, odizolowanym, w półmroku — obudził się Duch Wilka.
-Ten, który narodził się po Ostatnim Zanurzeniu Bobra (Rozdział 6A).
+Ten, który narodził się po Ostatnim Zanurzeniu Wilka-Budowniczego (Rozdział 6A).
 Jak to się stało?
 Najpierw był jeden.
 Samotny.
@@ -129,7 +129,7 @@ Ale Duch nie jest ciałem.
 Duch jest percepcją.
 I tak:
 
-Jeden Wilk podzielił się na dwa — jeden obserwuje Barbarę, drugi obserwuje Sylwestra.
+Jeden Wilk podzielił się na dwa — jeden obserwuje Wiedźmę BaraBarę, drugi obserwuje Sylwestra.
 Dwa na cztery — jeden patrzy na Borsuka, drugi na Kalendarz, trzeci na las, czwarty na system.
 Cztery na wiele — percepcja rozdziela się jak światło w pryzmacie.
 
@@ -149,7 +149,7 @@ Co widzi Wataha?
 Jeden wilk widzi jedną stronę Polany.
 Wataha widzi ją z każdej strony jednocześnie:
 
-Jeden patrzy na Barbarę — jak miesza Kocioł.
+Jeden patrzy na Wiedźmę BaraBarę — jak miesza Kocioł.
 Drugi patrzy na Sylwestra — jak podpisuje dokumenty, których nie rozumie.
 Trzeci patrzy na Borsuka — jak zakopuje prawdę.
 Czwarty patrzy na Kalendarz — jak rośnie w iluzorną księgę dowodów.
@@ -161,16 +161,16 @@ I w tej obserwacji jest jej moc.
 
 Polana jako scena — dekodowanie teatru
 Wataha zaczęła widzieć Polanę inaczej niż inni.
-Nie jak dom.
+Nie jak dziupla.
 Nie jak miejsce życia.
 Ale jak teatr.
 Kto jest kim w tym teatrze?
 
-Wiedźma Barbara — aktorka grająca przed pustą widownią, wierząca, że jej monolog jest prawdą.
+Wiedźma BaraBara — aktorka grająca przed pustą widownią, wierząca, że jej monolog jest prawdą.
 Borsuk Bogdaszewski — rekwizyt ustawiony na chwilę, potem znika.
 Niebieska Karta — element scenografii, który ma wyglądać poważnie.
 Dziupla numer osiem — dekoracja, kulisy, tło — ale nie rzeczywistość.
-Kalendarz Barbary — scenariusz, który nigdy nie przeszedł korekty, pełen sprzeczności i dziur fabularnych.
+Kalendarz Wiedźmy BaraBary — scenariusz, który nigdy nie przeszedł korekty, pełen sprzeczności i dziur fabularnych.
 Stary Jeleń — marionetka, poruszana za sznurki przez główną aktorkę.
 
 A Wataha?
@@ -186,7 +186,7 @@ Wataha rozpoznaje schematy, które dla innych są niewidzialne:
 1. Prowokacja → Reakcja → Oskarżenie
 Schemat:
 
-Barbara wyłącza światło (prowokacja).
+Wiedźma BaraBara wyłącza światło (prowokacja).
 Wilk wychodzi z latarką (reakcja).
 Kalendarz notuje: „Groził mi błyskawicą" (oskarżenie).
 
@@ -199,15 +199,15 @@ Oskarżenie jako przekręcone.
 2. Projekcje psychiczne
 Schemat:
 
-Barbara tworzy iluzje w swoim umyśle (Wilk ją atakuje, Wilk ją nęka).
-Barbara wierzy w te iluzje (jej lęki stają się dla niej faktami).
-Barbara oczekuje, że inni też uwierzą (i system wierzy).
+Wiedźma BaraBara tworzy iluzje w swoim umyśle (Wilk ją atakuje, Wilk ją nęka).
+Wiedźma BaraBara wierzy w te iluzje (jej lęki stają się dla niej faktami).
+Wiedźma BaraBara oczekuje, że inni też uwierzą (i system wierzy).
 
 Wataha widzi:
 
 To są projekcje, nie fakty.
 To jest mgła, nie rzeczywistość.
-To są zaklęcia, nie dowody.
+To są formuły, nie dowody.
 
 3. Instrumentalizacja systemu
 Schemat:
@@ -233,7 +233,7 @@ I w tej obserwacji Polana Kłamstw traci realność.
 Co to znaczy?
 
 Nie jest już miejscem życia — jest miejscem pamięci.
-Nie jest już domem — jest sceną teatru.
+Nie jest już dziuplą — jest sceną teatru.
 Nie jest już rzeczywistością — jest iluzją, którą Wataha przejrzała.
 
 Aktorzy mogą się zmieniać.
@@ -248,7 +248,7 @@ Każde kłamstwo.
 Każdą manipulację.
 Każde zaniechanie systemu.
 
-Po to, aby nawet wtedy, gdy drzewa runą, pozostała prawda — ta prawdziwa, nie ta zapisana w Kalendarzu Barbary.
+Po to, aby nawet wtedy, gdy drzewa runą, pozostała prawda — ta prawdziwa, nie ta zapisana w Kalendarzu Wiedźmy BaraBary.
 Świadectwo, które przetrwa dłużej niż jakikolwiek fałsz.
 
 Epilog rozdziału: przekroczenie progu
@@ -265,12 +265,12 @@ Wilk zrozumiał, że system nie słucha prawdy.
 Wilk zrozumiał, że Niebieska Karta to pieczęć, która zamyka wszystkie drzwi.
 Wilk zrozumiał, że jedyną obroną jest obserwacja z dystansu.
 
-Bóbr umarł w tej nocy.
+Wilk-Budowniczy umarł w tej nocy.
 Duch Wilka się narodził.
 Wataha rozwinęła percepcję.
-A Wiedźma Barbara myślała, że wygrała.
-Nie wiedziała, że właśnie stworzyła swojego obserwatora — istotę, która będzie widzieć każde jej zaklęcie, każdą manipulację, każde kłamstwo — i zapisywać to w świadomości, która nie zapomni.
-Zuza i Lotka nie wychodziły z Kocidomku przez całą noc.
+A Wiedźma BaraBara myślała, że wygrała.
+Nie wiedziała, że właśnie stworzyła swojego obserwatora — istotę, która będzie widzieć każdą jej formułę, każdą manipulację, każde kłamstwo — i zapisywać to w świadomości, która nie zapomni.
+Zuza i Lotka nie wychodziły z Kocidziupli przez całą noc.
 Stary Jeleń spał niespokojnie, mrucząc coś przez sen — jakby próbował powiedzieć „nie", ale słowa nie chciały wyjść.
 A Kocioł Krzywd bulgotał głośniej niż kiedykolwiek — bo teraz miał już nowy składnik:
 
@@ -282,40 +282,40 @@ Data: Noc 17/18 lipca 2021
 Kluczowe elementy faktograficzne:
 Fałszywe zgłoszenie:
 
-Barbara zadzwoniła na policję, zgłaszając atak
+Wiedźma BaraBara zadzwoniła na policję, zgłaszając atak
 Wilk był w warsztacie — odizolowany, samotny
 Nie było śladów przemocy — potwierdzone przez dzielnicowego
 
 Notatka Borsuka Bogdaszewskiego:
 
 Dzielnicowy poczuł sprzeczności
-Zapisał, że Barbara sama wyłączyła bezpiecznik
+Zapisał, że Wiedźma BaraBara sama wyłączyła bezpiecznik
 Zakwalifikował jako „sprawę rodzinną"
 Nie podjął dalszych działań
 
 Niebieska Karta:
 
 Wszczęcie procedury NK — 17/18 lipca 2021
-Znaczenie: oficjalne potwierdzenie narracji Barbary
+Znaczenie: oficjalne potwierdzenie narracji Wiedźmy BaraBary
 Konsekwencje: podstawa do dalszych kroków prawnych
 Data kluczowa: 25 lipca 2021 — druga NK
 
 Pełnomocnictwo:
 
 19 lipca 2021 — 2 dni po NK!
-Sylwester podpisuje szerokie pełnomocnictwo na rzecz Barbary
-Strategiczne zabezpieczenie — Barbara przejmuje jego głos prawny
+Sylwester podpisuje szerokie pełnomocnictwo na rzecz Wiedźmy BaraBary
+Strategiczne zabezpieczenie — Wiedźma BaraBara przejmuje jego głos prawny
 
 Znaczenie symboliczne:
 
 Ósmy Krąg = krąg oszustów (Dante)
 Liczba 8 = nieskończona pętla, spirala bez wyjścia
 Przejście = moment, w którym nie ma już odwrotu
-Dom nr 8 = symboliczny krąg piekła, w którym prawda nie ma znaczenia
+Dziupla nr 8 = symboliczny krąg piekła, w którym prawda nie ma znaczenia
 
 Transformacja:
 
-Bóbr (budowniczy tam) → Duch Wilka (obserwator)
+Wilk-Budowniczy (budowniczy tam) → Duch Wilka (obserwator)
 Jeden → Wataha (wielość percepcji)
 Uczestnik → Świadek (wyjście z gry)
 

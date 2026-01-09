@@ -1,12 +1,12 @@
 # Manipulacja systemem prawnym
 
 **Typ:** Motyw narracyjny / systemowy
-**Powiązania:** Wiedźma Barabara (Barbara), Wilk Samotnik (Dariusz), Stary Jeleń (Sylwester), Pokéball Wiedźmy (pełnomocnictwo), Kalendarz Krzywd, Niebieska Karta, Zdrada Adwokata, Puszczyk Halager (sędzia), Sąd Papieru
+**Powiązania:** Wiedźma BaraBara, Wilk Samotnik (Dariusz), Stary Jeleń (Sylwester), Pokéball Wiedźmy (pełnomocnictwo), Kalendarz Krzywd, Niebieska Karta, Zdrada Adwokata, Puszczyk Halager (sędzia), Sąd Papieru
 
 **Opis:**
 Manipulacja systemem prawnym to centralny motyw Polany Kłamstw: instrumentalne wykorzystanie procedur prawnych nie dla ochrony, ale dla ataku. System prawny, stworzony by chronić — staje się bronią. Niebieska Karta (narzędzie przeciw przemocy domowej) jest wykorzystana w kontekście sporu majątkowego. Pełnomocnictwo (dokument zaufania) staje się Pokéballem — narzędziem kontroli. Kalendarz Krzywd (subiektywny zapis) jest przyjmowany jako obiektywny dowód.
 
-Wiedźma (Barbara) nie używa systemu prawnego — **wykorzystuje go**. Każda instytucja, każda procedura, każdy dokument staje się elementem strategii. System prawny nie widzi manipulacji — widzi tylko papiery. A papiery kłamią.
+Wiedźma BaraBara nie używa systemu prawnego — **wykorzystuje go**. Każda instytucja, każda procedura, każdy dokument staje się elementem strategii. System prawny nie widzi manipulacji — widzi tylko papiery. A papiery kłamią.
 
 ## Geneza motywu
 
@@ -14,7 +14,7 @@ Manipulacja systemem prawnym rodzi się w momencie, gdy konflikt rodzinny przeks
 
 Pierwszy krok: **Kalendarz Krzywd** (luty 2021 onwards). Wiedźma zaczyna zapisywać oskarżenia w notatniku. Każde zdarzenie jest przekręcane, każda reakcja Wilka (Dariusza) jest wzmacniana, każda prowokacja jest usuwana z zapisu. To nie jest pamiętnik — to jest **dowód w przygotowaniu**. Kalendarz będzie użyty w sądzie jako "obiektywny zapis wydarzeń".
 
-Drugi krok: **Niebieska Karta** (17.07.2021). Narzędzie stworzone do ochrony ofiar przemocy domowej zostaje wszczęte w kontekście sporu majątkowego o Dom nr 8. Wilk nie jest agresorem domowym — ale Niebieska Karta tworzy **narrację ofiary**. System prawny reaguje na procedurę, nie na kontekst.
+Drugi krok: **Niebieska Karta** (17.07.2021). Narzędzie stworzone do ochrony ofiar przemocy domowej zostaje wszczęte w kontekście sporu majątkowego o Dziupla nr 8. Wilk nie jest agresorem domowym — ale Niebieska Karta tworzy **narrację ofiary**. System prawny reaguje na procedurę, nie na kontekst.
 
 Trzeci krok: **Pokéball Wiedźmy** — pełnomocnictwo (19.07.2021). Wiedźma uzyskuje pełnomocnictwo do reprezentowania Sylwestra (Starego Jelenia). Teraz może mówić jego głosem, podpisywać jego dokumenty, składać zeznania w jego imieniu. Sylwester został "złapany" — jak w Pokéballa. Nie ma już własnego głosu.
 
@@ -54,7 +54,7 @@ Manipulacja systemem prawnym przenika całą historię Polany Kłamstw od lutego
 Wiedźma zaczyna zapisywać oskarżenia. Nocne wtargnięcie (10.02.2021, 2:30) → Reakcja Wilka: "Wynoś się! To MOJA nora!" → Zapis w Kalendarzu: "Syn mnie wyrzucił, był agresywny". Prowokacja znika. Echo powstaje.
 
 **17.07.2021 — Niebieska Karta:**
-Policja wszczyna Niebieską Kartę w kontekście sporu majątkowego. To nie jest przypadek przemocy domowej — to jest konflikt o Dom nr 8. Ale NK tworzy narrację: "Syn jest agresorem". System prawny reaguje.
+Policja wszczyna Niebieską Kartę w kontekście sporu majątkowego. To nie jest przypadek przemocy domowej — to jest konflikt o Dziupla nr 8. Ale NK tworzy narrację: "Syn jest agresorem". System prawny reaguje.
 
 **19.07.2021 — Pokéball Wiedźmy:**
 Pełnomocnictwo Wiedźmy do reprezentowania Sylwestra. Stary Jeleń zostaje "złapany". Nie ma już własnego głosu. Wiedźma mówi za niego.
@@ -66,7 +66,7 @@ Pełnomocnictwo Wiedźmy do reprezentowania Sylwestra. Stary Jeleń zostaje "zł
 Wilk skazany za "uporczywe nękanie" na podstawie Niebieskiej Karty, Kalendarza Krzywd i sabotażu adwokata. Obrona nie składa kluczowych wniosków. Prawda Wilka nie jest słyszana. Echo wygrywa.
 
 **29.08.2025 — Wyrok cywilny:**
-Sąd Okręgowy w Ostrołęce (sygn. I C 510/23) opiera wyrok na Kalendarzu Wiedźmy i wyroku karnym. Puszczyk Halager (sędzia) widzi papiery, nie widzi manipulacji. Wilk musi opuścić dom w ciągu 30 dni.
+Sąd Okręgowy w Ostrołęce (sygn. I C 510/23) opiera wyrok na Kalendarzu Wiedźmy i wyroku karnym. Puszczyk Halager (sędzia) widzi papiery, nie widzi manipulacji. Wilk musi opuścić dziupla w ciągu 30 dni.
 
 ## Powiązania z innymi motywami
 

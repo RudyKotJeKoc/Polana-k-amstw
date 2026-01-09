@@ -7,18 +7,18 @@
 ## ✅ **Co działa bardzo dobrze**
 
 ### 1. **Sensoryczność i materializacja emocji**
-Las jako żywy organizm-świadek to silny motyw. Szyszki jako nośniki pamięci emocjonalnej (dzieciństwo Barbary, krzywdy Dariusza) to poetycka i psychologicznie trafna metafora. 
+Las jako żywy organizm-świadek to silny motyw. Szyszki jako nośniki pamięci emocjonalnej (dzieciństwo Wiedźmy BaraBary, krzywdy Dariusza) to poetycka i psychologicznie trafna metafora. 
 
 **Dlaczego to działa:**
 - Unika abstrakcji
 - Daje czytelnikowi fizyczne punkty zaczepienia
 - Las staje się trzecim narratorem (obok Wilka i głosu wszechwiedzącego)
 
-### 2. **Flashback Barbary - transmisja traumu**
-Scena u babci ("milcz albo cierpij" → "staniesz się tą, która zadaje rozkazy") to kluczowy element. Nie usprawiedliwia Barbary, ale **wyjaśnia mechanizm**.
+### 2. **Flashback Wiedźmy BaraBary - transmisja traumu**
+Scena u babci ("milcz albo cierpij" → "staniesz się tą, która zadaje rozkazy") to kluczowy element. Nie usprawiedliwia Wiedźmy BaraBary, ale **wyjaśnia mechanizm**.
 
 **Wartość psychologiczna:**
-- Pokazuje, że Barbara też była kiedyś ofiarą
+- Pokazuje, że Wiedźma BaraBara też była kiedyś ofiarą
 - Ujawnia, że jej patologia to nauczony wzorzec
 - Czytelnik rozumie **dlaczego**, ale nie musi akceptować **jak**
 
@@ -32,7 +32,7 @@ To najsilniejszy fragment. Rozdarcie między trzema częściami siebie:
 - Odzwierciedla rzeczywisty proces decyzyjny osób uwikłanych w toksyczne relacje rodzinne
 - "Podpis jako mała śmierć" - doskonała metafora dla umowy, która zabija przyszłość
 
-### 4. **Kalendarz Barbary z konkretnymi datami**
+### 4. **Kalendarz Wiedźmy BaraBary z konkretnymi datami**
 Październik 2017, marzec 2018, maj 2019 - **to już nie jest abstrakcja**. To obsesja w formie czystej.
 
 **Sensoryka działa:**
@@ -53,7 +53,7 @@ Kontrast jest brutalny:
 - **Przed**: mężczyzna ze śmiechem, historią, wolą
 - **Po**: narzędzie kontroli, żywa pieczęć na dokumentach
 
-**"Idealnie. Doskonale. Bezpowrotnie."** - triumf Barbary brzmi jak epitafium.
+**"Idealnie. Doskonale. Bezpowrotnie."** - triumf Wiedźmy BaraBary brzmi jak epitafium.
 
 ### 7. **Motyw Watahi w epilogu**
 To najważniejsza synteza całej baśni:
@@ -70,7 +70,7 @@ Samotny wilk w wolności jest bardziej żywy niż wilk w chorej watasze.
 
 ### 1. **Rola Julii - brakuje jej głosu wewnętrznego**
 Julia pojawia się jako ofiara (wrzask w lesie), ale **nie ma jej monologu wewnętrznego**. Warto dodać:
-- Jak ona odbierała manipulację Barbary?
+- Jak ona odbierała manipulację Wiedźmy BaraBary?
 - Czy próbowała chronić Dariusza, czy też była uwikłana w grę?
 - Czy wiedziała, że podpis to pułapka?
 
@@ -93,7 +93,7 @@ Sędziowie to bezimienne symbole. To celowe, ale **zbyt odhumanizowane**. Warto 
 ### 4. **Epilog - co dalej?**
 Epilog kończy się na przesłaniu o nowej watasze. Ale:
 - Czy Wilk kiedykolwiek wróci do Polski?
-- Czy kiedyś skonfrontuje się z Barbarą?
+- Czy kiedyś skonfrontuje się z Wiedźmą BaraBarą?
 - Czy las kiedyś "wyda swoją pamięć"?
 
 **Propozycja zakończenia:**
@@ -106,7 +106,7 @@ Epilog kończy się na przesłaniu o nowej watasze. Ale:
 | **Postać** | **Archetyp** | **Trajektoria emocjonalna** | **Czy ma głos wewnętrzny?** |
 |------------|--------------|-----------------------------|-----------------------------|
 | Wilk (Dariusz) | Ofiara → Uciekinier → Obserwator | Strach → Desperacja → Cisza → Wolność | ✅ TAK (silny) |
-| Barbara | Manipulator → Tyran → Kontroler | Kontrola → Obsesja → Triumf → Pustka | ✅ TAK (przez babcię) |
+| Wiedźma BaraBara | Manipulator → Tyran → Kontroler | Kontrola → Obsesja → Triumf → Pustka | ✅ TAK (przez babcię) |
 | Sylwester | Ofiara → Narzędzie | Człowiek → Cień → Pieczęć | ❌ NIE (tylko opis zewnętrzny) |
 | Julia | Ofiara? Współsprawczyni? | Nieznana → Płacz → ? | ❌ NIE |
 | Adwokat Lisica | Sługa systemu | Zimna kalkulacja | ❌ NIE |
@@ -135,9 +135,9 @@ Rozbudowa baśni "Polana Kłamstw" jest **dramaturgicznie spójna, psychologiczn
 
 **Co zostało osiągnięte:**
 ✅ Las jako żywy świadek  
-✅ Barbara z kontekstem traumy (babcia)  
+✅ Wiedźma BaraBara z kontekstem traumy (babcia)  
 ✅ Wilk z triadą Rozum-Nadzieja-Strach  
-✅ Kalendarz Barbary jako obsesja procesowa  
+✅ Kalendarz Wiedźmy BaraBary jako obsesja procesowa  
 ✅ Cisza Dariusza jako strategia  
 ✅ Sylwester przed i po wylewie  
 ✅ Motyw watahi jako synteza przesłania  

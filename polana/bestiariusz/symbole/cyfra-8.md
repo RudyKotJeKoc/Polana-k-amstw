@@ -12,7 +12,7 @@ zrodla:
 
 # Cyfra 8
 
-Symbol nieskończonej pętli konfliktu (dom nr 8, ósmy krąg)
+Symbol nieskończonej pętli konfliktu (dziupla nr 8, ósmy krąg)
 
 ## Opis
 

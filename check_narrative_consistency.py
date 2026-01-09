@@ -72,10 +72,10 @@ class NarrativeConsistencyChecker:
             'Wiedźma', 'Wiedźmy', 'Wiedźmie', 'Wiedźmą',
             'Sarenka', 'Sarenki', 'Sarenkę', 'Sarence',
             'Julia', 'Julii', 'Julią',
-            'Bobr', 'Bobra', 'Bobrem', 'Bobrze',
+            'Wilk-Budowniczy', 'Wilka-Budowniczego', 'Wilkiem-Budowniczym', 'Wilku-Budowniczym',
             'Jeleń', 'Jelenia', 'Jeleniem', 'Jeleniowi',
             'Sylwester', 'Sylwestra', 'Sylwestrem', 'Sylwestrowi',
-            'Barbara', 'Barbary', 'Barbarą', 'Barbarze',
+            'Wiedźma BaraBara', 'Wiedźmy BaraBary', 'Wiedźmą BaraBarą', 'Wiedźmie BaraBarze',
             'Hiena', 'Hieny', 'Hienę', 'Hieno',
             'Puszczyk', 'Puszczyka', 'Puszczykiem',
             'Sroka', 'Sroki', 'Srokę', 'Sroko',
@@ -85,6 +85,7 @@ class NarrativeConsistencyChecker:
             'Domek', 'Domka', 'Domkiem',
             'Sarnecki', 'Sarneckiego', 'Sarneckim',
             'Borsuk', 'Borsuka', 'Borsukiem',
+            'Burek', 'Burka', 'Burkiem', 'Burkowi',
             'BaraBary',
         ]
         
@@ -94,10 +95,10 @@ class NarrativeConsistencyChecker:
             'Wiedźma': 'Wiedźma', 'Wiedźmy': 'Wiedźma', 'Wiedźmie': 'Wiedźma', 'Wiedźmą': 'Wiedźma',
             'Sarenka': 'Sarenka', 'Sarenki': 'Sarenka', 'Sarenkę': 'Sarenka', 'Sarence': 'Sarenka',
             'Julia': 'Julia', 'Julii': 'Julia', 'Julią': 'Julia',
-            'Bobr': 'Bobr', 'Bobra': 'Bobr', 'Bobrem': 'Bobr', 'Bobrze': 'Bobr',
+            'Wilk-Budowniczy': 'Wilk-Budowniczy', 'Wilka-Budowniczego': 'Wilk-Budowniczy', 'Wilkiem-Budowniczym': 'Wilk-Budowniczy', 'Wilku-Budowniczym': 'Wilk-Budowniczy',
             'Jeleń': 'Jeleń', 'Jelenia': 'Jeleń', 'Jeleniem': 'Jeleń', 'Jeleniowi': 'Jeleń',
             'Sylwester': 'Sylwester', 'Sylwestra': 'Sylwester', 'Sylwestrem': 'Sylwester', 'Sylwestrowi': 'Sylwester',
-            'Barbara': 'Barbara', 'Barbary': 'Barbara', 'Barbarą': 'Barbara', 'Barbarze': 'Barbara',
+            'Wiedźma BaraBara': 'Wiedźma BaraBara', 'Wiedźmy BaraBary': 'Wiedźma BaraBara', 'Wiedźmą BaraBarą': 'Wiedźma BaraBara', 'Wiedźmie BaraBarze': 'Wiedźma BaraBara',
             'Hiena': 'Hiena', 'Hieny': 'Hiena', 'Hienę': 'Hiena', 'Hieno': 'Hiena',
             'Puszczyk': 'Puszczyk', 'Puszczyka': 'Puszczyk', 'Puszczykiem': 'Puszczyk',
             'Sroka': 'Sroka', 'Sroki': 'Sroka', 'Srokę': 'Sroka', 'Sroko': 'Sroka',
@@ -107,6 +108,7 @@ class NarrativeConsistencyChecker:
             'Domek': 'Domek', 'Domka': 'Domek', 'Domkiem': 'Domek',
             'Sarnecki': 'Sarnecki', 'Sarneckiego': 'Sarnecki', 'Sarneckim': 'Sarnecki',
             'Borsuk': 'Borsuk', 'Borsuka': 'Borsuk', 'Borsukiem': 'Borsuk',
+            'Burek': 'Burek', 'Burka': 'Burek', 'Burkiem': 'Burek', 'Burkowi': 'Burek',
             'BaraBary': 'BaraBary',
         }
         
@@ -304,23 +306,24 @@ class NarrativeConsistencyChecker:
         # Używamy pełnych nazw postaci dla łatwiejszego dopasowania
         character_mapping = {
             'Wilk': ['wilk-samotnik.md', 'duch-wilka.md'],
-            'Wiedźma': ['wiedzma-adamowska.md', 'wiedzma-barabara.md'],
+            'Wiedźma': ['wiedzma-adamowska.md', 'wiedzma-barabara.md', 'wiedzma-barabara-rzeczywista.md'],
             'Sarenka': ['sarenka-z-polany.md'],
             'Julia': ['sarenka-z-polany.md'],  # Julia to Sarenka
-            'Bobr': ['bobr-z-duchem-wilka.md'],
+            'Wilk-Budowniczy': ['wilk-budowniczy-z-duchem-wilka.md'],
             'Jeleń': ['stary-jelen-sylwester.md'],
             'Sylwester': ['stary-jelen-sylwester.md'],
-            'Barbara': ['wiedzma-adamowska.md', 'wiedzma-barabara.md'],
-            'BaraBary': ['wiedzma-barabara.md'],
-            'Hiena': ['hiena-domkowa.md'],
+            'Wiedźma BaraBara': ['wiedzma-adamowska.md', 'wiedzma-barabara.md', 'wiedzma-barabara-rzeczywista.md'],
+            'BaraBary': ['wiedzma-barabara.md', 'wiedzma-barabara-rzeczywista.md'],
+            'Hiena': ['hiena-dziuplowa.md'],
             'Puszczyk': ['puszczyk-halager.md'],
             'Sroka': ['sroka-dorota.md'],
             'Dorota': ['sroka-dorota.md'],
             'Jaskółka': ['jaskolka-martynka.md'],
             'Martynka': ['jaskolka-martynka.md'],
-            'Domek': ['hiena-domkowa.md'],  # Domek to adwokat
+            'Domek': ['hiena-dziuplowa.md'],  # Domek to adwokat
             'Sarnecki': ['sarna-sarnecki.md'],
             'Borsuk': ['borsuk-bogdaszewski.md'],
+            'Burek': ['burek-straznik-przeklety.md'],
         }
         
         characters_path = self.base_path / 'polana' / 'bestiariusz' / 'postacie'

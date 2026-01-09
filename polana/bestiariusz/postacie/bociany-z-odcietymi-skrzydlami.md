@@ -1,11 +1,11 @@
 # Bociany z Odciętymi Skrzydłami
 
 **Typ:** Chór Powielaczy / Rodzina Bierna
-**Powiązania:** Wiedźma Barabara (matka), Papesmerf (ojciec), Wilk Samotnik (brat)
+**Powiązania:** Wiedźma BaraBara (matka), Papesmerf (ojciec), Wilk Samotnik (brat)
 
 ## Opis
 
-Bociany z Odciętymi Skrzydłami to dzieci Barbary i Sylwestra Adamskich — rodzeństwo Dariusza (Wilka). Ich symbolika jest przejmująca: bociany, które powinny wznosić się ponad konflikt, ale mają **odcięte skrzydła** — nie mogą wzlecieć, nie mogą uciec, nie mogą spojrzeć z dystansu. Są uwięzione w toksycznym systemie rodzinnym i zamiast kwestionować, **powtarzają**.
+Bociany z Odciętymi Skrzydłami to dzieci Wiedźmy BaraBary i Sylwestra Adamskich — rodzeństwo Dariusza (Wilka). Ich symbolika jest przejmująca: bociany, które powinny wznosić się ponad konflikt, ale mają **odcięte skrzydła** — nie mogą wzlecieć, nie mogą uciec, nie mogą spojrzeć z dystansu. Są uwięzione w toksycznym systemie rodzinnym i zamiast kwestionować, **powtarzają**.
 
 Ich rola w baśni to **Chór Powielaczy** — głosy bez własnej melodii, echo narracji matki. Nie są inicjatorami przemocy, ale ich **bierna akceptacja i aktywne powtarzanie** narracji Wiedźmy wzmacnia manipulację i dodatkowo izoluje Wilka.
 
@@ -14,7 +14,7 @@ Nie bronią ojca przed instrumentalizacją. Nie kwestionują narracji matki. Nie
 ## Symbolika
 
 **Bociany z odciętymi skrzydłami**
-Bociany symbolizują rodzinę, dom, powrót. Ale te bociany mają odcięte skrzydła — nie mogą odlecieć, nie mogą zobaczyć z dystansu, nie mogą wynieść się ponad konflikt. Są uwięzione.
+Bociany symbolizują rodzinę, dziupla, powrót. Ale te bociany mają odcięte skrzydła — nie mogą odlecieć, nie mogą zobaczyć z dystansu, nie mogą wynieść się ponad konflikt. Są uwięzione.
 
 **Chór Powielaczy**
 W tragedii greckiej chór komentuje akcję, ale nie interweniuje. Bociany są tym chórem — świadkowie, którzy widzą, ale nie działają. Ich głos jest echem, nie własną melodią.

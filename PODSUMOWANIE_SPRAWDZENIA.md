@@ -22,7 +22,7 @@ Na żądanie przeprowadzono automatyczne sprawdzenie spójności treści między
 
 2. **Brakujące daty z appendix** (7 dat):
    - 29.03.2021 - Prowokacja z Paralizatorem
-   - 04.04.2021 - Ucieczka i Zimny Dom
+   - 04.04.2021 - Ucieczka i Zimny Dziupla
    - 21.05.2021 - Odwrócony Triaż Priorytetów
    - 13.10.2021 - Zdrada (Wyrok Nakazowy)
    - 28.07.2021 - Ucieczka do Holandii

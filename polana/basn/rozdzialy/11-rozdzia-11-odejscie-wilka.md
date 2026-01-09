@@ -20,11 +20,11 @@ Nie dlatego, że zabrakło mu sił.
 Nie dlatego, że przegrał.
 Ale dlatego, że zrozumiał.
 
-Zrozumiał, że odzyskanie domu byłoby powrotem do więzienia — do murów, w których każdy oddech filtruje cudze spojrzenie, a każdy dzień jest polem bitwy. Zrozumiał, że mury, które są skażone cudzą kontrolą, nie nadają się już do życia.
+Zrozumiał, że odzyskanie Dziupli byłoby powrotem do więzienia — do murów, w których każdy oddech filtruje cudze spojrzenie, a każdy dzień jest polem bitwy. Zrozumiał, że mury, które są skażone cudzą kontrolą, nie nadają się już do życia.
 
 Przyjął wyrok nie jako karę, lecz jako opłatę za wolność.
 
-Stracił dom.
+Stracił Dziuplę.
 Stracił oszczędności.
 Stracił lata pracy.
 
@@ -36,11 +36,11 @@ przestrzeń.
 
 oddech.
 
-Jego ostatnie spojrzenie na dom było chłodne i pozbawione sentymentu.
-W oczach Wiedźmy Barabary dostrzegł pustkę — jakby sens jej istnienia zniknął w chwili, gdy zniknął przeciwnik.
+Jego ostatnie spojrzenie na Dziuplę było chłodne i pozbawione sentymentu.
+W oczach Wiedźmy BaraBary dostrzegł pustkę — jakby sens jej istnienia zniknął w chwili, gdy zniknął przeciwnik.
 Stary Jeleń stał obok jak cień zwierzęcia, które nie pamięta, kiedy było żywe.
 
-A Wilk po prostu odszedł.
+A Wilk po prostu odszedł. Nie była to ucieczka, lecz rozpuszczenie się w cieniu.
 
 Droga na Północ
 
@@ -64,12 +64,12 @@ I po raz pierwszy od lat spał spokojnie.
 
 Daleko od Polany Kłamstw.
 
-Łzy przy Kocidomku
+Łzy przy Kocidziupli
 
 Ale las pamięta każdy ból.
 I tego dnia coś zabolało bardziej niż utrata murów.
 
-Jaskółka Martynka — ośmioletnia dziewczynka, dziecko światła — płakała przy wejściu do Kocidomku.
+Jaskółka Martynka — ośmioletnia dziewczynka, dziecko światła — płakała przy wejściu do Kocidziupli.
 
 Nie krzyczała.
 Nie szlochała.
@@ -97,7 +97,7 @@ Zarośnięta Ścieżka
 
 Las zareagował jak mądry opiekun.
 
-Powoli, delikatnie, niepostrzeżenie zaczął zamykać ścieżkę, która prowadziła do Kocidomku.
+Powoli, delikatnie, niepostrzeżenie zaczął zamykać ścieżkę, która prowadziła do Kocidziupli.
 
 Najpierw mech — miękki, jakby chciał wygłuszyć każdy krok.
 

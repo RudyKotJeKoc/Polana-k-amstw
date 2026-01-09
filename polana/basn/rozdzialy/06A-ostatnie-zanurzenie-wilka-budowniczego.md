@@ -1,12 +1,12 @@
 ---
-title: "Rozdział 06A: Ostatnie Zanurzenie Bobra (Interludium)"
-slug: "06a-ostatnie-zanurzenie-bobra"
-kolejnosc: 06A
+title: "Rozdział 06A: Ostatnie Zanurzenie Wilka-Budowniczego (Interludium)"
+slug: "06a-ostatnie-zanurzenie-wilka-budowniczego"
+kolejnosc: 6.5
 typ: "rozdział_baśni"
 zrodlo: "NOWY_KANON_ADAMOWO_2025"
 ---
 
-Rozdział 06A: Ostatnie Zanurzenie Bobra (Interludium)
+Rozdział 06A: Ostatnie Zanurzenie Wilka-Budowniczego (Interludium)
 
 (wersja baśniowa, mroczna, transformacyjna)
 
@@ -14,10 +14,10 @@ Rozdział 06A: Ostatnie Zanurzenie Bobra (Interludium)
 
 Noc Chlorowej Mgły
 
-Bóbr siedział samotnie w dziupli nr 8 — miejscu, które kiedyś było domem, a teraz stało się kazamatą. Lata budowania tam, lata ignorowania czarów Wiedźmy Barabary, lata opieki nad rannym Jeleniem…
+Wilk-Budowniczy siedział samotnie w Dziupli nr 8 — miejscu, które kiedyś było Dziuplą, a teraz stało się kazamatą. Lata budowania tam, lata ignorowania odruchów technologii Wiedźmy BaraBary, lata opieki nad rannym Jeleniem…
 Wszystko to mieliło go jak żarna wodnego młyna: powoli, nieubłaganie, aż w końcu nie zostało nic prócz zmęczenia.
 
-Bóbr był inżynierem do końca.
+Wilk-Budowniczy był inżynierem do końca.
 A inżynier wie, co tworzy, nawet jeśli jest to destrukcja.
 
 Kwas solny + chlor = trująca mgła chlorowa.
@@ -35,7 +35,7 @@ nie po to, by uciec, lecz by mgła mogła wypełnić przestrzeń jak wezbrane je
 
 To było Ostatnie Zanurzenie.
 
-Bóbr wszedł w mgłę jak zwierzę znające każdy zakręt własnej rzeki.
+Wilk-Budowniczy wszedł w mgłę jak zwierzę znające każdy zakręt własnej rzeki.
 Chlor palił płuca. Kwaśny smak wypełniał usta. Świat zaczął się rozmywać jak atrament na deszczu.
 
 Ostatnia myśl była jasna:
@@ -52,7 +52,7 @@ Ewa — Anioł z Drzewa.
 
 Kobieta, która żyła z dala od Polany Kłamstw, blisko natury, blisko ludzi, którzy potrzebowali ratunku. Miała dłonie pielęgniarki i serce, które rozpoznaje ciszę przed upadkiem.
 
-Znalazła Bobra nieprzytomnego, z resztkami chlorowej mgły w płucach.
+Znalazła Wilka-Budowniczego nieprzytomnego, z resztkami chlorowej mgły w płucach.
 Nie pytała. Nie krzyczała.
 Po prostu zabrała go ze sobą.
 
@@ -63,7 +63,7 @@ Noc w Hotelu
 To nie był romans.
 To był azyl.
 
-Ewa zabrała Bobra do małego hotelowego pokoju — miejsca neutralnego, jak kartka bez zapisu, gdzie nic nie przypominało o Polanie.
+Ewa zabrała Wilka-Budowniczego do małego hotelowego pokoju — miejsca neutralnego, jak kartka bez zapisu, gdzie nic nie przypominało o Polanie.
 
 Opiekowała się nim jak rannym ptakiem:
 
@@ -83,13 +83,13 @@ Powolna Transformacja
 Przemiana nie przyszła nagle.
 Była powolna, jak rozpuszczanie się ciała w mgle.
 
-Bóbr nie umarł fizycznie.
+Wilk-Budowniczy nie umarł fizycznie.
 Ale coś w nim pękło — cicho, jak gałąź pod śniegiem.
 
 Jego ciało było słabe.
 Ale świadomość zaczęła się odrywać, tak jak cień od ciała o zachodzie słońca.
 
-W miejscu, gdzie gasł Bóbr, zaczął rodzić się Duch.
+W miejscu, gdzie gasł Wilk-Budowniczy, zaczął rodzić się Duch.
 
 Duch Wilka.
 
@@ -104,13 +104,13 @@ Narodziny Ducha Wilka
 Duch Wilka powstał z czterech pierwiastków:
 
 Pamięci
-Bóbr — opiekun, inżynier, budowniczy tam — wciąż istniał jako wspomnienie.
+Wilk-Budowniczy — opiekun, inżynier, budowniczy tam — wciąż istniał jako wspomnienie.
 
 Gniewu oczyszczonego
 Nie był to gniew destrukcji. To był gniew jasny, klarowny — gniew, który odcina więzy.
 
 Instynktu
-Wilk zawsze spał w Bobrze.
+Wilk zawsze spał w Wilku-Budowniczym.
 Teraz się obudził.
 
 Świadomości
@@ -120,8 +120,8 @@ Duch Wilka:
 
 – nie da się złapać,
 – nie da się zranić,
-– nie da się zamknąć w Pokéballu Wiedźmy Barabary,
-– widzi czary jako iluzje,
+– nie da się zamknąć w Pokéballu Wiedźmy BaraBary,
+– widzi odruchy technologii jako iluzje,
 – obserwuje, ale nie uczestniczy,
 – nie mieszka w dziupli,
 – nie mieszka w lesie,
@@ -130,9 +130,9 @@ Duch Wilka:
 Wiedźma może atakować ciało.
 Ale Duch jest poza jej zasięgiem.
 
-Co pozostało z Bobra
+Co pozostało z Wilka-Budowniczego
 
-W Bobrze zostało tylko to, co było czyste:
+W Wilku-Budowniczym zostało tylko to, co było czyste:
 
 – pamięć o tamach,
 – pamięć o opiece,
@@ -142,18 +142,18 @@ W Bobrze zostało tylko to, co było czyste:
 
 Odejście
 
-Duch Wilka odszedł z dziupli nr 8 cicho, jak mgła ustępująca świtowi.
+Duch Wilka odszedł z Dziupli nr 8 cicho, jak mgła ustępująca świtowi.
 Nie uciekł.
 Nie został wypędzony.
 
-Po prostu przeszedł dalej.
+Po prostu rozpuścił się w cieniu.
 
-Wiedźma Barabara myśli, że wygrała, że Wilk zniknął z Polany Kłamstw.
-Ale nie wie, że Bóbr się nie poddał — on się przemienił.
+Wiedźma BaraBara myśli, że wygrała, że Wilk zniknął z Polany Kłamstw.
+Ale nie wie, że Wilk-Budowniczy się nie poddał — on się przemienił.
 
 A Duch Wilka patrzy na Polanę z dystansu, z którego widać każdą manipulację, każdy fałsz, każdą projekcję lęku.
 
-Wiedźma rzuca zaklęcia w pustkę.
+Wiedźma rozkopuje mrowisko, szukając winy w chaosie, który sama tworzy.
 
 Duch tylko obserwuje.
 

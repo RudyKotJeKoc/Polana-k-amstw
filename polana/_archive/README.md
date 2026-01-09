@@ -19,17 +19,17 @@ Pliki w tym katalogu mogą zawierać:
 ### Stare nazwy postaci:
 
 - **"Wiedźma Adamowska"** – stara nazwa głównej antagonistki
-  → Aktualna nazwa: **"Wiedźma Barabara"** (osoba rzeczywista) lub **"Wiedźma BaraBary"** (archetyp baśniowy)
+  → Aktualna nazwa: **"Wiedźma BaraBara"** (osoba rzeczywista) lub **"Wiedźma BaraBary"** (archetyp baśniowy)
 
 - **"wiedzma-adamowska"** – stary slug
-  → Aktualny slug: **"barbara-adamska"** (dla osoby rzeczywistej) lub **"wiedzma-barabara"** (dla archetypu)
+  → Aktualny slug: **"wiedzma-barabara-rzeczywista"** (dla osoby rzeczywistej) lub **"wiedzma-barabara"** (dla archetypu)
 
 ### Dlaczego zmieniono nazewnictwo?
 
 W trakcie rozwoju projektu zdecydowano o oddzieleniu:
 
-1. **Rzeczywistej osoby** – Barbara Adamska (faktyczne imię i nazwisko)
-2. **Postaci baśniowej** – Wiedźma Barabara / BaraBary (symboliczny archetyp)
+1. **Rzeczywistej osoby** – Wiedźma BaraBara (faktyczne imię i nazwisko)
+2. **Postaci baśniowej** – Wiedźma BaraBara / BaraBary (symboliczny archetyp)
 
 Stara nazwa "Wiedźma Adamowska" była używana zamiennie dla obu kontekstów, co prowadziło do niejednoznaczności.
 
@@ -41,11 +41,11 @@ Stara nazwa "Wiedźma Adamowska" była używana zamiennie dla obu kontekstów, c
 
 | Kontekst | Nazwa | Slug | Plik |
 |----------|-------|------|------|
-| Osoba rzeczywista | Barbara Adamska<br>"Wiedźma Barabara" | `barbara-adamska` | `polana/bestiariusz/postacie/barbara-adamska.md` |
+| Osoba rzeczywista | Wiedźma BaraBara<br>"Wiedźma BaraBara" | `wiedzma-barabara-rzeczywista` | `polana/bestiariusz/postacie/wiedzma-barabara-rzeczywista.md` |
 | Archetyp baśniowy | Wiedźma BaraBary | `wiedzma-barabara` | `polana/bestiariusz/postacie/wiedzma-barabara.md` |
 
 **Rozróżnienie:**
-- **Wiedźma Barabara** = realna, historyczna Barbara Adamska
+- **Wiedźma BaraBara** = realna, historyczna Wiedźma BaraBara
 - **Wiedźma BaraBary** = mityczny, symboliczny archetyp (echo imienia, "Bara-Bary")
 
 ---
@@ -72,7 +72,7 @@ Aby sprawdzić, czy w aktywnej części projektu nie pojawiły się stare nazwy,
 
 Ten skrypt:
 - ✓ Sprawdza obecność "Wiedźmy Adamowskiej" w `polana/` (z wyłączeniem `_archive/`)
-- ✓ Weryfikuje spójność zapisu "Wiedźma Barabara" i "Wiedźma BaraBary"
+- ✓ Weryfikuje spójność zapisu "Wiedźma BaraBara" i "Wiedźma BaraBary"
 - ✓ Wykrywa potencjalne literówki
 
 ---

@@ -1,16 +1,16 @@
 # Obsesyjna kontrola
 
 **Typ:** Motyw psychologiczny / narracyjny
-**Powiązania:** Wiedźma Barabara (Barbara), Wilk Samotnik (Dariusz), Stary Jeleń (Sylwester), Sarenka z Polany (Julia), Pokéball Wiedźmy (pełnomocnictwo), Kalendarz Krzywd, Niebieska Karta, Manipulacja systemem prawnym
+**Powiązania:** Wiedźma BaraBara, Wilk Samotnik (Dariusz), Stary Jeleń (Sylwester), Sarenka z Polany (Julia), Pokéball Wiedźmy (pełnomocnictwo), Kalendarz Krzywd, Niebieska Karta, Manipulacja systemem prawnym
 
 **Opis:**
-Obsesyjna kontrola to centralny motyw Polany Kłamstw: destrukcyjna potrzeba dominacji i kontroli nad życiem innych. Wiedźma (Barbara) nie może znieść autonomii syna, wolności Sylwestra, obecności Sarenki. Każda próba niezależności jest postrzegana jako atak. Każda granica jest prowokacją. Każda odmowa podporządkowania jest wojną.
+Obsesyjna kontrola to centralny motyw Polany Kłamstw: destrukcyjna potrzeba dominacji i kontroli nad życiem innych. Wiedźma BaraBara nie może znieść autonomii syna, wolności Sylwestra, obecności Sarenki. Każda próba niezależności jest postrzegana jako atak. Każda granica jest prowokacją. Każda odmowa podporządkowania jest wojną.
 
 Obsesyjna kontrola nie jest miłością — jest więzieniem. Nie jest troską — jest dominacją. Nie jest ochroną — jest niszczeniem. A gdy kontrola jest tracona — Wiedźma staje się bombą zegarową.
 
 ## Geneza motywu
 
-Obsesyjna kontrola rodzi się z lęku przed utratą. Wiedźma (Barbara) nie może znieść myśli, że jej syn (Dariusz/Wilk) ma własne życie, własne decyzje, własne gniazdo. Każda próba autonomii jest postrzegana jako odrzucenie. Każda granica jest traktowana jako zdrada.
+Obsesyjna kontrola rodzi się z lęku przed utratą. Wiedźma BaraBara nie może znieść myśli, że jej syn (Dariusz/Wilk) ma własne życie, własne decyzje, własne gniazdo. Każda próba autonomii jest postrzegana jako odrzucenie. Każda granica jest traktowana jako zdrada.
 
 **Kontrola nad Wilkiem (Dariuszem):**
 Przez lata Wiedźma próbuje kontrolować syna. Prowokacje, nocne wtargnięcia (10.02.2021, 2:30: "Franca cholerna!" — atak na Sarenkę), werbalne ataki, inwigilacja. Gdy Wilk stawia granice ("Wynoś się! To MOJA nora!"), Wiedźma zapisuje to jako "agresję" w Kalendarzu Krzywd. Obrona autonomii = atak w oczach kontrolera.
@@ -56,7 +56,7 @@ Obsesyjna kontrola przenika całą historię Polany Kłamstw od początku do ko�
 Przez lata Wiedźma kontroluje Wilka (Dariusza) i Sylwestra w sposób mniej jawny. Manipulacja emocjonalna, poczucie winy, dominacja w codziennych decyzjach. Kontrola jest ukryta, ale obecna.
 
 **2020-2021 — Eskalacja kontroli:**
-Spór majątkowy o Dom nr 8 staje się pretekstem do eskalacji. Wiedźma nie może znieść, że Wilk rości sobie prawa do części domu. To jest próba autonomii — więc to jest wojna.
+Spór majątkowy o Dziupla nr 8 staje się pretekstem do eskalacji. Wiedźma nie może znieść, że Wilk rości sobie prawa do części dziupli. To jest próba autonomii — więc to jest wojna.
 
 **Luty 2021 — Pojawienie się Sarenki jako zagrożenie:**
 Sarenka (Julia) pojawia się na Polanie Kłamstw. Jej obecność oznacza, że Wilk ma kogoś poza Wiedźmą. To jest nie do zniesienia. Nocne wtargnięcie (10.02.2021, 2:30), werbalne ataki ("Franca cholerna!"), prowokacje — to wszystko jest próbą odzyskania kontroli.
@@ -74,7 +74,7 @@ Diamentowa Sprzeczność. 3.08: Sylwester mówi prawdę ("Dariusz mnie nie obra�
 Wyrok karny przeciw Wilkowi. Wiedźma używa systemu prawnego jako narzędzia kontroli. Sąd Papieru wykonuje wolę Wiedźmy.
 
 **29.08.2025 — Kontrola przez wyrok cywilny:**
-Wyrok cywilny: Wilk musi opuścić dom. Kontrola przez przymus państwa. Wiedźma wygrywa kontrolę — ale tylko na papierze.
+Wyrok cywilny: Wilk musi opuścić dziupla. Kontrola przez przymus państwa. Wiedźma wygrywa kontrolę — ale tylko na papierze.
 
 **Wrzesień 2025 — Utrata kontroli:**
 Wilk odchodzi. Wiedźma traci obiekt kontroli. Obsesja napotyka pustkę. Co się stanie? Bomba zegarowa czeka.

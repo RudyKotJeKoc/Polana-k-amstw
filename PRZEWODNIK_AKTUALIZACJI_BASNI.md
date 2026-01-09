@@ -5,7 +5,7 @@
 Raport spójności znalazł **7 dat z appendix**, które nie występują jawnie w rozdziałach baśni:
 
 1. **29.03.2021** - Prowokacja z Paralizatorem
-2. **04.04.2021** - Ucieczka i Zimny Dom  
+2. **04.04.2021** - Ucieczka i Zimny Dziupla  
 3. **21.05.2021** - Odwrócony Triaż Priorytetów
 4. **13.10.2021** - Zdrada (Wyrok Nakazowy)
 5. **28.07.2021** - Ucieczka do Holandii
@@ -24,7 +24,7 @@ Nie trzeba zmieniać baśni w kronikę. Wystarczy dodać subtelne odniesienia do
 **Lepiej:** "29 marca Wiedźma przygotowała swoją prowokację z paralizatorem"
 
 **Zamiast:** "Sarenka uciekła wiosną"  
-**Lepiej:** "4 kwietnia, kiedy dom był zimny jak lód, Sarenka uciekła"
+**Lepiej:** "4 kwietnia, kiedy dziupla był zimny jak lód, Sarenka uciekła"
 
 **Zamiast:** "W maju było jeszcze gorzej"  
 **Lepiej:** "21 maja, gdy Jeleń źle się poczuł, Wiedźma zamiast wezwać pogotowie..."
@@ -36,7 +36,7 @@ Poniżej sugerowane miejsca, gdzie można dodać brakujące daty:
 | Data | Wydarzenie | Sugerowany rozdział | Jak dodać |
 |------|-----------|---------------------|-----------|
 | 29.03.2021 | Prowokacja z Paralizatorem | Rozdział 6 | Dodać dokładną datę do tytułu lub pierwszego akapitu |
-| 04.04.2021 | Ucieczka i Zimny Dom | Rozdział 2 lub nowy podrozdział | Wspomnieć "4 kwietnia" przy opisie ucieczki Julii |
+| 04.04.2021 | Ucieczka i Zimny Dziupla | Rozdział 2 lub nowy podrozdział | Wspomnieć "4 kwietnia" przy opisie ucieczki Julii |
 | 21.05.2021 | Odwrócony Triaż Priorytetów | Rozdział 2 | Dodać "21 maja" przy scenie z chorym Jeleniem |
 | 13.10.2021 | Zdrada (Wyrok Nakazowy) | Rozdział 8 | Wspomnieć "13 października" w kontekście wyroku |
 | 28.07.2021 | Ucieczka do Holandii | Rozdział 11 | Dodać "28 lipca" przy opisie odejścia Wilka |
@@ -59,7 +59,7 @@ Najpierw zdecyduj, które daty są **naprawdę kluczowe** dla narracji. Nie wszy
 - 29.03.2021 (Prowokacja z Paralizatorem)
 
 **Priorytet niski:**
-- 04.04.2021 (Ucieczka i Zimny Dom)
+- 04.04.2021 (Ucieczka i Zimny Dziupla)
 - 29.04.2022 (sprawa sądowa)
 - 13.07.2025 (przyszłość)
 
@@ -67,12 +67,12 @@ Najpierw zdecyduj, które daty są **naprawdę kluczowe** dla narracji. Nie wszy
 
 #### Przykład 1: Rozdział 8 (Zdrada)
 
-**Plik:** `polana/basn/rozdzialy/08-rozdzia-8-hiena-domkowa-i-zdrada-na-sadowym-korytarzu.md`
+**Plik:** `polana/basn/rozdzialy/08-rozdzia-8-hiena-dziuplowa-i-zdrada-na-sadowym-korytarzu.md`
 
 Znajdź fragment mówiący o wyroku i dodaj datę:
 
 ```markdown
-Hiena Domkowa (adwokat Domek) poprowadziła Wilka ścieżką, która miała być 
+Hiena Dziuplowa (adwokat Domek) poprowadziła Wilka ścieżką, która miała być 
 drogą łatwą, ale okazała się zdradą. **13 października 2021 roku**, na korytarzu 
 sądowym, zmusiła go do przyjęcia wyroku nakazowego.
 ```
@@ -115,8 +115,8 @@ Sprawdź nowy raport i zobacz, ile dat zostało dopasowanych.
 Przed wprowadzeniem zmian, zrób kopię ważnych rozdziałów:
 
 ```bash
-cp polana/basn/rozdzialy/08-rozdzia-8-hiena-domkowa-i-zdrada-na-sadowym-korytarzu.md \
-   polana/basn/rozdzialy/08-rozdzia-8-hiena-domkowa-i-zdrada-na-sadowym-korytarzu.md.backup
+cp polana/basn/rozdzialy/08-rozdzia-8-hiena-dziuplowa-i-zdrada-na-sadowym-korytarzu.md \
+   polana/basn/rozdzialy/08-rozdzia-8-hiena-dziuplowa-i-zdrada-na-sadowym-korytarzu.md.backup
 ```
 
 ## 📝 Szablony do wykorzystania

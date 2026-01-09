@@ -51,7 +51,7 @@ Skrypt generuje:
 ## Znane uwagi
 
 ### Rozdział 06A (kolejność 6.5)
-Jest to rozdział-interludium "Ostatnie Zanurzenie Bobra", celowo umieszczony między rozdziałem 6 a 7. Numeracja 6.5 jest zamierzona.
+Jest to rozdział-interludium "Ostatnie Zanurzenie Wilka-Budowniczego", celowo umieszczony między rozdziałem 6 a 7. Numeracja 6.5 jest zamierzona.
 
 ### Brakujące daty w rozdziałach
 Niektóre daty z appendix mogą nie występować dosłownie w rozdziałach, ponieważ:

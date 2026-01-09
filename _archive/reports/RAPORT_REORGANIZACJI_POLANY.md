@@ -17,7 +17,7 @@
 ### Kluczowe liczby
 - **72 pliki .md** w całym projekcie
 - **Główna baśń:** 3567 linii (kompletna ✓)
-- **Postacie z pełnymi opisami:** 1/13 (tylko Bóbr)
+- **Postacie z pełnymi opisami:** 1/13 (tylko Wilk-Budowniczy)
 - **Artefakty:** 5/17 (29% kompletności)
 - **Lokacje:** 4/7 (57% kompletności)
 - **Duplikaty zidentyfikowane:** 7 elementów
@@ -46,7 +46,7 @@ Polana-k-amstw/
 │   ├── 📁 basn/rozdzialy/ [12 rozdziałów - YAML frontmatter]
 │   ├── 📁 bestiariusz/
 │   │   ├── 📁 postacie/ [11 plików]
-│   │   │   ├── ✅ bobr-z-duchem-wilka.md [PEŁNY - 338 linii]
+│   │   │   ├── ✅ wilk-budowniczy-z-duchem-wilka.md [PEŁNY - 338 linii]
 │   │   │   └── ⚠️ 10 plików TEMPLATE (tylko YAML + "do uzupełnienia")
 │   │   ├── 📁 lokacje/ [4 pliki] - NIEKOMPLETNE (brakuje 3)
 │   │   ├── 📁 artefakty/ [5 plików] - NIEKOMPLETNE (brakuje 12)
@@ -99,13 +99,13 @@ Polana-k-amstw/
 | **Wilk Samotnik** | ✅ Pełny opis | ⚠️ TEMPLATE | DO WYPEŁNIENIA | **WYSOKI** |
 | **Papesmerf** | ✅ Pełny opis | stary-jelen-sylwester.md ⚠️ TEMPLATE | DO WYPEŁNIENIA | **WYSOKI** |
 | **Sarenka z Polany** | ✅ Pełny opis | ⚠️ TEMPLATE | DO WYPEŁNIENIA | **WYSOKI** |
-| **Hiena Domkowa** | ✅ Pełny opis | ⚠️ TEMPLATE | DO WYPEŁNIENIA | **ŚREDNI** |
+| **Hiena Dziuplowa** | ✅ Pełny opis | ⚠️ TEMPLATE | DO WYPEŁNIENIA | **ŚREDNI** |
 | **Sarna Sarnecki** | ✅ Pełny opis | ⚠️ TEMPLATE | DO WYPEŁNIENIA | **ŚREDNI** |
 | **Sroka Dorota** | ✅ Pełny opis | ⚠️ TEMPLATE | DO WYPEŁNIENIA | **ŚREDNI** |
 | **Bociany z Odciętymi Skrzydłami** | ✅ Pełny opis | ⚠️ TEMPLATE | DO WYPEŁNIENIA | **ŚREDNI** |
 | **Borsuk Bogdaszewski** | ✅ Pełny opis | ⚠️ TEMPLATE | DO WYPEŁNIENIA | **NISKI** |
 | **Puszczyk Halager** | ✅ Pełny opis | ⚠️ TEMPLATE | DO WYPEŁNIENIA | **ŚREDNI** |
-| **Bóbr z Duchem Wilka** | ✅ Pełny opis | ✅ PEŁNY (338 linii) | **KOMPLETNY** | - |
+| **Wilk-Budowniczy z Duchem Wilka** | ✅ Pełny opis | ✅ PEŁNY (338 linii) | **KOMPLETNY** | - |
 | **Ślimoręki Szlemierz** | ✅ Pełny opis | ❌ BRAK PLIKU | DO UTWORZENIA | **NISKI** |
 | **Smerfy z Posterunku** | ✅ Pełny opis | ❌ BRAK PLIKU | DO UTWORZENIA | **NISKI** |
 
@@ -123,8 +123,8 @@ Polana-k-amstw/
 | Kalendarz Wiedźmy | ✅ | ✅ kalendarz-wiedzmy.md | **OK** |
 | Czerwona Czapka | ✅ | ✅ czerwona-czapka.md | **OK** |
 | Zaspawana Toaleta | ✅ | ✅ zaspawana-prawda.md | **OK** |
-| Dom Adamowo 8 | ✅ | ✅ dom-numer-8.md | **OK** |
-| Tekturka Domkowa | ✅ (#12) | ❌ BRAK | **DO UTWORZENIA** |
+| Dziupla Adamowo 8 | ✅ | ✅ dziupla-numer-8.md | **OK** |
+| Tekturka Dziuplowa | ✅ (#12) | ❌ BRAK | **DO UTWORZENIA** |
 | Szczerbate Schody | ✅ (#13) | ❌ BRAK | **DO UTWORZENIA** |
 | Altana/Piwnica/Fotowoltaika | ✅ (#14) | ❌ BRAK | **DO UTWORZENIA** |
 | Niebieska Karta | ✅ (#15) | ❌ BRAK | **DO UTWORZENIA** |
@@ -138,7 +138,7 @@ Polana-k-amstw/
 | Lokacja | APPENDIX B | Plik w /polana/lokacje/ | Status |
 |---------|------------|-------------------------|--------|
 | Polana Kłamstw | ✅ (#1) | ✅ polana-adamowo.md | **OK** |
-| Dziupla nr 8 | ✅ (#2) | ✅ dom-numer-8-lokacja.md | **OK** |
+| Dziupla nr 8 | ✅ (#2) | ✅ dziupla-numer-8-lokacja.md | **OK** |
 | Warsztat Wilka | ✅ (#3) | ✅ warsztat.md | **OK** |
 | Kuchnia Wiedźmy | ❌ (w Dziupli) | ✅ kuchnia-wiedzmy.md | **OK** |
 | Sala Sądów Puszczyka | ✅ (#4) | ❌ BRAK | **DO UTWORZENIA** |
@@ -211,7 +211,7 @@ mv KONIEC_RAPORTU_FINALNEGO.md _archive/duplicates/
 
 | Plik docelowy | Źródło treści | Format docelowy |
 |---------------|---------------|-----------------|
-| wiedzma-adamowska.md | APPENDIX_A, sekcja 1 (linie 8-47) | YAML + pełny opis w stylu Bobra |
+| wiedzma-adamowska.md | APPENDIX_A, sekcja 1 (linie 8-47) | YAML + pełny opis w stylu Wilka-Budowniczego |
 | wilk-samotnik.md | APPENDIX_A, sekcja 2 (linie 49-87) | YAML + pełny opis |
 | stary-jelen-sylwester.md | APPENDIX_A, sekcja 3 (Papesmerf) | YAML + pełny opis |
 | sarenka-z-polany.md | APPENDIX_A, sekcja 4 | YAML + pełny opis |
@@ -220,7 +220,7 @@ mv KONIEC_RAPORTU_FINALNEGO.md _archive/duplicates/
 
 | Plik docelowy | Źródło treści |
 |---------------|---------------|
-| hiena-domkowa.md | APPENDIX_A, sekcja Hiena Domkowa |
+| hiena-dziuplowa.md | APPENDIX_A, sekcja Hiena Dziuplowa |
 | sarna-sarnecki.md | APPENDIX_A, sekcja Sarna Sarnecki |
 | sroka-dorota.md | APPENDIX_A, sekcja Sroka Doroty |
 | bociany-z-odcietymi-skrzydlami.md | APPENDIX_A, sekcja Bociany |
@@ -234,7 +234,7 @@ mv KONIEC_RAPORTU_FINALNEGO.md _archive/duplicates/
 | slimoreki-szlemierz.md | APPENDIX_A, sekcja Szlemierz | **UTWÓRZ NOWY** + wypełnij |
 | smerfy-z-posterunku.md | APPENDIX_A, sekcja Smerfy | **UTWÓRZ NOWY** + wypełnij |
 
-**Wzorzec struktury** (jak w bobr-z-duchem-wilka.md):
+**Wzorzec struktury** (jak w wilk-budowniczy-z-duchem-wilka.md):
 ```yaml
 ---
 title: "[Nazwa postaci]"
@@ -295,7 +295,7 @@ zrodla:
 
 | Plik | Źródło | Sekcja APPENDIX B |
 |------|--------|-------------------|
-| tekturka-domkowa.md | APPENDIX_B, §12 | "Tekturka Domkowa" |
+| tekturka-dziuplowa.md | APPENDIX_B, §12 | "Tekturka Dziuplowa" |
 | szczerbate-schody.md | APPENDIX_B, §13 | "Szczerbate Schody Ojca" |
 | inwestycje-wilka.md | APPENDIX_B, §14 | "Altana, Piwnica, Fotowoltaika" |
 | niebieska-karta.md | APPENDIX_B, §15 | "Niebieska Karta (NK)" |
@@ -496,12 +496,12 @@ scena: "[lokacja-lub-moment]"
 polana/bestiariusz/
 │
 ├── postacie/ [13 plików - WSZYSTKIE WYPEŁNIONE]
-│   ├── ✅ bobr-z-duchem-wilka.md [PEŁNY]
+│   ├── ✅ wilk-budowniczy-z-duchem-wilka.md [PEŁNY]
 │   ├── ✅ wiedzma-adamowska.md [WYPEŁNIONY]
 │   ├── ✅ wilk-samotnik.md [WYPEŁNIONY]
 │   ├── ✅ stary-jelen-sylwester.md [WYPEŁNIONY]
 │   ├── ✅ sarenka-z-polany.md [WYPEŁNIONY]
-│   ├── ✅ hiena-domkowa.md [WYPEŁNIONY]
+│   ├── ✅ hiena-dziuplowa.md [WYPEŁNIONY]
 │   ├── ✅ sarna-sarnecki.md [WYPEŁNIONY]
 │   ├── ✅ sroka-dorota.md [WYPEŁNIONY]
 │   ├── ✅ bociany-z-odcietymi-skrzydlami.md [WYPEŁNIONY]
@@ -512,7 +512,7 @@ polana/bestiariusz/
 │
 ├── lokacje/ [8 plików - KOMPLETNE]
 │   ├── ✅ polana-adamowo.md
-│   ├── ✅ dom-numer-8-lokacja.md
+│   ├── ✅ dziupla-numer-8-lokacja.md
 │   ├── ✅ warsztat.md
 │   ├── ✅ kuchnia-wiedzmy.md
 │   ├── ✅ sala-sadow-puszczyka.md [NOWY]
@@ -525,8 +525,8 @@ polana/bestiariusz/
 │   ├── ✅ kalendarz-wiedzmy.md
 │   ├── ✅ czerwona-czapka.md
 │   ├── ✅ zaspawana-prawda.md
-│   ├── ✅ dom-numer-8.md
-│   ├── ✅ tekturka-domkowa.md [NOWY]
+│   ├── ✅ dziupla-numer-8.md
+│   ├── ✅ tekturka-dziuplowa.md [NOWY]
 │   ├── ✅ szczerbate-schody.md [NOWY]
 │   ├── ✅ inwestycje-wilka.md [NOWY]
 │   ├── ✅ niebieska-karta.md [NOWY]
@@ -572,7 +572,7 @@ polana/bestiariusz/
 2. **Otwórz APPENDIX_A i APPENDIX_B** jako źródła
 3. **Edytuj pliki w /polana/** wg wzorców
 4. **Zachowaj YAML frontmatter** (ważne dla struktury)
-5. **Dostosuj styl** do formatu jak w `bobr-z-duchem-wilka.md`
+5. **Dostosuj styl** do formatu jak w `wilk-budowniczy-z-duchem-wilka.md`
 
 ### Dla Claude Code (automatyczne wykonanie)
 
@@ -655,7 +655,7 @@ done
 - **APPENDIX_A_GALERIA_POSTACI.md** - źródło opisów postaci (591 linii)
 - **APPENDIX_B_ATLAS_POLANY_KLAMSTW.md** - źródło lokacji i artefaktów (518 linii)
 - **APPENDIX_C_GLOSSARIUM.md** - źródło terminologii (520 linii)
-- **bobr-z-duchem-wilka.md** - wzorzec formatu pełnego opisu postaci (338 linii)
+- **wilk-budowniczy-z-duchem-wilka.md** - wzorzec formatu pełnego opisu postaci (338 linii)
 - **UWAGA_DUPLIKATY.md** - poprzednia analiza duplikatów (18.11.2025)
 
 ### Wzorce i standardy

@@ -46,8 +46,8 @@ Puszczyk Halager nie jest antagonistą — jest **narzędziem**. Systemem, któr
 
 3. **Akceptacja Pełnomocnictwa bez podejrzeń**
    - Pełnomocnictwo z 19.07.2021 (2 dni po Niebieskiej Karcie!)
-   - Barbara przejmuje głos Sylwestra
-   - Sąd bezkrytycznie przyjmuje jego podpis (sterowany przez Barbarę)
+   - Wiedźma BaraBara przejmuje głos Sylwestra
+   - Sąd bezkrytycznie przyjmuje jego podpis (sterowany przez Wiedźmę BaraBarę)
 
 4. **Wyrok Karny jako "Koronny Dowód"**
    - Wyrok II K 568/21 (wynikający ze zdrady adwokata Hieny)
@@ -56,7 +56,7 @@ Puszczyk Halager nie jest antagonistą — jest **narzędziem**. Systemem, któr
 
 5. **Wyrok: 29.08.2025**
    - Cofnięcie darowizny z powodu "rażącej niewdzięczności"
-   - Dom wraca do Barbary i Sylwestra
+   - Dziupla wraca do Wiedźmy BaraBary i Sylwestra
    - Puszczyk wypełnił procedurę, ale nie zobaczył prawdy
 
 **W kronice:**

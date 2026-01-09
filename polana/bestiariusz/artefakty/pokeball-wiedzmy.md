@@ -4,9 +4,9 @@ slug: "pokeball-wiedzmy"
 kategoria: "artefakt"
 typ: "Narzędzie Kontroli"
 powiazane_postacie:
-  - barbara-adamska
+  - wiedzma-barabara-rzeczywista
   - stary-jelen-sylwester
-  - bobr-z-duchem-wilka
+  - wilk-budowniczy-z-duchem-wilka
   - duch-wilka
 powiazane_motywy:
   - obsesyjna_kontrola
@@ -34,7 +34,7 @@ zrodla:
 **Forma fizyczna:** Pełnomocnictwo z 19.07.2021 (+ 26 zł za notariusza)
 
 **Czym jest:**
-Humorystyczna i jednocześnie tragiczna metafora przejęcia kontroli nad drugim człowiekiem. W świecie Pokémonów trener rzuca Pokéballa, by schwytać stworka i przejąć nad nim kontrolę. Wiedźma Barabara rzuciła swój Pokéball – i nie był to przedmiot z gry, lecz **pełnomocnictwo notarialne**.
+Humorystyczna i jednocześnie tragiczna metafora przejęcia kontroli nad drugim człowiekiem. W świecie Pokémonów trener rzuca Pokéballa, by schwytać stworka i przejąć nad nim kontrolę. Wiedźma BaraBara rzuciła swój Pokéball – i nie był to przedmiot z gry, lecz **pełnomocnictwo notarialne**.
 
 ---
 
@@ -51,7 +51,7 @@ Humorystyczna i jednocześnie tragiczna metafora przejęcia kontroli nad drugim 
 **Kontekst:**
 - Sylwester (Stary Jeleń) po wylewie mózgu (~2019)
 - I grupa inwalidzka, deficyty poznawcze
-- Fizycznie i psychicznie zależny od Barbary
+- Fizycznie i psychicznie zależny od Wiedźmy BaraBary
 - Niebieska Karta wszczęta przeciwko Dariuszowi (synowi) – pretekst do eskalacji
 - Dwa dni później: pełnomocnictwo
 
@@ -85,11 +85,11 @@ Humorystyczna i jednocześnie tragiczna metafora przejęcia kontroli nad drugim 
 
 **W rzeczywistości Polany Kłamstw:**
 
-1. **Wiedźma (Barbara)** = Trenerka
+1. **Wiedźma BaraBara** = Trenerka
 2. **Pokéball** = Pełnomocnictwo notarialne z 19.07.2021
 3. **Pokémon** = Sylwester (Stary Jeleń / Papa Smurf)
 4. **Schwytanie** = Przejęcie prawne jego głosu i decyzji
-5. **Kontrola** = Barbara mówi za niego, podpisuje za niego, decyduje za niego
+5. **Kontrola** = Wiedźma BaraBara mówi za niego, podpisuje za niego, decyduje za niego
 
 **Efekt:**
 > *"Jej zeznania są moimi zeznaniami."*
@@ -105,7 +105,7 @@ Humorystyczna i jednocześnie tragiczna metafora przejęcia kontroli nad drugim 
 
 **Stan przed "złapaniem":**
 - Wylew mózgu, I grupa inwalidzka
-- Deficyty poznawcze, zależny od Barbary
+- Deficyty poznawcze, zależny od Wiedźmy BaraBary
 - Ale wciąż miał własną wolę (zeznanie 3.08: "Dariusz mnie nie obraża")
 
 **Rzut Pokéballa:**
@@ -115,24 +115,24 @@ Humorystyczna i jednocześnie tragiczna metafora przejęcia kontroli nad drugim 
 
 **Efekt "złapania":**
 - Sylwester staje się Papa Smurfem – małym, niegroźnym, kontrolowanym
-- Barbara mówi jego głosem
-- Barbara podpisuje jego imieniem
-- Barbara decyduje za niego
+- Wiedźma BaraBara mówi jego głosem
+- Wiedźma BaraBara podpisuje jego imieniem
+- Wiedźma BaraBara decyduje za niego
 
 **Dowód skuteczności:**
 - **3.08.2021:** Sylwester zeznaje na policji: *"Nie. Dariusz mnie nie obraża."*
-- **6.08.2021:** List odwołujący darowiznę (podpisany przez Sylwestra, pisany przez Barbarę): *"Mój syn kieruje wyzwiska wobec mnie."*
+- **6.08.2021:** List odwołujący darowiznę (podpisany przez Sylwestra, pisany przez Wiedźmę BaraBarę): *"Mój syn kieruje wyzwiska wobec mnie."*
 - **Tylko 3 dni różnicy** – oczywista manipulacja
 
 **Status:** ✅ ZŁAPANY – Pokéball skuteczny
 
 ---
 
-### Cel 2: Bóbr (Dariusz) – NIETRAFIONY ✗
+### Cel 2: Wilk-Budowniczy (Dariusz) – NIETRAFIONY ✗
 
 **Stan przed próbą "złapania":**
-- Bóbr (Dariusz) – inżynier, świadomy, odporny
-- Widzi czary Wiedźmy jako projekcje psychiczne
+- Wilk-Budowniczy (Dariusz) – inżynier, świadomy, odporny
+- Widzi odruchy technologii Wiedźmy jako projekcje psychiczne
 - Ignoruje jej narracje – rozumie, że to jej walka z cieniem
 - Ma dystans emocjonalny
 
@@ -142,13 +142,13 @@ Humorystyczna i jednocześnie tragiczna metafora przejęcia kontroli nad drugim 
 - Inscenizacje (paralizator, nocne wtargnięcia)
 
 **Efekt:**
-- **NIE udało się** – Bóbr miał zbyt silną świadomość
-- Widział jej czary jako projekcje, nie rzeczywistość
+- **NIE udało się** – Wilk-Budowniczy miał zbyt silną świadomość
+- Widział jej odruchy technologii jako projekcje, nie rzeczywistość
 - Ignorował jej narracje – był odporny
 - Pokéball Wiedźmy go minął
 
 **Metafora humorystyczna:**
-> *"Wiedźma rzuciła Pokéballa w Bobra. Ale Bóbr się uchylił. Bo inżynier zna fizykę – widział trajektorię lotu."*
+> *"Wiedźma rzuciła Pokéballa w Wilka-Budowniczego. Ale Wilk-Budowniczy się uchylił. Bo inżynier zna fizykę – widział trajektorię lotu."*
 
 **Status:** ✗ NIETRAFIONY – Pokéball chybiony
 
@@ -156,9 +156,9 @@ Humorystyczna i jednocześnie tragiczna metafora przejęcia kontroli nad drugim 
 
 ### Cel 3: Duch Wilka – BEZUŻYTECZNY ∅
 
-**Po śmierci Bobra:**
+**Po śmierci Wilka-Budowniczego:**
 
-Bóbr umiera w dziupli nr 8 (noc Chlorowej Mgły).
+Wilk-Budowniczy umiera w dziupli nr 8 (noc Chlorowej Mgły).
 
 Z jego śmierci rodzi się **Duch Wilka** – świadomość uwolniona z ciała.
 
@@ -167,14 +167,14 @@ Z jego śmierci rodzi się **Duch Wilka** – świadomość uwolniona z ciała.
 - Czy Pokéball działa na Ducha?
 
 **Efekt:**
-- **BEZUŻYTECZNY** – czary Wiedźmy działają tylko na żywych i podatnych
+- **BEZUŻYTECZNY** – odruchy technologii Wiedźmy działają tylko na żywych i podatnych
 - Duch nie ma ciała – nie można go "złapać"
 - Ma świadomość – widzi jej projekcje jako iluzje
 - Ma dystans – nie uczestniczy w jej grze
 
 **Pokéball bezużyteczny wobec Ducha:**
 - Można schwytać Pokémona (Jelenia)
-- Można chybić Pokéballa (Bóbr uchyla się)
+- Można chybić Pokéballa (Wilk-Budowniczy uchyla się)
 - Nie można schwytać Ducha – bo Duch jest poza grą
 
 **Status:** ∅ BEZUŻYTECZNY – Pokéball nie ma celu
@@ -217,14 +217,14 @@ W grze Pokémonów Pokéball to narzędzie trenera. W Baśni Polany Kłamstw Pok
 
 **Utrata:**
 - Autonomii – nie może decydować sam
-- Głosu – Barbara mówi za niego
+- Głosu – Wiedźma BaraBara mówi za niego
 - Tożsamości – z Jelenia stał się Papa Smurfem
 - Relacji z synem – został wykorzystany przeciwko Dariuszowi
 
 **Zyskanie:**
 - Nic. Formalnie "wygrał" proces, ale emocjonalnie został pusty.
 
-### Dla Barbary (Wiedźma)
+### Dla Wiedźmy BaraBary (Wiedźma)
 
 **Zyskanie (formalne):**
 - Kontrola nad mężem
@@ -233,21 +233,21 @@ W grze Pokémonów Pokéball to narzędzie trenera. W Baśni Polany Kłamstw Pok
 
 **Utrata (faktyczna):**
 - Relacja z synem (Dariusz odszedł)
-- Cel manipulacji (Bóbr umarł, Duch jest odporny)
+- Cel manipulacji (Wilk-Budowniczy umarł, Duch jest odporny)
 - Polana Kłamstw pusta – Kocioł Krzywd gaśnie
 
 **Finał:**
 - Władza bez miłości = najsmutniejsze królestwo
 - Pokéball w ręku, ale nikt do schwytania
 
-### Dla Dariusza (Bóbr → Duch Wilka)
+### Dla Dariusza (Wilk-Budowniczy → Duch Wilka)
 
-**Jako Bóbr:**
+**Jako Wilk-Budowniczy:**
 - Uchylił się przed Pokéballem – odporność dzięki świadomości
 - Ale toksyczna atmosfera go zabiła (Noc Chlorowej Mgły)
 
 **Jako Duch:**
-- Pokéball bezużyteczny – Duch poza zasięgiem czarów
+- Pokéball bezużyteczny – Duch poza zasięgiem odruchów technologii
 - Wolność z pętli cyfry 8
 - Obserwacja bez uczestnictwa
 
@@ -259,29 +259,29 @@ W grze Pokémonów Pokéball to narzędzie trenera. W Baśni Polany Kłamstw Pok
 
 > **Lokacja:** Notariusz
 >
-> Barbara prowadzi Sylwestra do notariusza. On nie rozumie w pełni, co się dzieje. Mgła w jego głowie.
+> Wiedźma BaraBara prowadzi Sylwestra do notariusza. On nie rozumie w pełni, co się dzieje. Mgła w jego głowie.
 >
 > Notariusz czyta treść pełnomocnictwa. Sylwester słucha, ale słowa rozpływają się.
 >
-> Barbara kładzie rękę na jego ramieniu – koło ratunkowe w mgle.
+> Wiedźma BaraBara kładzie rękę na jego ramieniu – koło ratunkowe w mgle.
 >
 > "Podpisz, kochanie."
 >
 > Podpisuje.
 >
-> Barbara płaci: **26 złotych**.
+> Wiedźma BaraBara płaci: **26 złotych**.
 >
 > Brzęk monet. Metaliczny dźwięk przecina mgłę.
 >
 > **Pokéball rzucony.**
 
-### Scena 2: Bóbr uchyla się – rok 2021-2025
+### Scena 2: Wilk-Budowniczy uchyla się – rok 2021-2025
 
-> **Lokacja:** Dom nr 8, Polana Kłamstw
+> **Lokacja:** Dziupla nr 8, Polana Kłamstw
 >
-> Wiedźma próbuje schwytać Bobra. Prowokacje, oskarżenia, Niebieska Karta, procesy.
+> Wiedźma próbuje schwytać Wilka-Budowniczego. Prowokacje, oskarżenia, Niebieska Karta, procesy.
 >
-> Ale Bóbr widzi trajektorię.
+> Ale Wilk-Budowniczy widzi trajektorię.
 >
 > Widzi, że to nie atak na niego – to jej walka z cieniem.
 >
@@ -289,11 +289,11 @@ W grze Pokémonów Pokéball to narzędzie trenera. W Baśni Polany Kłamstw Pok
 >
 > **Pokéball mija cel.**
 
-### Scena 3: Pokéball bezużyteczny – po śmierci Bobra
+### Scena 3: Pokéball bezużyteczny – po śmierci Wilka-Budowniczego
 
-> **Lokacja:** Pusty dom nr 8, mgła
+> **Lokacja:** Pusty dziupla nr 8, mgła
 >
-> Bóbr umarł. Duch Wilka powstał.
+> Wilk-Budowniczy umarł. Duch Wilka powstał.
 >
 > Wiedźma stoi z Pokéballem w ręku. Szuka przeciwnika.
 >
@@ -309,12 +309,12 @@ W grze Pokémonów Pokéball to narzędzie trenera. W Baśni Polany Kłamstw Pok
 
 > *"Za 26 złotych kupiła kluczyk do Pokémona."*
 
-> *"W świecie Pokémonów trener rzuca Pokéballa, by schwytać stworka. Barbara rzuciła swój Pokéball 19 lipca 2021."*
+> *"W świecie Pokémonów trener rzuca Pokéballa, by schwytać stworka. Wiedźma BaraBara rzuciła swój Pokéball 19 lipca 2021."*
 
 > *"Jej zeznania są moimi zeznaniami."*
 > — Sylwester Adamski, schwytany w Pokéballa
 
-> *"Wiedźma rzuciła Pokéballa w Bobra. Ale Bóbr się uchylił. Bo inżynier zna fizykę."*
+> *"Wiedźma rzuciła Pokéballa w Wilka-Budowniczego. Ale Wilk-Budowniczy się uchylił. Bo inżynier zna fizykę."*
 
 > *"Pokéball może schwytać Pokémona. Nie może schwytać Ducha."*
 
@@ -341,13 +341,13 @@ W grze Pokémonów Pokéball to narzędzie trenera. W Baśni Polany Kłamstw Pok
 
 **Mechanizm:**
 1. Osoba słaba, zależna (Sylwester po wylewie)
-2. Opiekun przejmuje kontrolę (Barbara przez pełnomocnictwo)
+2. Opiekun przejmuje kontrolę (Wiedźma BaraBara przez pełnomocnictwo)
 3. Opiekun używa osoby słabej jako narzędzia (przeciwko synowi)
 4. Osoba słaba staje się "Pokémonem" – bez autonomii
 
 **Ochrona przed Pokéballem:**
-- **Świadomość** – Bóbr widział trajektorię, uchylił się
-- **Dystans** – Bóbr ignorował projekcje Wiedźmy
+- **Świadomość** – Wilk-Budowniczy widział trajektorię, uchylił się
+- **Dystans** – Wilk-Budowniczy ignorował projekcje Wiedźmy
 - **Nieśmiertelność świadomości** – Duch poza zasięgiem Pokéballa
 
 ---
@@ -367,8 +367,8 @@ W grze Pokémonów Pokéball to narzędzie trenera. W Baśni Polany Kłamstw Pok
 
 ✅ **Sukces i porażka**
 - SUKCES: Sylwester schwytany → stał się Papa Smurfem
-- PORAŻKA: Bóbr uchylił się → zbyt silna świadomość
-- BEZUŻYTECZNOŚĆ: Duch Wilka poza zasięgiem → czary nie działają
+- PORAŻKA: Wilk-Budowniczy uchylił się → zbyt silna świadomość
+- BEZUŻYTECZNOŚĆ: Duch Wilka poza zasięgiem → odruchy technologii nie działają
 
 ✅ **Symbol uniwersalny**
 - Każdy mechanizm przejęcia kontroli nad słabszym
@@ -397,7 +397,7 @@ W grze Pokémonów Pokéball to narzędzie trenera. W Baśni Polany Kłamstw Pok
 **Powiązane dokumenty:**
 - wiedzma-barabara.md (Trenerka Pokémonów)
 - stary-jelen-sylwester.md (Papa Smurf – schwytany Pokémon)
-- bobr-z-duchem-wilka.md (Bóbr uchyla się, Duch jest odporny)
+- wilk-budowniczy-z-duchem-wilka.md (Wilk-Budowniczy uchyla się, Duch jest odporny)
 - SCENA_TRANSFORMACJA_POKEBALL_26ZL.md (scena źródłowa)
 
 ---

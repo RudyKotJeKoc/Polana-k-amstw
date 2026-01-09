@@ -1,14 +1,14 @@
 # Pokéball Wiedźmy (Mechanizm Przejęcia Kontroli)
 
 **Typ:** Zjawisko psychologiczne i społeczne (przejęcie kontroli nad słabszym)
-**Powiązania:** Wiedźma Barabara (Barbara), Papesmerf (Sylwester), Pełnomocnictwo z 19.07.2021
+**Powiązania:** Wiedźma BaraBara, Papesmerf (Sylwester), Pełnomocnictwo z 19.07.2021
 **Dotyczy:** Mechanizmu przejęcia kontroli nad osobą podatną (schorowaną, zależną, bezradną)
 
 ## Opis
 
-Pokéball Wiedźmy to metafora **mechanizmu "złapania" i przejęcia kontroli** nad osobą, która stała się podatna na manipulację. W świecie Pokémonów trener rzuca Pokéballa, by schwytać stworka i przejąć nad nim kontrolę — Wiedźma (Barbara) rzuciła swój Pokéball 19 lipca 2021, dwa dni po wszczęciu Niebieskiej Karty.
+Pokéball Wiedźmy to metafora **mechanizmu "złapania" i przejęcia kontroli** nad osobą, która stała się podatna na manipulację. W świecie Pokémonów trener rzuca Pokéballa, by schwytać stworka i przejąć nad nim kontrolę — Wiedźma BaraBara rzuciła swój Pokéball 19 lipca 2021, dwa dni po wszczęciu Niebieskiej Karty.
 
-Jej Pokéball to **pełnomocnictwo** — prawne narzędzie przejęcia głosu. Od tego momentu Barbara mówi imieniem Sylwestra (Papesmerfa), decyduje za niego, kontroluje jego tożsamość prawną. Sylwester, schorowany po wylewie mózgu, stał się **Pokémonem z czerwoną czapką** — małym, niegroźnym, kontrolowanym.
+Jej Pokéball to **pełnomocnictwo** — prawne narzędzie przejęcia głosu. Od tego momentu Wiedźma BaraBara mówi imieniem Sylwestra (Papesmerfa), decyduje za niego, kontroluje jego tożsamość prawną. Sylwester, schorowany po wylewie mózgu, stał się **Pokémonem z czerwoną czapką** — małym, niegroźnym, kontrolowanym.
 
 Zjawisko nie ogranicza się do jednej osoby — to powtarzalny wzorzec, w którym manipulator wykorzystuje **słabość, zależność i bezradność** ofiary, by przejąć nad nią całkowitą kontrolę.
 
@@ -18,16 +18,16 @@ Zjawisko nie ogranicza się do jednej osoby — to powtarzalny wzorzec, w który
 W Pokémonach Pokéball służy do złapania i podporządkowania stworka. W baśni Polany Kłamstw Pokéball to każde narzędzie, które pozwala przejąć kontrolę nad inną osobą: pełnomocnictwo, zależność finansowa, izolacja, manipulacja emocjonalna.
 
 **Trener vs Pokémon**
-Trener (Barbara) kontroluje Pokémona (Sylwestra). Pokémon nie ma własnej woli — wykonuje polecenia trenera. *"Jej zeznania są moimi zeznaniami"* — Sylwester na rozprawie sądowej.
+Trener (Wiedźma BaraBara) kontroluje Pokémona (Sylwestra). Pokémon nie ma własnej woli — wykonuje polecenia trenera. *"Jej zeznania są moimi zeznaniami"* — Sylwester na rozprawie sądowej.
 
 **Czerwona czapka jako pieczęć niewoli**
 Sylwester nosi czerwoną czapkę (symbol wylewu krwi do mózgu). Ale czerwona czapka to także symbol przejętej władzy — Papa Smurf, mały, niegroźny, kontrolowany.
 
 **Kluczyk do Pokémona**
-Pełnomocnictwo z 19.07.2021 to "kluczyk" — prawne narzędzie, które otwiera dostęp do kontroli. Od tego momentu Barbara "włada" Sylwestrem jak trener Pokémonem.
+Pełnomocnictwo z 19.07.2021 to "kluczyk" — prawne narzędzie, które otwiera dostęp do kontroli. Od tego momentu Wiedźma BaraBara "włada" Sylwestrem jak trener Pokémonem.
 
 **Cel podatny**
-Pokéball działa tylko na cel **podatny** — schorowany, zależny, bezradny. Sylwester po wylewie, z I grupą inwalidzką, był idealnym celem. Bóbr (Dariusz) — zbyt świadomy, zbyt odporny — Pokéball go minął.
+Pokéball działa tylko na cel **podatny** — schorowany, zależny, bezradny. Sylwester po wylewie, z I grupą inwalidzką, był idealnym celem. Wilk-Budowniczy (Dariusz) — zbyt świadomy, zbyt odporny — Pokéball go minął.
 
 ## Rola w Historii
 
@@ -44,13 +44,13 @@ Zjawisko Pokéballa Wiedźmy objawia się w dwóch próbach "złapania":
 
 2. **19.07.2021: Rzucenie Pokéballa (pełnomocnictwo)**
    - Data: 2 dni po wszczęciu Niebieskiej Karty (17.07.2021)!
-   - Barbara uzyskuje pełnomocnictwo od Sylwestra
+   - Wiedźma BaraBara uzyskuje pełnomocnictwo od Sylwestra
    - **Pokéball rzucony, Pokémon złapany**
 
 3. **Od 19.07.2021: Kontrola**
-   - Barbara mówi imieniem Sylwestra
-   - Barbara decyduje za Sylwestra
-   - Barbara używa jego tożsamości prawnej
+   - Wiedźma BaraBara mówi imieniem Sylwestra
+   - Wiedźma BaraBara decyduje za Sylwestra
+   - Wiedźma BaraBara używa jego tożsamości prawnej
    - *"Jej zeznania są moimi zeznaniami"* — Sylwester na rozprawie
 
 4. **Diamentowa sprzeczność zeznań (dowód kontroli):**
@@ -59,7 +59,7 @@ Zjawisko Pokéballa Wiedźmy objawia się w dwóch próbach "złapania":
    - Tylko 3 dni różnicy — oczywista manipulacja
    - Pokémon mówi głosem trenera, nie własnym
 
-**PRÓBA 2: Bóbr (Dariusz) — NIETRAFIONY ✗**
+**PRÓBA 2: Wilk-Budowniczy (Dariusz) — NIETRAFIONY ✗**
 
 1. **Próby złapania:**
    - Manipulacja, prowokacje, oskarżenia
@@ -67,14 +67,14 @@ Zjawisko Pokéballa Wiedźmy objawia się w dwóch próbach "złapania":
    - Próba "złapania" w narrację Wiedźmy
 
 2. **Dlaczego się nie udało:**
-   - Bóbr miał zbyt silną świadomość
-   - Widział jej czary jako projekcje, nie rzeczywistość
+   - Wilk-Budowniczy miał zbyt silną świadomość
+   - Widział jej odruchy technologii jako projekcje, nie rzeczywistość
    - Ignorował jej narracje — był odporny
    - **Pokéball Wiedźmy go minął**
 
-3. **Po śmierci Bobra — narodziny Ducha Wilka:**
+3. **Po śmierci Wilka-Budowniczego — narodziny Ducha Wilka:**
    - Duch Wilka jest całkowicie odporny
-   - Czary działają tylko na żywych i podatnych
+   - Odruchy technologii działają tylko na żywych i podatnych
    - Pokéball bezużyteczny wobec Ducha
 
 ## Przebieg / Przykłady
@@ -112,9 +112,9 @@ Zjawisko Pokéballa Wiedźmy objawia się w dwóch próbach "złapania":
 - Wykorzystany przeciwko własnemu synowi
 - Najsmutniejsza ofiara — nie miał wyboru
 
-**Dla Wiedźmy (Barbary):**
+**Dla Wiedźmy (Wiedźmy BaraBary):**
 - Pokéball dał jej władzę nad mężem
-- Ale Pokémon bez przeciwnika (Wilk odszedł, Bóbr umarł) jest bezużyteczny
+- Ale Pokémon bez przeciwnika (Wilk odszedł, Wilk-Budowniczy umarł) jest bezużyteczny
 - Kontrola bez celu = puste zwycięstwo
 
 **Dla Polany Kłamstw:**
@@ -124,7 +124,7 @@ Zjawisko Pokéballa Wiedźmy objawia się w dwóch próbach "złapania":
 
 **Dla baśni:**
 - Pokéball Wiedźmy to ostrzeżenie: słabość czyni podatnym na "złapanie"
-- Nie każdy Pokéball trafia — Bóbr był odporny, Duch Wilka nieuchwytny
+- Nie każdy Pokéball trafia — Wilk-Budowniczy był odporny, Duch Wilka nieuchwytny
 - Ale ci, którzy są podatni — stają się Pokémonami bez własnej woli
 
 ## Cechy Charakterystyczne
@@ -135,7 +135,7 @@ Zjawisko Pokéballa Wiedźmy objawia się w dwóch próbach "złapania":
 - **Trener vs Pokémon** — manipulator kontroluje ofiarę
 - **Utrata autonomii** — ofiara traci własną wolę
 - **Pokémon mówi głosem trenera** — *"Jej zeznania są moimi zeznaniami"*
-- **Nie każdy Pokéball trafia** — odporni (Bóbr) i nieuchwytni (Duch) są bezpieczni
+- **Nie każdy Pokéball trafia** — odporni (Wilk-Budowniczy) i nieuchwytni (Duch) są bezpieczni
 - **Czerwona czapka jako pieczęć** — symbol przejętej władzy
 
 ## Tagi

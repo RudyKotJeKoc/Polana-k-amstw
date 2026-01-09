@@ -17,15 +17,15 @@ Symbol: Cztery Siódemki – brama przeznaczenia
 Rozdział baśni: I. Pieczęć Przeznaczenia
 
 Stary Jeleń (Sylwester) daruje Wilkowi (Dariuszowi) gospodarstwo o numerze 8.
-Wilk rozszerza służebność na cały dom, by zapobiec konfliktom — decyzja z serca, która staje się później jego zgubą.
+Wilk rozszerza służebność na cały dziupla, by zapobiec konfliktom — decyzja z serca, która staje się później jego zgubą.
 
 „Siódemka darowała… Ósemka wzięła.”
 
 2017–2020 – Cień nad Polaną
 
-To lata budowania, inwestowania, remontów, pracy ponad siły – i pierwsze niepokojące cienie Wiedźmy Barabary.
+To lata budowania, inwestowania, remontów, pracy ponad siły – i pierwsze niepokojące cienie Wiedźmy BaraBary.
 
-ocieplenie domu,
+ocieplenie dziupli,
 
 naprawy,
 
@@ -84,7 +84,7 @@ Policja potwierdza: to Wiedźma odcięła prąd.
 [Powiązany rozdział: 4]
 
 Wiedźma wyjeżdża na Święta, wraca i notuje w Kalendarzu Krzywd:
-„Okno otwarte, dom zimny."
+„Okno otwarte, dziupla zimny."
 Nie notuje: kto zostawił otwarte, dlaczego jest zimno?
 
 Bo fakty nie są jej potrzebne — potrzebna jest narracja.
@@ -141,7 +141,7 @@ Teatr? Tak.
 
 [Powiązany rozdział: 10]
 
-Hiena Domkowa (Domek) zdradza Wilka na korytarzu sądu.
+Hiena Dziuplowa (Domek) zdradza Wilka na korytarzu sądu.
 Wilk przyznaje się pod naciskiem.
 Wyrok karny staje się „koronnym dowodem" Wiedźmy.
 
@@ -182,7 +182,7 @@ Stary Jeleń zawał — odejście, zerwanie pętli.
 17.07.2025 – Uwolnienie Wilka
 
 Darowizna zostaje cofnięta.
-Wiedźma otrzymuje trofeum w postaci pustego domu 8.
+Wiedźma otrzymuje trofeum w postaci pustego dziupli 8.
 
 Wilk odzyskuje najważniejsze:
 Prawo do ciszy.
@@ -193,6 +193,6 @@ Epilog Symboliczny – 8 Zamienia się w ∞
 Przez 8 lat próbowała połknąć Wilka żywcem.
 
 Ale Wilk wyszedł.
-A dom — choć odzyskany — stał się klatką, w której Wiedźma zostaje sama.
+A dziupla — choć odzyskany — stał się klatką, w której Wiedźma zostaje sama.
 
 „Polana Kłamstw żywi się tym, kto pozostanie w jej centrum. Wilk odszedł. Wiedźma została. I to jest jedyne sprawiedliwe zakończenie.”

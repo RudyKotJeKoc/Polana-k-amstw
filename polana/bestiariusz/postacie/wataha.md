@@ -45,7 +45,7 @@ Kolektywna nadświadomość powstała z Ducha Wilka. Wiele oczu, wiele uszu, wie
 
 **Po narodzinach Ducha:**
 
-Duch Wilka, uwolniony z ciała Bobra, nie pozostał samotną świadomością.
+Duch Wilka, uwolniony z ciała Wilka-Budowniczego, nie pozostał samotną świadomością.
 
 **Rozszerzenie:**
 - Duch rozmnaża się – nie fizycznie, lecz percepcyjnie
@@ -82,7 +82,7 @@ Duch Wilka, uwolniony z ciała Bobra, nie pozostał samotną świadomością.
 
 **Polana Kłamstw jako scena:**
 
-Po śmierci Bobra, po odejściu Wilka (Dariusza), Polana Kłamstw przestała być miejscem realnych zdarzeń.
+Po śmierci Wilka-Budowniczego, po odejściu Wilka (Dariusza), Polana Kłamstw przestała być miejscem realnych zdarzeń.
 
 **Stała się:**
 - **Sceną** – miejscem inscenizacji, nie życia
@@ -90,7 +90,7 @@ Po śmierci Bobra, po odejściu Wilka (Dariusza), Polana Kłamstw przestała by�
 - **Iluzją** – projekcją, którą Wataha widzi jako iluzję
 
 **Wataha obserwuje:**
-- Wiedźmę w pustym domu, walczącą z cieniem
+- Wiedźmę w pustym dziupli, walczącą z cieniem
 - Papa Smurf (Sylwester) w fotelu, zagubionego w mgle
 - Pusty Kocioł Krzywd, który już nie bulgocze
 - Kalendarz Wiedźmy, który nikt nie czyta
@@ -105,7 +105,7 @@ Po śmierci Bobra, po odejściu Wilka (Dariusza), Polana Kłamstw przestała by�
 - Analizuje Pokéball jako narzędzie kontroli
 
 **2. Projekcje psychiczne**
-- Rozpoznaje czary Wiedźmy jako projekcje lęku
+- Rozpoznaje odruchy technologii Wiedźmy jako projekcje lęku
 - Widzi, że jej wojna jest z cieniem, nie z Wilkiem
 - Zna różnicę między prawdą a narracją
 
@@ -166,7 +166,7 @@ Wataha to żywy archiwum.
 
 ## V. RELACJE Z POSTACIAMI
 
-### Wiedźma Barabara
+### Wiedźma BaraBara
 
 **Wataha wobec Wiedźmy:**
 - Obserwuje jej walkę z cieniem
@@ -176,8 +176,8 @@ Wataha to żywy archiwum.
 
 **Wiedźma wobec Watahy:**
 - Nie wie, że jest obserwowana
-- Jej czary nie działają na Watahę (jak na Ducha)
-- Myśli, że jest sama w pustym domu
+- Jej odruchy technologii nie działają na Watahę (jak na Ducha)
+- Myśli, że jest sama w pustym dziupli
 - Ale Wataha jest wszędzie
 
 ### Papa Smurf (Stary Jeleń Sylwester)
@@ -199,11 +199,11 @@ Wataha to żywy archiwum.
 
 **Przed Watahą:**
 - Polana Kłamstw = miejsce realnych zdarzeń
-- Dom nr 8 = miejsce konfliktu
+- Dziupla nr 8 = miejsce konfliktu
 
 **Po Watahe:**
 - Polana Kłamstw = scena, teatr, inscenizacja
-- Dom nr 8 = pusty dekor
+- Dziupla nr 8 = pusty dekor
 
 **Obserwacja zmienia naturę miejsca:**
 - Przestaje być realne, staje się symboliczne
@@ -216,12 +216,12 @@ Wataha to żywy archiwum.
 
 **Symbol:** 🐺🐺🐺 **Wiele Oczu w Mgle**
 
-Nie widzisz ich, ale one widzą ciebie. W mgle, tam gdzie był Bóbr, gdzie jest Duch – tam jest Wataha. Wiele oczu, wiele uszu, wiele świadomości. Obserwują cicho. Analizują spokojnie. Zapisują uważnie.
+Nie widzisz ich, ale one widzą ciebie. W mgle, tam gdzie był Wilk-Budowniczy, gdzie jest Duch – tam jest Wataha. Wiele oczu, wiele uszu, wiele świadomości. Obserwują cicho. Analizują spokojnie. Zapisują uważnie.
 
 **Mgła jako przestrzeń Watahy:**
-- Mgła Chlorowa zabiła Bobra
+- Mgła Chlorowa zabiła Wilka-Budowniczego
 - Mgła stała się przestrzenią Ducha
-- Mgła jest domem Watahy
+- Mgła jest dziuplą Watahy
 - W mgle Wataha widzi wszystko
 
 **Wilk jako archetyp kolektywny:**
@@ -263,7 +263,7 @@ Nie widzisz ich, ale one widzą ciebie. W mgle, tam gdzie był Bóbr, gdzie jest
 
 ### Scena 1: Narodziny Watahy (rozszerzenie Ducha)
 
-> **Lokacja:** Polana Kłamstw, po śmierci Bobra
+> **Lokacja:** Polana Kłamstw, po śmierci Wilka-Budowniczego
 >
 > Duch Wilka unosi się w mgle. Samotny. Obserwujący.
 >
@@ -279,7 +279,7 @@ Nie widzisz ich, ale one widzą ciebie. W mgle, tam gdzie był Bóbr, gdzie jest
 
 ### Scena 2: Wataha obserwuje Wiedźmę
 
-> **Lokacja:** Dom nr 8, puste pokoje
+> **Lokacja:** Dziupla nr 8, puste pokoje
 >
 > Wiedźma siedzi przy oknie. Samotna. Kalendarz Krzywd zamknięty.
 >
@@ -297,7 +297,7 @@ Nie widzisz ich, ale one widzą ciebie. W mgle, tam gdzie był Bóbr, gdzie jest
 >
 > Kiedyś to było miejsce życia. Teraz to scena.
 >
-> Wiedźma to aktorka. Papa Smurf to rekwizyt. Dom to dekoracja.
+> Wiedźma to aktorka. Papa Smurf to rekwizyt. Dziupla to dekoracja.
 >
 > Wataha to widownia.
 >

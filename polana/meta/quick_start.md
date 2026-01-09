@@ -120,7 +120,7 @@ Ten przewodnik pomoże Ci szybko zorientować się w materiałach i wybrać, co 
 **Masz 5 plików kontekstowych z materiałami źródłowymi:**
 
 - **[kontekst_1.md](./kontekst_1.md)** - Analiza postaci drugoplanowych (Hiena, Papesmerf, Sarna)
-- **[kontekst_2.md](./kontekst_2.md)** - Profil psychologiczny Barbary Adamskiej
+- **[kontekst_2.md](./kontekst_2.md)** - Profil psychologiczny Wiedźmy BaraBary
 - **[kontekst_3.md](./kontekst_3.md)** - Chronologia, dowody, dokumentacja prawna
 - **[kontekst_4.md](./kontekst_4.md)** - Analiza systemowa i błędy prawne
 - **[kontekst_5.md](./kontekst_5.md)** - Materiały uzupełniające
@@ -174,18 +174,18 @@ Ten przewodnik pomoże Ci szybko zorientować się w materiałach i wybrać, co 
 ## 🔑 KLUCZOWE POJĘCIA (Glossary)
 
 **Postacie:**
-- 🧙 **Wiedźma Barabara** (Barbara) - architekt destrukcji
+- 🧙 **Wiedźma BaraBara** - architekt destrukcji
 - 🐺 **Wilk Samotnik** (Dariusz) - ofiara w prawdzie
 - 🦌 **Stary Jeleń / Papesmerf** (Sylwester) - tragiczna marionetka
 - 🦌 **Sarenka** (Julia) - niewinny katalizator
-- 🦊 **Hiena Domkowa** (adwokat Domek) - zdrajca systemu
+- 🦊 **Hiena Dziuplowa** (adwokat Domek) - zdrajca systemu
 
 **Symbole:**
 - 🏺 **Kocioł Krzywd** - źródło toksyczności
 - 📅 **Kalendarz Wiedźmy** - broń procesowa
 - 🔐 **Zaspawana Prawda** - niemożność komunikacji
 - 7️⃣ **Siódemka** - nadzieja (7.07.2017 - darowizna)
-- 8️⃣ **Ósemka** - nieskończona pętla (dom nr 8)
+- 8️⃣ **Ósemka** - nieskończona pętla (dziupla nr 8)
 
 **Tematy:**
 - 📢 **Prawo Echa** - powtórzone kłamstwo > prawda
@@ -246,9 +246,9 @@ Ten przewodnik pomoże Ci szybko zorientować się w materiałach i wybrać, co 
 
 **Co to?** Historia rodzinnej tragedii o obsesyjnej kontroli i manipulacji prawem.
 
-**Główna postać:** Barbara (Wiedźma) vs. Dariusz (Wilk)
+**Główna postać:** Wiedźma BaraBara (Wiedźma) vs. Dariusz (Wilk)
 
-**Kulminacja:** Syn traci dom, ale wybiera wolność.
+**Kulminacja:** Syn traci dziupla, ale wybiera wolność.
 
 **Morał:** Echo kłamstwa może być silniejsze niż głos prawdy, ale odwaga odejścia jest silniejsza od obu.
 

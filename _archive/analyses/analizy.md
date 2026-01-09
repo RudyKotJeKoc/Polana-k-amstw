@@ -21,7 +21,7 @@ Przedstawiona sytuacja pacjenta wykracza daleko poza typowe obciążenie zawodow
 
 Kluczowe elementy:
 
-Powtarzalność traum – pacjent dwukrotnie tracił warsztat, dom i środowisko zawodowe
+Powtarzalność traum – pacjent dwukrotnie tracił warsztat, dziupla i środowisko zawodowe
 Brak okresu regeneracji – kolejne kryzysy następowały bez przerwy na odbudowę
 Izolacja społeczna – systematyczna utrata wszystkich punktów oparcia
 Dewaluacja kompetencji – wieloletnie środowisko ignorujące wiedzę i doświadczenie
@@ -30,7 +30,7 @@ CZĘŚĆ I: HISTORIA CHRONOLOGICZNA
 Faza 1: Polska – Pierwsza utrata fundamentów (przed 2015-2020)
 Zdarzenia:
 
-Utrata domu rodzinnego w wyniku konfliktu rodzinnego
+Utrata dziupli rodzinnego w wyniku konfliktu rodzinnego
 Zaangażowanie w długotrwałe postępowania sądowe (karne i cywilne)
 Błędna reprezentacja prawna prowadząca do niekorzystnych wyroków
 Przymusowe porzucenie własnej działalności gospodarczej
@@ -39,7 +39,7 @@ Znaczenie psychologiczne:
 To była pierwsza całkowita destrukcja środowiska życiowego. Pacjent stracił jednocześnie:
 
 Rodzinę (źródło bezpieczeństwa emocjonalnego)
-Dom (poczucie stabilności)
+Dziupla (poczucie stabilności)
 Firmę (tożsamość zawodową)
 Warsztat (przestrzeń sprawczości i kontroli)
 Faza 2: Holandia – Okres niestabilności (2015-2020)
@@ -234,7 +234,7 @@ Poczucie bezsensu
 5. Możliwe objawy zespołu stresu pourazowego (do weryfikacji)
 Trauma powtarzalna:
 
-Dwukrotna utrata warsztatu i domu
+Dwukrotna utrata warsztatu i dziupli
 Dwukrotne "zaczynanie od zera"
 Przymusowe porzucanie dorobku życiowego
 Możliwe objawy:
@@ -367,7 +367,7 @@ To jest przypadek:
 
 Wielokrotnej traumatyzacji bez okresów regeneracji
 Systemowej destrukcji środowiska życiowego
-Całkowitej utraty punktów oparcia (praca, dom, relacje)
+Całkowitej utraty punktów oparcia (praca, dziupla, relacje)
 Powtórzenia traumy z przeszłości w warunkach obecnych
 Ekstremalnego przeciążenia przekraczającego standardowe możliwości adaptacyjne
 Pytanie kluczowe dla specjalisty
@@ -438,7 +438,7 @@ Zadaniem specjalisty jest nie udowodnienie pacjentowi, że się myli – ale zro
 STRESZCZENIE WYKONAWCZE
 Sytuacja pacjenta to wielowarstwowa, chroniczna traumatyzacja bez okresu regeneracji, charakteryzująca się:
 
-Powtarzalnością traum – dwukrotna utrata warsztatu, domu, tożsamości zawodowej
+Powtarzalnością traum – dwukrotna utrata warsztatu, dziupli, tożsamości zawodowej
 Systemową dewaluacją kompetencji – wieloletnie ignorowanie wiedzy i doświadczenia
 Całkowitą izolacją społeczną – utrata ostatniej bliskiej osoby (Adrian)
 Aktualnym punktem krytycznym – jednoczesna utrata: pracy, mieszkania, wsparcia
@@ -456,12 +456,12 @@ Długotrwałe postępowania sądowe (karne i cywilne)
 Błędna reprezentacja prawna skutkująca niekorzystnymi wyrokami
 Przymusowe porzucenie własnej działalności gospodarczej
 Utrata pierwszego warsztatu wraz z całą infrastrukturą techniczną
-Utrata domu rodzinnego
+Utrata dziupli rodzinnego
 Znaczenie psychologiczne:
 Pierwsza całkowita destrukcja środowiska życiowego. Jednoczesna utrata:
 
 Rodziny (bezpieczeństwo emocjonalne)
-Domu (stabilność fizyczna)
+Dziupli (stabilność fizyczna)
 Firmy (tożsamość zawodowa)
 Warsztatu (przestrzeń sprawczości)
 Faza 2: Holandia – Niestabilność i tułaczka (2015-2020)
@@ -1034,7 +1034,7 @@ Moja wiedza istnieje niezależnie od firmy
 Faza 4: Odbudowa długoterminowa (6-24 miesiące)
 Praca z traumą
 EMDR lub IFS (Internal Family Systems)
-Przepracowanie utraty domu w Polsce
+Przepracowanie utraty dziupli w Polsce
 Integracja doświadczeń
 Budowanie sieci społecznej
 Grupy hobbystyczne (makerspace, FabLab)
@@ -1048,7 +1048,7 @@ CZĘŚĆ XII: ODPOWIEDŹ NA PRZEKONANIE PACJENTA
 Pacjent twierdzi: "Psycholog nie jest w stanie mi pomóc"
 Odpowiedź terapeuty (sugerowana):
 
-"Masz częściową rację. Nie mogę Ci znaleźć mieszkania, nie mogę Ci dać pracy, nie mogę przywrócić Adriana ani warsztatu. Psychoterapia nie jest magią.
+"Masz częściową rację. Nie mogę Ci znaleźć mieszkania, nie mogę Ci dać pracy, nie mogę przywrócić Adriana ani warsztatu. Psychoterapia nie jest mocą zapisanego słowa.
 
 Ale mogę Ci pomóc w czterech konkretnych rzeczach:
 
@@ -1324,7 +1324,7 @@ Nie są to "tylko zwierzęta":
 Charakterystyka:
 
 Bardzo strachliwe, boją się każdego dźwięku
-Nie tolerują jazdy samochodem (weterynarz przyjeżdża do domu)
+Nie tolerują jazdy samochodem (weterynarz przyjeżdża do dziupli)
 Wymagają specjalistycznego podejścia do przeprowadzek
 Poprzednia przeprowadzka:
 
@@ -1342,7 +1342,7 @@ Koty są ostatnim punktem emocjonalnego oparcia pacjenta. Ich utrata lub cierpie
 Kontekst dorobku technicznego
 Co pacjent zgromadził:
 
-"To wszystko, co mam w domu w obecnym momencie, jest konsekwencją inwestycji z ostatnich lat, które pracuję po ucieczce tutaj do Holandii. Ja nigdy nie jeździłem na żadne wakacje. Wszystkie pieniądze, które zarabiałem, inwestowałem w rozwój. Urządzenia, drukarki 3D, serwer, routery, czujniki, roboty itp."
+"To wszystko, co mam w dziupli w obecnym momencie, jest konsekwencją inwestycji z ostatnich lat, które pracuję po ucieczce tutaj do Holandii. Ja nigdy nie jeździłem na żadne wakacje. Wszystkie pieniądze, które zarabiałem, inwestowałem w rozwój. Urządzenia, drukarki 3D, serwer, routery, czujniki, roboty itp."
 
 Znaczenie:
 
@@ -1402,7 +1402,7 @@ CZĘŚĆ III: PEŁNA CHRONOLOGIA TRAUM (zaktualizowana)
 Faza 1: Polska – Pierwsza destrukcja (przed 2015)
 Konflikt rodzinny
 Postępowania sądowe
-Utrata firmy, warsztatu, domu
+Utrata firmy, warsztatu, dziupli
 Pierwszy raz wszystko od zera
 Faza 2: Holandia – Tułaczka (2015-2020)
 Pokoje u różnych ludzi
@@ -1455,7 +1455,7 @@ Milczenie jako strategia przetrwania
 4. Poczucie systemowej niesprawiedliwości
 Nowy wymiar kliniczny:
 
-Pacjent nie tylko traci pracę i dom – traci wiarę w sens systemowy.
+Pacjent nie tylko traci pracę i dziupla – traci wiarę w sens systemowy.
 
 Obserwuje:
 
@@ -1537,7 +1537,7 @@ Jest "niewidzialny" dla wszystkich form wsparcia
 4. Powtarzalność traumy – ryzyko utrwalenia
 Mechanizm:
 
-Po raz pierwszy: Polska (utrata warsztatu, domu, rodziny)
+Po raz pierwszy: Polska (utrata warsztatu, dziupli, rodziny)
 Po raz drugi: Holandia – pierwsza przeprowadzka (utrata poprzedniego mieszkania)
 Po raz trzeci: TERAZ (utrata wszystkiego ponownie)
 Każda kolejna utrata utrwala przekonanie:
@@ -1598,7 +1598,7 @@ Lokalne magazyny w Boxtel/Den Bosch
 Koszt: 100-200 €/miesiąc – planowanie budżetu
  Tymczasowe rozwiązanie dla kotów (ostateczność):
 Kontakt z Dierentehuis 's-Hertogenbosch
-Foster care (tymczasowy dom)
+Foster care (tymczasowy dziupla)
 TYLKO jeśli absolutnie konieczne
 Dzień 5-7:
 
@@ -1662,7 +1662,7 @@ Odpowiedź sugerowana dla terapeuty:
 
 "Dariuszu, w dużej części masz rację.
 
-Nie mogę Ci znaleźć mieszkania. Nie mogę Ci dać pracy. Nie mogę cofnąć czasu. Nie mogę przywrócić Adriana, warsztatu ani firmy. Psychoterapia nie jest magią i nie rozwiązuje problemów materialnych.
+Nie mogę Ci znaleźć mieszkania. Nie mogę Ci dać pracy. Nie mogę cofnąć czasu. Nie mogę przywrócić Adriana, warsztatu ani firmy. Psychoterapia nie jest mocą zapisanego słowa i nie rozwiązuje problemów materialnych.
 
 Ale mogę Ci pomóc w pięciu konkretnych rzeczach, które REALNIE zwiększają Twoje szanse na przetrwanie:
 
@@ -1743,7 +1743,7 @@ Magazyn dla rzeczy (Shurgard – zarezerwować TERAZ)
 Narzędzia, sprzęt, drukarki → bezpieczne
 Koszt: około 150 €/miesiąc
 Koty do foster care (Dierentehuis – kontakt TERAZ)
-Tymczasowy dom dla kotów (2-3 miesiące)
+Tymczasowy dziupla dla kotów (2-3 miesiące)
 Możliwość odbioru po stabilizacji
 TYLKO ostateczność
 Pacjent: schronisko dla bezdomnych pracujących

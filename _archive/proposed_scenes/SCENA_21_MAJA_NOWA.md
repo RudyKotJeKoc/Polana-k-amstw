@@ -6,7 +6,7 @@
 
 21 maja. Piątek. Gorący dzień.
 
-Słońce wisiało nad Polaną jak rozgrzany metal. Powietrze było gęste — nie od wilgoci, ale od czegoś innego. Jakby dom oddychał przez zakneblowane usta.
+Słońce wisiało nad Polaną jak rozgrzany metal. Powietrze było gęste — nie od wilgoci, ale od czegoś innego. Jakby dziupla oddychał przez zakneblowane usta.
 
 Stary Jeleń Sylwester siedział przy kuchennym stole. Jego oddech był za głośny. Za szybki. Ręce spoczywały na blacie, palce lekko drżały — jak liście na wietrze, którego nie było.
 
@@ -76,7 +76,7 @@ Sylwester spojrzał na żonę. Potem na syna. Potem znów na żonę.
 
 Jego głos był cichy. Prawie niesłyszalny:
 
-Sylwester: — Barbaro...?
+Sylwester: — Wiedźmo BaraBaro...?
 
 Wiedźma nie spojrzała na niego. Pisała dalej. Jej długopis dudnił o papier — rytmicznie, miarowo, jak zegar.
 

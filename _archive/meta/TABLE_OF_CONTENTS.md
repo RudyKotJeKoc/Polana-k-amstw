@@ -10,7 +10,7 @@
 **Rodzaj:** Baśń współczesna
 **Temat:** Echo silniejsze niż głos, wolność cenniejsza niż majątek
 **Czas akcji:** 2017-2025 (8 lat)
-**Miejsce:** Polana Kłamstw, Dom Adamowo 8
+**Miejsce:** Polana Kłamstw, Dziupla Adamowo 8
 
 ---
 
@@ -61,7 +61,7 @@
 #### Rozdział 5: Święta Ucieczki i Zaspawana Prawda (Wielkanoc 2021)
 *Wielkanoc jako czas pogrzebu prawdy*
 - **3 kwietnia (Wielka Sobota)** – rozstanie z Julią
-- **4 kwietnia (Wielkanoc)** – dom schłodzony do 18°C
+- **4 kwietnia (Wielkanoc)** – dziupla schłodzony do 18°C
 - **11 kwietnia (Palmowa)** – ucieczka przed rodziną
 - Ucieczka do zimnego warsztatu
 - Zaspawanie zamka: "Nagrobek dla prawdy"
@@ -85,7 +85,7 @@
 - Borsuk Bogdaszewski zakopuje problem
 - Uroboros zaczyna się zamykać
 
-#### Rozdział 8: Hiena Domkowa i Zdrada na Sądowym Korytarzu
+#### Rozdział 8: Hiena Dziuplowa i Zdrada na Sądowym Korytarzu
 *Zdrada własnego obrońcy*
 - Aleksander Domek – Hiena o fałszywym uśmiechu
 - Korytarz sądowy, 5 minut przed rozprawą
@@ -112,7 +112,7 @@
   3. "To nieistotne" – sprzeczność zeznań
 - Kalendarz i wyrok jako "święte pisma"
 - Fundamentalny błąd prawny (służebność ≠ dożywocie)
-- **29.08.2025** – wyrok oddający dom
+- **29.08.2025** – wyrok oddający dziupla
 
 ---
 
@@ -122,14 +122,14 @@
 *Materialna strata = duchowe zwycięstwo*
 - Wilk NIE składa apelacji
 - Wyrok jako "opłata za wolność"
-- Ciche pożegnanie z domem
+- Ciche pożegnanie z dziuplą
 - Podróż do Holandii – oddech po latach
 - **Grudzień 2022 (przed Wigilią)** – Sarenka odchodzi
 - Samotność jako wolność
 
 #### Rozdział 12: Pusta Polana i Echo Świąt
 *Cisza własnego zwycięstwa*
-- Wiedźma sama w pustym domu
+- Wiedźma sama w pustym dziupli
 - Wszyscy sojusznicy odeszli
 - Kocioł Krzywd zgasł
 - Bomba zegarowa: rozliczenie inwestycji
@@ -154,11 +154,11 @@
 
 ### APPENDIX A: Galeria Postaci
 *Szczegółowe charakterystyki 12 archetypów*
-- Wiedźma Adamowska (Barbara)
+- Wiedźma Adamowska (Wiedźma BaraBara)
 - Wilk Samotnik (Dariusz)
 - Papesmerf/Stary Jeleń (Sylwester)
 - Sarenka z Polany (Julia)
-- Hiena Domkowa (Aleksander Domek)
+- Hiena Dziuplowa (Aleksander Domek)
 - Sarna Sarnecki (Michał Sarnecki)
 - Ślimoręki Szlemierz (Grzegorz Szlezer)
 - Sroka Doroty (Dorota Kowalska)
@@ -169,7 +169,7 @@
 
 ### APPENDIX B: Atlas Polany Kłamstw
 *Miejsca, symbole i motywy*
-- Mapa miejsc (Polana, Dom, Warsztat, Kocioł)
+- Mapa miejsc (Polana, Dziupla, Warsztat, Kocioł)
 - Symboliczne przedmioty (Kalendarz, Pełnomocnictwo, itp.)
 - Motywy przewodnie (Prawda vs. Kłamstwo, Kontrola vs. Wolność)
 - Symbolika dat świątecznych

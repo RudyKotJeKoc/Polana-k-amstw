@@ -57,7 +57,7 @@ Automatyczne tworzenie plików dla:
 - Wilk Samotnik
 - Stary Jeleń Sylwester
 - Sarenka z Polany
-- Hiena Domkowa
+- Hiena Dziuplowa
 - Sarna Sarnecki
 - Sroka Dorota
 - Bociany z Odciętymi Skrzydłami
@@ -68,12 +68,12 @@ Automatyczne tworzenie plików dla:
 - Kocioł Krzywd
 - Kalendarz Wiedźmy
 - Zaspawana Prawda
-- Dom pod numerem 8
+- Dziupla pod numerem 8
 - Czerwona Czapka
 
 #### Lokacje (4 pliki)
 - Polana Adamowo
-- Dom pod numerem 8
+- Dziupla pod numerem 8
 - Warsztat
 - Kuchnia Wiedźmy
 

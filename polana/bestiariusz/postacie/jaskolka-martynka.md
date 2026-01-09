@@ -1,7 +1,7 @@
 # Jaskółka Martynka
 
 **Typ:** Osoba Światła / Dziecko Dwóch Światów
-**Powiązania:** Izdebka Adamowa, Kocidomek, Anioł z Drzewa (Ewa)
+**Powiązania:** Izdebka Adamowa, Kocidziupla, Anioł z Drzewa (Ewa)
 
 ## Opis
 
@@ -43,11 +43,11 @@ Jaskółka Martynka nie jest wojowniczką ani bohaterką walczącą. Jest **ogni
 
 1. **Izdebka Adamowa** – Jej pierwsze królestwo. Mała, ciepła, pełna śladów dawnych dni. Tutaj bawiła się układając miseczki dla kotów, rysując patykiem po podłodze, licząc krople spływające z dachu, tworząc własny porządek w świecie, który bywał głośny i trudny. To w Izdebce zobaczyła po raz pierwszy, że świat może być spokojny.
 
-2. **Kocidomek** – Sanktuarium Progu. Drewniana budka, która była domem kotów, miejscem zabaw, schronieniem i pierwszą "twierdzą", którą stworzyła sama. Koty mruczały tylko dla niej.
+2. **Kocidziupla** – Sanktuarium Progu. Drewniana budka, która była dziuplą kotów, miejscem zabaw, schronieniem i pierwszą "twierdzą", którą stworzyła sama. Koty mruczały tylko dla niej.
 
 3. **Planszówki pod Dębem** – Krąg Czasu. Gry w chińczyka, warcaby, domino, własne gry tworzone z kamieni i patyków. Chwile spokoju i czułej obecności. To tutaj pierwszy raz padły słowa: *"Nie oszczędzaj mnie. Wiem, że widzisz więcej."* – scena, która pokazała jej inteligencję i wrażliwość.
 
-4. **Łzy przy Kocidomku** – Moment Pęknięcia. Gdy ktoś bliski wyjeżdżał na północne kraje, Jaskółka płakała przy wejściu do Kocidomku. Jej łzy były ciche, ciężkie, prawdziwe — i wystarczająco silne, by poruszyć cały las.
+4. **Łzy przy Kocidziupli** – Moment Pęknięcia. Gdy ktoś bliski wyjeżdżał na północne kraje, Jaskółka płakała przy wejściu do Kocidziupli. Jej łzy były ciche, ciężkie, prawdziwe — i wystarczająco silne, by poruszyć cały las.
 
 5. **Zarośnięta Ścieżka** – Ochrona, nie kara. Las, reagując na ból dziecka, rozpoczął proces zarastania ścieżki. Najpierw mech, potem paprocie, a na końcu młode drzewa. To nie było zerwanie kontaktu — to było **zasłonięcie miejsca, które potrzebowało odpoczynku od pożegnań**.
 
@@ -68,12 +68,12 @@ Jaskółka reprezentuje niewinność i czystość, która istnieje równolegle z
 
 ## Tagi
 
-`[światło, dziecko, czystość, opieka, koty, izdebka, kocidomek, niewinność, łagodność, serce]`
+`[światło, dziecko, czystość, opieka, koty, izdebka, kocidziupla, niewinność, łagodność, serce]`
 
 ---
 
 **UWAGA KANONOWA:**
-Jaskółka Martynka **NIE jest archetypem Bobra**. Nowy kanon wyraźnie odcina to powiązanie archetype. Może istnieć wspomnienie o przeszłych relacjach osobistych, ale **nie ma relacji archetypalnej zależności** "Bóbr jako archetyp Martynki" lub "Transformacja Bobra DLA Martynki".
+Jaskółka Martynka **NIE jest archetypem Wilka-Budowniczego**. Nowy kanon wyraźnie odcina to powiązanie archetype. Może istnieć wspomnienie o przeszłych relacjach osobistych, ale **nie ma relacji archetypalnej zależności** "Wilk-Budowniczy jako archetyp Martynki" lub "Transformacja Wilka-Budowniczego DLA Martynki".
 
 ---
 
