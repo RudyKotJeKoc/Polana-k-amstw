@@ -6,226 +6,290 @@ typ: "rozdzial_baśni"
 zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 ---
 
-Rozdział 6: Inscenizacja z Paralizatorem (Marzec 2021)
-(wersja baśniowa, rozbudowana, analityczna)
+# Rozdział 6: Inscenizacja z Paralizatorem
+## (Gdy Światło Zgasło, a Oskarżenie Zapłonęło)
 
-Kilka dni przed Burzą, Wilk otrzymał posłanie, które pachniało gniewem i bronią.
-To był list szeptany przez wiatr — groźba od Brata Wiedźmy BaraBary, człowieka o sercu twardym jak zimowy lód.
-Groził Wilkowi pobiciem.
-Na Polanie takie słowa mają ciężar kamienia rzuconego do studni — tonąć można długo, ale w końcu się utopi.
+Marzec na Polanie Kłamstw przyszedł z zimnym wiatrem, który nie zapowiadał wiosny, lecz dalszą zamarźniętą ciemność. Wilk siedział w warsztacie na betonie, otoczony ciszą maszyn i dymem spawalniczym, który osiadał na jego płucach jak kurz po bitwie.
 
-Groźba z rodziny — brat jako egzekutor
-Kim był Brat Wiedźmy?
-Nie był częścią codziennego życia Polany.
-Mieszkał gdzie indziej, w innym lesie, w innej dziupli.
-Ale był wezwany — jak pies strażniczy, którego wypuszcza się, gdy włamywacz podchodzi zbyt blisko.
-Co powiedział?
-Groźba była prosta, brutalna, bezpośrednia:
+Od tygodni nie wychodził do głównego budynku.
 
-„Jak jeszcze raz podniesiесь głos na moją siostrę, to cię zbiję."
+Od tygodni spał na twardej podłodze.
 
-Dlaczego to zrobił?
-Bo Wiedźma BaraBara poprosiła.
-Bo usłyszał jej wersję — tę z Kalendarza Krzywd.
-Bo uwierzył, że Wilk jest agresorem, nie ofiarą.
-Mechanizm:
+Od tygodni żył w stanie gotowości — nie wiedząc, na co, ale czując, że **coś nadchodzi**.
 
-Wiedźma opowiada Bratowi swoją wersję (z Kalendarza).
-Brat wierzy — bo to rodzina, bo to siostra, bo „po co miałaby kłamać?"
-Brat dzwoni do Wilka i grozi.
-Wilk czuje się oblegany z każdej strony.
+I miał rację.
 
+---
 
-Latarka z iskrą — narzędzie samoobrony
-Wilk, czując na karku oddech niebezpieczeństwa, kupił niezwykłe narzędzie — latarkę, w której drzemie iskra rażenia, mały błyskawiczny duch ukryty w metalowej obudowie.
-Co to było?
-Latarka taktyczna z funkcją paralizatora — urządzenie, które:
+## Groźba z Dalekiego Lasu
 
-Świeci jak normalna latarka.
-Ma funkcję samoobrony — błyskawiczny impuls elektryczny (jak Taser, ale słabszy).
-Nie jest bronią w sensie prawnym.
-Jest legalnym narzędziem ochrony osobistej.
+Pewnego dnia telefon zawibrował w kieszeni Wilka jak oса schwytana w dłoni. Nie był to głos Wiedźmy. Był to głos jej **Brata** — mężczyzny, który mieszkał w innym lesie, w innej dziupli, ale którego wystarczyło wezwać jednym szeptem.
 
-Dlaczego ją kupił?
+Głos był twardy jak lód na jeziorze.
 
-„Nie po to, by kogoś skrzywdzić. Po to, by w razie potrzeby odstraszyć cień."
+— Jak jeszcze raz podniesiesz głos na moją siostrę, to cię zbiję.
 
-Wilk nie planował atakować.
-Planował przetrwać.
-Ale nie wiedział, że Wiedźma BaraBara już tkała plan, któremu nie mógłby się oprzeć nawet najostrożniejszy z leśnych stworzeń.
+Krótko. Brutalnie. Bez pytania o wersję Wilka.
 
-Ciemność, która przyszła za wcześnie
-Pewnej nocy Wiedźma BaraBara wyczuła odpowiedni moment.
-Co się działo w warsztacie?
-Wilk był w warsztacie — swoim ostatnim azylu.
-Dobiegała stamtąd muzyka — niezbyt głośna, lecz wystarczająca, by stać się pretekstem.
-Muzyka była normalna — taką, jaką ludzie słuchają, gdy pracują, gdy żyją, gdy próbują zapomnieć o ciszy.
-Ale dla Wiedźmy była dowodem: „Hałasuje. Przeszkadza. Prowokuje."
-Co zrobiła Wiedźma?
-Zeszła do piwnicy i wyłączyła główny bezpiecznik, odcinając światło wszystkim domownikom.
-Dziupla zapadła w ciemność — tak głęboką, że nie widziały jej nawet sowy.
-Dlaczego to zrobiła?
-To był plan precyzyjny jak pajęcza sieć:
+Wilk stał w warsztacie z telefonem przy uchu i czuł, jak zimno wchodzi mu pod skórę. To nie była wina Brata — on tylko usłyszał **opowieść z Kalendarza Krzywd**. Usłyszał, że Wilk jest agresorem, że podnosi głos, że Wiedźma się boi.
 
-Wyłączyć prąd → stworzyć sytuację kryzysową.
-Czekać → aż Wilk wyjdzie z warsztatu, by sprawdzić, co się stało.
-Zaatakować go słownie → sprowokować reakcję.
-Zapisać w Kalendarzu → zamienić reakcję w „dowód agresji".
+Nie usłyszał, że Wilk śpi na betonie.
 
+Nie usłyszał, że Wiedźma wchodzi do jego pokoju o 2:30 w nocy.
 
-Wilk wychodzi z warsztatu — w pułapkę
-Wilk, zaniepokojony nagłym mrokiem, wyszedł z warsztatu, niosąc w dłoni latarkę — tę samą, w której tliła się funkcja samoobrony.
-Czego szukał?
-Skrzynki bezpieczników — by przywrócić prąd.
-Czego nie wiedział?
-Że Wiedźma BaraBara już na niego czekała.
+Nie usłyszał, że prawda gnijе w zaspawаnej toalecie.
+
+Usłyszał tylko tę jedną wersję — tę, którą Wiedźma podała mu jak zatrute jabłko.
+
+I uwierzył.
+
+Bo po co siostra miałaby kłamać?
+
+---
+
+## Latarka z Iskrą
+
+Po tym telefonie Wilk poczuł, że oblegają go z każdej strony. Nie miał sojuszników. Nie miał dokąd uciec. Miał tylko warsztat i maszyny, które nie mówią, nie oskarżają, nie grożą.
+
+Kupił więc coś, co miało go chronić — **latarkę taktyczną z funkcją samoobrony**. Metalowa, ciężka, z błyskiem, który mógł oświetlić ciemność, i z iskrą, która mogła odstraszyć napastnika.
+
+To nie była broń. To było narzędzie.
+
+Legalne. Powszechne. Takie, jakie noszą ludzie, którzy nocą wracają ciemnymi ulicami i chcą czuć się bezpieczniej.
+
+Wilk nie planował nikogo atakować.
+
+Planował tylko **przetrwać**.
+
+Ale nie wiedział, że Wiedźma już tkała kolejną nić pajęczyny — nić, która zacznie się od iskry, a skończy na pożarze.
+
+---
+
+## Noc, Gdy Światło Zgasło
+
+Kilka dni później, gdy wieczór zapadał nad Polaną jak ciężka kotara, Wilk pracował w warsztacie. Towarzyszyła mu muzyka — niezbyt głośna, zwykła, taka, jaką ludzie słuchają, gdy próbują zapomnieć o ciszy.
+
+Ale dla Wiedźmy muzyka była **pretekstem**.
+
+Zeszła do piwnicy, tam gdzie wiszą bezpieczniki jak gałęzie starego drzewa, i **wyłączyła główny przełącznik**.
+
+Dziupla zapadła w ciemność.
+
+Nie tylko warsztat. Cały budynek. Stary Jeleń w fotelu, Zuza i Lotka w Kocidziupli — wszyscy pogrążyli się w mroku.
+
+Wiedźma stała w ciemności i czekała.
+
+Wiedziała, że Wilk wyjdzie.
+
+Wiedziała, że będzie miał latarkę.
+
+Wiedziała, że wystarczy jedno pytanie.
+
+---
+
+## Pułapka Zastawiona Słowami
+
+Wilk wyszedł z warsztatu z latarką w dłoni, jej światło przecinało mrok jak ostrze. Chciał tylko sprawdzić, co się stało, przywrócić prąd, wrócić do swojego azylu.
+
+Ale Wiedźma już tam stała.
 
 W korytarzu.
-W mroku.
-Tam, gdzie echo powtarza tylko zniekształcone słowa.
 
+W cieniu.
 
-Dialog jak sidła — słowo, które stało się oskarżeniem
-Rozmowa, która nastąpiła, była jak zastawiona pułapka:
-Przebieg dialogu:
-Wiedźma: — Co to za światło?
-Wilk: — Latarka.
-Wiedźma: — Jaka?
-Wilk: — Z funkcją samoobrony… z iskrą paralizującą.
-Pułapka zamyka się
-Wiedźma BaraBara nie cofnęła się nawet o krok.
-Na jej twarzy nie pojawił się strach.
-Pojawiła się radość.
-Drobny błysk zwycięstwa, jak u Wiedźmy, która wreszcie zdobyła składnik potrzebny do formuły.
-Dlaczego?
+Jak postać z koszmaru, który czeka, aż ofiara się przybliży.
+
+— Co to za światło? — zapytała, głos miała spokojny, zimny, ciekawy.
+
+— Latarka — odpowiedział Wilk.
+
+— Jaka?
+
+— Z funkcją samoobrony… z iskrą paralizującą.
+
+I w tej chwili, w ułamku sekundy, **pułapka się zamknęła**.
+
+Wiedźma nie cofnęła się. Nie pokazała strachu. Na jej twarzy pojawił się drobny błysk — nie przerażenia, lecz **triumfu**. Jak u Wiedźmy, która wreszcie zdobyła ostatni składnik do zaklęcia.
+
 Bo to nie latarka była jej celem.
-Celem było słowo, które padnie z ust Wilka.
-I padło: „paralizująca".
 
-Kalendarz, który przepisuje świat
-Wiedźma natychmiast wróciła do swojej komnaty.
-Otworzyła Kalendarz Krzywd, którego kartki były już ciężkie od wcześniejszych formuł.
-Zapisała tam nowe zdanie:
+Celem było **słowo**, które padło z ust Wilka.
 
-„Dariusz groził mi paralizatorem."
+Padło: **„paralizująca"**.
 
-Moc zapisanego słowa przekręcenia:
-FaktZapis w KalendarzuWilk pokazał latarkę„Groził mi paralizatorem"Latarka była narzędziem ochrony„Użył jej jako broni"Wilk nie użył funkcji paralizatora„Zagroził mi elektrycznością"Wiedźma BaraBara wyłączyła prąd (prowokacja)„On mnie atakował"
-To jedno zdanie stało się jak chory korzeń, który wchodzi pod ziemię i zarasta wszystko wokół.
+---
 
-Dwie wersje jednego mroku — sprzeczność, której nikt nie zauważył
-Kilka dni później na Polanie krążyły już dwie sprzeczne opowieści:
-Wersja 1 (Wiedźmy BaraBary):
+## Kalendarz Przepisuje Świat
 
-„Wilk sam spowodował zwarcie. Hałasował w warsztacie, coś się przepaliło, i dlatego wyłączyło prąd."
+Wiedźma wróciła do swojej komnaty, otworzyła Kalendarz Krzywd i zapisała nowe zdanie czerwonym długopisem:
 
-Wersja 2 (Borsuka Bogdaszewskiego):
+**„Dariusz groził mi paralizatorem."**
 
-„To Wiedźma BaraBara wyłączyła światło."
+Jedno zdanie.
 
-Borsuk Bogdaszewski — dzielnicowy, świadek mający odwagę mówić prawdę — zapisał to w notatce służbowej:
+Jedno kłamstwo.
 
-„Wiedźma BaraBara potwierdziła, że to ona wyłączyła główny bezpiecznik."
+Które zaczęło żyć własnym życiem.
 
-Dlaczego to jest kluczowe?
-Te dwie wersje wykluczają się wzajemnie:
+Bo Wilk nie groził. Wilk pokazał. Wilk odpowiedział na pytanie uczciwie, tak jak robił to zawsze — wierząc, że prawda wystarczy.
 
-Albo Wilk spowodował zwarcie (wersja Wiedźmy BaraBary).
-Albo Wiedźma BaraBara wyłączyła prąd (wersja Borsuка).
+Ale prawda nie wystarczała na Polanie Kłamstw.
+
+Na Polanie liczyło się tylko to, co zapisano w Kalendarzu.
+
+**Fakt:** Wilk pokazał latarkę.
+**Zapis:** „Groził mi paralizatorem."
+
+**Fakt:** Latarka była narzędziem ochrony.
+**Zapis:** „Użył jej jako broni."
+
+**Fakt:** Wilk nie użył funkcji paralizatora.
+**Zapis:** „Zagroził mi elektrycznością."
+
+**Fakt:** Wiedźma wyłączyła prąd, by sprowokować Wilka.
+**Zapis:** „On mnie atakował."
+
+Jedno zdanie w Kalendarzu — i świat się przekręcił o 180 stopni.
+
+---
+
+## Dwie Wersje Tego Samego Mroku
+
+Kilka dni później na Polanie krążyły już dwie sprzeczne opowieści. Nikt nie zadał pytania, jak to możliwe, że obie mogą być prawdziwe.
+
+**Wersja pierwsza** (Wiedźmy):
+*„Wilk sam spowodował zwarcie. Hałasował w warsztacie, coś się przepaliło, dlatego zgasło światło."*
+
+**Wersja druga** (zapisana przez Borsuka Bogdana):
+*„Wiedźma potwierdziła, że to ona wyłączyła główny bezpiecznik."*
+
+Te dwie wersje wykluczają się wzajemnie.
+
+Albo Wilk spowodował zwarcie.
+
+Albo Wiedźma wyłączyła prąd.
 
 Nie mogą być prawdziwe jednocześnie.
 
-W sądzie — sprzeczność tak widoczna, że można się o nią potknąć
-W sądzie ta sprzeczność była tak widoczna, że można było się o nią potknąć.
-A jednak nikt się nie potknął.
-Nikt nie zapytał:
+A jednak nikt nie zapytał.
 
-Kto naprawdę zgasił światło tamtej nocy?
-Dlaczego są dwie wykluczające się wersje?
-Dlaczego Wiedźma BaraBara najpierw mówi, że wyłączyła prąd, a potem, że to Wilk spowodował zwarcie?
+Nikt w sądzie nie zatrzymał się przy tej sprzeczności jak przed rozwartą przepaścią i nie zapytał:
+
+*„Kto naprawdę zgasił światło tamtej nocy?"*
+
+*„Dlaczego Wiedźma najpierw mówi, że wyłączyła prąd, a potem, że to Wilk spowodował zwarcie?"*
 
 Nikt.
-Dlaczego?
-Bo liczył się tylko wpis w Kalendarzu Wiedźmy BaraBary — formuła, która stała się ważniejsza niż fakty.
 
-Tak powstają legendy o winie
+Bo liczył się tylko wpis w Kalendarzu — formuła ważniejsza niż fakty.
+
+---
+
+## Mechanizm Przekręcenia
+
+To była **inscenizacja doskonała**, wyreżyserowana jak przedstawienie teatralne, w którym wszystkie role zostały rozdane z góry:
+
+**Prowokacja:** Wiedźma wyłącza prąd.
+
+**Reakcja:** Wilk wychodzi z warsztatem, by sprawdzić, co się stało.
+
+**Dokumentacja:** Wiedźma zapisuje w Kalendarzu: „Groził mi paralizatorem."
+
+**Powielanie:** Sroka Dorota roznosi wieść po całej Polanie.
+
+**Systemowa akceptacja:** Sąd przyjmuje wersję z Kalendarza jako prawdę.
+
+**Prawda ginie:** Sprzeczności są ignorowane.
+
 Tak powstają legendy o winie, gdy prawdę zakrywa mrok cudzych słów.
-Mechanizm:
 
-Prowokacja (Wiedźma BaraBara wyłącza prąd).
-Reakcja (Wilk wychodzi z latarką, by przywrócić prąd).
-Dokumentacja (Wiedźma BaraBara zapisuje w Kalendarzu: „Groził mi paralizatorem").
-Powielanie (Sroka Dorota roznosi wieść).
-Systemowa akceptacja (sąd przyjmuje wersję z Kalendarza jako prawdę).
-Prawda ginie (sprzeczności są ignorowane).
+---
 
+## Co Zostało z Wilka?
 
-Co zostało z Wilka?
-Po tym incydencie Wilk wiedział, że:
+Po tym incydencie Wilk wrócił do warsztatu, usiadł na zimnym betonie i patrzył na latarkę w dłoni. Ta sama latarka, która miała go chronić, stała się dowodem jego winy.
+
+Wiedział już, że:
 
 Każde jego działanie będzie przekręcone.
+
 Każde słowo będzie użyte przeciwko niemu.
+
 Każdy gest — nawet obrony — zostanie zamieniony w atak.
 
-Wrócił do warsztatu i usiadł na zimnym betonie.
-Patrzył na latarkę w dłoni — ta sama latarka, która miała go chronić, stała się dowodem jego winy.
 Pułapka była szczelna.
 
-Epilog rozdziału: inscenizacja doskonała
-Inscenizacja z paralizatorem była arcydziełem Wiedźmy BaraBary:
+Nie było już ucieczki.
 
-Precyzyjna jak zegar.
-Bezbłędna jak podpis w aktach.
-Śmiertelna jak trucizna.
+Tylko czekanie na to, co nadejdzie.
 
-Wilk nie wiedział, że to test generalny przed Nocą Ósmego Kręgu — nocą, która miała nastąpić za kilka miesięcy.
-Zuza i Lotka schowały się głęboko w Kocidziupli i nie wychodziły przez cały wieczór.
-Stary Jeleń siedział w fotelu z zamkniętymi oczami, udając sen.
-A Kocioł Krzywd bulgotał głośniej niż kiedykolwiek — bo teraz miał już nowy składnik:
+---
 
-„Syn groził mi paralizatorem."
+## Epilog Rozdziału: Test Przed Burzą
 
+Inscenizacja z paralizatorem była arcydziełem Wiedźmy — precyzyjna jak zegar, bezbłędna jak podpis w aktach, śmiertelna jak trucizna.
 
-Prawda za baśnią
-Data: Marzec 2021
-Kluczowe elementy faktograficzne:
-Groźba od brata Wiedźmy BaraBary:
+Wilk nie wiedział, że to był tylko **test generalny** przed Nocą Ósmego Kręgu — nocą, która miała nadejść za kilka miesięcy i zamienić wszystko w piekło.
 
-Telefon z groźbą pobicia
-Przyczyna: Wiedźma BaraBara opowiedziała mu swoją wersję wydarzeń
-Efekt: Dariusz kupuje latarkę z funkcją samoobrony
+**Zuza i Lotka** schowały się głęboko w Kocidziupli i nie wychodziły przez cały wieczór. Koty zawsze wiedzą, gdy cień rośnie.
 
-Latarka taktyczna:
+**Stary Jeleń** siedział w fotelu z zamkniętymi oczami, udając sen. Ale nie spał. Słyszał wszystko — trzask bezpiecznika, głosy w korytarzu, ciszę, która nastąpiła potem. Ale nie odezwał się. Bo wiedział, że cokolwiek powie, zostanie użyte przeciwko komuś.
 
-Legalne narzędzie ochrony osobistej
-Funkcja: latarka + paralizator (słaby impuls elektryczny)
-Nigdy nie została użyta jako broń
+A **Kocioł Krzywd** bulgotał głośniej niż kiedykolwiek — bo teraz miał już nowy składnik:
 
-Prowokacja — wyłączenie prądu:
+**„Syn groził mi paralizatorem."**
 
-Wiedźma BaraBara wyłączyła główny bezpiecznik w piwnicy
-Cel: sprowokować Dariusza do wyjścia z warsztatu
-Potwierdzenie: notatka służbowa dzielnicowego Bogdaszewskiego
+I czekał tylko na iskrę, by wybuchnąć płomieniem.
 
-Dialog i pułapka:
+---
 
-Wiedźma BaraBara celowo zapytała o latarkę
-Dariusz uczciwie odpowiedział, że ma funkcję samoobrony
-Wiedźma BaraBara nie wykazała strachu — tylko satysfakcję
+## Prawda za Baśnią
 
-Zapis w Kalendarzu:
+**Data:** Marzec 2021
 
-„Dariusz groził mi paralizatorem."
+**Kluczowe wydarzenia:**
 
-Sprzeczność 180°:
+**Groźba od brata Barbary:**
+- Telefon z groźbą pobicia skierowany do Dariusza
+- Przyczyna: Barbara opowiedziała bratu swoją wersję wydarzeń z Kalendarza
+- Skutek: Dariusz kupuje latarkę taktyczną z funkcją samoobrony
 
-Wersja 1 (Wiedźma BaraBara w niektórych zeznaniach): „Dariusz spowodował zwarcie."
-Wersja 2 (Wiedźma BaraBara w notatce policyjnej): „Ja wyłączyłam prąd."
-Te wersje wykluczają się wzajemnie
-Sąd nie zauważył sprzeczności
+**Latarka taktyczna:**
+- Legalne narzędzie ochrony osobistej
+- Funkcja: latarka + słaby paralizator (impuls elektryczny)
+- Nigdy nie została użyta jako broń
+- Służyła tylko do oświetlenia
 
-Znaczenie:
-To była doskonała inscenizacja — prowokacja zamieniona w oskarżenie, obrona zamieniona w atak. Modelowy przykład mechanizmu: prowokacja → reakcja → dokumentacja.
+**Prowokacja — wyłączenie prądu:**
+- Barbara Adamska celowo wyłączyła główny bezpiecznik w piwnicy
+- Cel: sprowokować Dariusza do wyjścia z warsztatu
+- Potwierdzenie: notatka służbowa dzielnicowego Bogdaszewskiego
 
-Koniec Rozdziału 6.
-Światło zgasło. Ale w Kalendarzu zapaliło się nowe oskarżenie.
+**Dialog i pułapka:**
+- Barbara celowo zapytała o latarkę
+- Dariusz uczciwie odpowiedział, że ma funkcję samoobrony
+- Barbara nie wykazała strachu — tylko satysfakcję z uzyskanej informacji
+
+**Zapis w Kalendarzu:**
+- Barbara zapisała: „Dariusz groził mi paralizatorem."
+- To przekręcenie faktów: Dariusz pokazał latarkę na pytanie, nie groził nią
+
+**Kluczowa sprzeczność:**
+- **Wersja 1** (Barbara w niektórych zeznaniach): „Dariusz spowodował zwarcie w warsztacie."
+- **Wersja 2** (Barbara w notatce policyjnej): „Ja wyłączyłam główny bezpiecznik."
+- Te wersje wykluczają się wzajemnie — nie mogą być prawdziwe jednocześnie
+- Sąd nie zauważył tej fundamentalnej sprzeczności
+
+**Znaczenie:**
+
+To była **doskonała inscenizacja** — prowokacja zamieniona w oskarżenie, obrona zamieniona w atak. Modelowy przykład mechanizmu: **prowokacja → reakcja → dokumentacja → przekręcenie**.
+
+Ten incydent był **testem generalnym** przed nocą 17/18 lipca 2021, gdy podobny mechanizm zostanie użyty w większej skali.
+
+---
+
+**Koniec Rozdziału 6.**
+
+Światło zgasło.
+Ale w Kalendarzu zapłonęło nowe oskarżenie.
+A Wilk zrozumiał, że nie ma już bezpiecznego miejsca — nawet w ciemności.
