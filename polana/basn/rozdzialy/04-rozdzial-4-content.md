@@ -5,7 +5,7 @@ Była zima. Ta ciężka, lepka zima, która nie skrzypi bajkowo pod butami, tylk
 Luty dogasał powoli, jak świeca dopalająca się w zakurzonym świeczniku.
 Las Adamowo tonął w śniegu. Polana Kłamstw była biała, cicha, pozornie niewinna.
 
-Ale pod śniegiem – jak zawsze – kipił Kocioł Krzywd.
+Ale pod śniegiem – jak zawsze – kipił Wiedźma.
 
 [pauza]
 
@@ -180,7 +180,7 @@ Zapach przyszłego wpisu.
 [pauza]
 
 Przez sekundę w pokoju zrobiło się jeszcze zimniej.
-Jakby Kocioł Krzywd, stojący gdzieś głęboko w Dziupli, zaciągnął w siebie powietrze przed kolejnym bulgotem.
+Jakby Wiedźma, stojący gdzieś głęboko w Dziupli, zaciągnął w siebie powietrze przed kolejnym bulgotem.
 
 Wiedźma cofnęła się o krok.
 Ale jej wzrok nie cofnął się razem z nią.
@@ -315,7 +315,7 @@ To był moment, w którym las zmienił się nieodwracalnie.
 Nie wtedy, gdy podpisano pergamin.
 Nie wtedy, gdy cyfry ustawiły się w rząd siedmiu świec.
 
-Nie wtedy, gdy Smerfy wypełniały formularze.
+Nie wtedy, gdy Psy wypełniały formularze.
 
 To tej nocy, o 2:30, w małym pokoju Dziupli Starego Jelenia, coś pękło ostatecznie.
 
