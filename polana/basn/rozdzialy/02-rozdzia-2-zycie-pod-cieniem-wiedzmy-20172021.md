@@ -37,63 +37,19 @@ Ale jest też milczenie, które kopie tunel pod fundamentem — to milczenie Wie
 
 I to właśnie to trzecie milczenie wypełniło Dziuplę pod Ósemką w latach 2017–2021.
 
-Na pierwszy rzut oka nic się nie działo.  
-Ale kto wpatrywał się dłużej, ten widział, jak cień rośnie — powoli, systematycznie, jak korzenie starego drzewa, które potrafią rozsadzić kamień.
+Na pierwszy rzut oka nic się nie działo. Ale coś rosło. Powoli. Systematycznie.
 
 ---
 
-## Kocioł, Który Nigdy Nie Stygł
+## Kalendarz Wiedźmy
 
-Wiedźma nie wypowiadała wielkich formuł od razu.
+Wiedźma nie wypowiadała wielkich formuł od razu. Nie trzeba.
 
-Nie trzeba.
+Przemykała przez komnaty cicho. Jej kroki ciche jak szelest myszy, ale obecność wypełniała Dziuplę.
 
-Przemykała przez komnaty cicho, jakby wciąż jeszcze spała z otwartymi oczami. Jej kroki były ciche jak szelest myszy w ścianie, ale **obecność była ciężka jak kamień położony na piersi**.
+Każdy, kto tam mieszkał, czuł to — choć nie potrafił nazwać:
 
-Każdy, kto mieszkał w Dziupli, czuł to — choć nie potrafił tego nazwać.
-
-Czuł, że **coś obserwuje**.  
-Że **coś gromadzi**.  
-Że **coś czeka**.
-
-W rogu kuchni stał jej Kocioł Krzywd — wielki, żeliwny, zawsze lekko parujący, jakby nigdy do końca nie wygasał pod nim ogień.
-
-Nikt nigdy nie pytał, co w nim gotuje.  
-Nikt nie zaglądał do środka.  
-
-Wszyscy tylko czuli, że gdy Wiedźma mieszała w nim drewnianą chochlą, w domu robiło się **ciężej**. Jakby powietrze gęstniało. Jakby cienie wydłużały się bez powodu.
-
-Do kotła wpadało wszystko:
-
-Każda podsłuchana plotka od **Sroki Doroty**, która dzwoniła z wiadomościami zza lasu — zawsze w porę, zawsze z tym, czego Wiedźma potrzebowała usłyszeć.
-
-Każde domniemane przewinienie Wilka — zapomniany gest, brak uśmiechu, za cicha rozmowa, za długa nieobecność.
-
-Każda historia przyniesiona z wizyt u sąsiadów, rodziny, dalekiej kuzynki — wszystko, co mogło zostać **przekręcone**, zostało przekręcone.
-
-Wszystko to wpadało do kotła jak kolejne źdźbło, które prędzej czy później miało zapłonąć.
-
-Wiedźma mieszała. I mieszała. I mieszała.
-
-A na powierzchnię wypływały **pęcherze przyszłych oskarżeń**:
-
-*„Oddał mi służebność, ale czy to wystarczy?"*
-
-*„Wraca późno — co robi tam, w dali?"*
-
-*„Milczy przy stole — na pewno coś knuje."*
-
-*„Wydaje pieniądze na siebie, a nas zostawia z niczym."*
-
-Nie mówiła tego na głos. Jeszcze nie.
-
-Ale w jej głowie każdy dzień był **dniem oskarżenia**. Każde milczenie było **dowodem winy**. Każdy gest — **ukrytą zdradą**.
-
----
-
-## Kalendarz Wiedźmy — Księga Przyszłych Oskarżeń
-
-Ale Kocioł to było tylko narzędzie do warzenia emocji.
+Coś obserwuje. Coś gromadzi. Coś czeka.
 
 Prawdziwą bronią Wiedźmy był **Kalendarz**.
 

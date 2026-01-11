@@ -13,23 +13,13 @@ Była noc z dziewiątego na dziesiąty lutego — **cztery dni po ogłoszeniu zw
 
 Cztery dni, które dla Wiedźmy były wiecznością.
 
-Cztery dni, podczas których **Kocioł Krzywd bulgotał bez przerwy**, aż jego zawartość przestała być cieczą, a stała się **gęstą, lepką masą zemsty**.
+Cztery dni, podczas których **Wiedźma spisywała w Kalendarzu**. Każdy dzień. Każdy gest. Każde słowo.
 
-Księżyc wisiał nisko nad Polaną Kłamstw i przypominał ostry sierp — taki, którym zbiera się zboże, ale którym można też coś przeciąć.
+Był luty. Zimny, cichy. Dziupla pod Ósemką tonęła w śniegu.
 
-Las pogrążył się w milczeniu tak gęstym, że nawet myszy chodziły ostrożniej, a wiatr omijał okna, by nikogo nie zbudzić.
+Polana Kłamstw wyglądała niewinnie. Biała. Spokojna.
 
-Była **zima**.
-
-Ta ciężka, lepka zima, która nie skrzypi bajkowo pod butami, tylko wciska się pod drzwi, w szczeliny okien i w czyjeś myśli.
-
-Luty dogasał powoli, jak świeca dopalająca się w zakurzonym świeczniku.
-
-Dziupla pod Ósemką tonęła w śniegu.
-
-Polana Kłamstw była biała, cicha, pozornie niewinna.
-
-Ale pod śniegiem — jak zawsze — **kipał Kocioł Krzywd**.
+Ale pod śniegiem Wiedźma knuła.
 
 ---
 
@@ -105,7 +95,7 @@ Nawet **Sroka Dorota** gdzieś zniknęła — jakby wiedziała, że jej obecnoś
 
 **Borsuk Bogdaszewski** chrapał w swojej norze.
 
-**Smerfy** spały w swoich posterunkach, nie przeczuwając, że wkrótce znów będą wzywane.
+**Psy** spały w swoich posterunkach, nie przeczuwając, że wkrótce znów będą wzywane.
 
 Tylko jedno stworzenie nie spało.
 
@@ -115,27 +105,13 @@ Tylko jedno stworzenie nie spało.
 
 ## Wiedźma Nigdy Nie Śpi
 
-Wiedźma nigdy nie śpi.
+Wiedźma nigdy nie śpi. Nie wtedy, gdy w głowie układają się plany. Nie wtedy, gdy w **Kalendarzu** jest jeszcze miejsce na nowy wpis.
 
-Nie wtedy, gdy **Kocioł Krzywd bulgocze**.  
-Nie wtedy, gdy w głowie układają się plany.  
-Nie wtedy, gdy w **Kalendarzu** jest jeszcze miejsce na nowy wpis.
+Tej nocy chodziła po Dziupli jak duch — cicho, bez świecy, bez śladu.
 
-Tej nocy chodziła po Dziupli jak **duch** — cicho, bez świecy, bez śladu.
+Znała każdą deskę podłogi. Mogłaby chodzić po ciemku, z zamkniętymi oczami. To była **jej** Dziupla. Jej terytorium. Jej królestwo.
 
-Znała każdą deskę podłogi.
-
-Mogłaby chodzić po tej Dziupli po ciemku, z zamkniętymi oczami, nie budząc nawet myszy — bo to była **jej** Dziupla, jej terytorium, jej królestwo, z którego nikt — nawet syn — nie miał prawa jej wyrzucić.
-
-Nie niosła światła.
-
-Nie potrzebowała.
-
-Światło miało spać.
-
-**Ona — nie.**
-
-Jej serce biło powoli, równo, jak **metronomwłasny rytm, który nie potrzebuje słuchać żadnego innego.
+Światło spało. Ona — nie.
 
 W głowie miała jeden obraz — ten sam, który widziała cztery dni temu na ekranie komputera:
 
@@ -219,19 +195,9 @@ Kamery były jej narzędziem.
 
 Nie jej sędzią.
 
-Drzwi do pokoju Wilka i Sarenki **otworzyły się nagle**, jakby ktoś rozciął nożem cienką, ciepłą tkaninę nocy.
+Drzwi do pokoju Wilka i Sarenki **otworzyły się nagle**.
 
-Do środka **wlał się chłód**.
-
-Nie taki zwyczajny, zimowy chłód — ten, który da się przegonić kocem.
-
-To był ten **zimny, suchy powiew**, którym pachną:
-
-Piwnice starych szpitali, gdzie ktoś umarł samotnie.  
-Klatki schodowe, gdzie ktoś zostawił czyjś wstyd.  
-Pokoje, w których ktoś czekał na coś, co nigdy nie przyszło.
-
-**Lodowaty oddech grobowca.**
+Do środka wlał się chłód. Nie zwyczajny, zimowy. Coś innego. Coś obcego.
 
 ---
 
@@ -417,8 +383,6 @@ Jak ktoś, kto wie, że mówi to **po raz ostatni**.
 
 Przez sekundę w pokoju zrobiło się **jeszcze zimniej**.
 
-Jakby **Kocioł Krzywd**, stojący gdzieś głęboko w Dziupli, zaciągnął w siebie powietrze przed kolejnym bulgotem.
-
 Wiedźma cofnęła się o krok.
 
 Ale **jej wzrok nie cofnął się razem z nią**.
@@ -583,29 +547,19 @@ I wiedział, że **dotyk to nie tylko ręce**.
 
 ---
 
-## Kocioł Bulgocze Głośniej
+## Kalendarz Wiedźmy
 
-Śnieg za oknem przestał padać.
+Śnieg za oknem przestał padać. Temperatura spadła jeszcze niżej.
 
-Temperatura spadła jeszcze o jeden, **niewidoczny na termometrze stopień**.
-
-W **Kociołku Krzywd** gdzieś w głębi Dziupli bulgot był tej nocy wyjątkowo głośny.
-
-Wiedźma siedziała nad nim z **nową porcją wspomnień, spojrzeń i szeptów**, które wrzucała jak przyprawy:
+Wiedźma siedziała w kuchni z **Kalendarzem** przed sobą. Długopis w ręce. Nowy wpis układał się sam:
 
 *„Była w jego łóżku."*
 
 *„Spali razem w jednym pokoju."*
 
-*„Bała się? A może nie powinna była tam wchodzić?"*
+*„On ją bronił. Przeciwko mnie."*
 
-*„On ją bronił. Przeciwko mnie. Przeciwko własnej matce."*
-
-Formuły układały się same.
-
-Kocioł bulgotał.
-
-A Wiedźma **zapisywała**.
+Formuły zapisane. Czarno na białym.
 
 ---
 
@@ -631,9 +585,9 @@ Jednym wtargnięciem, jednym staniem w drzwiach, jednym spojrzeniem — **rozbi�
 
 To był moment, w którym las zmienił się **nieodwracalnie**.
 
-Nie wtedy, gdy podpisano pergamin (7.07.2017).  
-Nie wtedy, gdy cyfry ustawiły się w rząd siedmiu świec.  
-Nie wtedy, gdy **Smerfy** wypełniały formularze.
+Nie wtedy, gdy podpisano pergamin (7.07.2017).
+Nie wtedy, gdy cyfry ustawiły się w rząd siedmiu świec.
+Nie wtedy, gdy **Psy** wypełniały formularze.
 
 To **tej nocy, o 2:30**, w małym pokoju Dziupli Starego Jelenia, coś pękło ostatecznie:
 

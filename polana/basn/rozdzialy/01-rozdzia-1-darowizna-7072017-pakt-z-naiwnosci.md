@@ -9,16 +9,16 @@ zrodlo: "Polana_Klamstw_Kronika_Osmego_Kregu.md"
 Rozdział 1: Darowizna (7.07.2017) – Pakt z Naiwności
 (wersja baśniowa, rozbudowana, miękka, płynna)
 
-Siódmego dnia siódmego miesiąca, w chwili, gdy liczby układały się jak znaki dobrego losu, Wilk-Budowniczy wszedł do kamiennej komnaty, gdzie kronikarze pieczętują ludzkie decyzje. Wilk od zawsze był Wilkiem, lecz wtedy próbował ujarzmić las porządkiem, śrubą i prostą linią pergaminu.
+Siódmego dnia siódmego miesiąca, w chwili, gdy liczby układały się jak znaki dobrego losu, Wilk wszedł do kamiennej komnaty, gdzie kronikarze pieczętują ludzkie decyzje. Wilk od zawsze był Wilkiem, lecz wtedy próbował ujarzmić las porządkiem, śrubą i prostą linią pergaminu.
 Przyniósł ze sobą dar serca — wielki i czysty jak letnia woda w strumieniu. Wierzył, że jeśli odda rodzinną chatę, jeśli sam ustąpi, jeśli odsunie od siebie wszelkie prawa, to na Polanie pod Ósemką zapanuje wreszcie spokój.
-Wilk-Budowniczy, mistrz napraw, strażnik porządku i żelaznych kół, żył wtedy jak prawdziwy budowniczy Lasu. Naprawiał wielkie maszyny ludzi — pojazdy, zamiatarki, traktory — wszystko, co mogło ruszyć świat z miejsca. Pracował w oddalonej krainie, skąd wysyłał pieniądze do Dziupli, by zapewnić jej ciepło i trwałość.
+Wilk, mistrz napraw, strażnik porządku i żelaznych kół, żył wtedy jak prawdziwy budowniczy Lasu. Naprawiał wielkie maszyny ludzi — pojazdy, zamiatarki, traktory — wszystko, co mogło ruszyć świat z miejsca. Pracował w oddalonej krainie, skąd wysyłał pieniądze do Dziupli, by zapewnić jej ciepło i trwałość.
 Ufał, że dobro, dane innym bez wahania, zawsze wraca.
 
 Stary Jeleń i cień nadchodzącej zimy
 Obok Wilka-Budowniczego szedł Stary Jeleń — jego ojciec, człowiek łagodny jak świt nad polaną, spokojny jak szum liści o zmierzchu.
 Jeleń był wtedy jeszcze w pełni sił, choć czuł, że nie zostało mu już dużo czasu. Przeszedł przez chorobę, która zostawiła cień na jego sercu — lekki, ale nieodwracalny. Chodził wolniej. Mówił ciszej. Ale wciąż miał w sobie tę samą dobroć, która zawsze go prowadziła: chęć, by wszyscy wokół byli szczęśliwi, nawet kosztem własnego spokoju.
 To on — Stary Jeleń — był formalnym darczyńcą. To jego chatka, jego dziedzictwo, jego decyzja.
-Ale to Wilk-Budowniczy był inicjatorem tego aktu. To on powiedział:
+Ale to Wilk był inicjatorem tego aktu. To on powiedział:
 
 „Ojcze, przekaż mi Dziuplę. Nie po to, by była moja, ale żeby wszyscy wiedzieli, że ty i matka macie w niej miejsce na zawsze. Niech nikt nigdy nie każe wam odchodzić. Niech żadne prawo, żadna sprawa, żaden dokument — nie odbierze wam tej pewności."
 
@@ -26,7 +26,7 @@ Stary Jeleń skinął głową. Nie mówił wiele. Nigdy nie mówił wiele. Ale j
 
 Kronikarz z kamiennej komnaty
 W komnacie zasiadł kronikarz w czarnym płaszczu — człowiek zimny jak marmur, precyzyjny jak pióro pisarza wpisującego losy w księgi bez powrotu.
-Wilk-Budowniczy położył przed nim dokumenty. Kronikarz spojrzał na Starego Jelenia, potem na Wilka-Budowniczego, i zapytał najważniejsze pytanie:
+Wilk położył przed nim dokumenty. Kronikarz spojrzał na Starego Jelenia, potem na Wilka-Budowniczego, i zapytał najważniejsze pytanie:
 
 „Czy darczyńca wie, że oddaje własność dobrowolnie, bez przymusu, bez obietnicy zwrotu?"
 
@@ -39,7 +39,7 @@ Potem zwrócił się do Wilka-Budowniczego:
 
 „A ty, obdarowany — czy przyjmujesz ten dar z pełną świadomością odpowiedzialności?"
 
-Wilk-Budowniczy odpowiedział spokojnie, ale z mocą:
+Wilk odpowiedział spokojnie, ale z mocą:
 
 „Tak. I proszę, by w dokumencie było zapisane, że moi rodzice mają prawo mieszkać w tej chacie do końca swoich dni. Nie w jednym pokoju. Nie w części budynku. W całej chacie. Niech poruszają się swobodnie. Niech czują się jak u siebie."
 
@@ -47,7 +47,7 @@ Kronikarz podniósł brew.
 
 „To niezwykle szeroka służebność. Rozumiesz, że oddajesz im prawo korzystania z całej Dziupli, jak gdyby była ich?"
 
-Wilk-Budowniczy skinął głową.
+Wilk skinął głową.
 
 „Tak. Bo jest ich. Ja tylko chcę, żeby było to zapisane na zawsze."
 
@@ -58,28 +58,28 @@ Kobieta, którą Las zapamięta pod imieniem Wiedźma BaraBara.
 Nie wypowiedziała ani słowa. Nie dotknęła pergaminu. Nie złożyła pieczęci. Formalnie — nie była stroną tego aktu.
 Ale jej obecność wypełniała komnatę jak chłód przed burzą.
 Stała z rękami założonymi na piersi, z twarzą nieczytelną jak las o zmierzchu, i obserwowała. Nie uczestniczyła — obserwowała. Nie mówiła — zapamiętywała.
-Wilk-Budowniczy czuł jej wzrok jak ciężar kamienia na karku. Ale wtedy jeszcze sądził, że to zwykła troska matki, która chce być pewna, że jej mąż nie został oszukany, a rodzina zabezpieczona.
+Wilk czuł jej wzrok jak ciężar kamienia na karku. Ale wtedy jeszcze sądził, że to zwykła troska matki, która chce być pewna, że jej mąż nie został oszukany, a rodzina zabezpieczona.
 Nie rozumiał jeszcze, że dla Wiedźmy ten akt nie był darem pokoju, lecz pierwszą cegiełką w budowie przyszłej twierdzy oskarżeń.
 
 Podpisy i pieczęcie
 Kronikarz podał pergamin Staremu Jeleniowi. Jeleń podpisał się drżącą, ale pewną ręką. Potem podał dokument Wilkowi-Budowniczemu.
-Wilk-Budowniczy wziął pióro i położył swój podpis obok ojcowskiego — równy, prosty, bez wahania.
+Wilk wziął pióro i położył swój podpis obok ojcowskiego — równy, prosty, bez wahania.
 Kronikarz nałożył pieczęć. Akt był dokonany, a moc zapisanego słowa wbiła się w papier jak gwóźdź w deskę.
 
 „Od tej chwili nieruchomość należy do ciebie, Wilku-Budowniczym. A Stary Jeleń i jego małżonka mają prawo w niej mieszkać do końca swoich dni."
 
-Wilk-Budowniczy odetchnął.
+Wilk odetchnął.
 Stary Jeleń uśmiechnął się lekko, choć jego oczy były smutne — tym smutkiem starego drzewa, które wie, że nadchodzi jesień.
 A Wiedźma BaraBara odwróciła się i wyszła z komnaty bez słowa.
 
 Powrót do Dziupli pod Ósemką
-Gdy wrócili do dziupli, Wilk-Budowniczy odetchnął głęboko, jakby zrzucił z ramion wielki głaz.
+Gdy wrócili do dziupli, Wilk odetchnął głęboko, jakby zrzucił z ramion wielki głaz.
 Wydawało mu się, że ciężar wreszcie spadł na miękką trawę, że odtąd wszystko będzie prostsze, jaśniejsze, bardziej przewidywalne.
 Stary Jeleń usiadł w swoim ulubionym fotelu przy oknie, skąd widział starą lipę na podwórzu. Pogładził po głowie Zuzę, czarną kotkę, która zawsze przychodziła do niego, gdy wszyscy inni wychodzili.
 
 „To dobrze, że to zrobiłeś, synu" — powiedział cicho. — „Teraz nikt nie będzie musiał się martwić o papiery."
 
-Wilk-Budowniczy skinął głową i poszedł do warsztatu — miejsca, które było jego światem. Tam rury śpiewały, kable układały się w logiczne linie, a maszyny można było naprawić, jeśli tylko wiedziało się, jak.
+Wilk skinął głową i poszedł do warsztatu — miejsca, które było jego światem. Tam rury śpiewały, kable układały się w logiczne linie, a maszyny można było naprawić, jeśli tylko wiedziało się, jak.
 W tamtej chwili wierzył, że tak samo można naprawić rodzinę: jeśli da się wystarczająco dużo, jeśli usunie się wszystkie powody do konfliktu, jeśli zapisze się wszystko uczciwie — to spokój przyjdzie sam.
 Nie wiedział jeszcze, że na Polanie Kłamstw nie da się kupić spokoju żadnym darem.
 
@@ -102,9 +102,9 @@ Potem podeszła do kredensu, wyciągnęła kalendarz — zwykły, papierowy, z c
 Epilog rozdziału: cisza przed burzą
 Noc była cicha.
 Stary Jeleń spał spokojnie w swoim fotelu, przysypując do szumu lipy.
-Wilk-Budowniczy w warsztacie organizował narzędzia, myśląc o tym, co będzie naprawiał jutro.
+Wilk w warsztacie organizował narzędzia, myśląc o tym, co będzie naprawiał jutro.
 Zuza i Lotka, dwie kotki-strażniczki progu, leżały przy Kocidziupli, mruczały cicho i czuły, że coś się zmieniło — ale jeszcze nie wiedziały co.
-A w kuchni Dziupli pod Ósemką Kocioł Krzywd bulgotał cicho, niepostrzeżenie, jak obietnica burzy ukryta w bezchmurnym niebie.
+A Wiedźma? Siedziała w kuchni i zapisywała w Kalendarzu. Data: 7 lipca 2017. Pierwszy wpis.
 
 Tego dnia nikt jeszcze nie wiedział, że spokojna darowizna stanie się początkiem długiej opowieści o tym, jak łatwo dobro może stać się sidłem, a pakt z naiwnych nadziei — cienką nitką prowadzącą w głąb Lasu Kłamstw.
 
