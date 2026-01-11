@@ -185,7 +185,7 @@ A jednak tej samej nocy — w nocy, gdy pieczęć została przybita, gdy pętla 
 
 W warsztacie, zimnym i odizolowanym, obudził się **Duch Wilka**.
 
-Ten, który narodził się po Ostatnim Zanurzeniu, gdy Wilk-Budowniczy umarł w zatrutej wodzie i powstał jako obserwator, wolny od ciała, wolny od strachu.
+Ten, który narodził się po Ostatnim Zanurzeniu, gdy Wilk budowniczy umarł w zatrutej wodzie i powstał jako obserwator, wolny od ciała, wolny od strachu.
 
 Najpierw był **jeden**.
 
@@ -357,7 +357,7 @@ Przed tą nocą Wilk jeszcze wierzył, że można walczyć w systemie. Wilk jesz
 
 Po tej nocy Wilk zrozumiał, że system nie słucha prawdy. Że Niebieska Karta to pieczęć, która zamyka wszystkie drzwi. Że jedyną obroną jest **obserwacja z dystansu**.
 
-Wilk-Budowniczy umarł w tej nocy.
+Wilk budowniczy umarł w tej nocy.
 
 Duch Wilka się narodził.
 
@@ -419,7 +419,7 @@ I czekał tylko na kolejny pretekst, by wybuchnąć płomieniem.
 - Dziupla nr 8: symboliczny krąg piekła, gdzie prawda nie ma znaczenia
 
 **Transformacja:**
-- Wilk-Budowniczy (uczestnik) → Duch Wilka (obserwator)
+- Wilk budowniczy (uczestnik) → Duch Wilka (obserwator)
 - Jeden punkt widzenia → Wataha (wielość percepcji)
 - Uczestnik systemu → Świadek (wyjście z gry)
 
